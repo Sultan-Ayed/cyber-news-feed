@@ -1,5 +1,23 @@
 [
   {
+    "id": "72b8c901a04ed3e2",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTOYmjevwtg2njZKRnBeTtT1fSpmOD45a_apqSQWJJQH8N0HtftQ_Tj3mCC6dfysokuddsTPVCKKM4hd4Trjs6dPn1tvUNi4gWvj_OQevLSDqNfuGOK87WNAQSRVZSEOOLoo0Ip4IQQTa14eqh7J7rPo-8edHwoNORqqrcgtFAT-LySviPfbahvJDMDk_T/s1600/power.jpg",
+    "published_at": "2026-07-03T13:36:33+00:00",
+    "en_text": "🚨 Cybersecurity Alert: Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer\n\nA previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan.\n\n\"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations,\" Kaspersky said in a technical analysis published today. \"\n\n🔗 Source: The Hacker News\nRead the full story: https://thehackernews.com/2026/07/armored-likho-targets-government.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: مدرعة Likho تستهدف الوكالات الحكومية وقطاع الطاقة باستخدام BusySnake Stealer\n\nيُنسب إلى جهة تهديد غير موثقة سابقًا تُعرف باسم Armored Likho، هجمات إلكترونية استهدفت الوكالات الحكومية وقطاع الطاقة الكهربائية في جميع أنحاء روسيا والبرازيل وكازاخستان.\n\nوقالت كاسبرسكي في تحليل فني نُشر اليوم: \"تمزج لعبة Armored Likho بين الحملات ذات الدوافع المالية التي تستهدف الأفراد العاديين والتجسس الإلكتروني المستهدف الذي يستهدف المنظمات\". \"\n\n🔗 المصدر: The Hacker News\nرابط الخبر الكامل: https://thehackernews.com/2026/07/armored-likho-targets-government.html\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "0ddc5c27aace4ccc",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0617bd7899766864/6a46aac83cc4ed702aef33b2/castle-of-the-moors-Gabriela_Beres-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-03T13:01:00+00:00",
+    "en_text": "🚨 Cybersecurity Alert: Chinese LLMs Broaden the Gap Between Attackers & Defenders\n\nTwo new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?\n\n🔗 Source: Dark Reading\nRead the full story: https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: تعمل شهادات LLM الصينية على توسيع الفجوة بين المهاجمين والمدافعين\n\nيتنافس نموذجان جديدان من الشركات الصينية مع أفضل النماذج السائدة والحدودية في الولايات المتحدة. هل يجب على المدافعين عن الإنترنت القلق؟\n\n🔗 المصدر: Dark Reading\nرابط الخبر الكامل: https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
     "id": "8f8ffebc335e9338",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
@@ -106,5 +124,41 @@
     "published_at": "2026-07-02T12:15:47+00:00",
     "en_text": "🚨 Cybersecurity Alert: Microsoft fixes bug that removed Copilot buttons in Outlook\n\nMicrosoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]\n\n🔗 Source: BleepingComputer\nRead the full story: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
     "ar_text": "🚨 تنبيه أمن سيبراني: تقوم Microsoft بإصلاح الخلل الذي أدى إلى إزالة أزرار Copilot في Outlook\n\nقامت Microsoft بإصلاح مشكلة معروفة تسببت في اختفاء أزرار Copilot Chat أو Copilot في Classic Outlook لمستخدمي Windows الذين لديهم ترخيص Copilot Chat (Basic). [...]\n\n🔗 المصدر: BleepingComputer\nرابط الخبر الكامل: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "962d41e3a2c99a01",
+    "source": "Krebs on Security",
+    "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-06-23T16:12:49+00:00",
+    "en_text": "🚨 Cybersecurity Alert: Scattered Spider Hackers Plead Guilty on Day 1 of Trial\n\nTwo men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.\n\n🔗 Source: Krebs on Security\nRead the full story: https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: أقر قراصنة العنكبوت المتفرقون بالذنب في اليوم الأول من المحاكمة\n\nاعترف رجلان بالذنب في المملكة المتحدة هذا الأسبوع في تهم جنائية ناجمة عن هجوم إلكتروني وقع في أغسطس 2024 أدى إلى شل هيئة النقل في لندن، وهي الكيان المسؤول عن شبكة النقل العام في منطقة لندن الكبرى. كان الثنائي عضوين رئيسيين في مجموعة جرائم إلكترونية غزيرة الإنتاج تُعرف باسم Scattered Spider، وجاء اعترافهما بالذنب في اليوم الأول مما كان من المتوقع أن تكون محاكمة مدتها ستة أسابيع.\n\n🔗 المصدر: Krebs on Security\nرابط الخبر الكامل: https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "7c4f2c9bb4d90cce",
+    "source": "Krebs on Security",
+    "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-06-18T17:37:58+00:00",
+    "en_text": "🚨 Cybersecurity Alert: ‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm\n\nFor the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd...\n\n🔗 Source: Krebs on Security\nRead the full story: https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: شبكة بوت نت \"بوبا\" مرتبطة بشركة إسرائيلية متداولة علنًا\n\nعلى مدى السنوات الأربع الماضية، أجبرت شبكة الروبوتات المترامية الأطراف المستندة إلى نظام Android والتي تسمى Popa الملايين من أجهزة التلفزيون الاستهلاكية على نقل حركة المرور على الإنترنت المرتبطة بالاحتيال في الإعلانات، والاستيلاء على الحسابات، وجهود تجريف البيانات الجماعية. هذا الأسبوع، خلص باحثون من شركات أمنية متعددة إلى أن شبكة Popa الروبوتية مرتبطة بـ NetNut، وهو مزود \"الوكيل السكني\" الذي تديره شركة Alarum Techno...\n\n🔗 المصدر: Krebs on Security\nرابط الخبر الكامل: https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "a02b18501d3cb698",
+    "source": "Krebs on Security",
+    "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-06-10T14:03:44+00:00",
+    "en_text": "🚨 Cybersecurity Alert: Who Runs the Ransomware Group ‘The Gentlemen?’\n\nA cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.\n\n🔗 Source: Krebs on Security\nRead the full story: https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: من يدير مجموعة برامج الفدية \"السادة\"؟\n\nبرزت مجموعة الجرائم الإلكترونية المعروفة باسم The Gentlemen باعتبارها ثاني أكثر عصابات برامج الفدية نشاطًا من حيث عدد الضحايا، حيث تجتذب بسرعة مجموعة موهوبة من المتسللين من خلال استراتيجية توظيف عدوانية تعد الشركات التابعة بـ 90 بالمائة من أي فدية يدفعها الضحايا. يفحص هذا المنشور الأدلة التي تشير إلى هوية حقيقية لمدير مجموعة برامج الفدية The Gentlemen.\n\n🔗 المصدر: Krebs on Security\nرابط الخبر الكامل: https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "ea6cfaf1ee3aa04f",
+    "source": "Krebs on Security",
+    "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-06-09T22:07:28+00:00",
+    "en_text": "🚨 Cybersecurity Alert: A Record-Breaking Patch Tuesday for June 2026\n\nMicrosoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.\n\n🔗 Source: Krebs on Security\nRead the full story: https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: تصحيح محطم للأرقام القياسية يوم الثلاثاء لشهر يونيو 2026\n\nأصدرت Microsoft اليوم تحديثات برامج لسد ما يقرب من 200 ثغرة أمنية عبر أنظمة تشغيل Windows والبرامج المدعومة، وهو رقم قياسي من الإصلاحات لدورة تصحيح الثلاثاء الشهرية للشركة. حصل ما يقرب من ثلاثين من هذه الأخطاء على تصنيف Microsoft \"الحرج\" الأكثر خطورة، وأصبح استغلال التعليمات البرمجية لثلاث من نقاط الضعف على الأقل متاحًا للجمهور الآن.\n\n🔗 المصدر: Krebs on Security\nرابط الخبر الكامل: https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
   }
 ]
