@@ -1,5 +1,23 @@
 [
   {
+    "id": "2cc6f7ea50239231",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif",
+    "published_at": "2026-07-03T19:40:01+00:00",
+    "en_text": "🚨 Cybersecurity Alert: New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android\n\nA newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out.\n\nBad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug.\n\nThe AI caught one flaw and missed\n\n🔗 Source: The Hacker News\nRead the full story: https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: خلل جديد في Linux Kernel \"Bad Epoll\" يتيح للمستخدمين المحرومين الحصول على الجذر، ويصل إلى Android\n\nيتيح خلل في Linux kernel تم الكشف عنه حديثًا يسمى Bad Epoll (CVE-2026-46242) للمستخدم العادي الذي ليس لديه وصول خاص التحكم الكامل في الجهاز كجذر. إنه يؤثر على أجهزة سطح المكتب والخوادم وAndroid، وتم حل المشكلة.\n\nيقع Bad Epoll في نفس الامتداد الصغير من كود kernel حيث اكتشف Mythos، أقوى نموذج للذكاء الاصطناعي في Anthropic، خطأً مختلفًا مؤخرًا.\n\nاكتشف الذكاء الاصطناعي عيبًا واحدًا وأخطأه\n\n🔗 المصدر: The Hacker News\nرابط الخبر الكامل: https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "46e49c37279274c9",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mmILhD28NLaA8Et883gOLxFJ1rWUi5CyqZ_kxNNLKCuHMAyw05kAFpUAduQrMQePiXa8j9hQkpBwkd4d6ZizYsIUWii41-htjXE10JEwfrMWA9LYeFj0CNm3yr91TZW2smhgUb-X7xTU5IBCOpgqSFhzlYbLhL3e_M7Gg_49-YiiqTOSwGytIMLKSPg7/s1600/crown-ransomware.jpg",
+    "published_at": "2026-07-03T18:55:24+00:00",
+    "en_text": "🚨 Cybersecurity Alert: New Avalon Malware Framework Packs CrownX Ransomware Capabilities\n\nCybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls.\n\nAvalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together diverse functions under one\n\n🔗 Source: The Hacker News\nRead the full story: https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: إطار عمل Avalon Malware الجديد يحزم قدرات CrownX Ransomware\n\nاكتشف باحثو الأمن السيبراني إطار عمل معياري للبرامج الضارة غير موثق سابقًا يحمل الاسم الرمزي Avalon ويتم توزيعه عن طريق سلسلة تصيد متعددة المراحل قادرة على تجاوز ضوابط الأمان التقليدية.\n\nيجمع Avalon بين جمع بيانات الاعتماد، والحركة الجانبية، والوصول عن بعد، وتعطيل الاسترداد، وتنفيذ برامج الفدية، مما يجمع وظائف متنوعة تحت مظلة واحدة.\n\n🔗 المصدر: The Hacker News\nرابط الخبر الكامل: https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
     "id": "f5ed4be194cc224f",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
