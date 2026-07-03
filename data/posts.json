@@ -1,5 +1,14 @@
 [
   {
+    "id": "d46c218220428012",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGo3ti2B3O-v3XpxdiFLMhvMVB_Ee5mmTlis-Qls6K8auWLQtPb4DSLL4snqvuZSxEvYXbGVBiUvRH1wBiw53ovRi-KTpdb0WqPwkZMkA_eHTSkTQVPkexu02-I2u7wc7PKESGKFZxlKRjR1SAkgOK50kIfpqZ9wcEjZCYBWIh6u_L82tXa8WfgUIhmA/s1600/fatfs.jpg",
+    "published_at": "2026-07-03T20:19:31+00:00",
+    "en_text": "🚨 Cybersecurity Alert: Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices\n\nSecurity firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards.\n\nThe flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, drones, industrial controllers, hardware crypto wallets, and other devices built on\n\n🔗 Source: The Hacker News\nRead the full story: https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: تم الكشف عن عيوب لم يتم إصلاحها في نظام الملفات المجمعة في ملايين الأجهزة المضمنة\n\nكشفت شركة الأمان runZero عن سبع ثغرات أمنية في FatFs، وهي مكتبة نظام ملفات صغيرة تتيح للجهاز قراءة وكتابة تنسيقات FAT وexFAT المستخدمة على محركات أقراص USB وبطاقات SD.\n\nالعيوب مهمة لأن FatFs موجودة في كل مكان تقريبًا. يتم شحنه داخل البرامج الثابتة التي تقوم بتشغيل الكاميرات الأمنية، والطائرات بدون طيار، وأجهزة التحكم الصناعية، ومحافظ تشفير الأجهزة، وغيرها من الأجهزة المبنية على\n\n🔗 المصدر: The Hacker News\nرابط الخبر الكامل: https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
     "id": "2cc6f7ea50239231",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
