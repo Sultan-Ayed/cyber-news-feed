@@ -1,5 +1,14 @@
 [
   {
+    "id": "8f8ffebc335e9338",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC5WPtje84KYSxAYIbS54mCBmT7srsKokiZPsDcIbhcky59AAsHQYbWo4TrLsj3y1d7uI10DVgOt_5aEFaPQxKiwAPsJQJllaBBtuogSb7D8JF54_ahgzDstn8ST7WTRUAnhC10prFKCJgfkqEOW7m0o1yWDb-jzZFUWkzXEi65Sl5lyuLKr_4Da5ZpAgY/s1600/iphone-spyware.jpg",
+    "published_at": "2026-07-03T11:05:43+00:00",
+    "en_text": "🚨 Cybersecurity Alert: European Parliament Member Investigating Spyware Was Hacked With Pegasus\n\nA new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc.\n\n\"Through forensic analysis of his device, we found that the attackers could have had\n\n🔗 Source: The Hacker News\nRead the full story: https://thehackernews.com/2026/07/european-parliament-member.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: عضو في البرلمان الأوروبي يحقق في اختراق برامج التجسس باستخدام برنامج Pegasus\n\nكشف تقرير جديد صادر عن Citizen Lab أن العضو السابق في البرلمان الأوروبي، ستيليوس كولوغلو، تعرض لجهازه المحمول للاختراق مرارًا وتكرارًا باستخدام برنامج التجسس Pegasus سيئ السمعة أثناء عمله في لجنة مكلفة بالتحقيق في إساءة استخدام أدوات المراقبة التجارية هذه في الكتلة.\n\n\"من خلال تحليل الطب الشرعي لجهازه، وجدنا أنه من الممكن أن يكون المهاجمون قد فعلوا ذلك\n\n🔗 المصدر: The Hacker News\nرابط الخبر الكامل: https://thehackernews.com/2026/07/european-parliament-member.html\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
     "id": "ce435047f21b8926",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
@@ -16,6 +25,24 @@
     "published_at": "2026-07-03T01:37:09+00:00",
     "en_text": "🚨 Cybersecurity Alert: Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says\n\nAnthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]\n\n🔗 Source: BleepingComputer\nRead the full story: https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
     "ar_text": "🚨 تنبيه أمن سيبراني: يقول Anthropic إن Claude Fable 5 لا يترك الاشتراكات بشكل دائم\n\nتقول Anthropic إن Claude Fable 5 لن يكون متاحًا عبر اشتراكات Claude بعد 7 يوليو، لكنه ليس تغييرًا دائمًا، وتتوقع الشركة عودة النموذج خارج الخطة القائمة على الاستخدام قريبًا. [...]\n\n🔗 المصدر: BleepingComputer\nرابط الخبر الكامل: https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "ffaed3923a782de7",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-03T00:48:30+00:00",
+    "en_text": "🚨 Cybersecurity Alert: Claude Fable relaunch disappoints users with nerfed performance\n\nClaude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]\n\n🔗 Source: BleepingComputer\nRead the full story: https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: إعادة إطلاق Claude Fable تخيب آمال المستخدمين بسبب الأداء الضعيف\n\nأصبح Claude Fable، أقوى طراز للشركة، متاحًا الآن لجميع المستخدمين، لكن الانطباعات الأولية مخيبة للآمال، حيث يبدو أنه ليس قريبًا من الإصدار الأصلي. [...]\n\n🔗 المصدر: BleepingComputer\nرابط الخبر الكامل: https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "417bdaa0c3e139ab",
+    "source": "Krebs on Security",
+    "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-02T19:27:33+00:00",
+    "en_text": "🚨 Cybersecurity Alert: FBI Seizes NetNut Proxy Platform, Popa Botnet\n\nThe Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of...\n\n🔗 Source: Krebs on Security\nRead the full story: https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: مكتب التحقيقات الفيدرالي يستولي على منصة NetNut Proxy، Popa Botnet\n\nقال مكتب التحقيقات الفيدرالي (FBI) اليوم إنه عمل مع شركاء الصناعة للاستيلاء على مئات النطاقات المرتبطة بـ NetNut، وهي خدمة وكيل سكنية مترامية الأطراف تديرها شركة Alarum Technologies الإسرائيلية المتداولة علنًا [NASDAQ: ALAR]. ويأتي هذا الإجراء بعد أسبوعين تقريبًا من نشر KrebsOnSecurity النتائج التي توصلت إليها شركات أمنية متعددة تربط NetNut بشبكة Popa botnet، وهي مجموعة تضم ما لا يقل عن مليوني جهاز تم اختراقها بواسطة...\n\n🔗 المصدر: Krebs on Security\nرابط الخبر الكامل: https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
   },
   {
     "id": "0e68a14cfc35d069",
@@ -45,6 +72,24 @@
     "ar_text": "🚨 تنبيه أمن سيبراني: ThreatsDay: اختطاف الحوسبة بواسطة الذكاء الاصطناعي، وخلل في بريد Apple الإلكتروني، وBlueHammer Ransomware + 14 قصة\n\nتدور الأخبار الأمنية لهذا الأسبوع في الغالب حول نقاط الضعف.\n\nتُظهر المتصفحات والروبوتات وصناديق الحماية وأنظمة الذكاء الاصطناعي وتدفقات البريد الإلكتروني نفس المشكلة بطرق مختلفة. يبدو كل شيء طبيعيًا حتى يختبر شخص ما فجوة صغيرة ويجد طريقًا خلالها.\n\nهذه ليست استراحة كبيرة. إنها أذونات صغيرة، وفحوصات ضعيفة، وأنظمة مفتوحة، وأدوات عادية تفعل الأشياء المسموح لها بفعلها. نفس النمط يعمل\n\n🔗 المصدر: The Hacker News\nرابط الخبر الكامل: https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
   },
   {
+    "id": "91e18ac9afcf3f16",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-02T15:18:51+00:00",
+    "en_text": "🚨 Cybersecurity Alert: Google loses final appeal to overturn €4.1 billion EU fine\n\nCourt of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [...]\n\n🔗 Source: BleepingComputer\nRead the full story: https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: جوجل تخسر الاستئناف النهائي لإلغاء غرامة الاتحاد الأوروبي البالغة 4.1 مليار يورو\n\nرفضت محكمة العدل التابعة للاتحاد الأوروبي (CJEU) الاستئناف النهائي الذي قدمته شركة Google ضد غرامة مكافحة الاحتكار البالغة 4.1 مليار يورو (4.7 مليار دولار) بسبب استخدام الشركة لنظام Android للترويج لمتصفح Chrome وخدمة البحث. [...]\n\n🔗 المصدر: BleepingComputer\nرابط الخبر الكامل: https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "0f7346a547b2f210",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-02T14:00:10+00:00",
+    "en_text": "🚨 Cybersecurity Alert: ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds\n\nConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]\n\n🔗 Source: BleepingComputer\nRead the full story: https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: ConsentFix وClickFix: كيف يتم اختراق حسابات Microsoft 365 في 3 ثوانٍ\n\nتسرق هجمات ConsentFix وClickFix الرموز المميزة لـ Microsoft 365 في ثوانٍ باستخدام المطالبات الزائفة وتدفقات OAuth. تعرف على كيفية عمل تكتيكات تجاوز MFA وكيفية الدفاع ضدها. [...]\n\n🔗 المصدر: BleepingComputer\nرابط الخبر الكامل: https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
     "id": "d29945b4554a1417",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
@@ -52,5 +97,14 @@
     "published_at": "2026-07-02T13:04:13+00:00",
     "en_text": "🚨 Cybersecurity Alert: ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API\n\nThe threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API.\n\n\"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs,\" Kaspersky said in a detailed report published this week. \"\n\n🔗 Source: The Hacker News\nRead the full story: https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
     "ar_text": "🚨 تنبيه أمن سيبراني: برنامج Umbrij الضار المرتبط بـ ToddyCat يسيء استخدام OAuth للوصول إلى Gmail عبر Google API\n\nيُعزى ممثل التهديد المعروف باسم ToddyCat إلى برنامج ضار جديد يسمى Umbrij مصمم للوصول خلسة إلى مراسلات البريد الإلكتروني للضحية عبر Google API.\n\nوقالت كاسبرسكي في تقرير مفصل نُشر هذا الأسبوع: \"في هذه الحملة، ركز المهاجمون اهتمامهم على اتصالات البريد الإلكتروني للشركات المستضافة على Gmail، مستهدفين اختراق الوصول عبر واجهات برمجة التطبيقات\". \"\n\n🔗 المصدر: The Hacker News\nرابط الخبر الكامل: https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "96eef5e8125f3ae4",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-02T12:15:47+00:00",
+    "en_text": "🚨 Cybersecurity Alert: Microsoft fixes bug that removed Copilot buttons in Outlook\n\nMicrosoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]\n\n🔗 Source: BleepingComputer\nRead the full story: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: تقوم Microsoft بإصلاح الخلل الذي أدى إلى إزالة أزرار Copilot في Outlook\n\nقامت Microsoft بإصلاح مشكلة معروفة تسببت في اختفاء أزرار Copilot Chat أو Copilot في Classic Outlook لمستخدمي Windows الذين لديهم ترخيص Copilot Chat (Basic). [...]\n\n🔗 المصدر: BleepingComputer\nرابط الخبر الكامل: https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
   }
 ]
