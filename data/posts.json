@@ -1,5 +1,23 @@
 [
   {
+    "id": "af919c1063f3ac9e",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg",
+    "published_at": "2026-07-03T16:07:15+00:00",
+    "en_text": "🚨 Cybersecurity Alert: North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets\n\nThreat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.\n\nAccording to JFrog, the packages \"rollup-packages-polyfill-core\" and \"rollup-runtime-polyfill-core\" mimic the legitimate \"rollup-plugin-polyfill-node\" project, down to the description, repository metadata, and\n\n🔗 Source: The Hacker News\nRead the full story: https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: تحاكي حزم npm المرتبطة بكوريا الشمالية عمليات التراكم Polyfills لسرقة أسرار المطورين\n\nتم ربط جهات التهديد التي لها علاقات مع كوريا الشمالية بمجموعة جديدة من حزم npm الخبيثة التي تتنكر في شكل أدوات Rollup polyfill لتسهيل الوصول عن بعد وسرقة البيانات.\n\nوفقًا لـ JFrog، فإن الحزمتين \"rollup-packages-polyfill-core\" و\"rollup-runtime-polyfill-core\" تحاكي مشروع \"rollup-plugin-polyfill-node\" الشرعي، وصولاً إلى الوصف والبيانات التعريفية للمستودع، و\n\n🔗 المصدر: The Hacker News\nرابط الخبر الكامل: https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "4eceb1003b08db8e",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-03T14:12:22+00:00",
+    "en_text": "🚨 Cybersecurity Alert: ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit\n\nA new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]\n\n🔗 Source: BleepingComputer\nRead the full story: https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: يكشف ARToken PhaaS عن مجموعة أدوات التصيد الاحتيالي Microsoft 365 الخاصة بـ EvilTokens\n\nيبدو أن منصة التصيد الاحتيالي الجديدة كخدمة (PhaaS) التي يطلق عليها اسم \"ARToken\" تعمل كشركة تابعة لمنصة التصيد الاحتيالي EvilTokens، مما يمنح الباحثين لمحة عن مجموعة أدوات شاملة مصممة لاختراق Microsoft 365. [...]\n\n🔗 المصدر: BleepingComputer\nرابط الخبر الكامل: https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
     "id": "72b8c901a04ed3e2",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
@@ -54,6 +72,24 @@
     "ar_text": "🚨 تنبيه أمن سيبراني: إعادة إطلاق Claude Fable تخيب آمال المستخدمين بسبب الأداء الضعيف\n\nأصبح Claude Fable، أقوى طراز للشركة، متاحًا الآن لجميع المستخدمين، لكن الانطباعات الأولية مخيبة للآمال، حيث يبدو أنه ليس قريبًا من الإصدار الأصلي. [...]\n\n🔗 المصدر: BleepingComputer\nرابط الخبر الكامل: https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
   },
   {
+    "id": "fc3fd682f22a1f9c",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef5cf25552ad1b17/6a46744dec9caa31e05a16a8/Australia-imaginima-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-02T23:01:00+00:00",
+    "en_text": "🚨 Cybersecurity Alert: Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs\n\nImproved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.\n\n🔗 Source: Dark Reading\nRead the full story: https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: يواجه الأستراليون انخفاضًا في مخاطر الجرائم الإلكترونية، مع تحول الضغط إلى الشركات الصغيرة والمتوسطة\n\nوقد أدت الضمانات المؤسسية المحسنة واللوائح الأكثر صرامة إلى دفع أعباء الحماية والحد من المخاطر إلى الشركات الأسترالية.\n\n🔗 المصدر: Dark Reading\nرابط الخبر الكامل: https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "976ca534d5ed31a9",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb900b57271d6fc24/6a46a07ecef8a87304f980df/Apple_bandage-imtmphoto-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-02T19:31:58+00:00",
+    "en_text": "🚨 Cybersecurity Alert: Apple Reverses Age-Old Patch Policy to Keep Up With AI\n\nExpect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.\n\n🔗 Source: Dark Reading\nRead the full story: https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: تعكس Apple سياسة التصحيح القديمة لمواكبة الذكاء الاصطناعي\n\nتوقع المزيد من دورات التصحيح المضغوطة من Apple في المستقبل، حيث يستفيد المهاجمون من الذكاء الاصطناعي لتقليل الوقت اللازم للاستغلال.\n\n🔗 المصدر: Dark Reading\nرابط الخبر الكامل: https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
     "id": "417bdaa0c3e139ab",
     "source": "Krebs on Security",
     "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
@@ -61,6 +97,15 @@
     "published_at": "2026-07-02T19:27:33+00:00",
     "en_text": "🚨 Cybersecurity Alert: FBI Seizes NetNut Proxy Platform, Popa Botnet\n\nThe Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of...\n\n🔗 Source: Krebs on Security\nRead the full story: https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
     "ar_text": "🚨 تنبيه أمن سيبراني: مكتب التحقيقات الفيدرالي يستولي على منصة NetNut Proxy، Popa Botnet\n\nقال مكتب التحقيقات الفيدرالي (FBI) اليوم إنه عمل مع شركاء الصناعة للاستيلاء على مئات النطاقات المرتبطة بـ NetNut، وهي خدمة وكيل سكنية مترامية الأطراف تديرها شركة Alarum Technologies الإسرائيلية المتداولة علنًا [NASDAQ: ALAR]. ويأتي هذا الإجراء بعد أسبوعين تقريبًا من نشر KrebsOnSecurity النتائج التي توصلت إليها شركات أمنية متعددة تربط NetNut بشبكة Popa botnet، وهي مجموعة تضم ما لا يقل عن مليوني جهاز تم اختراقها بواسطة...\n\n🔗 المصدر: Krebs on Security\nرابط الخبر الكامل: https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "25a0b7ea35d756b4",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-02T19:11:33+00:00",
+    "en_text": "🚨 Cybersecurity Alert: FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs\n\nAfter gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.\n\n🔗 Source: Dark Reading\nRead the full story: https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: الجهات الفاعلة في FortiBleed تتعاون مع Inc، وLynx Ransomware Gangs\n\nبعد الحصول على موطئ قدم في الآلاف من جدران الحماية Fortinet، بدأ المهاجمون في تحقيق الدخل من هذا الوصول، كما يقومون أيضًا بتكديس خطأ Nextcloud Zero-day.\n\n🔗 المصدر: Dark Reading\nرابط الخبر الكامل: https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
   },
   {
     "id": "0e68a14cfc35d069",
@@ -79,6 +124,15 @@
     "published_at": "2026-07-02T18:30:33+00:00",
     "en_text": "🚨 Cybersecurity Alert: Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials\n\nThreat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access.\n\n\"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral\n\n🔗 Source: The Hacker News\nRead the full story: https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
     "ar_text": "🚨 تنبيه أمن سيبراني: تلجأ مجموعات برامج الفدية إلى استخدام Citrix Bleed 2 وBYOVD وبيانات اعتماد سلسلة التوريد\n\nوقد لوحظ أن الجهات الفاعلة في مجال التهديد المرتبطة بعملية Anubis Ransomware تستغل ثغرة Citrix Bleed 2 (CVE-2025-5777) للحصول على وصول أولي.\n\n\"على الرغم من اختلاف التكتيكات بين الشركات التابعة، فقد ظهرت أنماط مشتركة في التجارة من خلال استخدام أدوات الإدارة والمراقبة عن بعد (RMM) المشروعة، والوصول إلى بيانات الاعتماد، والإجراءات العملية على لوحة المفاتيح المستخدمة في العمليات الجانبية.\n\n🔗 المصدر: The Hacker News\nرابط الخبر الكامل: https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
+  },
+  {
+    "id": "32296d38ced90303",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt788d90ba1818143b/6a4697d699a6c999ae9e947e/smb_Andrey_Popov_shutterstck.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-02T18:07:40+00:00",
+    "en_text": "🚨 Cybersecurity Alert: Ransomware Thugs Masquerade as Interpol to Entice Small Biz\n\nThe ransomware campaign relies on basic social engineering and stretches across multiple regions, including the US, Europe, Middle East, and elsewhere.\n\n🔗 Source: Dark Reading\nRead the full story: https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews",
+    "ar_text": "🚨 تنبيه أمن سيبراني: بلطجية برامج الفدية يتنكرون في هيئة الإنتربول لإغراء الشركات الصغيرة\n\nتعتمد حملة برامج الفدية على الهندسة الاجتماعية الأساسية وتمتد عبر مناطق متعددة، بما في ذلك الولايات المتحدة وأوروبا والشرق الأوسط وأماكن أخرى.\n\n🔗 المصدر: Dark Reading\nرابط الخبر الكامل: https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses\n\n#الأمن_السيبراني #حماية_البيانات #تهديدات_سيبرانية #تقنية"
   },
   {
     "id": "8baed1cc39c81276",
