@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SIGNAL — Cybersecurity Feed | تغذية أخبار الأمن السيبراني</title>
+<meta name="description" content="آخر أخبار الأمن السيبراني حول العالم، لحظة بلحظة، بصياغة منشورات ثنائية اللغة.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700&family=Cairo:wght@400;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+<div class="scan-overlay" aria-hidden="true"></div>
+
+<header class="topbar">
+  <div class="topbar__inner">
+    <div class="brand">
+      <span class="brand__prompt">root@signal:~$</span>
+      <span class="brand__name">SIGNAL <span class="brand__accent">/CYBER</span></span>
+    </div>
+    <div class="status">
+      <span class="status__dot" aria-hidden="true"></span>
+      <span class="status__text">LIVE FEED</span>
+      <span class="status__divider">·</span>
+      <span class="status__text status__text--muted" id="lastSync">SYNCING…</span>
+    </div>
+  </div>
+  <p class="topbar__subtitle">
+    <span class="en">Latest cybersecurity news, captured hourly, formatted as bilingual LinkedIn-ready posts.</span>
+    <span class="ar">آخر أخبار الأمن السيبراني حول العالم، تُلتقط كل ساعة وتُصاغ كمنشورات لينكدإن ثنائية اللغة.</span>
+  </p>
+</header>
+
+<main class="feed" id="feed">
+  <!-- تُملأ العناصر عبر app.js -->
+</main>
+
+<template id="cardTemplate">
+  <article class="card">
+    <div class="card__meta">
+      <span class="tag tag--src">SRC: <b class="meta-source"></b></span>
+      <span class="tag tag--time"><b class="meta-time"></b></span>
+      <span class="tag tag--id">ID#<b class="meta-id"></b></span>
+    </div>
+    <div class="card__media">
+      <img class="meta-image" alt="" loading="lazy">
+    </div>
+    <div class="card__body card__body--en" dir="ltr" lang="en">
+      <span class="lang-tag">EN</span>
+      <p class="meta-en"></p>
+    </div>
+    <div class="divider" aria-hidden="true">
+      <span>⟡</span>
+    </div>
+    <div class="card__body card__body--ar" dir="rtl" lang="ar">
+      <span class="lang-tag">AR</span>
+      <p class="meta-ar"></p>
+    </div>
+    <a class="card__link meta-link" target="_blank" rel="noopener noreferrer">
+      <span class="en">Read original source</span>
+      <span class="ar">قراءة المصدر الأصلي</span>
+      <span class="arrow">→</span>
+    </a>
+  </article>
+</template>
+
+<template id="emptyTemplate">
+  <div class="empty">
+    <p class="empty__code">[ 0 ENTRIES ]</p>
+    <p class="empty__en">No news captured yet. The automation runs hourly via GitHub Actions — trigger it manually from the Actions tab to populate the feed now.</p>
+    <p class="empty__ar">لا توجد أخبار حتى الآن. الأتمتة تعمل كل ساعة عبر GitHub Actions — يمكنك تشغيلها يدويًا من تبويب Actions لتعبئة الصفحة فورًا.</p>
+  </div>
+</template>
+
+<footer class="footer">
+  <span class="en">Sources: The Hacker News · BleepingComputer · Krebs on Security · Dark Reading · SecurityWeek</span>
+  <span class="ar">المصادر: The Hacker News · BleepingComputer · Krebs on Security · Dark Reading · SecurityWeek</span>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
