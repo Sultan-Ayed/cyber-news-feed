@@ -32,6 +32,9 @@ async function loadPosts() {
       const link = node.querySelector('.meta-link');
       link.href = post.link;
 
+      setupCopyButton(node.querySelector('.copy-en'), post.en_text);
+      setupCopyButton(node.querySelector('.copy-ar'), post.ar_text);
+
       feed.appendChild(node);
     });
 
@@ -40,6 +43,27 @@ async function loadPosts() {
     lastSync.textContent = 'SYNC ERROR';
     console.error('Failed to load posts.json', err);
   }
+}
+
+function setupCopyButton(button, text) {
+  if (!button) return;
+  button.addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(text);
+    } catch (err) {
+      // بديل احتياطي للمتصفحات القديمة
+      const helper = document.createElement('textarea');
+      helper.value = text;
+      helper.style.position = 'fixed';
+      helper.style.opacity = '0';
+      document.body.appendChild(helper);
+      helper.select();
+      document.execCommand('copy');
+      document.body.removeChild(helper);
+    }
+    button.dataset.copied = '1';
+    setTimeout(() => { button.dataset.copied = '0'; }, 2000);
+  });
 }
 
 function formatDateTime(isoString) {
