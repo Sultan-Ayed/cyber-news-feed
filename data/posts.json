@@ -1,5 +1,14 @@
 [
   {
+    "id": "6e9f5188f8e28888",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwdeBqtwl7nqoAp8TPhZmmr3mUTCcfxluYa7QukD2sI1AjCWoOko2YtQUrCtOLH-tJlYi2lXUA5E3RF51L26gZGyR7sT0GXu73OMB94HhINz5kajaR8-txb-tYNj2Hsm62zVwTaw7Rew6Wazf8eQgo_boWq7DjqbN1jjp5OmwSZ2yG7Y9e04hFVaroUSu6/s1600/go-code.jpg",
+    "published_at": "2026-07-04T11:17:24+00:00",
+    "en_text": "🛡️ 𝐍𝐨𝐫𝐭𝐡 𝐊𝐨𝐫𝐞𝐚𝐧 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐏𝐮𝐛𝐥𝐢𝐬𝐡 𝟏𝟎𝟖 𝐌𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐄𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧𝐬 𝐢𝐧 𝐏𝐨𝐥𝐢𝐧𝐑𝐢𝐝𝐞𝐫 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧\n\n📌 What happened: The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred to as PolinRider.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ قراصنة كوريا الشمالية ينشرون 108 حزمة وامتدادات ضارة في حملة PolinRider\n\n📌 وش اللي صار: وقد لوحظ أن الجهات الفاعلة في مجال التهديد في كوريا الشمالية المرتبطة بحملة Contagious Interview تنشر 108 حزمة فريدة وملحقات لمتصفح الويب تشمل npm وPackagist وGo وGoogle Chrome كجزء من نشاط مستمر يشار إليه باسم PolinRider.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "d46c218220428012",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
@@ -45,6 +54,15 @@
     "ar_text": "🛡️ تحاكي حزم npm المرتبطة بكوريا الشمالية عمليات التراكم Polyfills لسرقة أسرار المطورين\n\n📌 وش اللي صار: تم ربط جهات التهديد التي لها علاقات مع كوريا الشمالية بمجموعة جديدة من حزم npm الخبيثة التي تتنكر في شكل أدوات Rollup polyfill لتسهيل الوصول عن بعد وسرقة البيانات.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "70fe8b4c89fa43b8",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-03T15:10:42+00:00",
+    "en_text": "🛡️ 𝐈𝐧 𝐎𝐭𝐡𝐞𝐫 𝐍𝐞𝐰𝐬: 𝐂𝐚𝐧𝐚𝐝𝐢𝐚𝐧 𝐇𝐚𝐜𝐤𝐞𝐫 𝐉𝐚𝐢𝐥𝐞𝐝, 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲𝐬, 𝐓𝐰𝐨 𝐒𝐞𝐧𝐭𝐞𝐧𝐜𝐞𝐝 𝐟𝐨𝐫 𝐀𝐓𝐌 𝐉𝐚𝐜𝐤𝐩𝐨𝐭𝐭𝐢𝐧𝐠\n\n📌 What happened: Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ في أخبار أخرى: سجن هاكر كندي، وإصدار Zero-Days مفتوح المصدر، والحكم على شخصين بتهمة الاحتيال على أجهزة الصراف الآلي\n\n📌 وش اللي صار: قصص جديرة بالملاحظة ربما تكون قد اختفت عن الأنظار: سجن هاكر كندي مرتبط بشخصية مجهولة، وباحث يسقط صفر يوم في مشاريع مفتوحة المصدر، وحكم على فنزويليين في الولايات المتحدة بسبب الفوز بالجائزة الكبرى لأجهزة الصراف الآلي.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "4eceb1003b08db8e",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
@@ -70,6 +88,24 @@
     "published_at": "2026-07-03T13:01:00+00:00",
     "en_text": "🛡️ 𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐋𝐋𝐌𝐬 𝐁𝐫𝐨𝐚𝐝𝐞𝐧 𝐭𝐡𝐞 𝐆𝐚𝐩 𝐁𝐞𝐭𝐰𝐞𝐞𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 & 𝐃𝐞𝐟𝐞𝐧𝐝𝐞𝐫𝐬\n\n📌 What happened: Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تعمل شهادات LLM الصينية على توسيع الفجوة بين المهاجمين والمدافعين\n\n📌 وش اللي صار: يتنافس نموذجان جديدان من الشركات الصينية مع أفضل النماذج السائدة والحدودية في الولايات المتحدة. هل يجب على المدافعين عن الإنترنت القلق؟\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "6eae28bb35663798",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-03T11:00:00+00:00",
+    "en_text": "🛡️ 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐔𝐬𝐞𝐝 𝐭𝐨 𝐂𝐨𝐧𝐝𝐮𝐜𝐭 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐀𝐭𝐭𝐚𝐜𝐤 𝐯𝐢𝐚 𝐋𝐚𝐧𝐠𝐟𝐥𝐨𝐰\n\n📌 What happened: Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يتم استخدام الذكاء الاصطناعي الوكيل لإجراء هجوم Ransomware عبر Langflow\n\n📌 وش اللي صار: يوضح الهجوم كيف يمكن لعملاء LLM الجمع بين تقنيات الاستغلال المعروفة والتفكير في الوقت الفعلي لأتمتة عمليات التطفل المعقدة ومتعددة المراحل.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "3c0f3b4326504a06",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-03T10:00:00+00:00",
+    "en_text": "🛡️ 𝐌𝐞𝐝𝐭𝐫𝐨𝐧𝐢𝐜 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡 𝐈𝐦𝐩𝐚𝐜𝐭𝐬 𝟑.𝟖 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐏𝐞𝐨𝐩𝐥𝐞\n\n📌 What happened: In April, ShinyHunters accessed the company’s corporate IT systems and stole patients’ personal and medical information.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يؤثر خرق بيانات شركة Medtronic على 3.8 مليون شخص\n\n📌 وش اللي صار: في أبريل، تمكنت ShinyHunters من الوصول إلى أنظمة تكنولوجيا المعلومات الخاصة بالشركة وسرقت المعلومات الشخصية والطبية للمرضى.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "2d3bfb7f4a32612b",
@@ -115,6 +151,24 @@
     "published_at": "2026-07-02T19:27:33+00:00",
     "en_text": "🛡️ 𝐅𝐁𝐈 𝐒𝐞𝐢𝐳𝐞𝐬 𝐍𝐞𝐭𝐍𝐮𝐭 𝐏𝐫𝐨𝐱𝐲 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦, 𝐏𝐨𝐩𝐚 𝐁𝐨𝐭𝐧𝐞𝐭\n\n📌 What happened: The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ:…\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Krebs on Security — https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ مكتب التحقيقات الفيدرالي يستولي على منصة NetNut Proxy، Popa Botnet\n\n📌 وش اللي صار: قال مكتب التحقيقات الفيدرالي (FBI) اليوم إنه عمل مع شركاء الصناعة للاستيلاء على مئات النطاقات المرتبطة بـ NetNut، وهي خدمة وكيل سكنية مترامية الأطراف تديرها شركة Alarum Technologies الإسرائيلية المتداولة علنًا [NASDAQ:...\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Krebs on Security — https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "25a0b7ea35d756b4",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-02T19:11:33+00:00",
+    "en_text": "🛡️ 𝐅𝐨𝐫𝐭𝐢𝐁𝐥𝐞𝐞𝐝 𝐀𝐜𝐭𝐨𝐫𝐬 𝐂𝐨𝐥𝐥𝐚𝐛𝐨𝐫𝐚𝐭𝐢𝐧𝐠 𝐖𝐢𝐭𝐡 𝐈𝐧𝐜, 𝐋𝐲𝐧𝐱 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐆𝐚𝐧𝐠𝐬\n\n📌 What happened: After gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الجهات الفاعلة في FortiBleed تتعاون مع Inc، وLynx Ransomware Gangs\n\n📌 وش اللي صار: بعد الحصول على موطئ قدم في الآلاف من جدران الحماية Fortinet، بدأ المهاجمون في تحقيق الدخل من هذا الوصول، كما يقومون أيضًا بتكديس خطأ Nextcloud Zero-day.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "32296d38ced90303",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt788d90ba1818143b/6a4697d699a6c999ae9e947e/smb_Andrey_Popov_shutterstck.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-02T18:07:40+00:00",
+    "en_text": "🛡️ 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐓𝐡𝐮𝐠𝐬 𝐌𝐚𝐬𝐪𝐮𝐞𝐫𝐚𝐝𝐞 𝐚𝐬 𝐈𝐧𝐭𝐞𝐫𝐩𝐨𝐥 𝐭𝐨 𝐄𝐧𝐭𝐢𝐜𝐞 𝐒𝐦𝐚𝐥𝐥 𝐁𝐢𝐳\n\n📌 What happened: The ransomware campaign relies on basic social engineering and stretches across multiple regions, including the US, Europe, Middle East, and elsewhere.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ بلطجية برامج الفدية يتنكرون في هيئة الإنتربول لإغراء الشركات الصغيرة\n\n📌 وش اللي صار: تعتمد حملة برامج الفدية على الهندسة الاجتماعية الأساسية وتمتد عبر مناطق متعددة، بما في ذلك الولايات المتحدة وأوروبا والشرق الأوسط وأماكن أخرى.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "91e18ac9afcf3f16",
