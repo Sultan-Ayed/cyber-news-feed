@@ -1,5 +1,23 @@
 [
   {
+    "id": "8fa0fcbc82e1ebb2",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-04T14:16:38+00:00",
+    "en_text": "🛡️ 𝐉𝐚𝐝𝐞𝐏𝐮𝐟𝐟𝐞𝐫 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐮𝐬𝐞𝐝 𝐀𝐈 𝐚𝐠𝐞𝐧𝐭 𝐭𝐨 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐞 𝐞𝐧𝐭𝐢𝐫𝐞 𝐚𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ استخدم برنامج JadePuffer Ransomware عامل الذكاء الاصطناعي لأتمتة الهجوم بأكمله\n\n📌 وش اللي صار: حدد الباحثون ما يعتقدون أنه أول حالة موثقة لعملية برنامج الفدية، JadePuffer، التي تم إجراؤها بالكامل بواسطة وكيل نموذج لغة كبير (LLM).\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "05aacbc9930d8717",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEfi15-eigOUF4SV157a0LsEW4uNvhRyEIhWWYVNo8tn0tfMjuJ0Cr6zYUDeVh6VfzA-7MpWgIVX8sJgieRMD6e0KSBmB2zNmTU1ko1KPMbkBd-JHMBluVBUOjV06SebkYq4AKFssmEQ6DdGw4yy4X3qesVYJcwwgZSsQFUu4Wfy3un9alrX2Qy8IjacE/s1600/county-hacked.jpg",
+    "published_at": "2026-07-04T12:47:53+00:00",
+    "en_text": "🛡️ 𝐔.𝐒. 𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 𝐄𝐧𝐭𝐢𝐭𝐲 𝐏𝐚𝐢𝐝 𝐊𝐚𝐢𝐫𝐨𝐬 $𝟏 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐢𝐧 𝐃𝐚𝐭𝐚-𝐓𝐡𝐞𝐟𝐭 𝐄𝐱𝐭𝐨𝐫𝐭𝐢𝐨𝐧 𝐂𝐚𝐬𝐞\n\n📌 What happened: A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ دفعت جهة حكومية أمريكية لشركة Kairos مبلغ مليون دولار في قضية ابتزاز لسرقة البيانات\n\n📌 وش اللي صار: دفعت هيئة حكومية أمريكية حوالي مليون دولار لمنع تسرب الملفات المسروقة، وفقًا لدراسة حالة جديدة أجراها راكيش كريشنان لصالح Ransom-ISAC، مبنية على محادثة تفاوض مسربة وتتبع blockchain للدفعة المتبقية.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "6e9f5188f8e28888",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
@@ -106,6 +124,24 @@
     "published_at": "2026-07-03T10:00:00+00:00",
     "en_text": "🛡️ 𝐌𝐞𝐝𝐭𝐫𝐨𝐧𝐢𝐜 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡 𝐈𝐦𝐩𝐚𝐜𝐭𝐬 𝟑.𝟖 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐏𝐞𝐨𝐩𝐥𝐞\n\n📌 What happened: In April, ShinyHunters accessed the company’s corporate IT systems and stole patients’ personal and medical information.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يؤثر خرق بيانات شركة Medtronic على 3.8 مليون شخص\n\n📌 وش اللي صار: في أبريل، تمكنت ShinyHunters من الوصول إلى أنظمة تكنولوجيا المعلومات الخاصة بالشركة وسرقت المعلومات الشخصية والطبية للمرضى.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "c1ee7af215588b23",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-03T09:30:00+00:00",
+    "en_text": "🛡️ 𝐀𝐥𝐥𝐞𝐠𝐞𝐝 𝐒𝐜𝐚𝐭𝐭𝐞𝐫𝐞𝐝 𝐒𝐩𝐢𝐝𝐞𝐫 𝐇𝐚𝐜𝐤𝐞𝐫 𝐄𝐱𝐭𝐫𝐚𝐝𝐢𝐭𝐞𝐝 𝐭𝐨 𝐔𝐒\n\n📌 What happened: Prosecutors say 19-year-old Peter Stokes was a member of Scattered Spider, the hacking group linked to more than 100 network intrusions and over $100 million in ransom payments.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم تسليم القراصنة العنكبوتيين المتفرقين المزعومين إلى الولايات المتحدة\n\n📌 وش اللي صار: ويقول ممثلو الادعاء إن بيتر ستوكس البالغ من العمر 19 عامًا كان عضوًا في Scattered Spider، وهي مجموعة قرصنة مرتبطة بأكثر من 100 عملية اقتحام للشبكات وأكثر من 100 مليون دولار من دفعات الفدية.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "34f818b82c269a3a",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-03T08:13:22+00:00",
+    "en_text": "🛡️ 𝐆𝐨𝐨𝐠𝐥𝐞, 𝐅𝐁𝐈 𝐃𝐢𝐬𝐫𝐮𝐩𝐭 𝐍𝐞𝐭𝐍𝐮𝐭 𝐑𝐞𝐬𝐢𝐝𝐞𝐧𝐭𝐢𝐚𝐥 𝐏𝐫𝐨𝐱𝐲 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐛𝐲 𝐌𝐢𝐥𝐥𝐢𝐨𝐧𝐬 𝐨𝐟 𝐃𝐞𝐯𝐢𝐜𝐞𝐬\n\n📌 What happened: NetNut rented access to millions of compromised devices, allowing cybercriminals and nation-state actors to mask their identities during attacks.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ جوجل ومكتب التحقيقات الفيدرالي يعطلان شبكة NetNut Residential Proxy التي تدعمها ملايين الأجهزة\n\n📌 وش اللي صار: استأجرت NetNut إمكانية الوصول إلى ملايين الأجهزة المخترقة، مما سمح لمجرمي الإنترنت والجهات الفاعلة التابعة للدولة بإخفاء هوياتهم أثناء الهجمات.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "2d3bfb7f4a32612b",
