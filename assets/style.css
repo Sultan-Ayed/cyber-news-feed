@@ -124,6 +124,13 @@ body {
 .card__body--en { font-family: var(--body-en); }
 .card__body--ar { font-family: var(--body-ar); }
 
+.card__body-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
 .lang-tag {
   display: inline-block;
   font-family: var(--mono);
@@ -132,11 +139,27 @@ body {
   background: var(--accent-cyan);
   border-radius: 3px;
   padding: 1px 6px;
-  margin-bottom: 10px;
   letter-spacing: 1px;
   font-weight: 700;
 }
 .card__body--ar .lang-tag { background: var(--accent-amber); }
+
+.copy-btn {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--text-muted);
+  background: rgba(255,255,255,0.03);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 4px 10px;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+.copy-btn:hover { border-color: var(--accent-cyan); color: var(--text); }
+.copy-btn .copy-btn__done { display: none; color: var(--accent-cyan); }
+.copy-btn[data-copied="1"] .copy-btn__label { display: none; }
+.copy-btn[data-copied="1"] .copy-btn__done { display: inline; }
+.copy-btn[data-copied="1"] { border-color: var(--accent-cyan); }
 
 .card__body p {
   margin: 0;
