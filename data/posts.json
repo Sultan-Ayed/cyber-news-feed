@@ -1,5 +1,14 @@
 [
   {
+    "id": "27b4fc56def45e5e",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-05T14:14:52+00:00",
+    "en_text": "🛡️ 𝐅𝐥𝐢𝐩𝐩𝐞𝐫 𝐙𝐞𝐫𝐨 𝐟𝐢𝐫𝐦𝐰𝐚𝐫𝐞 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐞𝐬 𝐰𝐢𝐭𝐡 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐡𝐞𝐥𝐩\n\n📌 What happened: Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يستمر تطوير البرامج الثابتة لـ Flipper Zero بمساعدة المجتمع\n\n📌 وش اللي صار: تقول شركة Flipper Devices إن تطوير البرنامج الثابت Flipper Zero سيستمر، وإن كان ذلك مع فريق داخلي أصغر واعتماد أكبر على مساهمات المجتمع.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "8fa0fcbc82e1ebb2",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
