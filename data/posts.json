@@ -1,5 +1,23 @@
 [
   {
+    "id": "582420fae004f267",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a5851671625faf8/6a4c14c7cdf54e22d2b6249c/busysnake_LuckyStep_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-06T21:37:56+00:00",
+    "en_text": "🛡️ '𝐁𝐮𝐬𝐲𝐒𝐧𝐚𝐤𝐞' 𝐈𝐧𝐟𝐨𝐬𝐭𝐞𝐚𝐥𝐞𝐫 𝐒𝐥𝐢𝐭𝐡𝐞𝐫𝐬 𝐢𝐧𝐭𝐨 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬\n\n📌 What happened: A threat group researchers call \"Armored Likho\" has gained access to government agencies and electrical power entities in Russia, Brazil, and Kazakhstan.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ينزلق برنامج \"BusySnake\" Infostealer إلى شبكات البنية التحتية الحيوية\n\n📌 وش اللي صار: تمكنت مجموعة تهديد يطلق عليها الباحثون \"Armored Likho\" من الوصول إلى الوكالات الحكومية وكيانات الطاقة الكهربائية في روسيا والبرازيل وكازاخستان.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "7db1646b5d8a3d00",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt88ecb8d1db40386a/6a4c12e577f2da733fcdacb6/rm-Citrix_Justin_Sullivan-Getty-1367905224.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-06T21:17:42+00:00",
+    "en_text": "🛡️ 𝐂𝐢𝐭𝐫𝐢𝐱𝐁𝐥𝐞𝐞𝐝-𝐢𝐧𝐠 𝐀𝐠𝐚𝐢𝐧? 𝐍𝐞𝐭𝐒𝐜𝐚𝐥𝐞𝐫 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐔𝐧𝐝𝐞𝐫 𝐀𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: Attackers wasted little time targeting the latest memory disclosure flaw in Citrix's NetScaler products, after researchers published a proof-of-concept exploit (PoC).\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ CitrixBleed جي مرة أخرى؟ ثغرة أمنية في NetScaler تحت الهجوم\n\n📌 وش اللي صار: لم يضيع المهاجمون سوى القليل من الوقت في استهداف أحدث خلل في الكشف عن الذاكرة في منتجات NetScaler من Citrix، بعد أن نشر الباحثون ثغرة لإثبات المفهوم (PoC).\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "6f6081fec769fe0e",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
