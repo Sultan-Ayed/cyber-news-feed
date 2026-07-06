@@ -1,5 +1,41 @@
 [
   {
+    "id": "63ee79eaa6af8d90",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-06T19:14:08+00:00",
+    "en_text": "🛡️ 𝐁𝐥𝐨𝐠𝐬𝐩𝐨𝐭-𝐇𝐨𝐬𝐭𝐞𝐝 𝐏𝐚𝐲𝐥𝐨𝐚𝐝𝐬 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐞𝐝 𝐢𝐧 ‘𝐕𝐞𝐢𝐥#𝐃𝐫𝐨𝐩’ 𝐀𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer.\n\n💡 Why it matters: Modern malware doesn't announce itself — it blends into normal traffic until the moment it needs to strike.\n\n✅ Quick tip: Only install software from official sources — 'free' cracked versions are one of the top malware delivery methods.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يتم تسليم الحمولات المستضافة على Blogspot في هجمات \"Veil#Drop\".\n\n📌 وش اللي صار: يقول Securonix إن إطار العمل المتطور يسيء استخدام مواقع الويب المخترقة وBlogspot وPowerShell والتقنيات الخالية من الملفات لتجنب اكتشاف برنامج سرقة المعلومات PureLog ونشره.\n\n💡 ليش هذا مهم: البرمجيات الخبيثة الحديثة ما تعلن عن نفسها، تندمج مع النشاط العادي للجهاز لين تجي لحظة الضربة.\n\n✅ نصيحة سريعة: ثبّت البرامج من مصادرها الرسمية بس — النسخ 'المجانية' المقرصنة من أكثر طرق توزيع البرمجيات الخبيثة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "de5451de11da7f0c",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj80nucNUGoxxOtE3SUY1SkDSu77qENrl96c2MUoLWdwAo3ZVoA4FS2QfOdM9c5bsZUJdX1ZxIsXgu7pvVfUzXz3GMZJHmblFTjv5C08dbxvLqXol72iHaD-zH950EZdXUCS-b7F2T-bn8SgqQb9nXA-uOPIaX5V0eaNNmKlQJfWHAKaPAhqsgNL0wTgJH6/s1600/cavern.jpg",
+    "published_at": "2026-07-06T18:34:26+00:00",
+    "en_text": "🛡️ 𝐈𝐫𝐚𝐧-𝐋𝐢𝐧𝐤𝐞𝐝 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐔𝐬𝐞 𝐍𝐞𝐰 𝐂𝐚𝐯𝐞𝐫𝐧 𝐂𝟐 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 𝐭𝐨 𝐓𝐚𝐫𝐠𝐞𝐭 𝐈𝐬𝐫𝐚𝐞𝐥𝐢 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬\n\n📌 What happened: An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Israeli organizations.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يستخدم المتسللون المرتبطون بإيران إطار عمل Cavern C2 الجديد لاستهداف المنظمات الإسرائيلية\n\n📌 وش اللي صار: تستخدم مجموعة قرصنة إيرانية تابعة لوزارة الاستخبارات والأمن الإيرانية (MOIS) إطار عمل معياري للقيادة والسيطرة (C2) غير موثق سابقًا يُطلق عليه اسم Cavern (المعروف أيضًا باسم Cav3rn) ويستهدف المنظمات الإسرائيلية.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "256603739dc258e5",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-06T18:25:06+00:00",
+    "en_text": "🛡️ 𝐕𝐢𝐞𝐭𝐧𝐚𝐦 𝐚𝐫𝐫𝐞𝐬𝐭𝐬 𝐬𝐮𝐬𝐩𝐞𝐜𝐭𝐬 𝐛𝐞𝐡𝐢𝐧𝐝 𝐇𝐢𝐀𝐧𝐢𝐦𝐞 𝐚𝐧𝐢𝐦𝐞 𝐩𝐢𝐫𝐚𝐜𝐲 𝐬𝐞𝐫𝐯𝐢𝐜𝐞\n\n📌 What happened: ​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ فيتنام تعتقل المشتبه بهم وراء خدمة قرصنة الرسوم المتحركة HiAnime\n\n📌 وش اللي صار: ألقت السلطات الفيتنامية القبض على سبعة من المشتبه بهم الذين يُعتقد أنهم أداروا HiAnime، وهي أكبر خدمة بث لقرصنة الرسوم المتحركة قبل إغلاقها في يونيو، وتقوم بمحاكمتهم.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "006a797fc25d645e",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG42lgj1grtq5EQICr-9RYvPU59uHFRBluzVoZ3TZLXEXBcF5bOPerpb_Ck-e6oNz6P4MO1VAiqbBXuPbImhng1CoRnRYHWSZTGOloHmYB5khhpCK5wW348uMgqmWIjTQPnOwCGV7OiPXJoJDWV0n1IPGP80hADXD3AnmRKbTb8jxyGQenhlgIpvNo29I/s1600/linux-kvm.jpg",
+    "published_at": "2026-07-06T17:37:01+00:00",
+    "en_text": "🛡️ 𝟏𝟔-𝐘𝐞𝐚𝐫-𝐎𝐥𝐝 𝐋𝐢𝐧𝐮𝐱 𝐊𝐕𝐌 𝐅𝐥𝐚𝐰 𝐋𝐞𝐭𝐬 𝐆𝐮𝐞𝐬𝐭 𝐕𝐌𝐬 𝐄𝐬𝐜𝐚𝐩𝐞 𝐭𝐨 𝐇𝐨𝐬𝐭 𝐨𝐧 𝐈𝐧𝐭𝐞𝐥 𝐚𝐧𝐝 𝐀𝐌𝐃 𝐱𝟖𝟔 𝐒𝐲𝐬𝐭𝐞𝐦𝐬\n\n📌 What happened: A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يتيح خلل Linux KVM البالغ عمره 16 عامًا للأجهزة الافتراضية الضيف الهروب للاستضافة على أنظمة Intel وAMD x86\n\n📌 وش اللي صار: يمكن تشغيل خطأ الاستخدام بعد الاستخدام المجاني في برنامج Hypervisor KVM لنظام التشغيل Linux من جهاز افتراضي ضيف لإفساد حالة صفحة الظل للنواة المضيفة التي تقوم بتشغيله.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "c0578c58cbb475c4",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack",
