@@ -1,5 +1,41 @@
 [
   {
+    "id": "c0578c58cbb475c4",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-06T16:36:50+00:00",
+    "en_text": "🛡️ 𝐉𝐚𝐝𝐞𝐏𝐮𝐟𝐟𝐞𝐫: 𝐓𝐡𝐞 𝐅𝐢𝐫𝐬𝐭 𝐂𝐨𝐦𝐩𝐥𝐞𝐭𝐞 𝐋𝐋𝐌-𝐃𝐫𝐢𝐯𝐞𝐧 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐀𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: An \"agentic threat actor\" successfully exploited a Langflow flaw to steal data from a production database server and encrypt other systems.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ JadePuffer: أول هجوم كامل لبرامج الفدية المستندة إلى LLM\n\n📌 وش اللي صار: نجح أحد \"ممثلي التهديد\" في استغلال ثغرة Langflow لسرقة البيانات من خادم قاعدة بيانات الإنتاج وتشفير الأنظمة الأخرى.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "4488624860bdc457",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge0sNgi3moDw0JpFy3UdFB6bK0oxjaqc8ORZFecu5QqxA_wgpoWT1t56L9u2wScSkxYHP2aLO3N01yCPd8IkTBEyc_MvxIaG6BKzneB0LcXuwO_nEorvNvyvuEL3Krp003q6xOF0gePQCXN_bDswxBIhqV7q89_HY9mIxJ5ySShQwtU_jSa9FQnt0tq0RU/s1600/admin.jpg",
+    "published_at": "2026-07-06T16:28:59+00:00",
+    "en_text": "🛡️ 𝐓𝐡𝐫𝐞𝐚𝐭 𝐀𝐜𝐭𝐨𝐫𝐬 𝐏𝐫𝐨𝐛𝐞 𝐆𝐢𝐭𝐞𝐚 𝐃𝐨𝐜𝐤𝐞𝐫 𝐅𝐥𝐚𝐰 𝐂𝐕𝐄-𝟐𝟎𝟐𝟔-𝟐𝟎𝟖𝟗𝟔 𝟏𝟑 𝐃𝐚𝐲𝐬 𝐀𝐟𝐭𝐞𝐫 𝐃𝐢𝐬𝐜𝐥𝐨𝐬𝐮𝐫𝐞\n\n📌 What happened: Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الجهات الفاعلة في مجال التهديد تحقق في عيب Gitea Docker CVE-2026-20896 بعد 13 يومًا من الكشف\n\n📌 وش اللي صار: وقد لوحظ أن الجهات الفاعلة في مجال التهديد تحاول استغلال ثغرة أمنية خطيرة تم تصحيحها مؤخرًا في صور Gitea Docker، وفقًا لـ Sysdig.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "8aa7de865c502b1a",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-06T15:20:42+00:00",
+    "en_text": "🛡️ 𝐓𝐡𝐞 𝐒𝐡𝐢𝐟𝐭 𝐓𝐨𝐰𝐚𝐫𝐝 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬-𝐀𝐥𝐢𝐠𝐧𝐞𝐝 𝐑𝐢𝐬𝐤 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭\n\n📌 What happened: Moving from isolated, technical data to a continuous risk lifecycle can help organizations align security controls with actual business consequences.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ التحول نحو إدارة المخاطر المتوافقة مع الأعمال\n\n📌 وش اللي صار: إن الانتقال من البيانات الفنية المعزولة إلى دورة حياة المخاطر المستمرة يمكن أن يساعد المؤسسات على مواءمة الضوابط الأمنية مع عواقب الأعمال الفعلية.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "97f22e411dcd25bf",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-06T15:10:39+00:00",
+    "en_text": "🛡️ 𝐀𝐫𝐦𝐨𝐫𝐞𝐝 𝐋𝐢𝐤𝐡𝐨 𝐀𝐏𝐓 𝐓𝐚𝐫𝐠𝐞𝐭𝐢𝐧𝐠 𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭, 𝐄𝐥𝐞𝐜𝐭𝐫𝐢𝐜 𝐏𝐨𝐰𝐞𝐫 𝐄𝐧𝐭𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: The threat actor uses modular RATs and information stealers in financially motivated and cyber espionage campaigns.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ مدرعة Likho APT تستهدف الجهات الحكومية والطاقة الكهربائية\n\n📌 وش اللي صار: يستخدم ممثل التهديد برامج RAT المعيارية وسرقة المعلومات في حملات التجسس السيبراني ذات الدوافع المالية.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "9e8832c90503c76f",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/",
@@ -36,6 +72,15 @@
     "ar_text": "🛡️ ⚡ ملخص أسبوعي: شبكات الروبوت الوكيل، وبرامج الفدية للمتصفح، وحيل الذكاء الاصطناعي، والبرامج الضارة المزيفة لـ PoC والمزيد\n\n📌 وش اللي صار: لا ينبغي أن يحتاج صندوق البث إلى نموذج تهديد. ولا ينبغي أيضًا أن يكون هناك حقل اسم مستخدم، أو مستودع تجريبي، أو تدفق إعادة تعيين، أو مطالبة إذن المتصفح. هذا هو الجزء المزعج هذا الأسبوع: القطع المحفوفة بالمخاطر كانت عادية. أصبحت الأجهزة المنزلية بمثابة غطاء التوجيه.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "9596a61f41ff7a08",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-06T12:48:01+00:00",
+    "en_text": "🛡️ 𝐏𝐫𝐨𝐨𝐟-𝐨𝐟-𝐂𝐨𝐧𝐜𝐞𝐩𝐭 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐑𝐞𝐥𝐞𝐚𝐬𝐞𝐝 𝐟𝐨𝐫 𝐋𝐢𝐧𝐮𝐱 ‘𝐁𝐚𝐝 𝐄𝐩𝐨𝐥𝐥’ 𝐑𝐨𝐨𝐭 𝐀𝐜𝐜𝐞𝐬𝐬 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: Organizations are urged to patch after proof-of-concept code makes the Linux root escalation flaw easier to exploit.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم إصدار ثغرة إثبات المفهوم لثغرة الوصول إلى الجذر \"Bad Epoll\" لنظام التشغيل Linux\n\n📌 وش اللي صار: يتم حث المؤسسات على التصحيح بعد أن يجعل رمز إثبات المفهوم ثغرة تصعيد جذر Linux أسهل في الاستغلال.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "6820150483b8ced3",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
@@ -43,6 +88,15 @@
     "published_at": "2026-07-06T11:30:02+00:00",
     "en_text": "🛡️ 𝐇𝐨𝐰 𝐭𝐨 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐞 𝐚𝐧 𝐀𝐈 𝐒𝐎𝐂 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐢𝐧 𝟐𝟎𝟐𝟔: 𝟔 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐓𝐡𝐚𝐭 𝐒𝐞𝐩𝐚𝐫𝐚𝐭𝐞 𝐋𝐞𝐚𝐝𝐞𝐫𝐬 𝐟𝐫𝐨𝐦 𝐁𝐨𝐥𝐭-𝐎𝐧 𝐀𝐈 𝐬𝐨𝐥𝐮𝐭𝐢𝐨𝐧𝐬\n\n📌 What happened: Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ كيفية تقييم منصة SOC للذكاء الاصطناعي في عام 2026: 6 قدرات تفصل القادة عن حلول Bolt-On AI\n\n📌 وش اللي صار: قد يكون إنشاء قائمة مختصرة لتقييم AI SOC أمرًا صعبًا. يقول بائعو SIEM وSOAR وPureplay AI SOC نفس الشيء.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "679505ec6be2e20c",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-06T11:19:47+00:00",
+    "en_text": "🛡️ 𝐏𝐫𝐨𝐦𝐩𝐭 𝐈𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐓𝐫𝐢𝐜𝐤 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬 𝐈𝐧𝐭𝐨 𝐌𝐚𝐤𝐢𝐧𝐠 𝐂𝐫𝐲𝐩𝐭𝐨 𝐏𝐚𝐲𝐦𝐞𝐧𝐭𝐬\n\n📌 What happened: Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing the web.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ هجمات الحقن الفوري تخدع عملاء الذكاء الاصطناعي لإجراء مدفوعات العملات المشفرة\n\n📌 وش اللي صار: اكتشف الباحثون حملتين تقومان بتضمين عمليات حقن سريعة غير مباشرة في مواقع الويب الضارة لاستغلال عملاء الذكاء الاصطناعي المستقلين الذين يتصفحون الويب.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "8189a92ce7bdf5d2",
