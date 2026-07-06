@@ -1,5 +1,23 @@
 [
   {
+    "id": "6f6081fec769fe0e",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-06T20:27:37+00:00",
+    "en_text": "🛡️ 𝐏𝐡𝐢𝐬𝐡𝐢𝐧𝐠 𝐩𝐨𝐬𝐞𝐬 𝐚𝐬 𝐛𝐢𝐠-𝐛𝐫𝐚𝐧𝐝 𝐣𝐨𝐛 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐭𝐨 𝐬𝐭𝐞𝐚𝐥 𝐆𝐨𝐨𝐠𝐥𝐞 𝐚𝐜𝐜𝐨𝐮𝐧𝐭𝐬\n\n📌 What happened: A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يمثل التصيد الاحتيالي بمثابة مقابلة عمل لعلامة تجارية كبيرة لسرقة حسابات Google\n\n📌 وش اللي صار: تنتحل حملة تصيد احتيالي شخصية أكثر من 30 علامة تجارية معروفة، بما في ذلك Adobe وNetflix وCoca-Cola وOpenAI، في مقابلات عمل مزيفة لسرقة بيانات اعتماد حساب Google من محترفي التسويق.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "1bc1a16ef57f8909",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-06T20:23:45+00:00",
+    "en_text": "🛡️ 𝐅𝐚𝐤𝐞 𝐈𝐓 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐜𝐚𝐥𝐥𝐬 𝐨𝐧 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐓𝐞𝐚𝐦𝐬 𝐩𝐮𝐬𝐡 𝐄𝐭𝐡𝐞𝐫𝐑𝐀𝐓 𝐦𝐚𝐥𝐰𝐚𝐫𝐞\n\n📌 What happened: Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ مكالمات دعم تكنولوجيا المعلومات الزائفة على Microsoft Teams تدفع البرامج الضارة EtherRAT\n\n📌 وش اللي صار: تستغل جهات التهديد المكالمات الصوتية لـ Microsoft Teams من خلال انتحال شخصية موظفي دعم تكنولوجيا المعلومات في الشركة لخداع الموظفين لتثبيت البرنامج الضار EtherRAT، مما يمنح المهاجمين إمكانية الوصول الأولي إلى شبكات الشركة.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "63ee79eaa6af8d90",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/",
