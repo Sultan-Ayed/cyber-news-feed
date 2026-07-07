@@ -1,5 +1,23 @@
 [
   {
+    "id": "f7d60f3289a911b9",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-07T07:37:38+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝐧𝐞𝐰 𝐂𝐥𝐨𝐮𝐝 𝐑𝐞𝐛𝐮𝐢𝐥𝐝 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝟏𝟏 𝐫𝐞𝐜𝐨𝐯𝐞𝐫𝐲 𝐟𝐞𝐚𝐭𝐮𝐫𝐞\n\n📌 What happened: Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تختبر Microsoft ميزة استرداد Cloud Rebuild Windows 11 الجديدة\n\n📌 وش اللي صار: بدأت Microsoft في اختبار ميزة استرداد Cloud Rebuild في أحدث إصدارات Windows 11 Insider Preview التي تم إصدارها للمستخدمين في القناة التجريبية.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "2e157ad8cab59466",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim5I3ndx1DHNKSznD7AT_CM4ApiaXDfZcQAwsCSDnHq7u8dkGcOzway-IBZJ44bFJintaRMSry4yHbaacESRFOJsRC_UBV6N9l_K4ICcqWsZ2E4zQ5BGibAkxjxm0qPYiiLEvAvDizmPZVYwXC6jN9pgB5G-3xZ9ifiEWisKsZoi9rBjJN1mepJjPl61s9/s1600/bt.jpg",
+    "published_at": "2026-07-07T05:16:51+00:00",
+    "en_text": "🛡️ 𝐁𝐞𝐲𝐨𝐧𝐝𝐓𝐫𝐮𝐬𝐭 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐀𝐮𝐭𝐡 𝐁𝐲𝐩𝐚𝐬𝐬 𝐅𝐥𝐚𝐰𝐬 𝐢𝐧 𝐑𝐞𝐦𝐨𝐭𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐚𝐧𝐝 𝐏𝐑𝐀\n\n📌 What happened: BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to take control of susceptible devices.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تقوم BeyondTrust بتصحيح العيوب الخطيرة في تجاوز المصادقة في الدعم عن بعد وPRA\n\n📌 وش اللي صار: أصدرت BeyondTrust تحديثات لمعالجة عيبين أمنيين خطيرين يؤثران على منتجات الدعم عن بُعد (RS) والوصول عن بُعد المميز (PRA)، والتي، إذا تم استغلالها بنجاح، قد تسمح للمهاجمين غير المصادقين بالتحكم في الأجهزة الحساسة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "582420fae004f267",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks",
