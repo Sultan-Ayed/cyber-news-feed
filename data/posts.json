@@ -1,5 +1,41 @@
 [
   {
+    "id": "ecc24a11d42afcc7",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-08T08:15:20+00:00",
+    "en_text": "🛡️ 𝐔𝐛𝐢𝐪𝐮𝐢𝐭𝐢 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐧𝐞𝐰 𝐦𝐚𝐱 𝐬𝐞𝐯𝐞𝐫𝐢𝐭𝐲 𝐔𝐧𝐢𝐅𝐢 𝐎𝐒 𝐯𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Ubiquiti يحذر من ثغرة أمنية جديدة في نظام UniFi OS\n\n📌 وش اللي صار: أصدرت Ubiquiti تحديثات أمنية لتصحيح سبع نقاط ضعف خطيرة في نظام التشغيل UniFi OS، بما في ذلك ثغرة شديدة الخطورة يمكن استغلالها في هجمات حقن الأوامر.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "0e40a06dbfa836ba",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-08T07:16:55+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐨𝐫𝐝𝐞𝐫𝐬 𝐟𝐞𝐝𝐬 𝐭𝐨 𝐩𝐚𝐭𝐜𝐡 𝐦𝐚𝐱 𝐬𝐞𝐯𝐞𝐫𝐢𝐭𝐲 𝐂𝐨𝐥𝐝𝐅𝐮𝐬𝐢𝐨𝐧 𝐟𝐥𝐚𝐰 𝐛𝐲 𝐅𝐫𝐢𝐝𝐚𝐲\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تأمر CISA الفيدراليين بتصحيح ثغرة ColdFusion القصوى بحلول يوم الجمعة\n\n📌 وش اللي صار: أمرت وكالة الأمن السيبراني وأمن البنية التحتية الأمريكية (CISA) الوكالات الحكومية بتصحيح ثغرة شديدة الخطورة تم استغلالها بشكل نشط في منصة تطوير تطبيقات الويب التجارية Adobe ColdFusion بحلول يوم الجمعة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "ff55f94eaa8b8ae6",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid8ZRwAprNDN6zAPixm22IlrKWp03FJdQF0TxCV5v_jxckPLkOHRSzHQERbDNw_FZdnyluuhyphenhyphenGZ7pSX51cjBl-S8PrqhgARlAe8VfWPabk7t4hAy37ZSrRu6oXfRYlXP7s1x1OBYW9WHmgWobGS0wiC0mrO42xHWHrSI3ICLM5OFzsOA3tVCcs4_N1yPU/s1600/linux-root.gif",
+    "published_at": "2026-07-08T06:16:44+00:00",
+    "en_text": "🛡️ 𝟏𝟓-𝐘𝐞𝐚𝐫-𝐎𝐥𝐝 𝐆𝐡𝐨𝐬𝐭𝐋𝐨𝐜𝐤 𝐅𝐥𝐚𝐰 𝐄𝐧𝐚𝐛𝐥𝐞𝐬 𝐑𝐨𝐨𝐭 𝐚𝐧𝐝 𝐂𝐨𝐧𝐭𝐚𝐢𝐧𝐞𝐫 𝐄𝐬𝐜𝐚𝐩𝐞 𝐨𝐧 𝐌𝐨𝐬𝐭 𝐋𝐢𝐧𝐮𝐱 𝐃𝐢𝐬𝐭𝐫𝐨𝐬\n\n📌 What happened: Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ خلل في GhostLock عمره 15 عامًا يُمكّن من الهروب من الجذر والحاويات في معظم توزيعات Linux\n\n📌 وش اللي صار: كشف الباحثون في Nebula Security عن GhostLock (CVE-2026-43499)، وهو عيب في نواة Linux يبلغ من العمر 15 عامًا يسمح لأي مستخدم قام بتسجيل الدخول بالتحكم الكامل في الجذر لجهاز لم يتم تصحيحه.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "963a877b9f495bda",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZn36WwWfaOwK7XCU9aKjVPS7QAyrnBKsKMXtVRyYbD2X30HI-ojl5F8ttD9VcbXB36anuKWq-JGEhzPq1fjwnEhKPKMjkPDMPAFe8OqR85N1dc0QZoZ7JCN9ziqGuQ8M4irelfxa_zca62EV-s9qBO9WI47ECtzM8Zi2X8T-MFfuRRbJQ8u48Y2RRt3UT/s1600/cisa-main.jpg",
+    "published_at": "2026-07-08T05:33:12+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐀𝐝𝐝𝐬 𝟒 𝐀𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐀𝐝𝐨𝐛𝐞, 𝐉𝐨𝐨𝐦𝐥𝐚, 𝐚𝐧𝐝 𝐋𝐚𝐧𝐠𝐟𝐥𝐨𝐰 𝐅𝐥𝐚𝐰𝐬 𝐭𝐨 𝐊𝐄𝐕\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تضيف CISA 4 عيوب مستغلة بشكل نشط في Adobe وJoomla وLangflow إلى KEV\n\n📌 وش اللي صار: أضافت وكالة الأمن السيبراني وأمن البنية التحتية الأمريكية (CISA) يوم الثلاثاء أربعة عيوب أمنية إلى قائمة الثغرات الأمنية المستغلة المعروفة (KEV)، مستشهدة بأدلة على الاستغلال النشط.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "8b7dadd2802da216",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
