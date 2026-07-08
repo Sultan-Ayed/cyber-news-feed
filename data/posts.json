@@ -1,5 +1,41 @@
 [
   {
+    "id": "bc7450e48d7708af",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-08T10:45:25+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐔𝐫𝐠𝐞𝐬 𝐈𝐦𝐦𝐞𝐝𝐢𝐚𝐭𝐞 𝐏𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐨𝐟 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐂𝐨𝐥𝐝𝐅𝐮𝐬𝐢𝐨𝐧, 𝐋𝐚𝐧𝐠𝐟𝐥𝐨𝐰, 𝐉𝐨𝐨𝐦𝐥𝐚 𝐅𝐥𝐚𝐰𝐬\n\n📌 What happened: Two newly disclosed critical vulnerabilities in Adobe ColdFusion and Langflow join two Joomla extension flaws in CISA's Known Exploited Vulnerabilities catalog, with federal agencies given until July 10 to patch.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ CISA تحث على التصحيح الفوري لعيوب ColdFusion وLangflow وJoomla المستغلة\n\n📌 وش اللي صار: تنضم ثغرتان أمنيتان خطيرتان تم الكشف عنهما حديثًا في Adobe ColdFusion وLangflow إلى اثنين من عيوب ملحق Joomla في كتالوج الثغرات الأمنية المستغلة المعروفة لدى CISA، مع منح الوكالات الفيدرالية مهلة حتى 10 يوليو لتصحيحها.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "b50400ec63f5a09b",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-08T10:30:55+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐄𝐱𝐩𝐨𝐬𝐞𝐬 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬 𝐭𝐨 𝐏𝐫𝐨𝐦𝐩𝐭 𝐈𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧\n\n📌 What happened: Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private repositories without authentication.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تعرض الثغرات الأمنية الخطيرة سير عمل وكيل GitHub للحقن الفوري\n\n📌 وش اللي صار: يوضح الباحثون كيف يمكن للمهاجمين استخدام مشكلة GitHub العامة المصممة لخداع سير العمل المدعوم بالذكاء الاصطناعي لكشف البيانات من المستودعات الخاصة دون مصادقة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "15ffdd0151ee1741",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-08T09:58:11+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐨𝐫𝐝𝐞𝐫𝐬 𝐟𝐞𝐝𝐬 𝐭𝐨 𝐩𝐫𝐢𝐨𝐫𝐢𝐭𝐢𝐳𝐞 𝐩𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐟𝐥𝐨𝐰 𝐚𝐮𝐭𝐡 𝐛𝐲𝐩𝐚𝐬𝐬 𝐟𝐥𝐚𝐰\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تطلب CISA من الفيدراليين إعطاء الأولوية لتصحيح خطأ تجاوز مصادقة Langflow\n\n📌 وش اللي صار: منحت وكالة الأمن السيبراني وأمن البنية التحتية الأمريكية (CISA) الوكالات الفيدرالية حتى يوم الجمعة لإصلاح ثغرة أمنية مستغلة بشكل نشط في إطار العمل المرئي Langflow لبناء عملاء الذكاء الاصطناعي.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "b00083c733dc2411",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXpYmSnXODMABymw2qCiVS3p13OIwfJ45yIZq-o8wXfgtWXxOPjPbsGjdgEExUsWcvkKhtyPBhGsc6mSIzg8fzwrVJE_GIIm0k3qbzMd7BSjUcAjRFznnsXjv-dnG-Zq671G-_PYcHe88J4yTpy0FBc_pReVfNVrwGvGceEvAbLqA_roMRNI2DjbwohEqK/s1600/routers.jpg",
+    "published_at": "2026-07-08T09:04:33+00:00",
+    "en_text": "🛡️ 𝐂𝐡𝐢𝐧𝐚-𝐋𝐢𝐧𝐤𝐞𝐝 𝐔𝐀𝐓-𝟕𝟖𝟏𝟎 𝐄𝐱𝐩𝐚𝐧𝐝𝐬 𝐎𝐑𝐁 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐖𝐢𝐭𝐡 𝐍𝐞𝐰 𝐋𝐎𝐍𝐆𝐋𝐄𝐀𝐒𝐇 𝐌𝐚𝐥𝐰𝐚𝐫𝐞\n\n📌 What happened: A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ UAT-7810 المرتبط بالصين يوسع شبكة ORB ببرامج ضارة جديدة من نوع LONGLEASH\n\n📌 وش اللي صار: يقوم أحد ممثلي التهديد الصيني الذي تم تعقبه باسم UAT-7810 بتحسين برامجه الضارة المخصصة لتوسيع شبكة Operational Relay Box (ORB) الخاصة به عن طريق اقتحام أجهزة الشبكات التي تواجه الإنترنت.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "ecc24a11d42afcc7",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
@@ -7,6 +43,15 @@
     "published_at": "2026-07-08T08:15:20+00:00",
     "en_text": "🛡️ 𝐔𝐛𝐢𝐪𝐮𝐢𝐭𝐢 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐧𝐞𝐰 𝐦𝐚𝐱 𝐬𝐞𝐯𝐞𝐫𝐢𝐭𝐲 𝐔𝐧𝐢𝐅𝐢 𝐎𝐒 𝐯𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Ubiquiti يحذر من ثغرة أمنية جديدة في نظام UniFi OS\n\n📌 وش اللي صار: أصدرت Ubiquiti تحديثات أمنية لتصحيح سبع نقاط ضعف خطيرة في نظام التشغيل UniFi OS، بما في ذلك ثغرة شديدة الخطورة يمكن استغلالها في هجمات حقن الأوامر.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "21e41fdd4b7f0eb5",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt85611c1866a21569/6a4d55cc8fda9d615b941ebe/AI_agents-akinbostanci-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-08T08:01:00+00:00",
+    "en_text": "🛡️ 𝐒𝐭𝐚𝐭𝐞 𝐈𝐃𝐬 𝐟𝐨𝐫 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬: 𝐖𝐢𝐥𝐥 𝐄𝐬𝐭𝐨𝐧𝐢𝐚 𝐒𝐞𝐭 𝐚 𝐏𝐫𝐞𝐜𝐞𝐝𝐞𝐧𝐭?\n\n📌 What happened: The world's digital testing ground plans to help people use AI agents for government purposes.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ معرفات الدولة لعملاء الذكاء الاصطناعي: هل ستشكل إستونيا سابقة؟\n\n📌 وش اللي صار: تخطط ساحة الاختبار الرقمي في العالم لمساعدة الأشخاص على استخدام وكلاء الذكاء الاصطناعي للأغراض الحكومية.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "0e40a06dbfa836ba",
