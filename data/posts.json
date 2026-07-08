@@ -1,5 +1,32 @@
 [
   {
+    "id": "241c0d60f9f168ac",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyber-risk/mexicos-cyber-plan-first-real-test",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6370d73fa04cbda/6a4eb6581316b8e296d1db9a/mexico-city-fifa-world-cup-2026-Santiago_Castillo_Chomel-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-08T21:34:21+00:00",
+    "en_text": "🛡️ 𝐌𝐞𝐱𝐢𝐜𝐨'𝐬 𝐍𝐞𝐰 𝐂𝐲𝐛𝐞𝐫 𝐏𝐥𝐚𝐧 𝐅𝐚𝐜𝐞𝐬 𝐈𝐭𝐬 𝐅𝐢𝐫𝐬𝐭 𝐑𝐞𝐚𝐥 𝐓𝐞𝐬𝐭\n\n📌 What happened: The Latin American nation's cybersecurity plan — still in the expansion phase — has to survive its own knockout round during the FIFA World Cup.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/mexicos-cyber-plan-first-real-test\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تواجه خطة المكسيك السيبرانية الجديدة أول اختبار حقيقي لها\n\n📌 وش اللي صار: يتعين على خطة الأمن السيبراني في دولة أمريكا اللاتينية - التي لا تزال في مرحلة التوسع - أن تنجو من جولة خروج المغلوب خلال كأس العالم لكرة القدم.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/mexicos-cyber-plan-first-real-test\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "38dcb6c79cd5ccc7",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-08T21:26:59+00:00",
+    "en_text": "🛡️ 𝐌𝐨𝐮𝐧𝐭 𝐑𝐨𝐲𝐚𝐥 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐛𝐫𝐞𝐚𝐜𝐡 𝐚𝐬 𝐡𝐚𝐜𝐤𝐞𝐫𝐬 𝐜𝐥𝐚𝐢𝐦 𝐚𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ جامعة ماونت رويال تؤكد الاختراق بينما يدعي المتسللون الهجوم\n\n📌 وش اللي صار: تقول جامعة ماونت رويال في كالجاري إن المتسللين سرقوا البيانات من أنظمة تخزين الملفات الخاصة بها ثم قاموا بحذفها بعد اختراق شبكة الجامعة.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "39d28f7c127381a4",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1db73768baa07d9c/6a4eaaf98fda9d47d6942977/Skull_cloud-AscentXmedia_Getty-2271725500.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-08T20:32:22+00:00",
+    "en_text": "🛡️ 𝐋𝐨𝐧𝐞 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫 𝐔𝐬𝐞𝐬 𝐀𝐈 𝐭𝐨 𝐁𝐫𝐞𝐚𝐜𝐡 𝐀𝐖𝐒 𝐂𝐥𝐨𝐮𝐝 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭 𝐢𝐧 𝟕𝟐 𝐇𝐨𝐮𝐫𝐬\n\n📌 What happened: The attacker exploited AI workflows, chained cloud weaknesses, and stolen credentials to extort a large Amazon customer.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يستخدم Lone Attacker الذكاء الاصطناعي لاختراق بيئة AWS السحابية خلال 72 ساعة\n\n📌 وش اللي صار: استغل المهاجم سير عمل الذكاء الاصطناعي، ونقاط الضعف السحابية المتسلسلة، وبيانات الاعتماد المسروقة لابتزاز أحد عملاء أمازون الكبار.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "11bd55b6e6a6a556",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
