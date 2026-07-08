@@ -1,5 +1,32 @@
 [
   {
+    "id": "7bc0e8327020ee0f",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEtVOCcf8-6_z0F4FVoPlTMQRFJ4CfHCbl-GvhT9EbRrfZgTJsNbBkzAq72212RbMT1Knk5GJsYDY8p5W7YO8x29vQ782QW6CRorl_oKVyAgOmS46Y9HyTPcdZOmMjOPtWjpAHH3C91EPVk4dnHqaAEX8QoaSvGzCbjMy0YhF7lJaIR6-T9Dq5jzZycIc/s1600/alarm.jpg",
+    "published_at": "2026-07-08T17:02:12+00:00",
+    "en_text": "🛡️ 𝐀𝐈 𝐂𝐨𝐝𝐢𝐧𝐠 𝐀𝐠𝐞𝐧𝐭𝐬 𝐅𝐨𝐮𝐧𝐝 𝐓𝐫𝐢𝐠𝐠𝐞𝐫𝐢𝐧𝐠 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐑𝐮𝐥𝐞𝐬 𝐁𝐮𝐢𝐥𝐭 𝐭𝐨 𝐂𝐚𝐭𝐜𝐡 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬\n\n📌 What happened: Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders. The agents are not malicious.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ عثر وكلاء تشفير الذكاء الاصطناعي على قواعد أمنية لنقطة النهاية مصممة للقبض على المهاجمين\n\n📌 وش اللي صار: نظرت سوفوس في أسبوع من بيانات نقطة النهاية الخاصة بها ووجدت أن وكلاء تشفير الذكاء الاصطناعي مثل Claude Code وCursor وOpenAI Codex يقومون بإعداد قواعد الكشف المكتوبة للقبض على المتسللين من البشر. الوكلاء ليسوا ضارين.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "26b7475c5d0d96b6",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-08T16:47:25+00:00",
+    "en_text": "🛡️ 𝐄𝐧𝐭𝐫𝐚 𝐩𝐚𝐬𝐬𝐤𝐞𝐲 𝐞𝐧𝐫𝐨𝐥𝐥𝐦𝐞𝐧𝐭 𝐯𝐢𝐬𝐡𝐢𝐧𝐠 𝐭𝐚𝐫𝐠𝐞𝐭𝐬 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝟑𝟔𝟓 𝐮𝐬𝐞𝐫𝐬\n\n📌 What happened: A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يستهدف التصيد الاحتيالي لتسجيل مفتاح المرور الداخلي مستخدمي Microsoft 365\n\n📌 وش اللي صار: يستهدف أحد جهات التهديد المؤسسات عبر قطاعات متعددة من خلال طلبات أمان وهمية تعتمد على الصوت وتطلب من مستخدمي Microsoft 365 تسجيل مفتاح مرور Entra جديد.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "132b9bac03a1ef49",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef5da1ce256ae254/6a4e4ce57265bc2b954afdde/malvertising_Bits_And_Splits_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-08T16:45:54+00:00",
+    "en_text": "🛡️ 𝐕𝐢𝐝𝐚𝐫 𝐈𝐧𝐟𝐨𝐬𝐭𝐞𝐚𝐥𝐞𝐫 𝐇𝐚𝐦𝐦𝐞𝐫𝐬 𝐒𝐌𝐁𝐬 𝐯𝐢𝐚 𝐌𝐚𝐥𝐯𝐞𝐫𝐭𝐢𝐬𝐢𝐧𝐠 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧\n\n📌 What happened: A financially motivated operation uses lures of cracked or pirated software to deliver a malware two-for-one combo for data theft and cryptomining.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Vidar Infostealer يهاجم الشركات الصغيرة والمتوسطة عبر حملة إعلانية ضارة\n\n📌 وش اللي صار: تستخدم العملية ذات الدوافع المالية إغراءات البرامج المتصدعة أو المقرصنة لتقديم مجموعة برامج ضارة ثنائية مقابل واحدة لسرقة البيانات والتنقيب عن العملات المشفرة.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2d81697decd87202",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
@@ -7,6 +34,15 @@
     "published_at": "2026-07-08T16:09:15+00:00",
     "en_text": "🛡️ 𝐀𝐜𝐜𝐞𝐧𝐭𝐮𝐫𝐞 𝐂𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡 𝐀𝐟𝐭𝐞𝐫 𝐇𝐚𝐜𝐤𝐞𝐫 𝐂𝐥𝐚𝐢𝐦𝐬 𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞 𝐓𝐡𝐞𝐟𝐭\n\n📌 What happened: The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery impact.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تؤكد شركة Accenture حدوث اختراق للبيانات بعد أن ادعى المتسللون سرقة كود المصدر\n\n📌 وش اللي صار: يقول عملاق الخدمات المهنية إنه احتوى الحادث، وعالج مصدره، ولم يتعرض لأي تأثير على العمليات أو تقديم الخدمات.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "4492dd6a04676e92",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-08T15:42:11+00:00",
+    "en_text": "🛡️ 𝐂𝐡𝐢𝐧𝐚-𝐋𝐢𝐧𝐤𝐞𝐝 𝐀𝐏𝐓 𝐄𝐱𝐩𝐚𝐧𝐝𝐬 𝐀𝐫𝐬𝐞𝐧𝐚𝐥 𝐖𝐢𝐭𝐡 𝐍𝐞𝐰 ‘𝐋𝐞𝐚𝐬𝐡’ 𝐁𝐚𝐜𝐤𝐝𝐨𝐨𝐫𝐬\n\n📌 What happened: Cisco says the threat actor behind the LapDogs campaign has expanded its SOHO router malware toolkit with LongLeash, DogLeash, and JarLeash backdoors.\n\n💡 Why it matters: Modern malware doesn't announce itself — it blends into normal traffic until the moment it needs to strike.\n\n✅ Quick tip: Only install software from official sources — 'free' cracked versions are one of the top malware delivery methods.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ APT المرتبطة بالصين توسع نطاق الترسانة من خلال أبواب خلفية جديدة من نوع \"المقود\"\n\n📌 وش اللي صار: تقول شركة Cisco إن جهة التهديد التي تقف وراء حملة LapDogs قامت بتوسيع مجموعة أدوات البرامج الضارة لجهاز توجيه SOHO باستخدام أبواب خلفية LongLeash وDogLeash وJarLeash.\n\n💡 ليش هذا مهم: البرمجيات الخبيثة الحديثة ما تعلن عن نفسها، تندمج مع النشاط العادي للجهاز لين تجي لحظة الضربة.\n\n✅ نصيحة سريعة: ثبّت البرامج من مصادرها الرسمية بس — النسخ 'المجانية' المقرصنة من أكثر طرق توزيع البرمجيات الخبيثة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "84ad29f7ff7b2c12",
@@ -36,6 +72,15 @@
     "ar_text": "🛡️ 3 طرق لهجمات الذكاء الاصطناعي على مكاتب الخدمة وكيفية منعها\n\n📌 وش اللي صار: تشرح Specops Software كيف يجعل الذكاء الاصطناعي هجمات انتحال هوية مكتب الخدمة أكثر إقناعًا وتخصيصًا وقابلة للتطوير، إلى جانب الخطوات العملية التي يمكن للمؤسسات اتخاذها لتعزيز عملية الإعداد والتحقق من الهوية.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "138becea24e9bc98",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-08T13:16:28+00:00",
+    "en_text": "🛡️ 𝐖𝐞𝐛𝐢𝐧𝐚𝐫 𝐓𝐨𝐝𝐚𝐲: 𝐖𝐡𝐲 𝐄𝐦𝐚𝐢𝐥 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐊𝐞𝐞𝐩𝐬 𝐅𝐚𝐢𝐥𝐢𝐧𝐠\n\n📌 What happened: Join the webinar as we break down why email-layer defenses alone can’t keep pace with the modern phishing ecosystem.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ندوة عبر الإنترنت اليوم: لماذا يستمر أمان البريد الإلكتروني في الفشل\n\n📌 وش اللي صار: انضم إلى الندوة عبر الويب ونحن نوضح أسباب عدم قدرة دفاعات طبقة البريد الإلكتروني وحدها على مواكبة النظام البيئي للتصيد الاحتيالي الحديث.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "a4bf32ad6055a423",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
@@ -61,6 +106,15 @@
     "published_at": "2026-07-08T12:31:39+00:00",
     "en_text": "🛡️ 𝐅𝐞𝐥𝐨𝐧𝐬, 𝐅𝐫𝐚𝐮𝐝𝐬𝐭𝐞𝐫𝐬 𝐅𝐥𝐨𝐠 𝐎𝐟𝐟𝐞𝐧𝐬𝐢𝐯𝐞 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐭𝐚𝐫𝐭𝐮𝐩\n\n📌 What happened: A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a…\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Krebs on Security — https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ المجرمين والمحتالين يجلدون بدء التشغيل الهجومي للأمن السيبراني\n\n📌 وش اللي صار: شركة ناشئة في مجال الأمن السيبراني تتدلى بملايين الدولارات للحصول على ثغرات أمنية يومية في البرامج الشائعة، يديرها زوج من منظري المؤامرة اليمينيين المتطرفين ومجرمين مدانين تضمنت أحدث مشاريعهم شركات استخبارات مزيفة و...\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Krebs on Security — https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "ed9b6837627aaf62",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-08T12:15:00+00:00",
+    "en_text": "🛡️ 𝐆𝐨𝐨𝐠𝐥𝐞 𝐃𝐢𝐚𝐥𝐨𝐠𝐟𝐥𝐨𝐰 𝐂𝐗 𝐁𝐮𝐠 𝐀𝐥𝐥𝐨𝐰𝐞𝐝 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐭𝐨 𝐇𝐢𝐣𝐚𝐜𝐤 𝐀𝐈 𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧𝐬\n\n📌 What happened: The \"Rogue Agent\" vulnerability could have enabled attackers to silently manipulate AI conversations, exfiltrate data, and compromise every Dialogflow CX agent within the same Google Cloud project.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ سمح خطأ Google Dialogflow CX للمهاجمين باختطاف محادثات الذكاء الاصطناعي\n\n📌 وش اللي صار: من الممكن أن تكون ثغرة \"Rogue Agent\" قد مكنت المهاجمين من التعامل بصمت مع محادثات الذكاء الاصطناعي، وتصفية البيانات، واختراق كل وكيل Dialogflow CX ضمن مشروع Google Cloud نفسه.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "a982efdc61d974f6",
