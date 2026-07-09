@@ -1,5 +1,59 @@
 [
   {
+    "id": "bb5d2b6b27289811",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-09T15:03:51+00:00",
+    "en_text": "🛡️ 𝐐𝐈𝐙 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐑𝐚𝐢𝐬𝐞𝐬 $𝟏𝟕 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐂𝐫𝐲𝐩𝐭𝐨𝐠𝐫𝐚𝐩𝐡𝐢𝐜 𝐆𝐨𝐯𝐞𝐫𝐧𝐚𝐧𝐜𝐞 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦\n\n📌 What happened: The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ شركة QIZ Security تجمع 17 مليون دولار أمريكي لمنصة حوكمة التشفير\n\n📌 وش اللي صار: قامت الشركة الإسرائيلية بتطوير منصة التشفير ومنصة إدارة التشفير بعد الكم.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "e2986714170efa3c",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-09T14:39:51+00:00",
+    "en_text": "🛡️ 𝐍𝐞𝐰 𝐅𝐨𝐫𝐠𝟑𝟔𝟓 𝐩𝐡𝐢𝐬𝐡𝐢𝐧𝐠 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐮𝐬𝐞𝐬 𝐀𝐈 𝐭𝐨 𝐭𝐚𝐫𝐠𝐞𝐭 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝟑𝟔𝟓 𝐚𝐜𝐜𝐨𝐮𝐧𝐭𝐬\n\n📌 What happened: A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تستخدم منصة التصيد الاحتيالي الجديدة Forg365 الذكاء الاصطناعي لاستهداف حسابات Microsoft 365\n\n📌 وش اللي صار: تركز عملية التصيد الاحتيالي الجديدة كخدمة (PhaaS) التي تسمى Forg365 على سرقة حسابات Microsoft 365 من خلال الجمع بين أساليب الخصم في الوسط (AiTM) وأساليب ترميز الجهاز مع إنشاء الإغراءات بمساعدة الذكاء الاصطناعي.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "3a28be8d621d5813",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9c5b847987e803e0/6a34151775c855b8678735cd/War_business-sonmez_karakurt-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-09T14:31:20+00:00",
+    "en_text": "🛡️ 𝐀𝐬 𝐆𝐥𝐨𝐛𝐚𝐥 𝐂𝐨𝐧𝐟𝐥𝐢𝐜𝐭𝐬 𝐆𝐨 𝐃𝐢𝐠𝐢𝐭𝐚𝐥, 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬𝐞𝐬 𝐍𝐞𝐞𝐝 𝐖𝐚𝐫𝐭𝐢𝐦𝐞 𝐆𝐚𝐦𝐞𝐩𝐥𝐚𝐧𝐬\n\n📌 What happened: The fate of a Ukrainian tax software company shows how modern cyberwarfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ مع تحول الصراعات العالمية إلى عالم رقمي، تحتاج الشركات إلى خطط لعب في زمن الحرب\n\n📌 وش اللي صار: يُظهِر مصير شركة برمجيات ضريبية أوكرانية كيف يمكن للحرب السيبرانية الحديثة أن تحصد ضحايا خارج نطاق ساحة المعركة، وكيف لا تزال الشركات عبر المحيط بحاجة إلى حماية نفسها.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "2dd04b40686d3053",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-09T14:02:12+00:00",
+    "en_text": "🛡️ 𝐓𝐡𝐞 𝐇𝐢𝐝𝐝𝐞𝐧 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐑𝐢𝐬𝐤𝐬 𝐨𝐟 𝐑𝐞𝐝𝐮𝐜𝐞𝐝 𝐒𝐮𝐦𝐦𝐞𝐫 𝐈𝐓 𝐂𝐨𝐯𝐞𝐫𝐚𝐠𝐞\n\n📌 What happened: Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance on manual processes year-round.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ المخاطر الأمنية الخفية الناجمة عن انخفاض تغطية تكنولوجيا المعلومات في الصيف\n\n📌 وش اللي صار: لا تتباطأ العمليات الأمنية عندما تأخذ فرق تكنولوجيا المعلومات إجازة، ولكن مستويات التوظيف غالبًا ما تتباطأ. يشرح كاسيا كيف يمكن للأتمتة التي تعتمد على الذكاء الاصطناعي أن تساعد المؤسسات في الحفاظ على عمليات أمنية متسقة وتقليل الاعتماد على العمليات اليدوية على مدار العام.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "ad71d6d7cf25cf0b",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5cf949a2c62ba749/6a4eb1ca6ed98610b4607ce7/aigateway_Daniel_Pinkpank_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-09T13:01:00+00:00",
+    "en_text": "🛡️ 𝐀𝐈 𝐆𝐚𝐭𝐞𝐰𝐚𝐲𝐬 𝐎𝐟𝐟𝐞𝐫 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐭𝐡𝐞 𝐊𝐞𝐲𝐬 𝐭𝐨 𝐭𝐡𝐞 𝐊𝐢𝐧𝐠𝐝𝐨𝐦\n\n📌 What happened: A cryptomining incident highlights how AI gateways can provide access to AI models, cloud infrastructure, and identity and access management (IAM) data.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ توفر بوابات الذكاء الاصطناعي للمهاجمين مفاتيح المملكة\n\n📌 وش اللي صار: تسلط حادثة تعدين العملات المشفرة الضوء على كيف يمكن لبوابات الذكاء الاصطناعي توفير الوصول إلى نماذج الذكاء الاصطناعي والبنية التحتية السحابية وبيانات إدارة الهوية والوصول (IAM).\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "373aa2e6bfda2aca",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVBCdd1YLOTAhXs53MgUBJHfid7uAH-uFr4vzULJu6BL5H7TDiBbZUDxS9RTwC1FH7q2HhEiI2BHLlymHQ7btIBDidvIohoiVJ2XH2uvQcan7Lio_iIh3Ku3J3LoM8SgaHrlAnyFeVLo77qE93hFykG4CJZUj1IsJb75jFMjAK9Q1V-akTkdagA_NLm4A/s1600/thn-webinar.jpg",
+    "published_at": "2026-07-09T12:26:58+00:00",
+    "en_text": "🛡️ 𝐀𝐈 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐌𝐨𝐯𝐞 𝐢𝐧 𝐌𝐢𝐧𝐮𝐭𝐞𝐬. 𝐉𝐨𝐢𝐧 𝐓𝐡𝐢𝐬 𝐖𝐞𝐛𝐢𝐧𝐚𝐫 𝐨𝐧 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐚 𝐃𝐞𝐟𝐞𝐧𝐬𝐞 𝐓𝐡𝐚𝐭 𝐊𝐞𝐞𝐩𝐬 𝐔𝐩\n\n📌 What happened: AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the first alert.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ هجمات الذكاء الاصطناعي تتحرك في دقائق. انضم إلى هذه الندوة عبر الويب حول بناء دفاع متواصل\n\n📌 وش اللي صار: لقد غيّر الذكاء الاصطناعي مدى سرعة تحرك الهجمات. العمل الذي كان يستغرق يومًا من قبل المهاجم أصبح الآن يستغرق دقائق. باستخدام نماذج مثل Mythos، يكتب المهاجمون طعمًا مخصصًا، ويختارون الأهداف، ويختبرون ما سيصلون إليه، وينتقلون إلى المضيف التالي قبل أن يقوم فريقك بمسح التنبيه الأول.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "833cc05cd64a7a3a",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
