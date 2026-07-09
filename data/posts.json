@@ -1,5 +1,41 @@
 [
   {
+    "id": "d7c8b88ca3e8f6cd",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-09T17:08:29+00:00",
+    "en_text": "🛡️ 𝐍𝐞𝐰 𝐇𝐞𝐥𝐢𝐱 𝐯𝐢𝐬𝐡𝐢𝐧𝐠 𝐠𝐫𝐨𝐮𝐩 𝐞𝐦𝐞𝐫𝐠𝐞𝐬 𝐢𝐧 𝐒𝐡𝐚𝐫𝐞𝐏𝐨𝐢𝐧𝐭 𝐝𝐚𝐭𝐚 𝐭𝐡𝐞𝐟𝐭 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تظهر مجموعة التصيد الاحتيالي الجديدة Helix في هجمات سرقة بيانات SharePoint\n\n📌 وش اللي صار: تستخدم مجموعة جديدة لابتزاز البيانات تسمى Helix أساليب تركز على الهوية مثل التصيد الاحتيالي الصوتي، والتصيد الاحتيالي لرمز الجهاز، وإساءة استخدام المصادقة متعددة العوامل (MFA) لسرقة البيانات من بيئات SharePoint.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "7aa47b4e15decb86",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-09T17:00:00+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐞𝐱𝐩𝐞𝐜𝐭𝐬 𝐦𝐨𝐫𝐞 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐮𝐩𝐝𝐚𝐭𝐞𝐬 𝐟𝐫𝐨𝐦 𝐀𝐈-𝐝𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐞𝐝 𝐟𝐥𝐚𝐰𝐬\n\n📌 What happened: Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تتوقع Microsoft المزيد من التحديثات الأمنية لنظام التشغيل Windows من العيوب المكتشفة بواسطة الذكاء الاصطناعي\n\n📌 وش اللي صار: تقول Microsoft إن مستخدمي Windows يجب أن يتوقعوا رؤية زيادة في التحديثات الأمنية حيث تعتمد الشركة بشكل متزايد على الذكاء الاصطناعي لاكتشاف نقاط الضعف في قاعدة التعليمات البرمجية الخاصة بها.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "470b8adce73308c0",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbP2w2lzNWbB041oSXvx2Nb1uOJaf81XNUBioDv_3K73S-JnzIU4OnUHfwG3Q3RLbf_p2wJBpHC0m2M4cQhCMfcSRRx1MY9n2vCVSNI4ddai3uJ3eE2Kb-d_ryU_HSEx_R2Rjoxz2D3TBcZCgLRWf-rOBf9k73Vi1Q04aWNG9Ux-A5AOf-v1HjSGD3YZcg/s1600/npm-security.jpg",
+    "published_at": "2026-07-09T16:49:02+00:00",
+    "en_text": "🛡️ 𝐧𝐩𝐦 𝟏𝟐 𝐃𝐢𝐬𝐚𝐛𝐥𝐞𝐬 𝐈𝐧𝐬𝐭𝐚𝐥𝐥 𝐒𝐜𝐫𝐢𝐩𝐭𝐬 𝐛𝐲 𝐃𝐞𝐟𝐚𝐮𝐥𝐭 𝐭𝐨 𝐑𝐞𝐝𝐮𝐜𝐞 𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐑𝐢𝐬𝐤\n\n📌 What happened: GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يقوم npm 12 بتعطيل تثبيت البرامج النصية بشكل افتراضي لتقليل مخاطر سلسلة التوريد\n\n📌 وش اللي صار: أعلن GitHub رسميًا عن إصدار npm الإصدار 12 مع تعطيل البرامج النصية للتثبيت افتراضيًا، إلى جانب إيقاف رموز الوصول الحبيبية (GATs) المصممة لتجاوز المصادقة الثنائية (2FA).\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "0ade65d4f76df878",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAXvG0n7eiC50jtfO-3MYOPx-Z0iWiucBfHqzY2QNH-5fUyfWcGu3NME0yERr2qWKcAeg6rIYMtP_VEeRInpeghztHmnjDa4QyuXSbaktcOdHHK9sx8lurd2RmejcmBjSZIznBl0zKQ-mk4dcCsVdL29g4XPEwUdrlQgj5-GgxvVnolSJJfCJW7g4vosLe/s1600/ThreatsDay-main.jpg",
+    "published_at": "2026-07-09T15:09:28+00:00",
+    "en_text": "🛡️ 𝐓𝐡𝐫𝐞𝐚𝐭𝐬𝐃𝐚𝐲: 𝐂𝐥𝐨𝐮𝐝 𝐁𝐮𝐜𝐤𝐞𝐭 𝐇𝐢𝐣𝐚𝐜𝐤𝐢𝐧𝐠, 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐋𝐏𝐄 𝐂𝐡𝐚𝐢𝐧, 𝐆𝐥𝐨𝐛𝐚𝐥 𝐅𝐫𝐚𝐮𝐝 𝐁𝐮𝐬𝐭 + 𝟏𝟕 𝐌𝐨𝐫𝐞 𝐒𝐭𝐨𝐫𝐢𝐞𝐬\n\n📌 What happened: Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it. This week is full of that kind of damage. Not loud. Not clever.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ThreatsDay: اختطاف مجموعة البيانات السحابية، وسلسلة Windows LPE، وضبط الاحتيال العالمي + 17 قصة أخرى\n\n📌 وش اللي صار: تبدأ معظم الفوضى الأمنية كعمل إداري. يتم النقر على الرابط. أداة تحظى بالثقة. يتم إعادة استخدام اسم الجرافة. يبقى الإعداد فضفاضًا لأنه لا أحد يريد لمسه. هذا الأسبوع مليء بهذا النوع من الضرر. ليس بصوت عال. ليس ذكيا.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "bb5d2b6b27289811",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
@@ -27,6 +63,15 @@
     "ar_text": "🛡️ مع تحول الصراعات العالمية إلى عالم رقمي، تحتاج الشركات إلى خطط لعب في زمن الحرب\n\n📌 وش اللي صار: يُظهِر مصير شركة برمجيات ضريبية أوكرانية كيف يمكن للحرب السيبرانية الحديثة أن تحصد ضحايا خارج نطاق ساحة المعركة، وكيف لا تزال الشركات عبر المحيط بحاجة إلى حماية نفسها.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "d7fceafcfcecabeb",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-09T14:19:53+00:00",
+    "en_text": "🛡️ 𝐔𝐊 𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 𝐑𝐨𝐥𝐥𝐬 𝐎𝐮𝐭 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐃𝐞𝐟𝐞𝐧𝐬𝐞 𝐏𝐥𝐚𝐧 𝐀𝐥𝐨𝐧𝐠𝐬𝐢𝐝𝐞 𝐈𝐧𝐝𝐮𝐬𝐭𝐫𝐲 𝐏𝐥𝐞𝐝𝐠𝐞\n\n📌 What happened: Two announcements on July 7, 2026, demonstrate the government’s determination to improve the level of cybersecurity within the UK.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تطرح حكومة المملكة المتحدة خطة دفاعية للذكاء الاصطناعي جنبًا إلى جنب مع تعهد الصناعة\n\n📌 وش اللي صار: يُظهر إعلانان صدرا في 7 يوليو 2026 تصميم الحكومة على تحسين مستوى الأمن السيبراني داخل المملكة المتحدة.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2dd04b40686d3053",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
@@ -34,6 +79,15 @@
     "published_at": "2026-07-09T14:02:12+00:00",
     "en_text": "🛡️ 𝐓𝐡𝐞 𝐇𝐢𝐝𝐝𝐞𝐧 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐑𝐢𝐬𝐤𝐬 𝐨𝐟 𝐑𝐞𝐝𝐮𝐜𝐞𝐝 𝐒𝐮𝐦𝐦𝐞𝐫 𝐈𝐓 𝐂𝐨𝐯𝐞𝐫𝐚𝐠𝐞\n\n📌 What happened: Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance on manual processes year-round.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ المخاطر الأمنية الخفية الناجمة عن انخفاض تغطية تكنولوجيا المعلومات في الصيف\n\n📌 وش اللي صار: لا تتباطأ العمليات الأمنية عندما تأخذ فرق تكنولوجيا المعلومات إجازة، ولكن مستويات التوظيف غالبًا ما تتباطأ. يشرح كاسيا كيف يمكن للأتمتة التي تعتمد على الذكاء الاصطناعي أن تساعد المؤسسات في الحفاظ على عمليات أمنية متسقة وتقليل الاعتماد على العمليات اليدوية على مدار العام.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "92b6d002d61e22f6",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-09T13:49:42+00:00",
+    "en_text": "🛡️ 𝐏𝐚𝐥𝐨 𝐀𝐥𝐭𝐨 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝟏𝟑 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ بالو ألتو نتوركس تصحيحات 13 نقاط الضعف\n\n📌 وش اللي صار: تم العثور على تجاوز سعة المخزن المؤقت، وDoS، وحقن الأوامر، وSSRF، وتجاوز المصادقة، وأنواع أخرى من نقاط الضعف في برنامج PAN-OS.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "ad71d6d7cf25cf0b",
