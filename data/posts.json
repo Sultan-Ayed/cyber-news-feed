@@ -1,5 +1,59 @@
 [
   {
+    "id": "833cc05cd64a7a3a",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-09T11:00:35+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐭𝐨 𝐫𝐞𝐭𝐢𝐫𝐞 𝐭𝐡𝐞 𝐎𝐖𝐀 𝐋𝐢𝐠𝐡𝐭 𝐜𝐥𝐢𝐞𝐧𝐭 𝐢𝐧 𝐄𝐱𝐜𝐡𝐚𝐧𝐠𝐞 𝐒𝐞𝐫𝐯𝐞𝐫\n\n📌 What happened: Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Microsoft ستتقاعد عميل OWA Light في Exchange Server\n\n📌 وش اللي صار: أعلنت Microsoft عن خطط لتعطيل Outlook Web Access (OWA) Light، الإصدار الخفيف من عميل البريد الإلكتروني Outlook Web App، في تحديث Exchange Server مستقبلي.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "2ee03ee380e9022e",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHNzR9Jii9NFEb6X2orsYvbxp5mJF4-z71vuQ1EHw94Tkym9ifxqrNmOtYQd9nmpe8rR7ZBZMdGEZb_S-ZKoKpXAFO3Aged7ApVnn_Pip_iI0p389k6ebIxpgwsw4OsyCKhE8KiqzdxmKDr_0ee_XaMKKPngnAcDJ5uQ_Pq8HOmX0ZUpz45pWxQID5Ec/s1600/Chainguard-main.jpg",
+    "published_at": "2026-07-09T11:00:00+00:00",
+    "en_text": "🛡️ 𝐒𝐮𝐦𝐦𝐞𝐫 𝐨𝐟 𝐂𝐥𝐞𝐚𝐫𝐢𝐧𝐠𝐡𝐨𝐮𝐬𝐞𝐬\n\n📌 What happened: Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quietly months earlier, heads down, taking…\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/summer-of-clearinghouses.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ صيف غرف المقاصة\n\n📌 وش اللي صار: يبدو أن الجميع قد أعلنوا عن غرفة مقاصة خلال الأسابيع القليلة الماضية. لقد فعلنا ذلك أيضًا. يُطلق على فندقنا اسم أثينا، والشيء الرئيسي الذي يميزها هو أنها كانت حقيقية بالفعل وتعمل عندما أعلنا عنها - تم بناؤها بهدوء قبل أشهر، وتوجهت نحو الأسفل، وأخذت ...\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/summer-of-clearinghouses.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "d49881cebcbe44a1",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge_nKJNwSt3ZRkzfZ2qH61_1WFg5hyphenhyphenMSrC3-JM4AOXRKO-IVsJXFNiM926QnG25eTply3DRF57t61wi5Ucy4yxald1RpH1TRbItw83RqQ-K6UM670vpR76-kBl2xcntaDE7lxxNwurseG5iRM4sMhYK8Npb9COGNM_XjbwBLthnJjBfwqV7m96VKOnWb3Q/s1600/endpoint-ransomware.jpg",
+    "published_at": "2026-07-09T10:43:09+00:00",
+    "en_text": "🛡️ 𝐆𝐨𝐝𝐃𝐚𝐦𝐧 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐔𝐬𝐞𝐬 𝐏𝐨𝐢𝐬𝐨𝐧𝐗 𝐃𝐫𝐢𝐯𝐞𝐫 𝐭𝐨 𝐃𝐢𝐬𝐚𝐛𝐥𝐞 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭 𝐃𝐞𝐟𝐞𝐧𝐬𝐞𝐬\n\n📌 What happened: Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يستخدم GodDamn Ransomware برنامج تشغيل PoisonX لتعطيل دفاعات نقطة النهاية\n\n📌 وش اللي صار: قام باحثو الأمن السيبراني بوضع علامة على عائلة جديدة من برامج الفدية تسمى GodDamn والتي تستخدم برنامج تشغيل PoisonX kernel لتحييد برامج الأمان كجزء من إستراتيجية التهرب الدفاعي.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "fc049fcb407e32a4",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte150e290c84d7ff7/6a4e795f8fda9dc0ef942942/Zeus-Hemera_Technologies-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-09T10:00:00+00:00",
+    "en_text": "🛡️ '𝐆𝐨𝐝𝐃𝐚𝐦𝐧' 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐔𝐬𝐞𝐬 𝐁𝐘𝐎𝐕𝐃 𝐭𝐨 𝐒𝐦𝐢𝐭𝐞 𝐔𝐒 𝐂𝐨𝐦𝐩𝐚𝐧𝐢𝐞𝐬\n\n📌 What happened: Microsoft co-signed a malicious kernel driver, and now it's being used to kill security software in ransomware attacks.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ برنامج الفدية \"GodDamn\" يستخدم BYOVD لضرب الشركات الأمريكية\n\n📌 وش اللي صار: شاركت Microsoft في التوقيع على برنامج تشغيل kernel ضار، ويتم استخدامه الآن لقتل برامج الأمان في هجمات برامج الفدية.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "b775c45641d3bef0",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-09T09:47:28+00:00",
+    "en_text": "🛡️ 𝐏𝐨𝐥𝐢𝐜𝐞 𝐚𝐫𝐫𝐞𝐬𝐭𝐬 𝟓,𝟖𝟎𝟎 𝐬𝐮𝐬𝐩𝐞𝐜𝐭𝐬 𝐢𝐧 𝐠𝐥𝐨𝐛𝐚𝐥 𝐚𝐧𝐭𝐢-𝐟𝐫𝐚𝐮𝐝 𝐜𝐫𝐚𝐜𝐤𝐝𝐨𝐰𝐧\n\n📌 What happened: Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ألقت الشرطة القبض على 5800 مشتبه به في حملة عالمية لمكافحة الاحتيال\n\n📌 وش اللي صار: ألقت وكالات إنفاذ القانون القبض على 5811 مشتبهًا بهم وصادرت 293 مليون دولار من الأصول غير المشروعة في عملية عالمية لمكافحة الاحتيال شملت 97 دولة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "d24c0cd60c39d202",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuqwSaoB3zc0bIhf1aBmcHsVVAsGnRDBc681vhmlgHYy0xx5VSxyS2jqjmk-mq27QrSKPN3yorL3A7DffJYp3iMO7CY_8owm-Cn8r7IFuvqeGHTPSyiFM0KVTMTE8W0Qon84tCbzsLVNqoS5nLq1aX8_RNKg0sxa2ke4Su_p5qy9dAlFdakwYcjueBGNhD/s1600/windows.jpg",
+    "published_at": "2026-07-09T08:48:48+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐑𝐨𝐠𝐮𝐞𝐏𝐥𝐚𝐧𝐞𝐭 𝐃𝐞𝐟𝐞𝐧𝐝𝐞𝐫 𝐅𝐥𝐚𝐰 𝐓𝐡𝐚𝐭 𝐂𝐚𝐧 𝐆𝐫𝐚𝐧𝐭 𝐒𝐘𝐒𝐓𝐄𝐌 𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞𝐬\n\n📌 What happened: Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تقوم Microsoft بتصحيح عيب RoguePlanet Defender الذي يمكن أن يمنح امتيازات النظام\n\n📌 وش اللي صار: أصدرت Microsoft تحديثات أمنية لثغرة أمنية في Defender تُعرف باسم RoguePlanet، بعد شهر تقريبًا من نشر تفاصيل الخلل.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "be06caec6d2bbe78",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cybersecurity-operations/european-organizations-collaboration-security-confidence-gap",
