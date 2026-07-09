@@ -1,5 +1,23 @@
 [
   {
+    "id": "9b18f93d368337a1",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-09T22:14:13+00:00",
+    "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐌𝐚𝐧𝐝𝐫𝐢𝐯𝐚 𝐋𝐢𝐧𝐮𝐱 𝐬𝐚𝐲𝐬 𝐜𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫 𝐭𝐫𝐢𝐞𝐝 𝐭𝐨 𝐬𝐚𝐛𝐨𝐭𝐚𝐠𝐞 𝐭𝐡𝐞 𝐩𝐫𝐨𝐣𝐞𝐜𝐭\n\n📌 What happened: The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يقول OpenMandriva Linux أن المساهم حاول تخريب المشروع\n\n📌 وش اللي صار: أعلن مشروع OpenMandriva Linux أنه كان هدفًا لمحاولة تخريب داخلي بعد خلاف بين المساهمين.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "867d4cd0c180d786",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7e03c20c7f557f7/65ef0da29b3861040aba30f4/Crosshairs_Zenobillis_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-09T20:32:00+00:00",
+    "en_text": "🛡️ 𝐈𝐫𝐚𝐧'𝐬 𝐂𝐲𝐛𝐞𝐫 𝐂𝐫𝐨𝐬𝐬𝐡𝐚𝐢𝐫𝐬 𝐅𝐨𝐜𝐮𝐬 𝐁𝐞𝐲𝐨𝐧𝐝 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞\n\n📌 What happened: Obscurity isn't a defense. If your company has any Internet-facing vulnerability, you're at risk from multiple threats.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تركز الأهداف السيبرانية الإيرانية على ما هو أبعد من البنية التحتية الحيوية\n\n📌 وش اللي صار: الغموض ليس دفاعا. إذا كانت شركتك تعاني من أي ثغرة أمنية في مواجهة الإنترنت، فأنت معرض لخطر التهديدات المتعددة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "ac5b93a7e0429b09",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-rogueplanet-zero-day-threat",
@@ -16,6 +34,15 @@
     "published_at": "2026-07-09T20:10:00+00:00",
     "en_text": "🛡️ 𝐈𝐧𝐣𝐞𝐜𝐭𝐢𝐯𝐞 𝐒𝐃𝐊 𝐨𝐧 𝐧𝐩𝐦 𝐢𝐧𝐟𝐞𝐜𝐭𝐞𝐝 𝐰𝐢𝐭𝐡 𝐜𝐫𝐲𝐩𝐭𝐨𝐜𝐮𝐫𝐫𝐞𝐧𝐜𝐲 𝐰𝐚𝐥𝐥𝐞𝐭 𝐬𝐭𝐞𝐚𝐥𝐞𝐫\n\n📌 What happened: Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ إصابة SDK المحقونة على npm بسرقة محفظة العملة المشفرة\n\n📌 وش اللي صار: قام المتسللون باختراق مستودع GitHub الخاص بمشروع Injective Labs SDK واستخدموه لنشر حزمة ضارة على Node Package Manager (npm) التي سرقت المفاتيح الخاصة لمحفظة العملة المشفرة والعبارات الأولية للذاكرة.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "5ce3032e24d879d5",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64d615142d7be882/6882572f618f869f048e5227/Agentic_AI_(1800)_Pattara_Alamy.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-09T19:16:02+00:00",
+    "en_text": "🛡️ 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬 𝐀𝐫𝐞 𝐚 𝐍𝐞𝐰 𝐊𝐢𝐧𝐝 𝐨𝐟 𝐈𝐝𝐞𝐧𝐭𝐢𝐭𝐲 & 𝐌𝐨𝐬𝐭 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬 𝐀𝐫𝐞𝐧'𝐭 𝐑𝐞𝐚𝐝𝐲\n\n📌 What happened: If you're handling them like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ وكلاء الذكاء الاصطناعي هم نوع جديد من الهوية ومعظم المنظمات ليست جاهزة\n\n📌 وش اللي صار: إذا كنت تتعامل معها مثل حساب خدمة أو رمز مميز لواجهة برمجة التطبيقات، فاعتبر نفسك متخلفًا. يحتاج عملاء الذكاء الاصطناعي إلى نهج مختلف جذريًا.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "107733d883d24ed3",
