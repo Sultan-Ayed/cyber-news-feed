@@ -1,5 +1,23 @@
 [
   {
+    "id": "4e6a511c59f1852d",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijymBd057efx1JbDRjjqh0RBYH7RA2pE75UYG8DDd7Vl2UyXMsMjXtgEaxoPyHt5wz8s0fT6B43ovQskxZBchyiYI9G34t7YjyC6_T0xwzs_0SOJaHnHI7vXfMTOqtDn1R6up52ol5UH_uT86b1dRjaJ-Bw6pa_lAX6igS_pFLV_z_0kRhyXuNo8Q2rFU/s1600/wiz-ai.jpg",
+    "published_at": "2026-07-09T04:27:18+00:00",
+    "en_text": "🛡️ 𝐆𝐡𝐨𝐬𝐭𝐀𝐩𝐩𝐫𝐨𝐯𝐚𝐥 𝐒𝐲𝐦𝐥𝐢𝐧𝐤 𝐅𝐥𝐚𝐰𝐬 𝐂𝐨𝐮𝐥𝐝 𝐋𝐞𝐭 𝐌𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐑𝐞𝐩𝐨𝐬 𝐑𝐮𝐧 𝐂𝐨𝐝𝐞 𝐢𝐧 𝐀𝐈 𝐂𝐨𝐝𝐢𝐧𝐠 𝐀𝐠𝐞𝐧𝐭𝐬\n\n📌 What happened: Researchers at Wiz found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يمكن أن تسمح عيوب الارتباط الرمزي GhostApproval لمصادر إعادة الشراء الضارة بتشغيل التعليمات البرمجية في وكلاء ترميز الذكاء الاصطناعي\n\n📌 وش اللي صار: اكتشف باحثون في Wiz أن هناك خللًا في ستة مساعدين مشهورين للتشفير بالذكاء الاصطناعي يسمح لمشروع تعليمات برمجية مفخخة بالتحكم بهدوء في كمبيوتر المطور.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "1c061cbc0f4453a3",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0R7K2HuXIaXAr6VokIBdoRH5Zk8L2jJMM5abiDPtiOsT3DsQnI-FRSuTO02mekKGj2Cup9RBBYgAhyo92KHjyCTsMuctH8lYgwysOxpLpHp9uIuL7xBEuojc83nmWH7pcA1KRlu8W9-7b1caaoQMaNX2qATV_7e-CwoPSFk08VwjbRx2M-fgfMcjN3KeW/s1600/7-zip-malware.png",
+    "published_at": "2026-07-09T04:01:49+00:00",
+    "en_text": "🛡️ 𝐅𝐚𝐤𝐞 𝟕-𝐙𝐢𝐩 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐞𝐫𝐬 𝐓𝐮𝐫𝐧 𝐃𝐞𝐯𝐢𝐜𝐞𝐬 𝐈𝐧𝐭𝐨 𝐑𝐞𝐬𝐢𝐝𝐞𝐧𝐭𝐢𝐚𝐥 𝐏𝐫𝐨𝐱𝐲 𝐍𝐨𝐝𝐞𝐬\n\n📌 What happened: Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تعمل أدوات التثبيت المزيفة لـ 7-Zip على تحويل الأجهزة إلى عقد وكيل سكنية\n\n📌 وش اللي صار: كشف باحثو الأمن السيبراني عن تفاصيل ممثل تهديد جديد يُطلق عليه اسم Lurking Lizard والذي كان يدير أعمال بروكسي سكنية ضارة شاملة باستخدام بنية تحتية تضم أكثر من 230 نطاقًا مشابهًا.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "241c0d60f9f168ac",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cyber-risk/mexicos-cyber-plan-first-real-test",
