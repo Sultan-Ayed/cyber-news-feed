@@ -1,5 +1,14 @@
 [
   {
+    "id": "6218b294007e8c3c",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt40912afb4f0c60db/6a5108570c3eea0563b4d4fc/Womantyping_Rawpixel.com_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-10T19:43:16+00:00",
+    "en_text": "🛡️ 𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐭𝐡𝐞 𝐓𝐚𝐛𝐥𝐞𝐬 𝐨𝐧 𝐄𝐦𝐚𝐢𝐥 𝐒𝐜𝐚𝐦𝐦𝐞𝐫𝐬 𝐖𝐢𝐭𝐡 '𝐒𝐜𝐚𝐦𝐁𝐮𝐬𝐭𝐞𝐫'\n\n📌 What happened: An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ قلب الطاولة على المحتالين عبر البريد الإلكتروني باستخدام \"ScamBuster\"\n\n📌 وش اللي صار: يعتمد النظام مفتوح المصدر والمعتمد على الذكاء الاصطناعي شخصيات الضحايا للتعامل مع مهاجمي التصيد الاحتيالي، مما يسمح للمؤسسات وجهات إنفاذ القانون بجمع البيانات ذات الصلة حول عمليات الجرائم الإلكترونية.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "c1cde371766464bd",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
@@ -34,6 +43,15 @@
     "published_at": "2026-07-10T16:37:01+00:00",
     "en_text": "🛡️ 𝐏𝐨𝐥𝐢𝐜𝐞 𝐬𝐮𝐬𝐩𝐞𝐜𝐭𝐬 𝐃𝐮𝐭𝐜𝐡 𝐡𝐚𝐜𝐤𝐞𝐫𝐬 𝐰𝐞𝐫𝐞 𝐢𝐧𝐯𝐨𝐥𝐯𝐞𝐝 𝐢𝐧 𝐎𝐝𝐢𝐝𝐨 𝐛𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ وتشتبه الشرطة في تورط قراصنة هولنديين في اختراق Odido\n\n📌 وش اللي صار: قالت الشرطة الوطنية الهولندية (Politie) إنها وجدت \"مؤشرات قوية\" على تورط قراصنة هولنديين في اختراق شركة Odido لخدمات الاتصالات في شهر فبراير.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "903b418d1fc24610",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgULXOG2_Ph1198nw2lOea2pYE9u1GkPHaaMlzhpO48pOmejpWKFuHbchUac5JIRQHGiIMMTefXq-LktA8AjsqqMIsBS54bLaludxIJbq7chYfo_Vsoqf9Xi7YomnSUL9wHAYa5InCST76k1aP10VMmNKK_MDLD3o5zNXyB4ODMRMl0DbLkz9f2mg2k2S8/s1600/progress.jpg",
+    "published_at": "2026-07-10T16:30:00+00:00",
+    "en_text": "🛡️ 𝐔𝐑𝐆𝐄𝐍𝐓 - 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬 𝐓𝐞𝐥𝐥𝐬 𝐒𝐡𝐚𝐫𝐞𝐅𝐢𝐥𝐞 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐭𝐨 𝐒𝐡𝐮𝐭 𝐃𝐨𝐰𝐧 𝐒𝐭𝐨𝐫𝐚𝐠𝐞 𝐙𝐨𝐧𝐞 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐥𝐞𝐫𝐬 𝐎𝐯𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐓𝐡𝐫𝐞𝐚𝐭\n\n📌 What happened: Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporarily disabled access…\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ عاجل - التقدم يخبر عملاء ShareFile بإيقاف تشغيل وحدات التحكم في منطقة التخزين بسبب تهديد أمني\n\n📌 وش اللي صار: طلبت شركة Progress Software من عملاء ShareFile إغلاق خوادم Windows التي تقوم بتشغيل وحدات التحكم في منطقة التخزين الخاصة بهم، مؤكدةً لـ The Hacker News أنها تستجيب لـ \"تهديد أمني خارجي موثوق\". قامت الشركة بتعطيل الوصول مؤقتًا…\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "3365af60dbb394cc",
@@ -198,6 +216,15 @@
     "ar_text": "🛡️ يكشف خادم الهاكر المكشوف عن وجود أبواب خلفية لآلاف من مواقع WordPress من WP-SHELLSTORM\n\n📌 وش اللي صار: ترك طاقم مكافحة الجرائم الإلكترونية أحد خوادمه مفتوحة على مصراعيها على الإنترنت لمدة ثلاثة أسابيع، وكشف عن الأعمال الداخلية للعملية: أدوات القرصنة، وسجلات الأنشطة، وقوائم الأهداف التي تسمي أكثر من 1.4 مليون موقع ويب.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "68f44805faf8de4a",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-10T11:06:36+00:00",
+    "en_text": "🛡️ 𝐎𝐤𝐭𝐚 𝐖𝐚𝐫𝐧𝐬 𝐨𝐟 𝐕𝐢𝐬𝐡𝐢𝐧𝐠 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐓𝐚𝐫𝐠𝐞𝐭𝐢𝐧𝐠 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝟑𝟔𝟓 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬\n\n📌 What happened: The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Okta تحذر من هجمات التصيد الاحتيالي التي تستهدف عملاء Microsoft 365\n\n📌 وش اللي صار: يقوم المهاجمون باستدعاء الضحايا لتوجيههم إلى مواقع التصيد الاحتيالي التي تعكس صفحات تسجيل الدخول إلى Microsoft Entra ID.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2c2f445afa8d5ffb",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
@@ -214,6 +241,15 @@
     "published_at": "2026-07-10T10:30:20+00:00",
     "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐔𝐬𝐞 𝐅𝐚𝐤𝐞 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐄𝐧𝐭𝐫𝐚 𝐏𝐚𝐬𝐬𝐤𝐞𝐲 𝐄𝐧𝐫𝐨𝐥𝐥𝐦𝐞𝐧𝐭 𝐭𝐨 𝐆𝐚𝐢𝐧 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝟑𝟔𝟓 𝐀𝐜𝐜𝐞𝐬𝐬\n\n📌 What happened: A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يستخدم المتسللون تسجيلًا مزيفًا لمفتاح مرور Microsoft Entra للوصول إلى Microsoft 365\n\n📌 وش اللي صار: يستهدف أحد جهات التهديد المؤسسات التي تغطي قطاعات متعددة بطلبات أمان وهمية تعتمد على الصوت والتي تحث مستخدمي Microsoft 365 على تسجيل مفتاح مرور Entra جديد بهدف تنفيذ هجمات ابتزاز البيانات.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "f6d25d1da8c83e43",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-10T09:12:08+00:00",
+    "en_text": "🛡️ 𝐆𝐢𝐠𝐚𝐖𝐢𝐩𝐞𝐫 𝐂𝐨𝐦𝐛𝐢𝐧𝐞𝐬 𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐟𝐨𝐫 𝐒𝐲𝐬𝐭𝐞𝐦-𝐋𝐞𝐯𝐞𝐥 𝐒𝐚𝐛𝐨𝐭𝐚𝐠𝐞\n\n📌 What happened: The backdoor’s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يجمع GigaWiper بين البرامج الضارة المتعددة للتخريب على مستوى النظام\n\n📌 وش اللي صار: تشتمل القدرات التدميرية للباب الخلفي على ممسحة مستقلة، وتشفير برامج الفدية، وأمر مسح متعدد التمريرات.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "ebb3f12406cbcb4f",
