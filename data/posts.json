@@ -1,5 +1,59 @@
 [
   {
+    "id": "f0d2bd0b4396707d",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-10T14:00:10+00:00",
+    "en_text": "🛡️ 𝐓𝐡𝐞 𝐑𝐞𝐩𝐥𝐢𝐜𝐚𝐧𝐭 𝐢𝐧 𝐘𝐨𝐮𝐫 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲: 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐈𝐝𝐞𝐧𝐭𝐢𝐭𝐲 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐆𝐚𝐩\n\n📌 What happened: AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ النسخ المتماثل في الدليل الخاص بك: وكلاء الذكاء الاصطناعي وفجوة أمان الهوية\n\n📌 وش اللي صار: يعمل وكلاء الذكاء الاصطناعي على تسريع نمو الهويات غير البشرية، مما يجعل من الصعب على المؤسسات فهم ما هو موجود، ومن يملكه، وما يمكنه الوصول إليه.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "5b85dfa9d645f385",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0e54c7d31cab23e/6a5000c3376bd6f180079dbb/ATM-AM29-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-10T14:00:00+00:00",
+    "en_text": "🛡️ 𝐅𝐫𝐞𝐬𝐡 𝐀𝐓𝐌 𝐂𝐫𝐲𝐩𝐭𝐨 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐁𝐮𝐠𝐬: 𝐉𝐚𝐜𝐤𝐩𝐨𝐭 𝐨𝐫 𝐁𝐮𝐬𝐭?\n\n📌 What happened: Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الأخطاء الجديدة في برامج تشفير أجهزة الصراف الآلي: الفوز بالجائزة الكبرى أم الفشل؟\n\n📌 وش اللي صار: تتعرض المؤسسات، وربما أجهزة الصراف الآلي، لخطر الاختراق، وذلك بفضل الثغرات الموجودة في برنامج أمان Microsoft BitLocker.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "eec67c8de33d1e31",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKTCUzhkUq2Y7DPv0yS2FatrHQTcHfupRly6f5kSWyQU-So3FOjpC8pt_VKR4qo1SoUGR65ycOEQonbW5heKWj1g_A8qDy69YtWGZDO4m2t46Sip-jdPAlNs2fpRj-w1yd8WpyJpNFUpj1iTBO0X6fy3n9DJ4aEdsWaQz_tN-VV-PxDrufKZR9wkznmXJQ/s1600/MODBEACON.jpg",
+    "published_at": "2026-07-10T13:15:23+00:00",
+    "en_text": "🛡️ 𝐍𝐞𝐰 𝐌𝐎𝐃𝐁𝐄𝐀𝐂𝐎𝐍 𝐑𝐀𝐓 𝐔𝐬𝐞𝐬 𝐠𝐑𝐏𝐂 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 𝐟𝐨𝐫 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐞𝐝 𝐂𝟐 𝐓𝐫𝐚𝐟𝐟𝐢𝐜\n\n📌 What happened: The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يستخدم MODBEACON RAT الجديد تدفق gRPC لحركة مرور C2 المشفرة\n\n📌 وش اللي صار: نُسبت مجموعة الجرائم الإلكترونية المرتبطة بالصين والمعروفة باسم Silver Fox إلى حصان طروادة الجديد للوصول عن بعد (RAR) القائم على Rust والذي يسمى MODBEACON.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "975049df1b84a1a7",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfc206a4328894432/6a5003e314cb1e87db5d7a27/robot_hands_on_keyboard-Moor_Studio-Getty-2246656580.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-10T13:00:00+00:00",
+    "en_text": "🛡️ 𝐀𝐈 𝐂𝐨𝐝𝐢𝐧𝐠: 𝐃𝐨 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐑𝐢𝐬𝐤𝐬 𝐎𝐮𝐭𝐰𝐞𝐢𝐠𝐡 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐯𝐢𝐭𝐲 𝐆𝐚𝐢𝐧𝐬?\n\n📌 What happened: AI coding tools cost $19-$200/month/user, but security scanning, remediation, and false positives add hidden costs. Are the productivity gains worth it?\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ترميز الذكاء الاصطناعي: هل تفوق المخاطر الأمنية مكاسب الإنتاجية؟\n\n📌 وش اللي صار: تتكلف أدوات تشفير الذكاء الاصطناعي ما بين 19 إلى 200 دولار شهريًا لكل مستخدم، لكن الفحص الأمني ​​والمعالجة والإيجابيات الكاذبة تضيف تكاليف مخفية. هل مكاسب الإنتاجية تستحق العناء؟\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "3b94999cf8f8224e",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-10T12:58:39+00:00",
+    "en_text": "🛡️ 𝐓𝐡𝐢𝐫𝐝 𝐔𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐄𝐱𝐩𝐞𝐫𝐭 𝐒𝐞𝐧𝐭𝐞𝐧𝐜𝐞𝐝 𝐭𝐨 𝐏𝐫𝐢𝐬𝐨𝐧 𝐟𝐨𝐫 𝐇𝐞𝐥𝐩𝐢𝐧𝐠 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐆𝐚𝐧𝐠\n\n📌 What happened: Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الحكم على خبير أمني أمريكي ثالث بالسجن بتهمة مساعدة عصابة برامج الفدية\n\n📌 وش اللي صار: وحُكم على أنجيلو مارتينو، وهو مفاوض سابق في برامج الفدية، بالسجن لمدة 70 شهرًا لمساعدة مجموعة BlackCat/Alphv.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "8682dbe06cd32ccb",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-10T11:55:11+00:00",
+    "en_text": "🛡️ 𝐂𝐡𝐢𝐧𝐚, 𝐈𝐧𝐝𝐢𝐚-𝐋𝐢𝐧𝐤𝐞𝐝 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐁𝐨𝐭𝐡 𝐓𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐒𝐚𝐦𝐞 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧𝐢 𝐏𝐨𝐥𝐢𝐜𝐞 𝐅𝐨𝐫𝐜𝐞\n\n📌 What happened: Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ استهدف قراصنة مرتبطون بالصين والهند نفس قوة الشرطة الباكستانية\n\n📌 وش اللي صار: استهدف كل من الأعداء والحلفاء قوة شرطة بلوشستان في باكستان لمدة عامين على الأقل، وفقًا لما ذكره موقع SentinelOne.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "605a1c16a58a0af6",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
