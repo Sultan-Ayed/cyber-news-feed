@@ -1,5 +1,14 @@
 [
   {
+    "id": "3876d90cd5c8f02c",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-10T21:59:02+00:00",
+    "en_text": "🛡️ 𝐍𝐞𝐰 𝐔-𝐁𝐨𝐨𝐭 𝐟𝐥𝐚𝐰𝐬 𝐜𝐨𝐮𝐥𝐝 𝐞𝐧𝐚𝐛𝐥𝐞 𝐬𝐭𝐞𝐚𝐥𝐭𝐡𝐲 𝐟𝐢𝐫𝐦𝐰𝐚𝐫𝐞 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent…\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يمكن أن تؤدي عيوب U-Boot الجديدة إلى تمكين هجمات البرامج الثابتة الخفية\n\n📌 وش اللي صار: تم اكتشاف ست نقاط ضعف في أداة تحميل التشغيل U-Boot المستخدمة على نطاق واسع والتي قد تسمح للمهاجمين بتنفيذ تعليمات برمجية ضارة أثناء تشغيل الجهاز، مما قد يؤدي إلى تمكين هجمات البرامج الثابتة الخفية التي تهدد الحماية الأمنية وتثبيت البرامج الثابتة المستمرة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "6218b294007e8c3c",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster",
@@ -7,6 +16,15 @@
     "published_at": "2026-07-10T19:43:16+00:00",
     "en_text": "🛡️ 𝐓𝐮𝐫𝐧𝐢𝐧𝐠 𝐭𝐡𝐞 𝐓𝐚𝐛𝐥𝐞𝐬 𝐨𝐧 𝐄𝐦𝐚𝐢𝐥 𝐒𝐜𝐚𝐦𝐦𝐞𝐫𝐬 𝐖𝐢𝐭𝐡 '𝐒𝐜𝐚𝐦𝐁𝐮𝐬𝐭𝐞𝐫'\n\n📌 What happened: An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ قلب الطاولة على المحتالين عبر البريد الإلكتروني باستخدام \"ScamBuster\"\n\n📌 وش اللي صار: يعتمد النظام مفتوح المصدر والمعتمد على الذكاء الاصطناعي شخصيات الضحايا للتعامل مع مهاجمي التصيد الاحتيالي، مما يسمح للمؤسسات وجهات إنفاذ القانون بجمع البيانات ذات الصلة حول عمليات الجرائم الإلكترونية.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "0a5f5324f67862cc",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd0404c576a980a37/6a51584597c98ae9da9a9b59/jen-ellis-nextjensecurity.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-10T19:08:04+00:00",
+    "en_text": "🛡️ 𝐉𝐞𝐧 𝐄𝐥𝐥𝐢𝐬: 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐧𝐠 𝐂𝐲𝐛𝐞𝐫 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐖𝐢𝐭𝐡 𝐏𝐨𝐥𝐢𝐭𝐢𝐜𝐚𝐥 𝐌𝐚𝐜𝐡𝐢𝐧𝐞𝐫𝐲\n\n📌 What happened: Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security researchers.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ جين إليس: ربط المجتمع السيبراني بالآلات السياسية\n\n📌 وش اللي صار: ملف Security Pro: في أعقاب تكريمها مؤخرًا كعضو في وسام الإمبراطورية البريطانية (MBE)، نلقي نظرة على الأحداث التي شكلت دفاع جين إليس نيابة عن الباحثين الأمنيين.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "c1cde371766464bd",
