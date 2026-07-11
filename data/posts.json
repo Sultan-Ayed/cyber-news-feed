@@ -1,5 +1,14 @@
 [
   {
+    "id": "23c14337daef23d0",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-11T09:03:57+00:00",
+    "en_text": "🛡️ '𝐆𝐡𝐨𝐬𝐭𝐜𝐨𝐦𝐦𝐢𝐭' 𝐡𝐢𝐝𝐞𝐬 𝐩𝐫𝐨𝐦𝐩𝐭 𝐢𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧 𝐢𝐧 𝐢𝐦𝐚𝐠𝐞𝐬 𝐭𝐨 𝐟𝐨𝐨𝐥 𝐀𝐈 𝐚𝐠𝐞𝐧𝐭𝐬, 𝐬𝐭𝐞𝐚𝐥 𝐬𝐞𝐜𝐫𝐞𝐭𝐬\n\n📌 What happened: A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, then convinced a coding agent to read a…\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يخفي \"Ghostcommit\" الحقن الفوري في الصور لخداع عملاء الذكاء الاصطناعي وسرقة الأسرار\n\n📌 وش اللي صار: أظهر الباحثون أن ملف PNG الذي يخفي حقنة سريعة يمكن أن يسرق أسرار الريبو الخاص بك. وقد تجاوزت هذه التقنية، التي يطلق عليها اسم \"Ghostcommit\"، مراجعي أكواد الذكاء الاصطناعي CodeRabbit وBugbot، الذين لا يفتحون ملفات الصور على الإطلاق، ثم أقنعوا وكيل البرمجة بقراءة ملف.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2764346b77ff5d26",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
