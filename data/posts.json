@@ -1,5 +1,14 @@
 [
   {
+    "id": "2764346b77ff5d26",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVz95zYTg61VRro9unfJCWWwwUrv3pQdtyNT7rPL8iCg6n0S6bky4dqPiluQHfSvQMIO9cyYgrz-07ZCx8yG_qND_J9XJ_0BoUON9p3zj0etafNvjg45txAeu4uCDEMxGDNv2tIxNuqrC0OsKG_sWZp5QIlEkbqZ_g_EEcAdXUQbuo_EgsXwT3mERTTk/s1600/zimbra-email-hack.jpg",
+    "published_at": "2026-07-11T06:45:55+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐙𝐢𝐦𝐛𝐫𝐚 𝐅𝐥𝐚𝐰 𝐂𝐨𝐮𝐥𝐝 𝐋𝐞𝐭 𝐂𝐫𝐚𝐟𝐭𝐞𝐝 𝐄𝐦𝐚𝐢𝐥𝐬 𝐑𝐮𝐧 𝐌𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐂𝐨𝐝𝐞 𝐢𝐧 𝐔𝐬𝐞𝐫 𝐒𝐞𝐬𝐬𝐢𝐨𝐧𝐬\n\n📌 What happened: Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ خطأ خطير في Zimbra قد يسمح لرسائل البريد الإلكتروني المُصممة بتشغيل تعليمات برمجية ضارة في جلسات المستخدم\n\n📌 وش اللي صار: تحث Zimbra العملاء على تطبيق التحديثات لمعالجة ثغرة أمنية حرجة تؤثر على Classic Web Client والتي قد تؤدي إلى تنفيذ تعليمات برمجية عشوائية.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "3876d90cd5c8f02c",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
