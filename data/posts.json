@@ -1,5 +1,14 @@
 [
   {
+    "id": "1c37f0a5062bb5c5",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-11T14:18:23+00:00",
+    "en_text": "🛡️ 𝐀𝐮𝐬𝐭𝐫𝐚𝐥𝐢𝐚 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐠𝐥𝐨𝐛𝐚𝐥 𝐜𝐚𝐦𝐩𝐚𝐢𝐠𝐧 𝐭𝐚𝐫𝐠𝐞𝐭𝐢𝐧𝐠 𝐯𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐥𝐞 𝐂𝐌𝐒 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐬\n\n📌 What happened: The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ أستراليا تحذر من حملة عالمية تستهدف منصات CMS الضعيفة\n\n📌 وش اللي صار: أصدر مركز الأمن السيبراني الأسترالي (ACSC) تنبيهًا بشأن حملة استغلال عالمية تستهدف أنظمة إدارة المحتوى الضعيفة (CMS) والمكونات الإضافية.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "23c14337daef23d0",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
