@@ -1,5 +1,14 @@
 [
   {
+    "id": "cacb9ea30b7e233b",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-12T19:39:12+00:00",
+    "en_text": "🛡️ 𝐂𝐥𝐚𝐮𝐝𝐞 𝐅𝐚𝐛𝐥𝐞 𝟓 𝐬𝐭𝐚𝐲𝐬 𝐟𝐫𝐞𝐞 𝐟𝐨𝐫 𝐩𝐚𝐢𝐝 𝐮𝐬𝐞𝐫𝐬 𝐮𝐧𝐭𝐢𝐥 𝐉𝐮𝐥𝐲 𝟏𝟗 𝐚𝐬 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜 𝐛𝐮𝐲𝐬 𝐦𝐨𝐫𝐞 𝐭𝐢𝐦𝐞\n\n📌 What happened: Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يظل Claude Fable 5 مجانيًا للمستخدمين المدفوعين حتى 19 يوليو حيث تشتري Anthropic المزيد من الوقت\n\n📌 وش اللي صار: قامت Anthropic للتو بتمديد الوصول إلى Claude Fable 5 للمشتركين المدفوعين حتى 19 يوليو، مما يتيح لك أسبوعًا آخر لمواصلة استخدام أقوى نموذج.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "7c20169ea7d15f0e",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
