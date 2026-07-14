@@ -1,5 +1,23 @@
 [
   {
+    "id": "60a6e459081b61f9",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-14T06:37:50+00:00",
+    "en_text": "🛡️ 𝐏𝐞𝐧𝐭𝐚𝐠𝐨𝐧 𝐒𝐮𝐬𝐩𝐞𝐧𝐝𝐬 𝐂𝐌𝐌𝐂 𝐏𝐡𝐚𝐬𝐞 𝟐 𝐚𝐬 𝐈𝐭 𝐑𝐞𝐭𝐡𝐢𝐧𝐤𝐬 𝐂𝐨𝐧𝐭𝐫𝐚𝐜𝐭𝐨𝐫 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐑𝐮𝐥𝐞𝐬\n\n📌 What happened: A new CMMC review and reform task force will conduct a comprehensive review of the program.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ البنتاغون يعلق المرحلة الثانية من CMMC لأنه يعيد التفكير في قواعد الأمن السيبراني للمقاولين\n\n📌 وش اللي صار: ستقوم فرقة عمل جديدة للمراجعة والإصلاح من CMMC بإجراء مراجعة شاملة للبرنامج.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "cfe644fb99fa7be6",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu2gmOSckwOqmlhqAYdrlHfRuTsOJIi7dr9cFZosLQAJeoJxcUVQ9PvibcfnCsBdPWvfJRRrxoS8nx9yTt9NtDNCwVCFavEt7tQT0viD7AwGvUjhu-_k0B2J4KBSAJ-5GUGFZHCTSyOuW4I082lHoUkbsbH33tsIeo3gm71_CkjMd_bcAN7i4xPvMnefA/s1600/salesforce-attack-path.jpg",
+    "published_at": "2026-07-14T06:19:24+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐌𝐚𝐩𝐬 𝐘𝐞𝐚𝐫-𝐋𝐨𝐧𝐠 𝐒𝐡𝐢𝐧𝐲𝐇𝐮𝐧𝐭𝐞𝐫𝐬-𝐋𝐢𝐧𝐤𝐞𝐝 𝐒𝐚𝐥𝐞𝐬𝐟𝐨𝐫𝐜𝐞 𝐃𝐚𝐭𝐚 𝐓𝐡𝐞𝐟𝐭 𝐀𝐜𝐫𝐨𝐬𝐬 𝐓𝐡𝐫𝐞𝐞 𝐏𝐚𝐭𝐡𝐬\n\n📌 What happened: Attackers whose methods line up with the data-extortion group ShinyHunters have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ خرائط Microsoft لسرقة بيانات Salesforce المرتبطة بـ ShinyHunters على مدار العام عبر ثلاثة مسارات\n\n📌 وش اللي صار: المهاجمون الذين تتوافق أساليبهم مع مجموعة ShinyHunters لابتزاز البيانات، أمضوا العام الماضي وهم يتسللون إلى بيئات Salesforce الخاصة بالشركات دون استغلال عيب واحد في النظام الأساسي.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "132579c91eb9ffe2",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-03T18:55:24+00:00",
     "en_text": "🛡️ 𝐍𝐞𝐰 𝐀𝐯𝐚𝐥𝐨𝐧 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 𝐏𝐚𝐜𝐤𝐬 𝐂𝐫𝐨𝐰𝐧𝐗 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ إطار عمل Avalon Malware الجديد يحزم قدرات CrownX Ransomware\n\n📌 وش اللي صار: اكتشف باحثو الأمن السيبراني إطار عمل معياري للبرامج الضارة غير موثق سابقًا يحمل الاسم الرمزي Avalon ويتم توزيعه عن طريق سلسلة تصيد متعددة المراحل قادرة على تجاوز ضوابط الأمان التقليدية.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "f5ed4be194cc224f",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-03T17:50:04+00:00",
-    "en_text": "🛡️ 𝐍𝐞𝐭𝐍𝐮𝐭 𝐩𝐫𝐨𝐱𝐲 𝐧𝐞𝐭𝐰𝐨𝐫𝐤 𝐝𝐢𝐬𝐫𝐮𝐩𝐭𝐞𝐝, 𝟐 𝐦𝐢𝐥𝐥𝐢𝐨𝐧 𝐢𝐧𝐟𝐞𝐜𝐭𝐞𝐝 𝐝𝐞𝐯𝐢𝐜𝐞𝐬 𝐜𝐮𝐭 𝐨𝐟𝐟\n\n📌 What happened: A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تعطلت شبكة وكيل NetNut، وانقطع اتصال 2 مليون جهاز مصاب\n\n📌 وش اللي صار: أدت عملية مشتركة شاركت فيها شركة Google إلى تعطيل NetNut، وهي شبكة وكيل سكنية أتاحت الوصول إلى الملايين من أجهزة Android المخترقة، بما في ذلك أجهزة التلفزيون الذكية وصناديق البث.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "af919c1063f3ac9e",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg",
-    "published_at": "2026-07-03T16:07:15+00:00",
-    "en_text": "🛡️ 𝐍𝐨𝐫𝐭𝐡 𝐊𝐨𝐫𝐞𝐚-𝐋𝐢𝐧𝐤𝐞𝐝 𝐧𝐩𝐦 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬 𝐌𝐢𝐦𝐢𝐜 𝐑𝐨𝐥𝐥𝐮𝐩 𝐏𝐨𝐥𝐲𝐟𝐢𝐥𝐥𝐬 𝐭𝐨 𝐒𝐭𝐞𝐚𝐥 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐒𝐞𝐜𝐫𝐞𝐭𝐬\n\n📌 What happened: Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تحاكي حزم npm المرتبطة بكوريا الشمالية عمليات التراكم Polyfills لسرقة أسرار المطورين\n\n📌 وش اللي صار: تم ربط جهات التهديد التي لها علاقات مع كوريا الشمالية بمجموعة جديدة من حزم npm الخبيثة التي تتنكر في شكل أدوات Rollup polyfill لتسهيل الوصول عن بعد وسرقة البيانات.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
