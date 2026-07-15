@@ -1,5 +1,41 @@
 [
   {
+    "id": "a0851601e745292d",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-15T10:18:25+00:00",
+    "en_text": "🛡️ 𝐖𝐡𝐢𝐭𝐞 𝐇𝐨𝐮𝐬𝐞 𝐋𝐚𝐮𝐧𝐜𝐡𝐞𝐬 𝐀𝐈-𝐃𝐫𝐢𝐯𝐞𝐧 ‘𝐆𝐨𝐥𝐝 𝐄𝐚𝐠𝐥𝐞’ 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐂𝐨𝐨𝐫𝐝𝐢𝐧𝐚𝐭𝐢𝐨𝐧 𝐈𝐧𝐢𝐭𝐢𝐚𝐭𝐢𝐯𝐞\n\n📌 What happened: The new program stems from an AI-focused Executive Order signed by President Trump on June 2.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ البيت الأبيض يطلق مبادرة تنسيق نقاط الضعف \"النسر الذهبي\" القائمة على الذكاء الاصطناعي\n\n📌 وش اللي صار: ينبع البرنامج الجديد من أمر تنفيذي يركز على الذكاء الاصطناعي وقعه الرئيس ترامب في 2 يونيو.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "98464d0ee1e848f1",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-15T09:44:52+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐰𝐚𝐫𝐧𝐬 𝐚𝐝𝐦𝐢𝐧𝐬 𝐭𝐨 𝐩𝐚𝐭𝐜𝐡 𝐚𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐒𝐡𝐚𝐫𝐞𝐏𝐨𝐢𝐧𝐭 𝐟𝐥𝐚𝐰𝐬\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تحذر CISA المسؤولين من تصحيح عيوب SharePoint المستغلة بشكل نشط\n\n📌 وش اللي صار: حذرت وكالة الأمن السيبراني وأمن البنية التحتية الأمريكية (CISA) يوم الثلاثاء من أن المهاجمين يستغلون ثلاث نقاط ضعف لاختراق مثيلات SharePoint Server المحلية المكشوفة على الإنترنت.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "906c19b34cbfcaa3",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXEluWW9TuNGlzu9wVHSDBzAeUuoRS9Om8kX9yzH-HwCjggh-N5ycLyuJ82oY3MP4Uvf9yF_PqwKhcZepDBEH_pOb3td4dPRuuGSWi5XndfpeuqiMipzKIq0Vofc-hOBGj4nWxmXbjMS7RvHkZCUSHloOpsS6m7jpwwFX-2KUkYwrQdt-ClrGXpt2C9TxC/s1600/async-npm.jpg",
+    "published_at": "2026-07-15T09:16:13+00:00",
+    "en_text": "🛡️ 𝐂𝐨𝐦𝐩𝐫𝐨𝐦𝐢𝐬𝐞𝐝 𝐀𝐬𝐲𝐧𝐜𝐀𝐏𝐈 𝐧𝐩𝐦 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬 𝐃𝐞𝐥𝐢𝐯𝐞𝐫 𝐌𝐮𝐥𝐭𝐢-𝐒𝐭𝐚𝐠𝐞 𝐁𝐨𝐭𝐧𝐞𝐭 𝐌𝐚𝐥𝐰𝐚𝐫𝐞\n\n📌 What happened: Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ توفر حزم AsyncAPI npm المخترقة برامج ضارة متعددة المراحل لشبكة الروبوتات\n\n📌 وش اللي صار: تمت ملاحظة أربع حزم npm مخترقة في مساحة الاسمasyncapi وهي توزع محمل الروبوتات متعدد المراحل، وفقًا للنتائج التي توصلت إليها OX Security وSafeDep وSocket وStepSecurity.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "5b52075eb7769f43",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-15T08:26:48+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭: 𝐒𝐨𝐦𝐞 𝐃𝐞𝐥𝐥 𝐏𝐂𝐬 𝐬𝐡𝐮𝐭 𝐝𝐨𝐰𝐧 𝐚𝐟𝐭𝐞𝐫 𝐫𝐞𝐜𝐞𝐧𝐭 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐮𝐩𝐝𝐚𝐭𝐞𝐬\n\n📌 What happened: Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Microsoft: يتم إيقاف تشغيل بعض أجهزة كمبيوتر Dell بعد تحديثات Windows الأخيرة\n\n📌 وش اللي صار: تقوم Microsoft بحظر تحديثات أمان Windows 11 لهذا الشهر على بعض أجهزة Dell لأنها تتسبب في إيقاف التشغيل ومشكلات في الأداء.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "52cfe6000fc10c32",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
@@ -1762,41 +1798,5 @@
     "published_at": "2026-07-07T13:27:20+00:00",
     "en_text": "🛡️ 𝐂𝐨𝐮𝐫𝐭 𝐅𝐢𝐥𝐢𝐧𝐠 𝐑𝐞𝐯𝐞𝐚𝐥𝐬 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐃𝐞𝐯𝐢𝐜𝐞 𝐈𝐃 𝐇𝐞𝐥𝐩𝐞𝐝 𝐅𝐁𝐈 𝐓𝐫𝐚𝐜𝐞 𝐀𝐥𝐥𝐞𝐠𝐞𝐝 𝐒𝐜𝐚𝐭𝐭𝐞𝐫𝐞𝐝 𝐒𝐩𝐢𝐝𝐞𝐫 𝐇𝐚𝐜𝐤𝐞𝐫\n\n📌 What happened: U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ ملف المحكمة يكشف أن معرف جهاز Windows ساعد مكتب التحقيقات الفيدرالي في تتبع متسلل عنكبوتي متفرق مزعوم\n\n📌 وش اللي صار: ربط المدعون العامون الأمريكيون بين متسلل مزعوم Scattered Spider واقتحام أحد متاجر بيع المجوهرات الفاخرة باستخدام معرف جهاز يعمل بنظام Windows، وذلك وفقًا لشكوى فيدرالية تم الكشف عنها حديثًا.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "2a81d9b7c9192c38",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH0EnuZfnTZVOg-ACF0jKSHBB8TemRtJ6vlDerjpWy9giH2VsJTP_XiktA9SCytwnDcP95jn4gyQaPk2r92S-J-4EcB7FDvenxXiNwJKtg1VQkV_f564nT6mrS6S3wuMX3SC22kdd5nJM9y4IecNKJ3CRq569DtujHzUgaVOAwQDpfvCgkCrSrfeRjT1CQ/s1600/writerai.jpg",
-    "published_at": "2026-07-07T13:27:09+00:00",
-    "en_text": "🛡️ 𝐖𝐫𝐢𝐭𝐞𝐫 𝐀𝐈 𝐅𝐥𝐚𝐰 𝐂𝐨𝐮𝐥𝐝 𝐋𝐞𝐭 𝐀𝐠𝐞𝐧𝐭 𝐏𝐫𝐞𝐯𝐢𝐞𝐰𝐬 𝐋𝐞𝐚𝐤 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐓𝐨𝐤𝐞𝐧𝐬 𝐀𝐜𝐫𝐨𝐬𝐬 𝐓𝐞𝐧𝐚𝐧𝐭𝐬\n\n📌 What happened: Cybersecurity researchers have disclosed details of a now-patched critical session isolation vulnerability in Writer, an enterprise generative artificial intelligence (AI) platform, that could result in cross-tenant compromise.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يمكن لخلل في الذكاء الاصطناعي للكاتب أن يسمح للوكيل بمعاينة رموز الجلسة المسربة عبر المستأجرين\n\n📌 وش اللي صار: كشف باحثو الأمن السيبراني عن تفاصيل ثغرة أمنية في عزل الجلسة الحرجة في Writer، وهي منصة ذكاء اصطناعي مؤسسي (AI)، والتي يمكن أن تؤدي إلى تسوية بين المستأجرين.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "d4b82bebae2ae9a3",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-07T13:13:02+00:00",
-    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐑𝐞𝐩𝐨𝐫𝐭𝐞𝐝𝐥𝐲 𝐔𝐬𝐢𝐧𝐠 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜’𝐬 𝐌𝐲𝐭𝐡𝐨𝐬 𝐭𝐨 𝐒𝐜𝐚𝐧 𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐟𝐨𝐫 𝐅𝐥𝐚𝐰𝐬\n\n📌 What happened: The audits are reportedly being spearheaded by CISA’s Attack Surface Evaluation team, a specialized unit tasked with conducting digital defense assessments and simulated hacking exercises.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يقال إن CISA تستخدم أساطير Anthropic لفحص البرامج الحكومية بحثًا عن العيوب\n\n📌 وش اللي صار: ويقال إن عمليات التدقيق يقودها فريق تقييم سطح الهجوم التابع لـ CISA، وهي وحدة متخصصة مكلفة بإجراء تقييمات الدفاع الرقمي وتمارين محاكاة القرصنة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "016d70000d93ce9e",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-07T12:38:34+00:00",
-    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐀𝐝𝐨𝐛𝐞 𝐂𝐨𝐥𝐝𝐅𝐮𝐬𝐢𝐨𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Hackers are exploiting a recently patched critical vulnerability (CVE-2026-48282) in Adobe ColdFusion that carries a CVSS score of 10/10.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ استغلال ثغرة أمنية خطيرة في Adobe ColdFusion في الهجمات\n\n📌 وش اللي صار: يستغل المتسللون ثغرة أمنية حرجة تم تصحيحها مؤخرًا (CVE-2026-48282) في Adobe ColdFusion والتي تحمل درجة CVSS 10/10.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "e28a417268d11ac7",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-07T12:21:56+00:00",
-    "en_text": "🛡️ 𝐈𝐫𝐚𝐧-𝐋𝐢𝐧𝐤𝐞𝐝 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐔𝐬𝐢𝐧𝐠 𝐌𝐨𝐝𝐮𝐥𝐚𝐫 𝐂&𝐂 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 𝐢𝐧 𝐂𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Researchers say the Iran-linked threat actor used an adaptable modular malware framework and compromised IT service providers to reach high-value targets in Israel.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ قراصنة مرتبطون بإيران يستخدمون إطار عمل التحكم والسيطرة المعياري في الهجمات الإلكترونية\n\n📌 وش اللي صار: يقول الباحثون إن جهة التهديد المرتبطة بإيران استخدمت إطار عمل برمجيات خبيثة قابل للتكيف واخترق مقدمي خدمات تكنولوجيا المعلومات للوصول إلى أهداف عالية القيمة في إسرائيل.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
