@@ -1,5 +1,14 @@
 [
   {
+    "id": "e0da64e49d0ee42f",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-15T05:19:42+00:00",
+    "en_text": "🛡️ 𝐒𝐨𝐧𝐢𝐜𝐖𝐚𝐥𝐥 𝐈𝐬𝐬𝐮𝐞𝐬 𝐔𝐫𝐠𝐞𝐧𝐭 𝐒𝐌𝐀 𝐏𝐚𝐭𝐜𝐡 𝐖𝐚𝐫𝐧𝐢𝐧𝐠 𝐟𝐨𝐫 𝐓𝐰𝐨 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐬\n\n📌 What happened: SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تصدر SonicWall تحذيرًا عاجلًا بشأن تصحيح SMA لثنتين من عمليات استغلال يوم الصفر\n\n📌 وش اللي صار: يمكن استغلال ثغرات SonicWall SMA1000 لليوم صفر CVE-2026-15409 وCVE-2026-15410 لتنفيذ التعليمات البرمجية عن بعد.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2ea0a0845a4b1bba",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/vulnerabilities-threats/records-broken-patch-tuesday-raises-triage-stakes",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-07T10:00:00+00:00",
     "en_text": "🛡️ 𝐋𝐢𝐧𝐮𝐱 𝐊𝐞𝐫𝐧𝐞𝐥 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐀𝐥𝐥𝐨𝐰𝐬 𝐕𝐌 𝐄𝐬𝐜𝐚𝐩𝐞 𝐨𝐧 𝐈𝐧𝐭𝐞𝐥 𝐚𝐧𝐝 𝐀𝐌𝐃 𝐒𝐲𝐬𝐭𝐞𝐦𝐬\n\n📌 What happened: The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code on the underlying host.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تسمح الثغرة الأمنية في Linux Kernel بـ VM Escape على أنظمة Intel وAMD\n\n📌 وش اللي صار: يؤثر خلل Januscape البالغ من العمر 16 عامًا على برنامج Hypervisor KVM لنظام التشغيل Linux، مما يسمح للمهاجمين بالهروب من الأجهزة الافتراضية وربما تنفيذ التعليمات البرمجية على المضيف الأساسي.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "ebefcaa1ea7797b7",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-07T09:41:19+00:00",
-    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐭𝐨 𝐞𝐧𝐚𝐛𝐥𝐞 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐬𝐞𝐭𝐭𝐢𝐧𝐠𝐬 𝐛𝐚𝐜𝐤𝐮𝐩 𝐛𝐲 𝐝𝐞𝐟𝐚𝐮𝐥𝐭 𝐟𝐨𝐫 𝐨𝐫𝐠𝐬\n\n📌 What happened: Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تقوم Microsoft بتمكين النسخ الاحتياطي لإعدادات Windows افتراضيًا للمؤسسات\n\n📌 وش اللي صار: تقول Microsoft أنه سيتم تمكين أداة النسخ الاحتياطي والاستعادة لإعدادات Windows افتراضيًا على أنظمة المؤسسات Microsoft Entra-joined أو Microsoft Entra Hybrid-joined بعد الترقية إلى Windows 11 26H2.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
