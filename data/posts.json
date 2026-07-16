@@ -1,5 +1,14 @@
 [
   {
+    "id": "345002a61a2ee21e",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/trend-micro-tanium-eset-and-tenable-patch-severe-product-vulnerabilities/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-16T06:08:08+00:00",
+    "en_text": "🛡️ 𝐓𝐫𝐞𝐧𝐝 𝐌𝐢𝐜𝐫𝐨, 𝐓𝐚𝐧𝐢𝐮𝐦, 𝐄𝐒𝐄𝐓 𝐚𝐧𝐝 𝐓𝐞𝐧𝐚𝐛𝐥𝐞 𝐏𝐚𝐭𝐜𝐡 𝐒𝐞𝐯𝐞𝐫𝐞 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: The cybersecurity companies patched critical and high-severity vulnerabilities in some of their products.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/trend-micro-tanium-eset-and-tenable-patch-severe-product-vulnerabilities/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ثغرات أمنية خطيرة في منتجات Trend Micro وTanium وESET وTenable Patch\n\n📌 وش اللي صار: قامت شركات الأمن السيبراني بتصحيح نقاط الضعف الحرجة وعالية الخطورة في بعض منتجاتها.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/trend-micro-tanium-eset-and-tenable-patch-severe-product-vulnerabilities/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "1b354c85bb87723a",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-08T11:51:24+00:00",
     "en_text": "🛡️ 𝐆𝐢𝐭𝐇𝐮𝐛 '𝐕𝐞𝐫𝐢𝐟𝐢𝐞𝐝' 𝐂𝐨𝐦𝐦𝐢𝐭𝐬 𝐂𝐚𝐧 𝐁𝐞 𝐑𝐞𝐰𝐫𝐢𝐭𝐭𝐞𝐧 𝐈𝐧𝐭𝐨 𝐍𝐞𝐰 𝐇𝐚𝐬𝐡𝐞𝐬 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐁𝐫𝐞𝐚𝐤𝐢𝐧𝐠 𝐒𝐢𝐠𝐧𝐚𝐭𝐮𝐫𝐞𝐬\n\n📌 What happened: New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/github-verified-commits-can-be.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يمكن إعادة كتابة التزامات GitHub \"التي تم التحقق منها\" في تجزئة جديدة دون كسر التوقيعات\n\n📌 وش اللي صار: يُظهر بحث جديد أن تجزئة التزام Git الموقع ليس الاسم الفريد من نوعه الذي يفترضه الكثير من عالم البرمجيات.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/github-verified-commits-can-be.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "09713cdc0f08337b",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaJMgdxAojXQ55Emgp0cdpY7ibLUdpF2qw_6WRHLpgdFhT82J_HFoOeqj69x1MNb7EqqMLp23NxnAsbzCeH0rg5cOrrM6bdDFNWlvvXbNZ9-QGzCYyX0q9AqYAGKwXVOb35u2lE91pm27dzyikSEF7zzfmNG-asRkTjhR30sdWgmf7TsZj8tqieCYUnTY/s1600/main-veriff.jpg",
-    "published_at": "2026-07-08T11:30:00+00:00",
-    "en_text": "🛡️ 𝐓𝐡𝐞 𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐭𝐞𝐩 𝐈𝐬 𝐭𝐡𝐞 𝐍𝐞𝐰 𝐀𝐓𝐎 𝐁𝐚𝐭𝐭𝐥𝐞𝐠𝐫𝐨𝐮𝐧𝐝 𝐢𝐧 𝟐𝟎𝟐𝟔\n\n📌 What happened: For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for defenders, relatively well understood.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ خطوة التحقق هي ساحة معركة ATO الجديدة في عام 2026\n\n📌 وش اللي صار: لسنوات عديدة، اتبعت عملية الاستيلاء على الحساب (ATO) نصًا يمكن التنبؤ به. اشترى المهاجمون بيانات الاعتماد المسروقة بكميات كبيرة، وقاموا بتشغيلها من خلال الأدوات الآلية، وانتظروا المباريات. كان حشو بيانات الاعتماد رخيصًا، وقابلاً للتطوير، وكان مفهومًا جيدًا نسبيًا بالنسبة للمدافعين.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
