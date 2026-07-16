@@ -1,5 +1,23 @@
 [
   {
+    "id": "3600e526f20fffe1",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-16T19:09:35+00:00",
+    "en_text": "🛡️ 𝐍𝐞𝐰 𝐎𝐤𝐨𝐁𝐨𝐭 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 𝐝𝐞𝐩𝐥𝐨𝐲𝐬 𝟐𝟎 𝐩𝐚𝐲𝐥𝐨𝐚𝐝𝐬 𝐭𝐨 𝐬𝐭𝐞𝐚𝐥 𝐝𝐚𝐭𝐚, 𝐜𝐫𝐲𝐩𝐭𝐨\n\n📌 What happened: A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ينشر إطار عمل OkoBot الجديد 20 حمولة لسرقة البيانات والتشفير\n\n📌 وش اللي صار: يقدم إطار عمل خبيث جديد يسمى OkoBot أكثر من 20 حمولة في هجمات تركز على سرقة عبارات أصول محفظة العملة المشفرة وبيانات الاعتماد والبيانات الحساسة الأخرى.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "8c402b24a5d6ccc9",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPDzKH0EAg764dc_I7qiwOAUUcWqBwDJcoojyb1-SwTOL5Gv24t1oGcIxnW8NkJjgXEadKJTIkcoN7nrFzrPk87AhHJj9Z5hPGk-vHGEkIppuyKJ-Sx_2M5aLF9z1VbD7G3uzf_kn_Wy1BYJ_R3RWwqM376W1hkWmfOdXYhlzCSqzSBRcJSbzGvFMkMg/s1600/Scattered-Spider.jpg",
+    "published_at": "2026-07-16T17:09:25+00:00",
+    "en_text": "🛡️ 𝐓𝐰𝐨 𝐒𝐜𝐚𝐭𝐭𝐞𝐫𝐞𝐝 𝐒𝐩𝐢𝐝𝐞𝐫 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐆𝐞𝐭 𝟓.𝟓 𝐘𝐞𝐚𝐫𝐬 𝐄𝐚𝐜𝐡 𝐟𝐨𝐫 £𝟐𝟗 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐓𝐟𝐋 𝐇𝐚𝐜𝐤\n\n📌 What happened: Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ اثنان من قراصنة العنكبوت المتفرقين يحصلون على 5.5 سنوات لكل منهما مقابل 29 مليون جنيه إسترليني من TfL Hack\n\n📌 وش اللي صار: حُكم على كل من أوين فلاورز، 18 عامًا، وثالا جبير، 20 عامًا، بالسجن لمدة خمس سنوات ونصف في محكمة وولويتش كراون يوم الخميس، 16 يوليو 2026، بتهمة اختراق وسائل النقل في لندن عام 2024.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "3c8f9fdd2670e9fa",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
@@ -52,6 +70,15 @@
     "published_at": "2026-07-16T13:21:12+00:00",
     "en_text": "🛡️ 𝐓𝐰𝐨 𝐒𝐜𝐚𝐭𝐭𝐞𝐫𝐞𝐝 𝐒𝐩𝐢𝐝𝐞𝐫 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐒𝐞𝐧𝐭𝐞𝐧𝐜𝐞𝐝 𝐭𝐨 𝐉𝐚𝐢𝐥 𝐢𝐧 𝐔𝐊\n\n📌 What happened: Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL).\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ الحكم على اثنين من قراصنة العنكبوت المتفرقين بالسجن في المملكة المتحدة\n\n📌 وش اللي صار: تمت محاكمة ثالها جبير وأوين فلاورز بسبب هجوم إلكتروني عام 2024 استهدف هيئة النقل في لندن (TfL).\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "b61195df06751592",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-16T13:00:00+00:00",
+    "en_text": "🛡️ 𝐀𝐈 𝐃𝐚𝐭𝐚 𝐂𝐞𝐧𝐭𝐞𝐫𝐬 𝐀𝐫𝐞 𝐁𝐞𝐢𝐧𝐠 𝐁𝐮𝐢𝐥𝐭 𝐅𝐚𝐬𝐭𝐞𝐫 𝐓𝐡𝐚𝐧 𝐓𝐡𝐞𝐲 𝐂𝐚𝐧 𝐁𝐞 𝐒𝐞𝐜𝐮𝐫𝐞𝐝\n\n📌 What happened: AI infrastructure introduces new security risks that traditional data center designs were never built to handle.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يتم إنشاء مراكز بيانات الذكاء الاصطناعي بشكل أسرع مما يمكن تأمينه\n\n📌 وش اللي صار: تقدم البنية التحتية للذكاء الاصطناعي مخاطر أمنية جديدة لم يتم إنشاء تصميمات مراكز البيانات التقليدية للتعامل معها على الإطلاق.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "9a667808f9a4bf6d",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-07-09T07:27:59+00:00",
     "en_text": "🛡️ 𝐂𝐡𝐫𝐨𝐦𝐞 𝟏𝟓𝟎 𝐔𝐩𝐝𝐚𝐭𝐞 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝟐𝟕 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تصحيحات تحديث Chrome 150 27 نقطة ضعف\n\n📌 وش اللي صار: يعمل التحديث الأمني ​​على حل 13 خطأ في الاستخدام بعد الاستخدام المجاني، بما في ذلك عيبين خطيرين عثرت عليهما Google.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "596664ec60e11764",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsjiT58V2lRqaqYwo2AHkilx81c58T9dBHa_W5KiHgom4-UgZqV18Ax-zQb8_fN7p_OQpqi0b4nTzt4SpDnHW-RozKjIcgs-B8KN8HI_QnCMzIjDMmcg2grJEyP7r1ZNd_SRB5R1MDw-vo-jQ4v198ZDhMsWaBpFnXmShkouRZvXIXpu-32FQ_30h4HQrq/s1600/metaai.jpg",
-    "published_at": "2026-07-09T07:21:06+00:00",
-    "en_text": "🛡️ 𝐌𝐞𝐭𝐚'𝐬 𝐍𝐞𝐰 𝐀𝐈 𝐈𝐦𝐚𝐠𝐞 𝐓𝐨𝐨𝐥 𝐋𝐞𝐭𝐬 𝐎𝐭𝐡𝐞𝐫𝐬 𝐔𝐬𝐞 𝐘𝐨𝐮𝐫 𝐏𝐮𝐛𝐥𝐢𝐜 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐏𝐡𝐨𝐭𝐨𝐬 𝐢𝐧 𝐀𝐈 𝐈𝐦𝐚𝐠𝐞𝐬\n\n📌 What happened: Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تتيح أداة الصور AI الجديدة من Meta للآخرين استخدام صور Instagram العامة الخاصة بك في صور AI\n\n📌 وش اللي صار: أعلنت شركة Meta أن نموذجها الجديد للذكاء الاصطناعي (AI) Muse Image يتيح للأشخاص استخدام منشورات وبكرات Instagram العامة لإنشاء محتوى AI، ويتم تمكينه افتراضيًا.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "3e97c161bf27062f",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-09T05:42:49+00:00",
-    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐩𝐚𝐭𝐜𝐡𝐞𝐬 𝐑𝐨𝐠𝐮𝐞𝐏𝐥𝐚𝐧𝐞𝐭 𝐃𝐞𝐟𝐞𝐧𝐝𝐞𝐫 𝐳𝐞𝐫𝐨-𝐝𝐚𝐲 𝐯𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تقوم Microsoft بتصحيح ثغرة RoguePlanet Defender ذات اليوم صفر\n\n📌 وش اللي صار: أصدرت Microsoft تصحيحًا أمنيًا لمعالجة ثغرة Defender Zero-day المعروفة باسم \"RoguePlanet\"، والتي تم الكشف عنها بعد تصحيح يونيو 2026 يوم الثلاثاء.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "85ed5e7b7d468fa6",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynXsBDNXYgGgYPWB6cmy9zuZDStl-XaVvlwMQsqa6AxvNCvi7qI9Xq3h1vdk30Tv1u-fOAtB_OZ_Q-i5O0z5D0KL1Eh0joKyFmuhIoH4-7Z16ubplbIcNQpXJ7P7Sl2xju-z6ZvbhSeJbGKiL1gzx-I151GVMAp5jpCS27zvn791sC2WYQllTRT8ye-0/s1600/Friendly-Fire-AI-demo.gif",
-    "published_at": "2026-07-09T05:15:02+00:00",
-    "en_text": "🛡️ 𝐓𝐨𝐩 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬 𝐁𝐮𝐢𝐥𝐭 𝐭𝐨 𝐂𝐚𝐭𝐜𝐡 𝐌𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐂𝐨𝐝𝐞 𝐂𝐚𝐧 𝐁𝐞 𝐓𝐫𝐢𝐜𝐤𝐞𝐝 𝐈𝐧𝐭𝐨 𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐈𝐭\n\n📌 What happened: Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يمكن خداع أفضل وكلاء الذكاء الاصطناعي المصممين للقبض على التعليمات البرمجية الضارة لتشغيلها\n\n📌 وش اللي صار: اطلب من وكيل ترميز الذكاء الاصطناعي فحص التعليمات البرمجية مفتوحة المصدر بحثًا عن الثغرات الأمنية، وقد يقوم بتشغيل تعليمات برمجية للمهاجم على جهازك الخاص بدلاً من ذلك.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
