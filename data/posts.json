@@ -1,5 +1,32 @@
 [
   {
+    "id": "7e8632d64b4f524d",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-17T09:10:15+00:00",
+    "en_text": "🛡️ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐒𝐞𝐫𝐯𝐞𝐫 𝟐𝟎𝟐𝟐 𝐫𝐞𝐚𝐜𝐡 𝐞𝐧𝐝 𝐨𝐟 𝐦𝐚𝐢𝐧𝐬𝐭𝐫𝐞𝐚𝐦 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐢𝐧 𝟗𝟎 𝐝𝐚𝐲𝐬\n\n📌 What happened: Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يصل Windows Server 2022 إلى نهاية الدعم السائد خلال 90 يومًا\n\n📌 وش اللي صار: أعلنت Microsoft أن Windows Server 2022 سيصل إلى تاريخ الانتهاء السائد في أكتوبر 2026، ولكنه سيتحول إلى الدعم الموسع ويستمر في تلقي التحديثات الأمنية لمدة خمس سنوات أخرى.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "a170e827de49df39",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-17T09:06:27+00:00",
+    "en_text": "🛡️ 𝐂𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤 𝐃𝐢𝐬𝐫𝐮𝐩𝐭𝐬 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐨𝐟 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐅𝐫𝐨𝐳𝐞𝐧 𝐅𝐨𝐨𝐝 𝐆𝐢𝐚𝐧𝐭 𝐍𝐢𝐜𝐡𝐢𝐫𝐞𝐢\n\n📌 What happened: The company disconnected its systems on July 13 and is starting to gradually restore operations.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ هجوم إلكتروني يعطل عمليات شركة الأغذية المجمدة اليابانية العملاقة Nichirei\n\n📌 وش اللي صار: قامت الشركة بفصل أنظمتها في 13 يوليو وبدأت في استعادة العمليات تدريجياً.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "932d8c7a52c25bfd",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-17T08:13:37+00:00",
+    "en_text": "🛡️ 𝐔𝐒 𝐜𝐡𝐚𝐫𝐠𝐞𝐬 𝐭𝐰𝐨 𝐨𝐯𝐞𝐫 𝐥𝐚𝐮𝐧𝐝𝐞𝐫𝐢𝐧𝐠 $𝟒𝟑 𝐦𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐫𝐨𝐦 𝐢𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭 𝐟𝐫𝐚𝐮𝐝\n\n📌 What happened: U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الولايات المتحدة تتهم اثنين بغسل 43 مليون دولار من الاحتيال الاستثماري\n\n📌 وش اللي صار: اتهم المدعون الأمريكيون يوم الخميس رجلا وامرأة من نيويورك لدورهما في شبكة إجرامية واسعة النطاق قامت بغسل الأموال المسروقة في عمليات الاحتيال عبر الاستثمار عبر الإنترنت.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "68bd69ed4f0232ae",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-07-09T13:49:42+00:00",
     "en_text": "🛡️ 𝐏𝐚𝐥𝐨 𝐀𝐥𝐭𝐨 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝟏𝟑 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ بالو ألتو نتوركس تصحيحات 13 نقاط الضعف\n\n📌 وش اللي صار: تم العثور على تجاوز سعة المخزن المؤقت، وDoS، وحقن الأوامر، وSSRF، وتجاوز المصادقة، وأنواع أخرى من نقاط الضعف في برنامج PAN-OS.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "ad71d6d7cf25cf0b",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5cf949a2c62ba749/6a4eb1ca6ed98610b4607ce7/aigateway_Daniel_Pinkpank_shutterstock.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-09T13:01:00+00:00",
-    "en_text": "🛡️ 𝐀𝐈 𝐆𝐚𝐭𝐞𝐰𝐚𝐲𝐬 𝐎𝐟𝐟𝐞𝐫 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐭𝐡𝐞 𝐊𝐞𝐲𝐬 𝐭𝐨 𝐭𝐡𝐞 𝐊𝐢𝐧𝐠𝐝𝐨𝐦\n\n📌 What happened: A cryptomining incident highlights how AI gateways can provide access to AI models, cloud infrastructure, and identity and access management (IAM) data.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ توفر بوابات الذكاء الاصطناعي للمهاجمين مفاتيح المملكة\n\n📌 وش اللي صار: تسلط حادثة تعدين العملات المشفرة الضوء على كيف يمكن لبوابات الذكاء الاصطناعي توفير الوصول إلى نماذج الذكاء الاصطناعي والبنية التحتية السحابية وبيانات إدارة الهوية والوصول (IAM).\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "373aa2e6bfda2aca",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVBCdd1YLOTAhXs53MgUBJHfid7uAH-uFr4vzULJu6BL5H7TDiBbZUDxS9RTwC1FH7q2HhEiI2BHLlymHQ7btIBDidvIohoiVJ2XH2uvQcan7Lio_iIh3Ku3J3LoM8SgaHrlAnyFeVLo77qE93hFykG4CJZUj1IsJb75jFMjAK9Q1V-akTkdagA_NLm4A/s1600/thn-webinar.jpg",
-    "published_at": "2026-07-09T12:26:58+00:00",
-    "en_text": "🛡️ 𝐀𝐈 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐌𝐨𝐯𝐞 𝐢𝐧 𝐌𝐢𝐧𝐮𝐭𝐞𝐬. 𝐉𝐨𝐢𝐧 𝐓𝐡𝐢𝐬 𝐖𝐞𝐛𝐢𝐧𝐚𝐫 𝐨𝐧 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐚 𝐃𝐞𝐟𝐞𝐧𝐬𝐞 𝐓𝐡𝐚𝐭 𝐊𝐞𝐞𝐩𝐬 𝐔𝐩\n\n📌 What happened: AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the first alert.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ هجمات الذكاء الاصطناعي تتحرك في دقائق. انضم إلى هذه الندوة عبر الويب حول بناء دفاع متواصل\n\n📌 وش اللي صار: لقد غيّر الذكاء الاصطناعي مدى سرعة تحرك الهجمات. العمل الذي كان يستغرق يومًا من قبل المهاجم أصبح الآن يستغرق دقائق. باستخدام نماذج مثل Mythos، يكتب المهاجمون طعمًا مخصصًا، ويختارون الأهداف، ويختبرون ما سيصلون إليه، وينتقلون إلى المضيف التالي قبل أن يقوم فريقك بمسح التنبيه الأول.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "2cd5f7cfdd104936",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-09T12:18:46+00:00",
-    "en_text": "🛡️ 𝟏𝟐 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐈𝐦𝐩𝐚𝐜𝐭𝐞𝐝 𝐛𝐲 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡 𝐚𝐭 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐓𝐞𝐥𝐜𝐨 𝐊𝐃𝐃𝐈\n\n📌 What happened: Hackers exploited a zero-day vulnerability in a third-party system to access a KDDI email system for ISPs.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ 12 مليون شخص تأثروا باختراق البيانات في شركة الاتصالات اليابانية KDDI\n\n📌 وش اللي صار: استغل المتسللون ثغرة يوم الصفر في نظام تابع لجهة خارجية للوصول إلى نظام البريد الإلكتروني KDDI لمزودي خدمات الإنترنت.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
