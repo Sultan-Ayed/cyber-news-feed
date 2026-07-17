@@ -1,5 +1,32 @@
 [
   {
+    "id": "68bd69ed4f0232ae",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-17T07:15:59+00:00",
+    "en_text": "🛡️ 𝐅𝐫𝐞𝐬𝐡 𝐒𝐡𝐚𝐫𝐞𝐏𝐨𝐢𝐧𝐭 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐒𝐨𝐨𝐧 𝐀𝐟𝐭𝐞𝐫 𝐃𝐢𝐬𝐜𝐥𝐨𝐬𝐮𝐫𝐞\n\n📌 What happened: The critical-severity security defect allows remote, authenticated attackers to execute arbitrary code on the server.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم استغلال ثغرة أمنية جديدة في SharePoint بعد وقت قصير من الكشف عنها\n\n📌 وش اللي صار: يسمح العيب الأمني ​​الخطير للمهاجمين عن بعد والمصادقين بتنفيذ تعليمات برمجية عشوائية على الخادم.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "d70c88aad58913a7",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-17T07:03:33+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐮𝐫𝐠𝐞𝐬 𝐢𝐦𝐦𝐞𝐝𝐢𝐚𝐭𝐞 𝐚𝐜𝐭𝐢𝐨𝐧 𝐨𝐧 𝐚𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐅𝐨𝐫𝐭𝐢𝐧𝐞𝐭 𝐟𝐥𝐚𝐰𝐬\n\n📌 What happened: CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تحث CISA على اتخاذ إجراءات فورية بشأن عيوب Fortinet المستغلة بشكل نشط\n\n📌 وش اللي صار: أمرت CISA يوم الخميس الوكالات الحكومية بإعطاء الأولوية لتصحيح اثنتين من نقاط الضعف التي تم استغلالها بشكل نشط في منصة Fortinet FortiSandbox للكشف عن التهديدات.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "05042d22e617047f",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH1X7ZnvKsW37BBvjNfEzT4Imh9ZIRL4_2W1JaNVe_MyO3Q5H1MPsET-SASqznhlfOExRrLj4-6NzhgvGi76w4U5tSmlM-pJLIqO5jF3g9G1DR_FNhuwcatBFb8ARvD4PPMiQvMCFiTlEOlc13nQbQqCn5ZHf1J2ZOqDeG3_pmBiQ92hTfMErJKcjKbNtZ/s1600/sharepoint-cisa.jpg",
+    "published_at": "2026-07-17T06:42:23+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐀𝐝𝐝𝐬 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐒𝐡𝐚𝐫𝐞𝐏𝐨𝐢𝐧𝐭 𝐑𝐂𝐄 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐂𝐕𝐄-𝟐𝟎𝟐𝟔-𝟓𝟖𝟔𝟒𝟒 𝐭𝐨 𝐊𝐄𝐕\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB)…\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تضيف CISA برنامج SharePoint RCE Zero-Day CVE-2026-58644 المستغل إلى KEV\n\n📌 وش اللي صار: أضافت وكالة الأمن السيبراني وأمن البنية التحتية الأمريكية (CISA) يوم الخميس ثغرة أمنية تم تصحيحها حديثًا تؤثر على Microsoft SharePoint Server إلى كتالوج الثغرات الأمنية المستغلة المعروفة (KEV)، مما يتطلب من الفرع التنفيذي المدني الفيدرالي (FCEB)...\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "0a06e6307f91bede",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-07-09T12:18:46+00:00",
     "en_text": "🛡️ 𝟏𝟐 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐈𝐦𝐩𝐚𝐜𝐭𝐞𝐝 𝐛𝐲 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡 𝐚𝐭 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐓𝐞𝐥𝐜𝐨 𝐊𝐃𝐃𝐈\n\n📌 What happened: Hackers exploited a zero-day vulnerability in a third-party system to access a KDDI email system for ISPs.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ 12 مليون شخص تأثروا باختراق البيانات في شركة الاتصالات اليابانية KDDI\n\n📌 وش اللي صار: استغل المتسللون ثغرة يوم الصفر في نظام تابع لجهة خارجية للوصول إلى نظام البريد الإلكتروني KDDI لمزودي خدمات الإنترنت.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "a6f031f7fe3aa1fb",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-09T11:52:35+00:00",
-    "en_text": "🛡️ 𝟏𝟓-𝐘𝐞𝐚𝐫-𝐎𝐥𝐝 𝐋𝐢𝐧𝐮𝐱 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 ‘𝐆𝐡𝐨𝐬𝐭𝐋𝐨𝐜𝐤’ 𝐄𝐚𝐫𝐧𝐬 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡𝐞𝐫𝐬 $𝟗𝟐𝐤 𝐅𝐫𝐨𝐦 𝐆𝐨𝐨𝐠𝐥𝐞\n\n📌 What happened: Affecting every major distribution since 2011, the Linux kernel vulnerability allows attackers to gain root access.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ ثغرة أمنية عمرها 15 عامًا في نظام التشغيل Linux \"GhostLock\" تكسب الباحثين 92 ألف دولار من Google\n\n📌 وش اللي صار: تؤثر ثغرة Linux kernel على كل التوزيعات الرئيسية منذ عام 2011، وتسمح للمهاجمين بالوصول إلى الجذر.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "833cc05cd64a7a3a",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-09T11:00:35+00:00",
-    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐭𝐨 𝐫𝐞𝐭𝐢𝐫𝐞 𝐭𝐡𝐞 𝐎𝐖𝐀 𝐋𝐢𝐠𝐡𝐭 𝐜𝐥𝐢𝐞𝐧𝐭 𝐢𝐧 𝐄𝐱𝐜𝐡𝐚𝐧𝐠𝐞 𝐒𝐞𝐫𝐯𝐞𝐫\n\n📌 What happened: Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Microsoft ستتقاعد عميل OWA Light في Exchange Server\n\n📌 وش اللي صار: أعلنت Microsoft عن خطط لتعطيل Outlook Web Access (OWA) Light، الإصدار الخفيف من عميل البريد الإلكتروني Outlook Web App، في تحديث Exchange Server مستقبلي.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "2ee03ee380e9022e",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMHNzR9Jii9NFEb6X2orsYvbxp5mJF4-z71vuQ1EHw94Tkym9ifxqrNmOtYQd9nmpe8rR7ZBZMdGEZb_S-ZKoKpXAFO3Aged7ApVnn_Pip_iI0p389k6ebIxpgwsw4OsyCKhE8KiqzdxmKDr_0ee_XaMKKPngnAcDJ5uQ_Pq8HOmX0ZUpz45pWxQID5Ec/s1600/Chainguard-main.jpg",
-    "published_at": "2026-07-09T11:00:00+00:00",
-    "en_text": "🛡️ 𝐒𝐮𝐦𝐦𝐞𝐫 𝐨𝐟 𝐂𝐥𝐞𝐚𝐫𝐢𝐧𝐠𝐡𝐨𝐮𝐬𝐞𝐬\n\n📌 What happened: Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quietly months earlier, heads down, taking…\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/summer-of-clearinghouses.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ صيف غرف المقاصة\n\n📌 وش اللي صار: يبدو أن الجميع قد أعلنوا عن غرفة مقاصة خلال الأسابيع القليلة الماضية. لقد فعلنا ذلك أيضًا. يُطلق على فندقنا اسم أثينا، والشيء الرئيسي الذي يميزها هو أنها كانت حقيقية بالفعل وتعمل عندما أعلنا عنها - تم بناؤها بهدوء قبل أشهر، وتوجهت نحو الأسفل، وأخذت ...\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/summer-of-clearinghouses.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
