@@ -1,5 +1,14 @@
 [
   {
+    "id": "b5637df4b14a86fe",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-18T17:22:47+00:00",
+    "en_text": "🛡️ 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐂𝐨𝐫𝐞 \"𝐰𝐩𝟐𝐬𝐡𝐞𝐥𝐥\" 𝐑𝐂𝐄 𝐟𝐥𝐚𝐰𝐬 𝐠𝐞𝐭 𝐩𝐮𝐛𝐥𝐢𝐜 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐬, 𝐩𝐚𝐭𝐜𝐡 𝐧𝐨𝐰\n\n📌 What happened: Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ عيوب WordPress الأساسية \"wp2shell\" RCE تتعرض لاستغلالات عامة، قم بتصحيحها الآن\n\n📌 وش اللي صار: تم إطلاق عمليات استغلال عامة لثغرات تنفيذ التعليمات البرمجية عن بُعد \"wp2shell\" والتي تؤثر على WordPress Core، مما يجعل من الضروري أن يقوم المسؤولون بتصحيح مواقعهم على الفور.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "3198a5fdb24da4f9",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-10T11:55:11+00:00",
     "en_text": "🛡️ 𝐂𝐡𝐢𝐧𝐚, 𝐈𝐧𝐝𝐢𝐚-𝐋𝐢𝐧𝐤𝐞𝐝 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐁𝐨𝐭𝐡 𝐓𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐒𝐚𝐦𝐞 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧𝐢 𝐏𝐨𝐥𝐢𝐜𝐞 𝐅𝐨𝐫𝐜𝐞\n\n📌 What happened: Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ استهدف قراصنة مرتبطون بالصين والهند نفس قوة الشرطة الباكستانية\n\n📌 وش اللي صار: استهدف كل من الأعداء والحلفاء قوة شرطة بلوشستان في باكستان لمدة عامين على الأقل، وفقًا لما ذكره موقع SentinelOne.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "605a1c16a58a0af6",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQHphr7bXE4J4-EmYSWy0cjHarUBibR2JrXpFbwDKMZnsWbiUsC9UE7g3x2r8WFDLB7BBZlH2kDJ3I9QqF8IIGLPiZda93wKUaDqJC8Nv11yrd7VPm9RmBOky0yRXGRhhcDqbwNCZvHiGTkKRb06XAwFiGl0juzUeFBn3LUDwFfxZVNlInVmXTNI4cMLI/s1600/XQUIC-demo.gif",
-    "published_at": "2026-07-10T11:47:43+00:00",
-    "en_text": "🛡️ 𝐔𝐧𝐩𝐚𝐭𝐜𝐡𝐞𝐝 𝐗𝐑𝐈𝐍𝐆 𝐅𝐥𝐚𝐰 𝐢𝐧 𝐗𝐐𝐔𝐈𝐂 𝐋𝐞𝐭𝐬 𝐑𝐞𝐦𝐨𝐭𝐞 𝐂𝐥𝐢𝐞𝐧𝐭𝐬 𝐂𝐫𝐚𝐬𝐡 𝐇𝐓𝐓𝐏/𝟑 𝐒𝐞𝐫𝐯𝐞𝐫𝐬\n\n📌 What happened: A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يتيح خطأ XRING غير المصحّح في XQUIC للعملاء البعيدين تعطل خوادم HTTP/3\n\n📌 وش اللي صار: متغير واحد خاطئ في سطر واحد في مكتبة XQUIC ومكتبة QUIC وHTTP/3 الخاصة بـ Alibaba، يسمح لأي عميل بعيد بتعطيل الخادم من خلال موجة قصيرة من حركة المرور القانونية تمامًا. لا يوجد التصحيح.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
