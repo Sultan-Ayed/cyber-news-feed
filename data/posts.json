@@ -1,5 +1,23 @@
 [
   {
+    "id": "3198a5fdb24da4f9",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-18T14:17:19+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐬𝐮𝐫𝐠𝐞 𝐢𝐧 𝐀𝐂𝐑 𝐒𝐭𝐞𝐚𝐥𝐞𝐫 𝐚𝐭𝐭𝐚𝐜𝐤𝐬 𝐨𝐧 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬\n\n📌 What happened: Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تحذر Microsoft من زيادة هجمات ACR Stealer على العملاء\n\n📌 وش اللي صار: لاحظت Microsoft زيادة في الهجمات باستخدام البرنامج الضار ACR Stealer لسرقة كلمات المرور المخزنة في المتصفح ورموز المصادقة والمستندات الحساسة من عملائها من المؤسسات.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "b012516806d74631",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-18T13:15:24+00:00",
+    "en_text": "🛡️ 𝐓𝐡𝐞 𝐅𝐮𝐭𝐮𝐫𝐞 𝐨𝐟 𝐀𝐠𝐞 𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧: 𝐘𝐨𝐮𝐫 𝐅𝐚𝐜𝐞 𝐍𝐞𝐯𝐞𝐫 𝐋𝐞𝐚𝐯𝐞𝐬 𝐘𝐨𝐮𝐫 𝐃𝐞𝐯𝐢𝐜𝐞\n\n📌 What happened: As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ مستقبل التحقق من العمر: وجهك لا يترك جهازك أبدًا\n\n📌 وش اللي صار: مع توسع قوانين التحقق من العمر في جميع أنحاء العالم، تواجه المؤسسات ضغوطًا متزايدة لحماية خصوصية المستخدمين مع تلبية المتطلبات التنظيمية.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "1f8fa8831f47fff5",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-10T11:47:43+00:00",
     "en_text": "🛡️ 𝐔𝐧𝐩𝐚𝐭𝐜𝐡𝐞𝐝 𝐗𝐑𝐈𝐍𝐆 𝐅𝐥𝐚𝐰 𝐢𝐧 𝐗𝐐𝐔𝐈𝐂 𝐋𝐞𝐭𝐬 𝐑𝐞𝐦𝐨𝐭𝐞 𝐂𝐥𝐢𝐞𝐧𝐭𝐬 𝐂𝐫𝐚𝐬𝐡 𝐇𝐓𝐓𝐏/𝟑 𝐒𝐞𝐫𝐯𝐞𝐫𝐬\n\n📌 What happened: A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يتيح خطأ XRING غير المصحّح في XQUIC للعملاء البعيدين تعطل خوادم HTTP/3\n\n📌 وش اللي صار: متغير واحد خاطئ في سطر واحد في مكتبة XQUIC ومكتبة QUIC وHTTP/3 الخاصة بـ Alibaba، يسمح لأي عميل بعيد بتعطيل الخادم من خلال موجة قصيرة من حركة المرور القانونية تمامًا. لا يوجد التصحيح.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "f2503fadd9705035",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-10T11:47:38+00:00",
-    "en_text": "🛡️ 𝐙𝐢𝐦𝐛𝐫𝐚 𝐮𝐫𝐠𝐞𝐬 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐭𝐨 𝐩𝐚𝐭𝐜𝐡 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐰𝐞𝐛 𝐜𝐥𝐢𝐞𝐧𝐭 𝐗𝐒𝐒 𝐟𝐥𝐚𝐰\n\n📌 What happened: The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تحث Zimbra العملاء على تصحيح خلل XSS الحرج في عميل الويب\n\n📌 وش اللي صار: حث فريق أمان Zimbra العملاء على تصحيح ثغرة أمنية حرجة تؤثر على Classic Web Client المستخدم للوصول إلى مجموعة Zimbra Collaboration.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "2db8cfa5bd5387a5",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGplfQpPmwb3F3h_tdGW9-jNmpKBLd2DdhOw1nugXafk9rWwqxFwvD5xE1L1Qs0zvZvgi7Fx_jhj9kIn9PhOvWYuLMd9n7fOeXnfzujPanNBTqmMC4SKi__b_KFtpnmNkz-jtzB2tcjgO_ceckyR4Er4Gl3LASJKbyGvZVhkqP6m9Xdx12WO6xWROBzFk/s1600/million.jpg",
-    "published_at": "2026-07-10T11:39:40+00:00",
-    "en_text": "🛡️ 𝐅𝐫𝐨𝐦 𝟏𝟕,𝟎𝟎𝟎 𝐭𝐨 𝟏.𝟏 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐀𝐬𝐬𝐞𝐭𝐬: 𝐇𝐨𝐰 𝐋𝐮𝐦𝐞𝐧 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐑𝐞𝐛𝐮𝐢𝐥𝐭 𝐄𝐱𝐩𝐨𝐬𝐮𝐫𝐞 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐚𝐭 𝐒𝐜𝐚𝐥𝐞\n\n📌 What happened: Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ من 17000 إلى 1.1 مليون أصل: كيف أعادت Lumen Technologies بناء إدارة التعرض على نطاق واسع\n\n📌 وش اللي صار: تفترض معظم الشركات أن مخزون أصولها قريب بدرجة كافية من الدقة. الأدلة تشير إلى خلاف ذلك.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
