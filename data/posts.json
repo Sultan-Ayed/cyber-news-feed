@@ -1,5 +1,14 @@
 [
   {
+    "id": "6c26a6a845d6468a",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-18T19:32:02+00:00",
+    "en_text": "🛡️ 𝐔𝐩𝐝𝐚𝐭𝐞 𝐧𝐨𝐰: 𝟕-𝐙𝐢𝐩 𝐟𝐢𝐱𝐞𝐬 𝐑𝐂𝐄 𝐟𝐥𝐚𝐰 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐚𝐛𝐥𝐞 𝐰𝐢𝐭𝐡 𝐦𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐚𝐫𝐜𝐡𝐢𝐯𝐞𝐬\n\n📌 What happened: 7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ التحديث الآن: يعمل برنامج 7-Zip على إصلاح خلل RCE الذي يمكن استغلاله من خلال الأرشيفات الضارة\n\n📌 وش اللي صار: تم إصدار 7-Zip الإصدار 26.02 لإصلاح ثغرة أمنية في تنفيذ التعليمات البرمجية عن بعد والتي قد تسمح للمهاجمين بتنفيذ تعليمات برمجية ضارة عن طريق إقناع المستخدمين بفتح ملفات مضغوطة مصممة خصيصًا.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "b5637df4b14a86fe",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-10T12:58:39+00:00",
     "en_text": "🛡️ 𝐓𝐡𝐢𝐫𝐝 𝐔𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐄𝐱𝐩𝐞𝐫𝐭 𝐒𝐞𝐧𝐭𝐞𝐧𝐜𝐞𝐝 𝐭𝐨 𝐏𝐫𝐢𝐬𝐨𝐧 𝐟𝐨𝐫 𝐇𝐞𝐥𝐩𝐢𝐧𝐠 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐆𝐚𝐧𝐠\n\n📌 What happened: Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ الحكم على خبير أمني أمريكي ثالث بالسجن بتهمة مساعدة عصابة برامج الفدية\n\n📌 وش اللي صار: وحُكم على أنجيلو مارتينو، وهو مفاوض سابق في برامج الفدية، بالسجن لمدة 70 شهرًا لمساعدة مجموعة BlackCat/Alphv.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "8682dbe06cd32ccb",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-10T11:55:11+00:00",
-    "en_text": "🛡️ 𝐂𝐡𝐢𝐧𝐚, 𝐈𝐧𝐝𝐢𝐚-𝐋𝐢𝐧𝐤𝐞𝐝 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐁𝐨𝐭𝐡 𝐓𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐒𝐚𝐦𝐞 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧𝐢 𝐏𝐨𝐥𝐢𝐜𝐞 𝐅𝐨𝐫𝐜𝐞\n\n📌 What happened: Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ استهدف قراصنة مرتبطون بالصين والهند نفس قوة الشرطة الباكستانية\n\n📌 وش اللي صار: استهدف كل من الأعداء والحلفاء قوة شرطة بلوشستان في باكستان لمدة عامين على الأقل، وفقًا لما ذكره موقع SentinelOne.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
