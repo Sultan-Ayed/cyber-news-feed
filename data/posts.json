@@ -1,5 +1,14 @@
 [
   {
+    "id": "89f3cdde9df9a892",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVv10OUCjBseEZieeN1rxtwm17pPCAoe6OC1jvCTXCumjIImhz5Y08lYWBpSIGBSkDJN-wBcGmUTmPEp8U74bgd2Cv3rwmSmtUDlmOYR7f-0Xs3xL_xkjpkNm8W8vzNvFNfmTNiqs9TNcNmT1bo8xWb9XGzPnuaByxKSl9_eOqg3yDbtAtYh0epFo-4Wg/s1600/nginx-rce-flaw.jpg",
+    "published_at": "2026-07-19T20:42:49+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐍𝐆𝐈𝐍𝐗 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐂𝐚𝐧 𝐂𝐫𝐚𝐬𝐡 𝐖𝐨𝐫𝐤𝐞𝐫𝐬 𝐚𝐧𝐝 𝐌𝐚𝐲 𝐀𝐥𝐥𝐨𝐰 𝐑𝐞𝐦𝐨𝐭𝐞 𝐂𝐨𝐝𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧\n\n📌 What happened: F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يمكن لثغرة NGINX الحرجة أن تعطل العمال وقد تسمح بتنفيذ التعليمات البرمجية عن بعد\n\n📌 وش اللي صار: قامت شركة F5 بشحن إصلاحات لخلل خطير في nginx والذي يسمح لمهاجم بعيد غير مصادق بتشغيل تجاوز سعة المخزن المؤقت للكومة في العملية المنفذة باستخدام طلبات HTTP المعدة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "32a7886bc9a4dbc5",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-10T14:00:00+00:00",
     "en_text": "🛡️ 𝐅𝐫𝐞𝐬𝐡 𝐀𝐓𝐌 𝐂𝐫𝐲𝐩𝐭𝐨 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐁𝐮𝐠𝐬: 𝐉𝐚𝐜𝐤𝐩𝐨𝐭 𝐨𝐫 𝐁𝐮𝐬𝐭?\n\n📌 What happened: Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ الأخطاء الجديدة في برامج تشفير أجهزة الصراف الآلي: الفوز بالجائزة الكبرى أم الفشل؟\n\n📌 وش اللي صار: تتعرض المؤسسات، وربما أجهزة الصراف الآلي، لخطر الاختراق، وذلك بفضل الثغرات الموجودة في برنامج أمان Microsoft BitLocker.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "6f89abc6af3d0f84",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea14c9f0b9e9121d/6a50fb99c6689e7d0b90589b/GettyImages-2252881496.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-10T13:50:24+00:00",
-    "en_text": "🛡️ 𝐌𝐨𝐫𝐞 𝐂𝐨𝐮𝐧𝐭𝐫𝐢𝐞𝐬 𝐉𝐮𝐦𝐩 𝐨𝐧 𝐭𝐡𝐞 𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚 '𝐁𝐚𝐧 𝐖𝐚𝐠𝐨𝐧'\n\n📌 What happened: Age restrictions on accounts may be more of a stopgap because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ المزيد من الدول تقفز على وسائل التواصل الاجتماعي \"Ban Wagon\"\n\n📌 وش اللي صار: قد تكون القيود العمرية على الحسابات بمثابة حل مؤقت لأن امتثال الصناعة غير كافٍ بالفعل. ويكافح عمالقة التكنولوجيا لاتباع القوانين دون التأثير على المستخدمين.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
