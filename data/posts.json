@@ -1,5 +1,14 @@
 [
   {
+    "id": "5dffe4f1452b924f",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-21T23:07:33+00:00",
+    "en_text": "🛡️ 𝐏𝐨𝐥𝐢𝐜𝐞 𝐝𝐢𝐬𝐦𝐚𝐧𝐭𝐥𝐞 𝐊𝐫𝐚𝐭𝐨𝐬 𝐩𝐡𝐢𝐬𝐡𝐢𝐧𝐠 𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦, 𝐚𝐫𝐫𝐞𝐬𝐭 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫\n\n📌 What happened: Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia.\n\n💡 Why it matters: The weakest link is rarely the technology — it's the split second someone trusts a message that looks routine.\n\n✅ Quick tip: Enable phishing-resistant MFA (like passkeys) wherever you can; a stolen password alone shouldn't be enough.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الشرطة تفكك منصة التصيد الاحتيالي Kratos وتعتقل المطور\n\n📌 وش اللي صار: قامت السلطات في ألمانيا والولايات المتحدة بتفكيك البنية التحتية المركزية لـ Kratos، وهي منصة للتصيد الاحتيالي كخدمة (PhaaS) ذات انتشار عالمي، وتم القبض على مطورها في إندونيسيا.\n\n💡 ليش هذا مهم: أضعف حلقة نادرًا ما تكون التقنية، هي لحظة يثق فيها شخص برسالة تبدو عادية.\n\n✅ نصيحة سريعة: فعّل مصادقة ثنائية مقاومة للتصيد (زي مفاتيح المرور) كل ما قدرت، لأن كلمة المرور المسروقة لحالها ما لازم تكفي.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "7dbe7337f451898e",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
@@ -16,6 +25,15 @@
     "published_at": "2026-07-21T21:48:05+00:00",
     "en_text": "🛡️ 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐈𝐬 𝐀𝐜𝐜𝐞𝐥𝐞𝐫𝐚𝐭𝐢𝐧𝐠, 𝐁𝐮𝐭 𝐈𝐭'𝐬 𝐍𝐨𝐭 𝐁𝐞𝐜𝐚𝐮𝐬𝐞 𝐨𝐟 𝐀𝐈\n\n📌 What happened: Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تسارع وتيرة برامج الفدية، لكن ليس بسبب الذكاء الاصطناعي\n\n📌 وش اللي صار: وأشار الباحثون إلى تجزئة النظام البيئي لبرامج الفدية، وظهور مهاجمين جدد، وتوسيع الهجمات على المنظمات الأقل حماية.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "c94f3b7d231b32b2",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt283391312b6c9a38/6a5f7b49060b4ed782c34503/AI-code-illustration-CineVI-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-21T21:27:37+00:00",
+    "en_text": "🛡️ 𝐔𝐬𝐢𝐧𝐠 𝐋𝐋𝐌𝐬 𝐭𝐨 𝐅𝐢𝐧𝐝 𝐚𝐧𝐝 𝐏𝐫𝐢𝐨𝐫𝐢𝐭𝐢𝐳𝐞 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐈𝐬 𝐍𝐨 𝐄𝐚𝐬𝐲 𝐓𝐚𝐬𝐤\n\n📌 What happened: The latest large language models have high false-positive rates and fail to take into account the context of scans, leading to more work for AppSec professionals.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ إن استخدام LLMs للعثور على الثغرات الأمنية وتحديد أولوياتها ليس بالمهمة السهلة\n\n📌 وش اللي صار: تتميز أحدث نماذج اللغات الكبيرة بمعدلات إيجابية كاذبة عالية وتفشل في مراعاة سياق عمليات الفحص، مما يؤدي إلى مزيد من العمل لمحترفي AppSec.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "5788b4c60bfc8e18",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-14T08:02:33+00:00",
     "en_text": "🛡️ 𝐔.𝐒. 𝐒𝐚𝐧𝐜𝐭𝐢𝐨𝐧𝐬 𝐅𝐢𝐫𝐬𝐭 𝐕𝐏𝐍 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐚𝐧𝐝 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐂𝐫𝐲𝐩𝐭𝐨𝐫 𝐒𝐞𝐥𝐥𝐞𝐫 𝐎𝐯𝐞𝐫 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭\n\n📌 What happened: The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals' malicious activities, including ransomware attacks against Americans.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تفرض الولايات المتحدة عقوبات على أول خدمة VPN وبائع تشفير البرامج الضارة بسبب دعم برامج الفدية\n\n📌 وش اللي صار: قام مكتب مراقبة الأصول الأجنبية التابع لوزارة الخزانة الأمريكية (OFAC) بتعيين شخصين ومزود خدمة VPN لتمكين الأنشطة الخبيثة لممثلي برامج الفدية وغيرهم من مجرمي الإنترنت، بما في ذلك هجمات برامج الفدية ضد الأمريكيين.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "7eacb300a052d427",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAJ1TN76Et1GvWFCTaivnNcys4rEEVk1QEd6WIb0wu3cxroYcwng-0a0uM8eyHdrOuiHLU8lFJg5eFzSbZj95aEfXVnletlFE9BKsDJP_0uV4w9-YbHg7p9LuMyRMcj4rJPftYmIYCcD3_VmbgFrGuaJ6yqUuJgIvVtbqlNUPrkJO2FSuFQ6dJ7gzKFV0/s1600/lucide-botnet.jpg",
-    "published_at": "2026-07-14T07:08:36+00:00",
-    "en_text": "🛡️ 𝟏𝟒𝟖 𝐧𝐩𝐦 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬 𝐃𝐢𝐬𝐠𝐮𝐢𝐬𝐞𝐝 𝐚𝐬 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐏𝐫𝐨𝐱𝐢𝐞𝐬 𝐓𝐮𝐫𝐧𝐞𝐝 𝐁𝐫𝐨𝐰𝐬𝐞𝐫𝐬 𝐈𝐧𝐭𝐨 𝐚 𝐃𝐃𝐨𝐒 𝐁𝐨𝐭𝐧𝐞𝐭\n\n📌 What happened: A campaign of 148 npm packages disguised as student web proxies turned visitors' browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from JFrog.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ حزم 148 نانومتر متخفية في شكل وكلاء للطلاب حولت المتصفحات إلى شبكة الروبوتات DDoS\n\n📌 وش اللي صار: قامت حملة مكونة من 148 حزمة npm متخفية في هيئة وكلاء ويب للطلاب بتحويل متصفحات الزوار إلى شبكة الروبوتات الموزعة لرفض الخدمة لمدة أسبوعين تقريبًا في شهر مايو، وفقًا لبحث جديد أجرته JFrog.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "60a6e459081b61f9",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-14T06:37:50+00:00",
-    "en_text": "🛡️ 𝐏𝐞𝐧𝐭𝐚𝐠𝐨𝐧 𝐒𝐮𝐬𝐩𝐞𝐧𝐝𝐬 𝐂𝐌𝐌𝐂 𝐏𝐡𝐚𝐬𝐞 𝟐 𝐚𝐬 𝐈𝐭 𝐑𝐞𝐭𝐡𝐢𝐧𝐤𝐬 𝐂𝐨𝐧𝐭𝐫𝐚𝐜𝐭𝐨𝐫 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐑𝐮𝐥𝐞𝐬\n\n📌 What happened: A new CMMC review and reform task force will conduct a comprehensive review of the program.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ البنتاغون يعلق المرحلة الثانية من CMMC لأنه يعيد التفكير في قواعد الأمن السيبراني للمقاولين\n\n📌 وش اللي صار: ستقوم فرقة عمل جديدة للمراجعة والإصلاح من CMMC بإجراء مراجعة شاملة للبرنامج.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
