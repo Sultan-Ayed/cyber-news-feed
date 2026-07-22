@@ -1,5 +1,32 @@
 [
   {
+    "id": "8b2bec85deeb80d7",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-22T16:59:17+00:00",
+    "en_text": "🛡️ 𝐒𝐰𝐢𝐬𝐬 𝐫𝐚𝐢𝐥 𝐠𝐢𝐚𝐧𝐭 𝐒𝐭𝐚𝐝𝐥𝐞𝐫 𝐫𝐞𝐣𝐞𝐜𝐭𝐬 $𝟏𝟐.𝟑𝐌 𝐫𝐚𝐧𝐬𝐨𝐦 𝐝𝐞𝐦𝐚𝐧𝐝 𝐚𝐟𝐭𝐞𝐫 𝐜𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ شركة السكك الحديدية السويسرية العملاقة ستادلر ترفض طلب فدية بقيمة 12.3 مليون دولار بعد الهجوم الإلكتروني\n\n📌 وش اللي صار: قالت شركة تصنيع مركبات السكك الحديدية السويسرية Stadler Rail إن عصابة برامج الفدية Everest طلبت حوالي 12.3 مليون دولار بعد اختراق منصة تبادل البيانات المشتركة مع أحد مورديها.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "57deb39eb5febd85",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd70f31deaf012f3a/6a60e27e0cab912020e949ed/alienattack-Devrimb-GettyImages-1159847076_(1).jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-22T15:53:47+00:00",
+    "en_text": "🛡️ 𝐖𝐡𝐞𝐧 𝐀𝐈 𝐀𝐭𝐭𝐚𝐜𝐤𝐬: 𝐎𝐩𝐞𝐧𝐀𝐈 𝐌𝐨𝐝𝐞𝐥𝐬 𝐀𝐮𝐭𝐨𝐧𝐨𝐦𝐨𝐮𝐬𝐥𝐲 𝐇𝐚𝐜𝐤 𝐇𝐮𝐠𝐠𝐢𝐧𝐠 𝐅𝐚𝐜𝐞\n\n📌 What happened: Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ عندما يهاجم الذكاء الاصطناعي: نماذج OpenAI تخترق بشكل مستقل الوجه المعانق\n\n📌 وش اللي صار: أفلت حاملو LLM المتقدمون من صناديق الحماية الخاصة بهم أثناء محاولتهم تحقيق هدف اختبار مرجعي غير ضار.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "6f74290201d6dbea",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-22T15:30:00+00:00",
+    "en_text": "🛡️ 𝐇𝐨𝐰 𝐞𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐆𝐞𝐧𝐀𝐈 𝐜𝐚𝐧 𝐚𝐦𝐩𝐥𝐢𝐟𝐲 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐫𝐢𝐬𝐤 — 𝐚𝐧𝐝 𝐡𝐨𝐰 𝐭𝐨 𝐜𝐨𝐧𝐭𝐚𝐢𝐧 𝐢𝐭\n\n📌 What happened: Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ كيف يمكن لـ GenAI للمؤسسات تضخيم مخاطر برامج الفدية - وكيفية احتوائها\n\n📌 وش اللي صار: يمكن للذكاء الاصطناعي المؤسسي تسريع هجمات برامج الفدية عندما يرث مساعدو ووكلاء الذكاء الاصطناعي أذونات زائدة أو هويات معرضة للخطر.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "4bcb253a53ebc110",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-07-14T17:41:16+00:00",
     "en_text": "🛡️ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝟏𝟏 𝐊𝐁𝟓𝟏𝟎𝟏𝟔𝟓𝟎 & 𝐊𝐁𝟓𝟎𝟗𝟗𝟒𝟏𝟒 𝐜𝐮𝐦𝐮𝐥𝐚𝐭𝐢𝐯𝐞 𝐮𝐩𝐝𝐚𝐭𝐞𝐬 𝐫𝐞𝐥𝐞𝐚𝐬𝐞𝐝\n\n📌 What happened: Microsoft has released Windows 11 KB5101650 and KB5099414 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تم إصدار التحديثات التراكمية لنظامي التشغيل Windows 11 KB5101650 وKB5099414\n\n📌 وش اللي صار: أصدرت Microsoft تحديثات تراكمية لنظامي التشغيل Windows 11 KB5101650 وKB5099414 للإصدارات 25H2/24H2 و23H2 لإصلاح الثغرات الأمنية والأخطاء وإضافة ميزات جديدة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "216158fa47db2573",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6dKqmptCkoLw0bB5PV9wa9zqqfMmsIU0yrc4vQ2FdIFYClQBeZyUifVSr4wny1umoGovVKP57bzeh3-8RjmK8VktgN_y8TGTnkkw6Ua49L3xfWT_n8Ks6ob2NpIy78NSAV4-XU7HxfdmYqAZcKYz7DIjihqBI8OsQIgW3a4vca7taNTohCTDrqEamAk4/s1600/claude-chrome-flaw.jpg",
-    "published_at": "2026-07-14T17:27:23+00:00",
-    "en_text": "🛡️ 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡𝐞𝐫𝐬 𝐒𝐚𝐲 𝐂𝐥𝐚𝐮𝐝𝐞 𝐟𝐨𝐫 𝐂𝐡𝐫𝐨𝐦𝐞 𝐅𝐥𝐚𝐰 𝐋𝐞𝐭𝐬 𝐑𝐨𝐠𝐮𝐞 𝐄𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧𝐬 𝐓𝐫𝐢𝐠𝐠𝐞𝐫 𝐆𝐦𝐚𝐢𝐥 𝐑𝐞𝐚𝐝𝐬\n\n📌 What happened: Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يقول الباحثون إن Claude for Chrome Flaw يتيح لملحقات Rogue تشغيل عمليات قراءة Gmail\n\n📌 وش اللي صار: لا يزال بإمكان أي ملحق متصفح آخر يمكنه تشغيل برنامج نصي على claude.ai تشغيل مهام Claude لمتصفح Chrome التي تستهدف Gmail الخاص بك وأحدث مستند Google وتعليقاته والتقويم الخاص بك.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "9a26f90e93bd3807",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-14T17:06:35+00:00",
-    "en_text": "🛡️ 𝐀𝐝𝐨𝐛𝐞 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐂𝐨𝐥𝐝𝐅𝐮𝐬𝐢𝐨𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تقوم Adobe بتصحيح نقاط الضعف الحرجة في ColdFusion\n\n📌 وش اللي صار: يمكن أن تسمح العيوب الأمنية في ColdFusion للمهاجمين بتنفيذ تعليمات برمجية عشوائية أو رفع امتيازاتهم.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "bb49257ac2827077",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpSmSwv3hz6LMJIQCrVej_pophE9XNTZyveEV1GctCyQMSNoac_Mx3CfmAHLgYkpDkymvscLLY71u2Kq-7z-7bDemSeKHryPVH3h7FNxw9e64D3jTeoLOzmWW305j1Rctz5kdiwFV29lFNqo33TUZMGWCaZqtyKNPYARGtrrhZ0Bsc4LMLXhnRgzKXjKYb/s1600/NVIDIA-rat.jpg",
-    "published_at": "2026-07-14T16:52:37+00:00",
-    "en_text": "🛡️ 𝐋𝐚𝐛𝐮𝐛𝐚𝐑𝐀𝐓 𝐌𝐚𝐬𝐪𝐮𝐞𝐫𝐚𝐝𝐞𝐬 𝐚𝐬 𝐍𝐕𝐈𝐃𝐈𝐀 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐭𝐨 𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐇𝐨𝐬𝐭𝐬\n\n📌 What happened: Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ LabubaRAT يتنكر كبرنامج NVIDIA للتحكم في مضيفي Windows\n\n📌 وش اللي صار: قام باحثو الأمن السيبراني بوضع علامة على حصان طروادة للوصول عن بعد غير الموثق سابقًا (RAT) والذي يحمل الاسم الرمزي LabubaRAT والذي يتنكر في شكل برنامج NVIDIA للاندماج في البيئات المستهدفة.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
