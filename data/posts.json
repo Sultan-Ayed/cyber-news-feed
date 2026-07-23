@@ -1,5 +1,23 @@
 [
   {
+    "id": "5e70f980b85c0314",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-23T21:20:34+00:00",
+    "en_text": "🛡️ 𝐍𝐞𝐰 𝐃𝐨𝐥𝐩𝐡𝐢𝐧 𝐗 𝐦𝐚𝐥𝐰𝐚𝐫𝐞 𝐮𝐬𝐞𝐬 𝐀𝐈 𝐭𝐨 𝐫𝐚𝐧𝐤 𝐡𝐢𝐠𝐡-𝐯𝐚𝐥𝐮𝐞 𝐭𝐚𝐫𝐠𝐞𝐭𝐬\n\n📌 What happened: A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first.\n\n💡 Why it matters: Modern malware doesn't announce itself — it blends into normal traffic until the moment it needs to strike.\n\n✅ Quick tip: Only install software from official sources — 'free' cracked versions are one of the top malware delivery methods.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تستخدم البرمجيات الخبيثة Dolphin X الجديدة الذكاء الاصطناعي لتصنيف الأهداف ذات القيمة العالية\n\n📌 وش اللي صار: يدعي حصان طروادة Dolphin X الجديد للوصول عن بعد أنه يستخدم ميزة التنميط المدعومة بالذكاء الاصطناعي لتسجيل المستخدمين المصابين وتصنيفهم، مما يساعد مجرمي الإنترنت على تحديد الضحايا الذين يجب استهدافهم أولاً.\n\n💡 ليش هذا مهم: البرمجيات الخبيثة الحديثة ما تعلن عن نفسها، تندمج مع النشاط العادي للجهاز لين تجي لحظة الضربة.\n\n✅ نصيحة سريعة: ثبّت البرامج من مصادرها الرسمية بس — النسخ 'المجانية' المقرصنة من أكثر طرق توزيع البرمجيات الخبيثة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "b80be0dc24d5a6b9",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-23T20:14:35+00:00",
+    "en_text": "🛡️ 𝐀𝐮𝐬𝐭𝐫𝐚𝐥𝐢𝐚𝐧 𝐞𝐧𝐞𝐫𝐠𝐲 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐫 𝐎𝐫𝐢𝐠𝐢𝐧 𝐬𝐚𝐲𝐬 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐞𝐱𝐩𝐨𝐬𝐞𝐬 𝐜𝐥𝐢𝐞𝐧𝐭 𝐝𝐚𝐭𝐚\n\n📌 What happened: Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يقول مزود الطاقة الأسترالي Origin إن خرق البيانات يكشف بيانات العميل\n\n📌 وش اللي صار: أكدت شركة Origin Energy أن طرفًا غير مصرح به وصل إلى بيانات العملاء عبر الإنترنت وقام بتسريبها لاحقًا، مما أدى إلى الكشف عن معلومات التعريف الشخصية الحساسة (PII)، من بين أمور أخرى.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2cb10c32bd7a4272",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-15T14:01:11+00:00",
     "en_text": "🛡️ 𝐖𝐞 𝐛𝐮𝐢𝐥𝐭 𝐚 𝐯𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐯𝐞𝐧𝐝𝐢𝐧𝐠 𝐦𝐚𝐜𝐡𝐢𝐧𝐞: 𝐀𝐈 𝐭𝐨𝐤𝐞𝐧𝐬 𝐢𝐧, 𝐳𝐞𝐫𝐨-𝐝𝐚𝐲𝐬 𝐨𝐮𝐭\n\n📌 What happened: Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ لقد قمنا ببناء آلة لبيع الثغرات الأمنية: إدخال رموز الذكاء الاصطناعي، وعدم وجود أيام خارجها\n\n📌 وش اللي صار: قام Intruder ببناء \"آلة بيع الثغرات الأمنية\" التي تعمل بالذكاء الاصطناعي والتي تجمع بين تقطيع التعليمات البرمجية مع LLMs لاكتشاف ثغرات البرامج المعقدة تلقائيًا.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "19d53f59b5a41ad7",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjCjGBZhkRcB4m5BQu0Fcn-Qjs1_VPnfOlt3oFxu7CKMZ5Wc1JpvZEvhVSorBJW-AWV1pACLDkg4rFmCCcdH6vDk-pmD5ai0ZewlmPyeWPnfsmTcg-D3UJXdT902oUD32DjSm5CrBsnf2rcVTQPUo5o-LJRKUlsjOwPNfYMpN7kOfmNhnyw552cv-Gtqk/s1600/adobes.jpg",
-    "published_at": "2026-07-15T13:18:53+00:00",
-    "en_text": "🛡️ 𝐅𝐢𝐫𝐞𝐟𝐨𝐱, 𝐂𝐡𝐫𝐨𝐦𝐞, 𝐀𝐝𝐨𝐛𝐞, 𝐚𝐧𝐝 𝐕𝐌𝐰𝐚𝐫𝐞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐅𝐢𝐱 𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐅𝐥𝐚𝐰𝐬\n\n📌 What happened: Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تعمل تحديثات Firefox وChrome وAdobe وVMware على إصلاح العديد من العيوب الأمنية الخطيرة\n\n📌 وش اللي صار: أصدرت Mozilla تحديثات لمعالجة عيبين خطيرين في Firefox وحذرت من نشر تعليمات برمجية للاستغلال.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "dc1a9b4bf1cdba39",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-15T13:00:00+00:00",
-    "en_text": "🛡️ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐁𝐢𝐧𝐝 𝐋𝐢𝐧𝐤 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐂𝐚𝐧 𝐇𝐢𝐝𝐞 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐅𝐫𝐨𝐦 𝐄𝐃𝐑 𝐓𝐨𝐨𝐥𝐬\n\n📌 What happened: Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يمكن أن تؤدي هجمات Windows Bind Link إلى إخفاء البرامج الضارة من أدوات EDR\n\n📌 وش اللي صار: يوضح باحثو Bitdefender كيف يمكن لروابط ربط Windows إنشاء طرق عرض متضاربة لنظام الملفات لإخفاء البرامج الضارة من منتجات أمان نقطة النهاية.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
