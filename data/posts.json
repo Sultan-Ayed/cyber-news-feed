@@ -1,5 +1,23 @@
 [
   {
+    "id": "2cb10c32bd7a4272",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-23T19:48:30+00:00",
+    "en_text": "🛡️ 𝐅𝐚𝐤𝐞 𝐂𝐥𝐚𝐮𝐝𝐞 𝐚𝐩𝐩 𝐩𝐫𝐨𝐦𝐨𝐭𝐞𝐝 𝐛𝐲 𝐁𝐢𝐧𝐠 𝐚𝐝𝐬 𝐩𝐮𝐬𝐡𝐞𝐬 𝐒𝐞𝐜𝐭𝐨𝐩𝐑𝐀𝐓 𝐦𝐚𝐥𝐰𝐚𝐫𝐞\n\n📌 What happened: A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware.\n\n💡 Why it matters: Modern malware doesn't announce itself — it blends into normal traffic until the moment it needs to strike.\n\n✅ Quick tip: Only install software from official sources — 'free' cracked versions are one of the top malware delivery methods.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يدفع تطبيق Fake Claude الذي يتم الترويج له بواسطة إعلانات Bing البرامج الضارة لـ SectopRAT\n\n📌 وش اللي صار: تعمل حملة إعلانية ضارة على خدمة بحث Bing على دفع أداة تثبيت تطبيق سطح المكتب Claude المزيفة المستضافة على نطاق Claude.ai الشرعي لتقديم البرامج الضارة SectopRAT.\n\n💡 ليش هذا مهم: البرمجيات الخبيثة الحديثة ما تعلن عن نفسها، تندمج مع النشاط العادي للجهاز لين تجي لحظة الضربة.\n\n✅ نصيحة سريعة: ثبّت البرامج من مصادرها الرسمية بس — النسخ 'المجانية' المقرصنة من أكثر طرق توزيع البرمجيات الخبيثة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "5518fb6b7eb971cc",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlA3Ln3fk8yzrfLwR9egB99u67BL7NlRui9XkKviyXhFmZ3sYVTF5laSjHTwyphN51YvL39R0irNNPn2hDpVcn6EFi_NmuuSH3XTS9I71aPdZvgZRTOxXczmyqbSkcpqSy2TgOzSSJ0RzAyeQA4YXED73kIChZFtiuZ1fIVzCFvDJK4bEJ5M6Sj-qPeI/s1600/zimbra-email.jpg",
+    "published_at": "2026-07-23T18:36:08+00:00",
+    "en_text": "🛡️ 𝐑𝐮𝐬𝐬𝐢𝐚𝐧 𝐄𝐬𝐩𝐢𝐨𝐧𝐚𝐠𝐞 𝐆𝐫𝐨𝐮𝐩 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐙𝐢𝐦𝐛𝐫𝐚 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐭𝐨 𝐒𝐭𝐞𝐚𝐥 𝐌𝐚𝐢𝐥 𝐚𝐧𝐝 𝟐𝐅𝐀 𝐂𝐨𝐝𝐞𝐬\n\n📌 What happened: A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/russian-espionage-group-exploited.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ استغلت مجموعة التجسس الروسية Zimbra Zero-Day لسرقة البريد ورموز المصادقة الثنائية (2FA).\n\n📌 وش اللي صار: أمضت مجموعة تجسس روسية مدعومة من الدولة أشهرًا في قراءة صناديق البريد الغربية من خلال ثغرة لم تكن معروفة في ذلك الوقت في عميل بريد الويب الخاص بـ Zimbra.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/russian-espionage-group-exploited.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "3735cdeb2403e76a",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-15T13:00:00+00:00",
     "en_text": "🛡️ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐁𝐢𝐧𝐝 𝐋𝐢𝐧𝐤 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐂𝐚𝐧 𝐇𝐢𝐝𝐞 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐅𝐫𝐨𝐦 𝐄𝐃𝐑 𝐓𝐨𝐨𝐥𝐬\n\n📌 What happened: Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يمكن أن تؤدي هجمات Windows Bind Link إلى إخفاء البرامج الضارة من أدوات EDR\n\n📌 وش اللي صار: يوضح باحثو Bitdefender كيف يمكن لروابط ربط Windows إنشاء طرق عرض متضاربة لنظام الملفات لإخفاء البرامج الضارة من منتجات أمان نقطة النهاية.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "398e4c92e6fbd7a1",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta5ab09b0e890490b/6a55516b36e15d4b2903ffa7/2_cursors-Andriy_Onufriyenko-Getty.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-15T13:00:00+00:00",
-    "en_text": "🛡️ 𝟐-𝐂𝐥𝐢𝐜𝐤 𝐂𝐮𝐫𝐬𝐨𝐫 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐄𝐧𝐚𝐛𝐥𝐞𝐬 𝐃𝐞𝐯 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭 𝐓𝐚𝐤𝐞𝐨𝐯𝐞𝐫\n\n📌 What happened: Simple age-old bugs give bad actors access to developers' secrets and source code-rich environments.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ 2-انقر فوق استغلال المؤشر لتمكين الاستيلاء على بيئة التطوير\n\n📌 وش اللي صار: تتيح الأخطاء البسيطة القديمة للجهات الفاعلة السيئة الوصول إلى أسرار المطورين والبيئات الغنية بالرموز المصدرية.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "fce83b7d3fb487d0",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-15T12:52:10+00:00",
-    "en_text": "🛡️ 𝐕𝐢𝐫𝐭𝐮𝐚𝐥 𝐄𝐯𝐞𝐧𝐭 𝐓𝐨𝐝𝐚𝐲: 𝐂𝐥𝐨𝐮𝐝 & 𝐃𝐚𝐭𝐚 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐮𝐦𝐦𝐢𝐭\n\n📌 What happened: Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الحدث الافتراضي اليوم: قمة السحابة وأمن البيانات\n\n📌 وش اللي صار: سيتمكن الحاضرون من التفاعل مع مقدمي الحلول الرائدين والمستخدمين النهائيين الآخرين الذين يواجهون تحديات مماثلة في تأمين مجموعة متنوعة من عمليات النشر السحابية.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
