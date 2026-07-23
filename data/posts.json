@@ -1,5 +1,14 @@
 [
   {
+    "id": "a9a284f5294030d4",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-23T05:28:50+00:00",
+    "en_text": "🛡️ 𝐔𝐒 𝐖𝐚𝐫𝐧𝐬 𝐨𝐟 𝐈𝐫𝐚𝐧𝐢𝐚𝐧 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐓𝐚𝐫𝐠𝐞𝐭𝐢𝐧𝐠 𝐒𝐢𝐞𝐦𝐞𝐧𝐬, 𝐒𝐜𝐡𝐧𝐞𝐢𝐝𝐞𝐫, 𝐚𝐧𝐝 𝐑𝐨𝐜𝐤𝐰𝐞𝐥𝐥 𝐈𝐂𝐒 𝐃𝐞𝐯𝐢𝐜𝐞𝐬\n\n📌 What happened: An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الولايات المتحدة تحذر من قراصنة إيرانيين يستهدفون أجهزة Siemens وSchneider وRockwell ICS\n\n📌 وش اللي صار: توفر الاستشارة المحدثة من الوكالات الفيدرالية معلومات حول التقنيات المستخدمة لاختراق وحدات التحكم المنطقية القابلة للبرمجة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "7a0b6551b6e92a56",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
@@ -115,6 +124,15 @@
     "published_at": "2026-07-22T14:58:53+00:00",
     "en_text": "🛡️ 𝐏𝐚𝐥𝐨 𝐀𝐥𝐭𝐨 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐭𝐨 𝐀𝐜𝐪𝐮𝐢𝐫𝐞 𝐎𝐛𝐬𝐞𝐫𝐯𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐏𝐫𝐨𝐯𝐢𝐝𝐞𝐫 𝐄𝐦𝐛𝐫𝐚𝐜𝐞\n\n📌 What happened: Acquisition follows January's Chronosphere deal, deepening Palo Alto Networks' push beyond core security into observability.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ بالو ألتو نتوركس تستحوذ على شركة احتضان مزود منصة المراقبة\n\n📌 وش اللي صار: وتأتي عملية الاستحواذ في أعقاب صفقة Chronosphere التي تمت في شهر يناير، مما أدى إلى تعميق دفع Palo Alto Networks إلى ما هو أبعد من الأمن الأساسي إلى إمكانية المراقبة.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "95935942a990dab2",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-22T14:22:31+00:00",
+    "en_text": "🛡️ 𝐅𝐥𝐚𝐰 𝐢𝐧 𝐀𝐝𝐨𝐛𝐞 𝐄𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐖𝐢𝐭𝐡 𝟑𝟎𝟎𝐌 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐬 𝐄𝐧𝐚𝐛𝐥𝐞𝐝 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐃𝐚𝐭𝐚 𝐓𝐡𝐞𝐟𝐭\n\n📌 What happened: An attacker only needed to convince the targeted user to visit a malicious website to exfiltrate WhatsApp messages and contacts.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ خلل في ملحق Adobe مع 300 مليون عملية تثبيت أدى إلى تمكين سرقة بيانات WhatsApp\n\n📌 وش اللي صار: يحتاج المهاجم فقط إلى إقناع المستخدم المستهدف بزيارة موقع ويب ضار لتسلل رسائل WhatsApp وجهات الاتصال.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "4bcb253a53ebc110",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-14T21:50:56+00:00",
     "en_text": "🛡️ 𝐑𝐞𝐜𝐨𝐫𝐝𝐬 𝐀𝐫𝐞 𝐌𝐚𝐝𝐞 𝐭𝐨 𝐁𝐞 𝐁𝐫𝐨𝐤𝐞𝐧: 𝐏𝐚𝐭𝐜𝐡 𝐓𝐮𝐞𝐬𝐝𝐚𝐲 𝐑𝐚𝐢𝐬𝐞𝐬 𝐓𝐫𝐢𝐚𝐠𝐞 𝐒𝐭𝐚𝐤𝐞𝐬\n\n📌 What happened: Three of the 622 CVEs for which Microsoft issued patches this week are zero-days; there are more than 60 critical vulnerabilities.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/records-broken-patch-tuesday-raises-triage-stakes\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ السجلات مصنوعة ليتم كسرها: التصحيح يوم الثلاثاء يرفع حصص الفرز\n\n📌 وش اللي صار: ثلاثة من 622 برنامج مكافحة التطرف العنيف التي أصدرت Microsoft تصحيحات لها هذا الأسبوع هي صفر يوم؛ هناك أكثر من 60 نقطة ضعف حرجة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/records-broken-patch-tuesday-raises-triage-stakes\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "b30f9074e01f257c",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-14T21:23:24+00:00",
-    "en_text": "🛡️ 𝐒𝐨𝐧𝐢𝐜𝐖𝐚𝐥𝐥 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐒𝐌𝐀𝟏𝟎𝟎𝟎 𝐟𝐥𝐚𝐰𝐬 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐢𝐧 𝐳𝐞𝐫𝐨-𝐝𝐚𝐲 𝐚𝐭𝐭𝐚𝐜𝐤𝐬, 𝐩𝐚𝐭𝐜𝐡 𝐧𝐨𝐰\n\n📌 What happened: SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تحذر SonicWall من استغلال عيوب SMA1000 في هجمات اليوم صفر، قم بالتصحيح الآن\n\n📌 وش اللي صار: تحذر SonicWall من أن الجهات الفاعلة في مجال التهديد تستغل اثنتين من نقاط الضعف SMA1000، التي يتم تتبعها باسم CVE-2026-15409 وCVE-2026-15410، في هجمات اليوم صفر وتحث العملاء على تثبيت التحديثات الأمنية التي تم إصدارها حديثًا.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "404b4fa0d004aa61",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34s_9ywUXjSc5OtF7-fDiAqSa3H-UHpJfACXyULY5ziUlM67mCJHWee9tluTiGm7ZRhMy36SLal2CUjqwJHZ8vdHuFstRwJhPGLAXe49as-o3nRE-QAyRs2mx3og8eVdWdnzzr9LwGMXckMix80XOQPsWiE30xqqYGG3PNjjpVTCpLsnW77pCk_3MyKQ/s1600/ms=patch.jpg",
-    "published_at": "2026-07-14T20:25:47+00:00",
-    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐑𝐞𝐜𝐨𝐫𝐝 𝟔𝟐𝟐 𝐅𝐥𝐚𝐰𝐬, 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐓𝐰𝐨 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲𝐬 𝐔𝐧𝐝𝐞𝐫 𝐀𝐜𝐭𝐢𝐯𝐞 𝐀𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تسجل تصحيحات Microsoft 622 عيبًا، بما في ذلك يومين صفر تحت الهجوم النشط\n\n📌 وش اللي صار: قامت Microsoft بشحن أكبر تصحيح لها يوم الثلاثاء على الإطلاق اليوم، وأغلق اثنان من الإصلاحات الثغرات التي يستغلها المهاجمون بالفعل.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
