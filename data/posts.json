@@ -1,5 +1,14 @@
 [
   {
+    "id": "7a0b6551b6e92a56",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67b28f8453d1c038/6a6128d36477bd5dab474c38/frozen-food-in-kanazawa-nihon-Pack-Shot-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-23T01:00:00+00:00",
+    "en_text": "🛡️ 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐀𝐭𝐭𝐚𝐜𝐤 𝐏𝐮𝐭𝐬 𝐚 𝐂𝐡𝐢𝐥𝐥 𝐎𝐧 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐅𝐫𝐨𝐳𝐞𝐧-𝐅𝐨𝐨𝐝 𝐂𝐡𝐚𝐢𝐧\n\n📌 What happened: A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ هجوم برامج الفدية يربك سلسلة الأغذية المجمدة اليابانية\n\n📌 وش اللي صار: أدى هجوم إلكتروني على شركة للأغذية والخدمات اللوجستية إلى تعطيل توريد الأطعمة المجمدة لآلاف العملاء، بما في ذلك الامتيازات الكبرى مثل كنتاكي فرايد تشيكن.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "4d491fd7a7f8e25d",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
@@ -97,6 +106,15 @@
     "published_at": "2026-07-22T15:01:21+00:00",
     "en_text": "🛡️ 𝐀𝐝𝐨𝐛𝐞 𝐀𝐜𝐫𝐨𝐛𝐚𝐭 𝐄𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐅𝐥𝐚𝐰 𝐋𝐞𝐭 𝐌𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐒𝐢𝐭𝐞𝐬 𝐑𝐞𝐚𝐝 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐖𝐞𝐛 𝐃𝐚𝐭𝐚\n\n📌 What happened: Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ خلل في ملحق Adobe Acrobat يسمح للمواقع الضارة بقراءة بيانات WhatsApp Web\n\n📌 وش اللي صار: كشف باحثو الأمن السيبراني عن تفاصيل سلسلة الثغرات الأمنية التي تم تصحيحها الآن في ملحق Adobe Acrobat Chrome الذي يضم أكثر من 314 مليون مستخدم، والذي، إذا تم استغلاله، يمكن أن يسهل الاختطاف الصامت لبيانات WhatsApp الخاصة بالمستخدم.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "0c8db44085763ad7",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-22T14:58:53+00:00",
+    "en_text": "🛡️ 𝐏𝐚𝐥𝐨 𝐀𝐥𝐭𝐨 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐭𝐨 𝐀𝐜𝐪𝐮𝐢𝐫𝐞 𝐎𝐛𝐬𝐞𝐫𝐯𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐏𝐫𝐨𝐯𝐢𝐝𝐞𝐫 𝐄𝐦𝐛𝐫𝐚𝐜𝐞\n\n📌 What happened: Acquisition follows January's Chronosphere deal, deepening Palo Alto Networks' push beyond core security into observability.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ بالو ألتو نتوركس تستحوذ على شركة احتضان مزود منصة المراقبة\n\n📌 وش اللي صار: وتأتي عملية الاستحواذ في أعقاب صفقة Chronosphere التي تمت في شهر يناير، مما أدى إلى تعميق دفع Palo Alto Networks إلى ما هو أبعد من الأمن الأساسي إلى إمكانية المراقبة.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "4bcb253a53ebc110",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-14T20:25:47+00:00",
     "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐑𝐞𝐜𝐨𝐫𝐝 𝟔𝟐𝟐 𝐅𝐥𝐚𝐰𝐬, 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐓𝐰𝐨 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲𝐬 𝐔𝐧𝐝𝐞𝐫 𝐀𝐜𝐭𝐢𝐯𝐞 𝐀𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تسجل تصحيحات Microsoft 622 عيبًا، بما في ذلك يومين صفر تحت الهجوم النشط\n\n📌 وش اللي صار: قامت Microsoft بشحن أكبر تصحيح لها يوم الثلاثاء على الإطلاق اليوم، وأغلق اثنان من الإصلاحات الثغرات التي يستغلها المهاجمون بالفعل.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "14ed99351aac898c",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-14T20:23:09+00:00",
-    "en_text": "🛡️ 𝐒𝐩𝐚𝐧𝐢𝐬𝐡 𝐏𝐨𝐥𝐢𝐜𝐞 𝐭𝐚𝐤𝐞 𝐝𝐨𝐰𝐧 €𝟏𝟒𝟎 𝐦𝐢𝐥𝐥𝐢𝐨𝐧 𝐜𝐲𝐛𝐞𝐫 𝐟𝐫𝐚𝐮𝐝 𝐫𝐢𝐧𝐠, 𝐚𝐫𝐫𝐞𝐬𝐭 𝐟𝐨𝐮𝐫\n\n📌 What happened: The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الشرطة الإسبانية تقضي على شبكة احتيال إلكتروني بقيمة 140 مليون يورو وتعتقل أربعة\n\n📌 وش اللي صار: قامت الشرطة الإسبانية بتفكيك منظمة للجرائم الإلكترونية وغسل الأموال حققت 140 مليون يورو (160 مليون دولار) من الاحتيال الاستثماري وهجمات اختراق البريد الإلكتروني التجاري (BEC).\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "3ea7feeeefb33656",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf1bcb21f8daa8dad/6a5687dbdfdd3b528d164e7a/space_network_connections-fotograzia-getty-2229958533.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-14T19:58:31+00:00",
-    "en_text": "🛡️ 𝟔 𝐆𝐇𝐳 𝐖𝐢-𝐅𝐢 𝐅𝐥𝐚𝐰𝐬 𝐂𝐨𝐮𝐥𝐝 𝐃𝐢𝐬𝐫𝐮𝐩𝐭 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐒𝐲𝐬𝐭𝐞𝐦𝐬\n\n📌 What happened: Automated Frequency Coordination systems by default trust client-side data, which could lead to location spoofing and other attacks that disrupt traffic.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ قد تؤدي عيوب شبكة Wi-Fi بتردد 6 جيجا هرتز إلى تعطيل الأنظمة المهمة\n\n📌 وش اللي صار: تثق أنظمة تنسيق الترددات الآلية بشكل افتراضي في البيانات من جانب العميل، مما قد يؤدي إلى انتحال الموقع والهجمات الأخرى التي تعطل حركة المرور.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
