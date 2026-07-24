@@ -1,5 +1,14 @@
 [
   {
+    "id": "47dd838936283eaf",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta778b4705951b9ec/6a6271d8e9fe84f275c977a7/russianhackers_Anton_Petrus-Getty-2027926930.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-23T21:23:18+00:00",
+    "en_text": "🛡️ 𝐑𝐮𝐬𝐬𝐢𝐚𝐧 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐙𝐢𝐦𝐛𝐫𝐚 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐀𝐠𝐚𝐢𝐧𝐬𝐭 𝐔𝐒, 𝐔𝐤𝐫𝐚𝐢𝐧𝐞 𝐓𝐚𝐫𝐠𝐞𝐭𝐬\n\n📌 What happened: A state-sponsored threat group, dubbed \"Laundry Bear,\" sends \"half-click\" phishing emails that require a victim only to open or preview the message.\n\n💡 Why it matters: The weakest link is rarely the technology — it's the split second someone trusts a message that looks routine.\n\n✅ Quick tip: Enable phishing-resistant MFA (like passkeys) wherever you can; a stolen password alone shouldn't be enough.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ قراصنة روس يستغلون Zimbra Zero-Day ضد أهداف الولايات المتحدة وأوكرانيا\n\n📌 وش اللي صار: تقوم مجموعة تهديد ترعاها الدولة، يطلق عليها اسم \"Laundry Bear\"، بإرسال رسائل بريد إلكتروني تصيدية \"بنقرة نصف\" والتي تتطلب من الضحية فقط فتح الرسالة أو معاينتها.\n\n💡 ليش هذا مهم: أضعف حلقة نادرًا ما تكون التقنية، هي لحظة يثق فيها شخص برسالة تبدو عادية.\n\n✅ نصيحة سريعة: فعّل مصادقة ثنائية مقاومة للتصيد (زي مفاتيح المرور) كل ما قدرت، لأن كلمة المرور المسروقة لحالها ما لازم تكفي.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "5e70f980b85c0314",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
@@ -142,6 +151,15 @@
     "published_at": "2026-07-23T11:28:54+00:00",
     "en_text": "🛡️ 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐖𝐞𝐚𝐩𝐨𝐧𝐢𝐳𝐞 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐜𝐭𝐢𝐨𝐧𝐬 𝐑𝐮𝐧𝐧𝐞𝐫𝐬 𝐭𝐨 𝐓𝐚𝐫𝐠𝐞𝐭 𝐜𝐏𝐚𝐧𝐞𝐥 𝐚𝐧𝐝 𝐖𝐇𝐌 𝐒𝐞𝐫𝐯𝐞𝐫𝐬\n\n📌 What happened: Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM) instances.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يستخدم المهاجمون مشغلي إجراءات GitHub لاستهداف خوادم cPanel وWHM\n\n📌 وش اللي صار: سلط باحثو الأمن السيبراني الضوء على حملة واسعة النطاق حولت مستودعات GitHub المخترقة إلى بنية تحتية للهجوم موزعة مصممة لاستهداف مثيلات cPanel وWebHost Manager (WHM).\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "d49458a8914de1d2",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9e62e39ece6ef685/656a984ef3b292040a878813/confidentialai-everything_possible-alamy.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-23T11:17:51+00:00",
+    "en_text": "🛡️ 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬 𝐢𝐧 𝐂𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐭𝐢𝐚𝐥 𝐂𝐨𝐦𝐩𝐮𝐭𝐢𝐧𝐠\n\n📌 What happened: Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الذكاء الاصطناعي الوكيل يتحدى التقدم في الحوسبة السرية\n\n📌 وش اللي صار: يتم حل المشكلات الأساسية التي أبطأت اعتماد خزائن البيانات الآمنة عن طريق التكنولوجيا، لكن الذكاء الاصطناعي يطرح مشكلات جديدة. الخبراء لديهم بعض الإجابات.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "dc5c5aee88921b05",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-15T14:37:13+00:00",
     "en_text": "🛡️ 𝐔𝐧𝐩𝐚𝐭𝐜𝐡𝐞𝐝 𝐂𝐮𝐫𝐬𝐨𝐫 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐄𝐱𝐩𝐨𝐬𝐞𝐬 𝐔𝐬𝐞𝐫𝐬 𝐭𝐨 𝐂𝐨𝐝𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧\n\n📌 What happened: An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تعرض ثغرة أمنية في المؤشر غير المصححة المستخدمين إلى تنفيذ التعليمات البرمجية\n\n📌 وش اللي صار: يمكن للمهاجم إنشاء مستودع ضار يحتوي على git.exe في جذر المشروع، ويقوم Cursor بتنفيذه تلقائيًا.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "5ef4ab0cac260d5c",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-15T14:07:44+00:00",
-    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐔𝐫𝐠𝐞𝐬 𝐈𝐦𝐦𝐞𝐝𝐢𝐚𝐭𝐞 𝐏𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐨𝐟 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐒𝐡𝐚𝐫𝐞𝐏𝐨𝐢𝐧𝐭 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تحث CISA على التصحيح الفوري لثغرات SharePoint المستغلة\n\n📌 وش اللي صار: يتم استغلال ثلاث نقاط ضعف بشكل نشط في الهجمات، بما في ذلك اثنتين تم استهدافهما على أنهما صفر يوم.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "59dbd682588b3a52",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-15T14:01:11+00:00",
-    "en_text": "🛡️ 𝐖𝐞 𝐛𝐮𝐢𝐥𝐭 𝐚 𝐯𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐯𝐞𝐧𝐝𝐢𝐧𝐠 𝐦𝐚𝐜𝐡𝐢𝐧𝐞: 𝐀𝐈 𝐭𝐨𝐤𝐞𝐧𝐬 𝐢𝐧, 𝐳𝐞𝐫𝐨-𝐝𝐚𝐲𝐬 𝐨𝐮𝐭\n\n📌 What happened: Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ لقد قمنا ببناء آلة لبيع الثغرات الأمنية: إدخال رموز الذكاء الاصطناعي، وعدم وجود أيام خارجها\n\n📌 وش اللي صار: قام Intruder ببناء \"آلة بيع الثغرات الأمنية\" التي تعمل بالذكاء الاصطناعي والتي تجمع بين تقطيع التعليمات البرمجية مع LLMs لاكتشاف ثغرات البرامج المعقدة تلقائيًا.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
