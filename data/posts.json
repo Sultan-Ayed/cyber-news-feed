@@ -1,5 +1,14 @@
 [
   {
+    "id": "a7df7ffa5e05842f",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-25T22:37:47+00:00",
+    "en_text": "🛡️ 𝐒𝐭𝐞𝐚𝐦 𝐟𝐨𝐫𝐮𝐦 𝐂𝐥𝐢𝐜𝐤𝐅𝐢𝐱 𝐚𝐭𝐭𝐚𝐜𝐤𝐬 𝐢𝐧𝐟𝐞𝐜𝐭 𝐠𝐚𝐦𝐞𝐫𝐬 𝐰𝐢𝐭𝐡 𝐗𝐌𝐑𝐢𝐠 𝐜𝐫𝐲𝐩𝐭𝐨𝐦𝐢𝐧𝐞𝐫𝐬\n\n📌 What happened: Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تصيب هجمات ClickFix في منتدى Steam اللاعبين باستخدام أدوات تعدين العملات المشفرة XMRig\n\n📌 وش اللي صار: يتم إساءة استخدام منتديات مناقشة Steam في هجمات ClickFix التي تتظاهر بأنها إصلاحات لمشكلات الألعاب والكمبيوتر ولكنها في الواقع تصيب الأجهزة بأدوات تعدين العملات المشفرة.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "17ff6787fa795c5a",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-16T20:57:47+00:00",
     "en_text": "🛡️ 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐈𝐬 𝐔𝐧𝐭𝐚𝐦𝐚𝐛𝐥𝐞: 𝐀𝐬𝐤 𝐭𝐡𝐞 𝐑𝐢𝐠𝐡𝐭 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬\n\n📌 What happened: Forget about attackers. Agentic artificial intelligence is creating enough risks for organizations and demands a security reframe.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ الذكاء الاصطناعي العميل لا يمكن ترويضه: اطرح الأسئلة الأمنية الصحيحة\n\n📌 وش اللي صار: ننسى المهاجمين. يخلق الذكاء الاصطناعي الوكيل ما يكفي من المخاطر للمؤسسات ويتطلب إعادة هيكلة أمنية.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "a3930e5b612106c5",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6711706d56131707/6a591f652d194555193b1cc9/Salt_email-Sagel_&_Kranefeld-Getty.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-16T19:41:31+00:00",
-    "en_text": "🛡️ 𝟏𝐌+ 𝐄𝐦𝐚𝐢𝐥𝐬 𝐔𝐬𝐞 𝐇𝐢𝐝𝐝𝐞𝐧 𝐓𝐞𝐱𝐭 𝐭𝐨 𝐃𝐮𝐩𝐞 𝐀𝐈 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐅𝐢𝐥𝐭𝐞𝐫𝐬\n\n📌 What happened: Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.\n\n💡 Why it matters: The weakest link is rarely the technology — it's the split second someone trusts a message that looks routine.\n\n✅ Quick tip: Enable phishing-resistant MFA (like passkeys) wherever you can; a stolen password alone shouldn't be enough.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ أكثر من مليون رسالة بريد إلكتروني تستخدم النص المخفي لخداع مرشحات أمان الذكاء الاصطناعي\n\n📌 وش اللي صار: يمكن أن يكون الذكاء الاصطناعي وLLMs غير فعالين بشكل مدهش ضد تمليح النصوص، مما يسمح لرسائل البريد الإلكتروني التصيدية بالانزلاق مباشرة إلى صندوق الوارد الخاص بك.\n\n💡 ليش هذا مهم: أضعف حلقة نادرًا ما تكون التقنية، هي لحظة يثق فيها شخص برسالة تبدو عادية.\n\n✅ نصيحة سريعة: فعّل مصادقة ثنائية مقاومة للتصيد (زي مفاتيح المرور) كل ما قدرت، لأن كلمة المرور المسروقة لحالها ما لازم تكفي.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
