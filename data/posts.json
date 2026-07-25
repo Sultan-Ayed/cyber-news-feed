@@ -1,5 +1,23 @@
 [
   {
+    "id": "25ca120783f73471",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-25T09:31:09+00:00",
+    "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐀𝐈 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐬 𝐝𝐨𝐰𝐧 𝐰𝐨𝐫𝐥𝐝𝐰𝐢𝐝𝐞\n\n📌 What happened: ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يؤكد OpenAI أن ChatGPT معطل في جميع أنحاء العالم\n\n📌 وش اللي صار: يواجه ChatGPT، برنامج الدردشة الآلي الشهير الذي يعمل بالذكاء الاصطناعي والذي يسمح للمستخدمين بالتحدث مع شخصيات وموضوعات مختلفة، مشكلات في الاتصال في جميع أنحاء العالم.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "272cc44a5c21921f",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIN1sheAdScq7AX9pLc07esRzQ18-0vBJ7hz9DlVhggVAImXrhYM_zxN0N6hJ2inDkBCnzRCXHR3Kv3I0QwyiVWkAMu7p949JSjgK611r48deMbrSN8iDD78aJdfxEeO_Jy6JFwOfPL_8M0RKEBl1RFO7ufvop1XG9-tdms7VRyvONXoteuCYp9Rg-FM/s1600/gitlab.gif",
+    "published_at": "2026-07-25T08:34:15+00:00",
+    "en_text": "🛡️ 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡𝐞𝐫 𝐏𝐮𝐛𝐥𝐢𝐬𝐡𝐞𝐬 𝐆𝐢𝐭𝐋𝐚𝐛 𝐑𝐂𝐄 𝐏𝐨𝐂 𝐋𝐞𝐭𝐭𝐢𝐧𝐠 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐔𝐬𝐞𝐫𝐬 𝐑𝐮𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐬 𝐆𝐢𝐭\n\n📌 What happened: Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ينشر الباحث GitLab RCE PoC مما يسمح للمستخدمين المعتمدين بتشغيل الأوامر باسم Git\n\n📌 وش اللي صار: نشر الباحث الأمني ​​Yuhang Wu في Deepfirst ثغرة فعالة لإثبات المفهوم (PoC) تنفذ الأوامر كـ git على خادم GitLab 18.11.3 غير مُدار ذاتيًا.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "6dd271ec1ba9fb82",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-16T13:33:25+00:00",
     "en_text": "🛡️ 𝐧𝟖𝐧 𝐓𝐨𝐤𝐞𝐧 𝐄𝐱𝐜𝐡𝐚𝐧𝐠𝐞 𝐅𝐥𝐚𝐰 𝐂𝐨𝐮𝐥𝐝 𝐋𝐞𝐭 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐋𝐨𝐠 𝐈𝐧 𝐚𝐬 𝐔𝐬𝐞𝐫𝐬 𝐅𝐫𝐨𝐦 𝐀𝐧𝐨𝐭𝐡𝐞𝐫 𝐈𝐬𝐬𝐮𝐞𝐫\n\n📌 What happened: n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim alone and ignored iss.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ قد يسمح خلل تبادل الرمز المميز n8n للمهاجمين بتسجيل الدخول كمستخدمين من جهة إصدار أخرى\n\n📌 وش اللي صار: قامت منصة n8n لأتمتة سير العمل بتوزيع الحسابات الخاطئة عند تسجيل الدخول. في مثيلات Enterprise التي تم تكوينها للثقة في أكثر من جهة إصدار رمز مميز خارجي، قامت بمطابقة JWT الواردة مع مستخدم محلي في المطالبة الفرعية وحدها وتجاهل iss.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "b636e0d74ff68310",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-16T13:21:12+00:00",
-    "en_text": "🛡️ 𝐓𝐰𝐨 𝐒𝐜𝐚𝐭𝐭𝐞𝐫𝐞𝐝 𝐒𝐩𝐢𝐝𝐞𝐫 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐒𝐞𝐧𝐭𝐞𝐧𝐜𝐞𝐝 𝐭𝐨 𝐉𝐚𝐢𝐥 𝐢𝐧 𝐔𝐊\n\n📌 What happened: Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL).\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الحكم على اثنين من قراصنة العنكبوت المتفرقين بالسجن في المملكة المتحدة\n\n📌 وش اللي صار: تمت محاكمة ثالها جبير وأوين فلاورز بسبب هجوم إلكتروني عام 2024 استهدف هيئة النقل في لندن (TfL).\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "b61195df06751592",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-16T13:00:00+00:00",
-    "en_text": "🛡️ 𝐀𝐈 𝐃𝐚𝐭𝐚 𝐂𝐞𝐧𝐭𝐞𝐫𝐬 𝐀𝐫𝐞 𝐁𝐞𝐢𝐧𝐠 𝐁𝐮𝐢𝐥𝐭 𝐅𝐚𝐬𝐭𝐞𝐫 𝐓𝐡𝐚𝐧 𝐓𝐡𝐞𝐲 𝐂𝐚𝐧 𝐁𝐞 𝐒𝐞𝐜𝐮𝐫𝐞𝐝\n\n📌 What happened: AI infrastructure introduces new security risks that traditional data center designs were never built to handle.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يتم إنشاء مراكز بيانات الذكاء الاصطناعي بشكل أسرع مما يمكن تأمينه\n\n📌 وش اللي صار: تقدم البنية التحتية للذكاء الاصطناعي مخاطر أمنية جديدة لم يتم إنشاء تصميمات مراكز البيانات التقليدية للتعامل معها على الإطلاق.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
