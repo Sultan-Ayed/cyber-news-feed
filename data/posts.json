@@ -1,5 +1,14 @@
 [
   {
+    "id": "761b2a971cb2b357",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-25T14:16:26+00:00",
+    "en_text": "🛡️ 𝐒𝐡𝐢𝐧𝐲𝐇𝐮𝐧𝐭𝐞𝐫𝐬 𝐝𝐚𝐭𝐚 𝐥𝐞𝐚𝐤𝐬 𝐟𝐮𝐞𝐥 $𝟐,𝟎𝟎𝟎 𝐬𝐞𝐱𝐭𝐨𝐫𝐭𝐢𝐨𝐧 𝐞𝐦𝐚𝐢𝐥 𝐬𝐜𝐚𝐦\n\n📌 What happened: Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تسرب بيانات ShinyHunters يؤدي إلى عملية احتيال عبر البريد الإلكتروني بقيمة 2000 دولار\n\n📌 وش اللي صار: تستخدم الجهات الفاعلة في مجال التهديد عناوين البريد الإلكتروني التي تم الكشف عنها في خروقات البيانات التي سربتها مجموعة الابتزاز ShinyHunters لإرسال رسائل بريد إلكتروني ابتزازية تطالب بمبلغ 2000 دولار من عملة البيتكوين.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "8083b86f8749ba30",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-16T19:09:35+00:00",
     "en_text": "🛡️ 𝐍𝐞𝐰 𝐎𝐤𝐨𝐁𝐨𝐭 𝐟𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 𝐝𝐞𝐩𝐥𝐨𝐲𝐬 𝟐𝟎 𝐩𝐚𝐲𝐥𝐨𝐚𝐝𝐬 𝐭𝐨 𝐬𝐭𝐞𝐚𝐥 𝐝𝐚𝐭𝐚, 𝐜𝐫𝐲𝐩𝐭𝐨\n\n📌 What happened: A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ ينشر إطار عمل OkoBot الجديد 20 حمولة لسرقة البيانات والتشفير\n\n📌 وش اللي صار: يقدم إطار عمل خبيث جديد يسمى OkoBot أكثر من 20 حمولة في هجمات تركز على سرقة عبارات أصول محفظة العملة المشفرة وبيانات الاعتماد والبيانات الحساسة الأخرى.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "8c402b24a5d6ccc9",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcPDzKH0EAg764dc_I7qiwOAUUcWqBwDJcoojyb1-SwTOL5Gv24t1oGcIxnW8NkJjgXEadKJTIkcoN7nrFzrPk87AhHJj9Z5hPGk-vHGEkIppuyKJ-Sx_2M5aLF9z1VbD7G3uzf_kn_Wy1BYJ_R3RWwqM376W1hkWmfOdXYhlzCSqzSBRcJSbzGvFMkMg/s1600/Scattered-Spider.jpg",
-    "published_at": "2026-07-16T17:09:25+00:00",
-    "en_text": "🛡️ 𝐓𝐰𝐨 𝐒𝐜𝐚𝐭𝐭𝐞𝐫𝐞𝐝 𝐒𝐩𝐢𝐝𝐞𝐫 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐆𝐞𝐭 𝟓.𝟓 𝐘𝐞𝐚𝐫𝐬 𝐄𝐚𝐜𝐡 𝐟𝐨𝐫 £𝟐𝟗 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐓𝐟𝐋 𝐇𝐚𝐜𝐤\n\n📌 What happened: Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ اثنان من قراصنة العنكبوت المتفرقين يحصلون على 5.5 سنوات لكل منهما مقابل 29 مليون جنيه إسترليني من TfL Hack\n\n📌 وش اللي صار: حُكم على كل من أوين فلاورز، 18 عامًا، وثالا جبير، 20 عامًا، بالسجن لمدة خمس سنوات ونصف في محكمة وولويتش كراون يوم الخميس، 16 يوليو 2026، بتهمة اختراق وسائل النقل في لندن عام 2024.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
