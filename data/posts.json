@@ -1,5 +1,14 @@
 [
   {
+    "id": "5c3b2927268feb4b",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-26T14:13:39+00:00",
+    "en_text": "🛡️ 𝐆𝐢𝐭𝐇𝐮𝐛, 𝐏𝐲𝐏𝐈 𝐚𝐝𝐝 𝐭𝐢𝐦𝐞-𝐚𝐛𝐬𝐞𝐝 𝐝𝐞𝐟𝐞𝐧𝐬𝐞𝐬 𝐚𝐠𝐚𝐢𝐧𝐬𝐭 𝐬𝐮𝐩𝐩𝐥𝐲 𝐜𝐡𝐚𝐢𝐧 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يضيف GitHub وPyPI دفاعات محجوبة بالوقت ضد هجمات سلسلة التوريد\n\n📌 وش اللي صار: قدم GitHub وPyPI (Python Package Index) آلية تعتمد على الوقت في أداة إدارة التبعية Dependabot للحماية من هجمات سلسلة التوريد والحد من تأثيرها.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "a7df7ffa5e05842f",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-16T21:09:41+00:00",
     "en_text": "🛡️ 𝐂𝐨𝐜𝐚-𝐂𝐨𝐥𝐚 𝐬𝐚𝐲𝐬 𝐅𝐚𝐢𝐫𝐥𝐢𝐟𝐞 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐚𝐭𝐭𝐚𝐜𝐤 𝐡𝐚𝐥𝐭𝐬 𝐔𝐒 𝐝𝐚𝐢𝐫𝐲 𝐩𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧\n\n📌 What happened: The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تقول شركة كوكا كولا إن هجوم برنامج الفدية Fairlife يوقف إنتاج الألبان في الولايات المتحدة\n\n📌 وش اللي صار: كشفت شركة Coca-Cola اليوم أن هجوم برنامج الفدية الذي أثر على شركة منتجات الألبان التابعة لها Fairlife قد أدى إلى تعطيل العمليات، وتعليق إنتاج منتجات Fairlife مؤقتًا في جميع أنحاء الولايات المتحدة.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "35e1e10c2c53c7b6",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte217b770933bdcd6/690ceee03ce143613d3f62e0/man-selecting-AI-agent-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-16T20:57:47+00:00",
-    "en_text": "🛡️ 𝐀𝐠𝐞𝐧𝐭𝐢𝐜 𝐀𝐈 𝐈𝐬 𝐔𝐧𝐭𝐚𝐦𝐚𝐛𝐥𝐞: 𝐀𝐬𝐤 𝐭𝐡𝐞 𝐑𝐢𝐠𝐡𝐭 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐐𝐮𝐞𝐬𝐭𝐢𝐨𝐧𝐬\n\n📌 What happened: Forget about attackers. Agentic artificial intelligence is creating enough risks for organizations and demands a security reframe.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الذكاء الاصطناعي العميل لا يمكن ترويضه: اطرح الأسئلة الأمنية الصحيحة\n\n📌 وش اللي صار: ننسى المهاجمين. يخلق الذكاء الاصطناعي الوكيل ما يكفي من المخاطر للمؤسسات ويتطلب إعادة هيكلة أمنية.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
