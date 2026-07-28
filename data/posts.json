@@ -1,5 +1,23 @@
 [
   {
+    "id": "0488184302881443",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-28T07:27:55+00:00",
+    "en_text": "🛡️ 𝐔𝐧𝐩𝐚𝐭𝐜𝐡𝐞𝐝 𝐅𝐚𝐬𝐭𝐣𝐬𝐨𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: The critical remote code execution bug can be exploited without authentication, under the library’s stock default configurations.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ استغلال ثغرة Fastjson غير المصححة في الهجمات\n\n📌 وش اللي صار: يمكن استغلال الخطأ الحرج في تنفيذ التعليمات البرمجية عن بعد دون مصادقة، ضمن التكوينات الافتراضية لمخزون المكتبة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "f45f0d6e0fd0ce79",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmG858LYHQA-u4cQupdhqsi5oUcvLaQdoorupsW3tzPZvDg7kwgRIewOBPVNvp3Szfqb4VFJ_j6caul2NTIlm69_-vskp4gYQwVkQA59LbsMhOEO3yr4C48nhrO177ORbi9uFc_oIOrcXnCBs_dmPhVDZVZx9F3Cyp4RQKi71EhvfZQqmUKat36cbqEE/s1600/MAI-Cyber-1-Flash.jpg",
+    "published_at": "2026-07-28T06:07:22+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐒𝐚𝐲𝐬 𝐍𝐞𝐰 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐀𝐈 𝐌𝐨𝐝𝐞𝐥 𝐇𝐞𝐥𝐩𝐬 𝐌𝐃𝐀𝐒𝐇 𝐇𝐢𝐭 𝟗𝟓.𝟗𝟓% 𝐚𝐭 𝐇𝐚𝐥𝐟 𝐭𝐡𝐞 𝐂𝐨𝐬𝐭\n\n📌 What happened: Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تقول Microsoft إن نموذج الذكاء الاصطناعي الجديد للأمن السيبراني يساعد MDASH على تحقيق 95.95% بنصف التكلفة\n\n📌 وش اللي صار: أطلقت Microsoft أول نموذج خاص بها للأمن السيبراني داخل MDASH، وهو نموذج متعدد لتحديد الثغرات الأمنية وأداة علاجية. تقول الشركة إن MDASH، باستخدام MAI-Cyber-1-Flash وGPT-5.4، سجل 95.95% في CyberGym.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "953c9254dfa40fb0",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-17T17:12:23+00:00",
     "en_text": "🛡️ 𝐍𝐞𝐰 𝐍𝐚𝐝𝐌𝐞𝐬𝐡 𝐁𝐨𝐭𝐧𝐞𝐭 𝐇𝐮𝐧𝐭𝐬 𝐄𝐱𝐩𝐨𝐬𝐞𝐝 𝐀𝐈 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐟𝐨𝐫 𝐂𝐥𝐨𝐮𝐝 𝐊𝐞𝐲𝐬 𝐚𝐧𝐝 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐓𝐨𝐤𝐞𝐧𝐬\n\n📌 What happened: A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تطارد شبكة NadMesh Botnet الجديدة خدمات الذكاء الاصطناعي المكشوفة للمفاتيح السحابية ورموز Kubernetes\n\n📌 وش اللي صار: ظهرت شبكة روبوت Go تسمى NadMesh في أوائل شهر يوليو للبحث عن خدمات الذكاء الاصطناعي المكشوفة، وتطالب لوحة المعلومات الخاصة بالمشغل بـ 3811 مفتاح AWS فريدًا.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "0a8de0a06c38cd41",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34579512de050396/6a5a6336b09056633bee9fe7/trust_dial-NicoElNino-getty-2079838824.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-17T16:43:13+00:00",
-    "en_text": "🛡️ 𝐓𝐡𝐞 𝐑𝐞𝐚𝐥 𝐀𝐈 𝐓𝐡𝐫𝐞𝐚𝐭 𝐈𝐬 𝐁𝐥𝐢𝐧𝐝 𝐓𝐫𝐮𝐬𝐭\n\n📌 What happened: AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/application-security/real-ai-threat-blind-trust\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ التهديد الحقيقي للذكاء الاصطناعي هو الثقة العمياء\n\n📌 وش اللي صار: إن نماذج الذكاء الاصطناعي المتروكة لتفسير الأوامر وتنفيذها تقضي على الرقابة الحاسمة على الأمن السيبراني.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/real-ai-threat-blind-trust\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "96d9ebe2a900947d",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixZDZh8TkRVQHu6QNFvHOayTdDxLn-JWDRkPmvVCNkvEL9vhyphenhyphensADIyUB0uXlhXmBhACxMotz-lU1B61HGsRPee80GkLfk-mypQd6Ba4Hr4K-2QCz7BtyRKFCiUYuiUlmPw71Wdn6YnNTjncnGDPQBJV-P0MyS7CjTmPd-p_aHKBCQJr0JA396lL-Yxd3A9/s1600/digicert-hack.jpg",
-    "published_at": "2026-07-17T16:39:16+00:00",
-    "en_text": "🛡️ 𝐆𝐨𝐥𝐝𝐞𝐧𝐄𝐲𝐞𝐃𝐨𝐠 𝐒𝐮𝐛𝐠𝐫𝐨𝐮𝐩 𝐋𝐢𝐧𝐤𝐞𝐝 𝐭𝐨 𝐃𝐢𝐠𝐢𝐂𝐞𝐫𝐭 𝐁𝐫𝐞𝐚𝐜𝐡 𝐚𝐧𝐝 𝐂𝐨𝐝𝐞-𝐒𝐢𝐠𝐧𝐢𝐧𝐠 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞 𝐓𝐡𝐞𝐟𝐭\n\n📌 What happened: Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ مجموعة GoldenEyeDog الفرعية مرتبطة بخرق DigiCert وسرقة شهادة توقيع التعليمات البرمجية\n\n📌 وش اللي صار: أرجع باحثو الأمن السيبراني الحادث الأمني ​​الذي وقع في أبريل 2026 على DigiCert إلى مجموعة أنشطة تهديدية يطلق عليها اسم CylindricalCanine.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
