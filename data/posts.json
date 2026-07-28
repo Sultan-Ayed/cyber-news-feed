@@ -1,5 +1,32 @@
 [
   {
+    "id": "641ea5c9eac6a71f",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-28T09:10:03+00:00",
+    "en_text": "🛡️ 𝐃𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐚𝐭 𝐦𝐞𝐝𝐢𝐜𝐚𝐥 𝐛𝐢𝐥𝐥𝐢𝐧𝐠 𝐟𝐢𝐫𝐦 𝐌𝐂𝐁𝐒 𝐚𝐟𝐟𝐞𝐜𝐭𝐬 𝟏.𝟐𝟔 𝐦𝐢𝐥𝐥𝐢𝐨𝐧 𝐩𝐞𝐨𝐩𝐥𝐞\n\n📌 What happened: Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يؤثر اختراق البيانات في شركة الفواتير الطبية MCBS على 1.26 مليون شخص\n\n📌 وش اللي صار: كشفت شركة فواتير الرعاية الصحية Medical Computer Business Services (MCBS) أن اختراق الشبكة عام 2025 كشف معلومات حساسة لأكثر من 1.2 مليون شخص.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "2669504f3fb39551",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiX3xcF2Bm9BY5obe-T5JItuKynq8bPijOxp14p5damNEjPGtAbYyuLSqp6vKN_KkhPx1qYeTXHxpgnZllCrtLvDaDuJNyHpY1qV0i8KWCe79_bnFtBtTRPCTU28LcN7OFM26h_WZdxeM3KPWBK4dlp0jY8JKrs1UILNR0qRgtxhKJqCcrht69sc3gcwsU/s1600/tc.jpg",
+    "published_at": "2026-07-28T08:11:22+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐓𝐞𝐚𝐦𝐂𝐢𝐭𝐲 𝐅𝐥𝐚𝐰 𝐂𝐨𝐮𝐥𝐝 𝐋𝐞𝐭 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐑𝐮𝐧 𝐎𝐒 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐋𝐨𝐠𝐠𝐢𝐧𝐠 𝐈𝐧\n\n📌 What happened: JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ خلل خطير في TeamCity قد يسمح للمهاجمين بتشغيل أوامر نظام التشغيل دون تسجيل الدخول\n\n📌 وش اللي صار: تحث JetBrains عملاء الإصدارات المحلية من TeamCity على التحديث إلى الإصدار الأحدث بعد اكتشاف مشكلة أمنية حرجة قد تؤدي إلى تنفيذ تعليمات برمجية عشوائية.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "6b4aede28ee3f8e9",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgBRFXQr7hvRBIkSC-vqaka7UlRsU8Y380TbDC3jFpFlSlCK1RuVthJDLKt5KaNzAn82kMBNUWPp5s1Voug8ptjn0DiHoxbzw9QdoKXhFfR9SR9zCm1uYeE43tZUba0H7F-mlLogft-qyvtdggSASBR8qAxrRK3U3uPzvf_bkRmJPNzcWX-vfb7qW0VD8/s1600/linux.jpg",
+    "published_at": "2026-07-28T08:04:44+00:00",
+    "en_text": "🛡️ 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡𝐞𝐫 𝐒𝐚𝐲𝐬 𝐀𝐈 𝐇𝐞𝐥𝐩𝐞𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩 𝐋𝐢𝐧𝐮𝐱 𝐓𝐫𝐚𝐟𝐟𝐢𝐜-𝐂𝐨𝐧𝐭𝐫𝐨𝐥 𝐑𝐚𝐜𝐞 𝐈𝐧𝐭𝐨 𝐑𝐨𝐨𝐭 𝐄𝐱𝐩𝐥𝐨𝐢𝐭\n\n📌 What happened: STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يقول أحد الباحثين إن الذكاء الاصطناعي ساعد في تطوير سباق التحكم في حركة مرور Linux إلى نظام استغلال الجذر\n\n📌 وش اللي صار: نشرت STAR Labs ثغرة Linux kernel التي تحول مستخدمًا محليًا عاديًا إلى جذر على CentOS Stream 9 الذي يستهدفه.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "0488184302881443",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-07-17T20:01:13+00:00",
     "en_text": "🛡️ 𝐈𝐧𝐜 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐬 𝐒𝐨𝐧𝐢𝐜𝐖𝐚𝐥𝐥 𝐒𝐌𝐀 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲𝐬\n\n📌 What happened: When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ شركة Inc Ransomware تستغل SonicWall SMA Zero-Days\n\n📌 وش اللي صار: عند ربط هاتين الثغرات معًا، تسمح للجهات الفاعلة في مجال التهديد باكتساب إمكانات على مستوى الجذر على أجهزة الوصول المحمولة الخاصة بـ SonicWall.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "0c63b34da7a49315",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA07xA1INXGKM7Z2LQ6zk2IFE_Hb_aDQNHmSfPtJkZY5Gzo2U2_cyflorBsU76hbXK8SwKXR5AmkK5dAAd9uw0wRh6gYaC-5ZPjT6kEdvE7rO-5G0TxXm8a-eytoygZOMuSG-aOnYkC_zTVbnxSq7zxaIFYyLcegbQ59WVztRO-y3MHmce7XuDz2SdVsKA/s1600/vite-npm.jpg",
-    "published_at": "2026-07-17T18:54:51+00:00",
-    "en_text": "🛡️ 𝐒𝐞𝐯𝐞𝐧 𝐌𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐕𝐢𝐭𝐞 𝐧𝐩𝐦 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬 𝐔𝐬𝐞 𝐁𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐂𝟐 𝐭𝐨 𝐃𝐞𝐥𝐢𝐯𝐞𝐫 𝐚 𝐑𝐀𝐓\n\n📌 What happened: Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تستخدم سبع حزم Vite npm الضارة Blockchain C2 لتقديم RAT\n\n📌 وش اللي صار: اكتشف باحثو الأمن السيبراني مجموعة من سبع حزم npm ضارة تستهدف النظام البيئي لأدوات الواجهة الأمامية Vite كجزء من هجوم سلسلة توريد البرامج.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "eb18b5e1d713b33c",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-17T17:56:21+00:00",
-    "en_text": "🛡️ 𝐇𝐨𝐥𝐥𝐨𝐰𝐁𝐲𝐭𝐞 𝐃𝐃𝐨𝐒 𝐟𝐥𝐚𝐰 𝐛𝐥𝐨𝐚𝐭𝐬 𝐎𝐩𝐞𝐧𝐒𝐒𝐋 𝐬𝐞𝐫𝐯𝐞𝐫 𝐦𝐞𝐦𝐨𝐫𝐲 𝐰𝐢𝐭𝐡 𝟏𝟏-𝐛𝐲𝐭𝐞 𝐩𝐚𝐲𝐥𝐨𝐚𝐝\n\n📌 What happened: A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يؤدي عيب HollowByte DDoS إلى تضخم ذاكرة خادم OpenSSL بحمولة 11 بايت\n\n📌 وش اللي صار: تسمح الثغرة الأمنية التي يطلق عليها اسم HollowByte للمهاجمين غير المصادقين بتشغيل حالة رفض الخدمة (DoS) على خوادم OpenSSL بحمولة ضارة تبلغ 11 بايت فقط.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "88543f91771f26b0",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm0yasBDyeN2fn4q4y7Zs2Y6FvTDTIrI3xi4iN2ZBBUIBoCxLshnVvYc8OPDOrpSuHiyUNO0MLi-50Kf05SxJSo3m1n-PDfKnM3ztP48lWYBz_2IDzR2gNQ0D3-AzQcR6ZJC9qvBgM5wX3RCIaw6mAA7zDh3xAWFFoHScqZuqKSifh-FUr8Qum5dYGQPw/s1600/botnet-malware.jpg",
-    "published_at": "2026-07-17T17:12:23+00:00",
-    "en_text": "🛡️ 𝐍𝐞𝐰 𝐍𝐚𝐝𝐌𝐞𝐬𝐡 𝐁𝐨𝐭𝐧𝐞𝐭 𝐇𝐮𝐧𝐭𝐬 𝐄𝐱𝐩𝐨𝐬𝐞𝐝 𝐀𝐈 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐟𝐨𝐫 𝐂𝐥𝐨𝐮𝐝 𝐊𝐞𝐲𝐬 𝐚𝐧𝐝 𝐊𝐮𝐛𝐞𝐫𝐧𝐞𝐭𝐞𝐬 𝐓𝐨𝐤𝐞𝐧𝐬\n\n📌 What happened: A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تطارد شبكة NadMesh Botnet الجديدة خدمات الذكاء الاصطناعي المكشوفة للمفاتيح السحابية ورموز Kubernetes\n\n📌 وش اللي صار: ظهرت شبكة روبوت Go تسمى NadMesh في أوائل شهر يوليو للبحث عن خدمات الذكاء الاصطناعي المكشوفة، وتطالب لوحة المعلومات الخاصة بالمشغل بـ 3811 مفتاح AWS فريدًا.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
