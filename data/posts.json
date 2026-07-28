@@ -1,5 +1,14 @@
 [
   {
+    "id": "953c9254dfa40fb0",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Rqy6Y9a8XU8InktsbP7Op6N-6ZSvEQl0MJ2PL6_gd_s2ij5aL2vZHlW3sgsqtQQCY47wAO4RxIqqSUkQ7kXeXbhzEJe0g9VCbkC9pwEcGqKybszrRurMZQPQHsy6o8YLXYOZk1F9Cyp7kBQTFXjIzngB0_Jche9kzCVE_XIL7W24A-3ARqgisnibgAvw/s1600/cyber.jpg",
+    "published_at": "2026-07-28T04:43:53+00:00",
+    "en_text": "🛡️ 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐀𝐫𝐢𝐬𝐭𝐚 𝐕𝐞𝐥𝐨𝐂𝐥𝐨𝐮𝐝 𝐎𝐫𝐜𝐡𝐞𝐬𝐭𝐫𝐚𝐭𝐨𝐫 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐈𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧 𝐅𝐥𝐚𝐰\n\n📌 What happened: A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يستغل المهاجمون ثغرة حقن الأوامر في Arista VeloCloud Orchestrator\n\n📌 وش اللي صار: تعرض ثغرة أمنية شديدة الخطورة تؤثر على الإصدارات المحلية من Arista VeloCloud Orchestrator (VCO) للاستغلال النشط في البرية.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "d7bcb7e91e700eeb",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
@@ -52,6 +61,15 @@
     "published_at": "2026-07-27T20:57:26+00:00",
     "en_text": "🛡️ '𝐂𝐨𝐧𝐟𝐮𝐬𝐞𝐝 𝐃𝐞𝐩𝐮𝐭𝐲' 𝐅𝐥𝐚𝐰𝐬 𝐏𝐞𝐫𝐬𝐢𝐬𝐭 𝐢𝐧 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝, 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐳𝐮𝐫𝐞\n\n📌 What happened: This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تستمر عيوب \"النائب المرتبك\" في Google Cloud وMicrosoft Azure\n\n📌 وش اللي صار: تسمح هذه الفئة من الثغرات الأمنية للمهاجم بالحصول بسهولة على أذونات المستوى الإداري وتجاوز عناصر التحكم في الوصول الخاصة بموفري الخدمات السحابية.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "9739b8d0ff90f7ac",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1369910f8c4361ac/6a67667e18998400d30c8d1e/FBIhoody_jvphoto_Alamy.png?width=720&quality=80&disable=upscale",
+    "published_at": "2026-07-27T20:33:29+00:00",
+    "en_text": "🛡️ 𝐅𝐁𝐈: 𝐁𝐫𝐞𝐚𝐤𝐢𝐧𝐠 𝐀𝐟𝐟𝐢𝐥𝐢𝐚𝐭𝐞 𝐓𝐫𝐮𝐬𝐭 𝐒𝐩𝐞𝐝 𝐀𝐥𝐨𝐧𝐠 𝐋𝐨𝐜𝐤𝐁𝐢𝐭'𝐬 𝐓𝐚𝐤𝐞𝐝𝐨𝐰𝐧\n\n📌 What happened: An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ مكتب التحقيقات الفيدرالي: تم تسريع كسر ثقة الشركات التابعة من خلال إزالة LockBit\n\n📌 وش اللي صار: يشرح أحد عملاء مكتب التحقيقات الفيدرالي كيف نجحت عملية \"كرونوس\" متعددة الجنسيات لإنفاذ القانون في تعطيل أكبر مجموعة من برامج الفدية في ذلك الوقت.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "47607845e1cdf882",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-17T16:39:16+00:00",
     "en_text": "🛡️ 𝐆𝐨𝐥𝐝𝐞𝐧𝐄𝐲𝐞𝐃𝐨𝐠 𝐒𝐮𝐛𝐠𝐫𝐨𝐮𝐩 𝐋𝐢𝐧𝐤𝐞𝐝 𝐭𝐨 𝐃𝐢𝐠𝐢𝐂𝐞𝐫𝐭 𝐁𝐫𝐞𝐚𝐜𝐡 𝐚𝐧𝐝 𝐂𝐨𝐝𝐞-𝐒𝐢𝐠𝐧𝐢𝐧𝐠 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞 𝐓𝐡𝐞𝐟𝐭\n\n📌 What happened: Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ مجموعة GoldenEyeDog الفرعية مرتبطة بخرق DigiCert وسرقة شهادة توقيع التعليمات البرمجية\n\n📌 وش اللي صار: أرجع باحثو الأمن السيبراني الحادث الأمني ​​الذي وقع في أبريل 2026 على DigiCert إلى مجموعة أنشطة تهديدية يطلق عليها اسم CylindricalCanine.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "ac32bb8bdab52dda",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-17T14:55:28+00:00",
-    "en_text": "🛡️ 𝐄𝐫𝐧𝐬𝐭 & 𝐘𝐨𝐮𝐧𝐠 𝐝𝐢𝐬𝐜𝐥𝐨𝐬𝐞𝐬 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐚𝐟𝐭𝐞𝐫 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐬𝐲𝐬𝐭𝐞𝐦 𝐡𝐚𝐜𝐤\n\n📌 What happened: Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Ernst & Young تكشف عن اختراق البيانات بعد اختراق نظام الدعم\n\n📌 وش اللي صار: تقوم شركة Ernst & Young بإخطار العملاء بانتهاك البيانات الناجم عن اختراق نظام تذاكر الدعم التابع لجهة خارجية والذي يستخدمه موظفو تكنولوجيا المعلومات لديها.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "7f6f0c7600509e6a",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-17T14:27:54+00:00",
-    "en_text": "🛡️ 𝐈𝐧 𝐎𝐭𝐡𝐞𝐫 𝐍𝐞𝐰𝐬: 𝐈𝐫𝐚𝐧 𝐓𝐫𝐚𝐜𝐤𝐬 𝐔𝐒 𝐌𝐢𝐥𝐢𝐭𝐚𝐫𝐲 𝐏𝐡𝐨𝐧𝐞𝐬, 𝐂𝐫𝐚𝐬𝐡𝐒𝐭𝐞𝐚𝐥𝐞𝐫 𝐦𝐚𝐜𝐎𝐒 𝐌𝐚𝐥𝐰𝐚𝐫𝐞, 𝐂𝐕𝐃 𝐁𝐥𝐮𝐞𝐩𝐫𝐢𝐧𝐭\n\n📌 What happened: Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ وفي أخبار أخرى: إيران تتعقب الهواتف العسكرية الأمريكية، وبرامج CrashStealer الخبيثة لنظام التشغيل MacOS، ومخطط CVD\n\n📌 وش اللي صار: قصص جديرة بالملاحظة ربما تكون قد اختفت عن الأنظار: استغلال عملاء الذكاء الاصطناعي OpenClaw عبر تطبيق WhatsApp، وضرب برنامج الفدية شركة الدفاع البحرية TKMS، وكشف Lidl عن اختراق البيانات.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
