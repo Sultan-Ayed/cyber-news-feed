@@ -1,5 +1,23 @@
 [
   {
+    "id": "5226afe42a903f3d",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwRhCsS9eOb_YSXM57bDGZOPg4d9kipGTxFJ2_jC48mztPkE1_sZzuBe7ArzC4jl1TiWM9JiY20pu5uorCtSNIlmaX3EwT0trxI_HjmT_3dAJftY49-4bna-J5wnZlxs9CccsarbhZ9_L2Rxo9xtZbIszYc2mLKh0UdxKJsGftqHPggGLvtkrwWfD2-Wk/s1600/rails.jpg",
+    "published_at": "2026-07-29T18:10:00+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐑𝐚𝐢𝐥𝐬 𝐅𝐥𝐚𝐰 𝐂𝐨𝐮𝐥𝐝 𝐋𝐞𝐭 𝐔𝐧𝐚𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐑𝐞𝐚𝐝 𝐒𝐞𝐫𝐯𝐞𝐫 𝐅𝐢𝐥𝐞𝐬 𝐯𝐢𝐚 𝐈𝐦𝐚𝐠𝐞 𝐔𝐩𝐥𝐨𝐚𝐝𝐬\n\n📌 What happened: Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ خلل خطير في Rails قد يسمح للمهاجمين غير المصادقين بقراءة ملفات الخادم عبر تحميل الصور\n\n📌 وش اللي صار: أصدرت Ruby on Rails إصلاحات لثغرة أمنية خطيرة في Active Storage والتي قد تسمح للمهاجمين غير المصادقين بقراءة الملفات التعسفية من خوادم التطبيقات من خلال تحميلات الصور المعدة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "377d823ae424ce52",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-29T17:54:05+00:00",
+    "en_text": "🛡️ 𝐇𝐞𝐚𝐥𝐭𝐡-𝐈𝐒𝐀𝐂 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐫𝐢𝐬𝐢𝐧𝐠 𝐒𝐡𝐢𝐧𝐲𝐇𝐮𝐧𝐭𝐞𝐫𝐬 𝐝𝐚𝐭𝐚 𝐭𝐡𝐞𝐟𝐭 𝐚𝐭𝐭𝐚𝐜𝐤𝐬 𝐨𝐧 𝐡𝐞𝐚𝐥𝐭𝐡𝐜𝐚𝐫𝐞\n\n📌 What happened: Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يحذر Health-ISAC من تزايد هجمات سرقة بيانات ShinyHunters على الرعاية الصحية\n\n📌 وش اللي صار: تحذر Health-ISAC، وهي منظمة لتبادل معلومات الأمن السيبراني لقطاع الصحة، مؤسسات الرعاية الصحية والتكنولوجيا الطبية من الزيادة الملحوظة في الهجمات الناجحة التي ينفذها ShinyHunters.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "8f44a724389475a9",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-20T20:26:56+00:00",
     "en_text": "🛡️ 𝐑𝐞𝐦𝐞𝐝𝐢𝐚𝐭𝐢𝐧𝐠 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐖𝐢𝐭𝐡 𝐋𝐋𝐌𝐬: 𝐈𝐧𝐬𝐢𝐝𝐞 𝐈𝐯𝐚𝐧𝐭𝐢'𝐬 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐏𝐮𝐬𝐡\n\n📌 What happened: Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ معالجة نقاط الضعف باستخدام LLMs: داخل دفع أتمتة Ivanti\n\n📌 وش اللي صار: يقول دانييل سبايسر، كبير مسؤولي الأمن في شركة Ivanti، إن النماذج الرائدة أظهرت فعالية مذهلة في المراحل المبكرة؛ لكن التكلفة والقدرة على البقاء البشري تظل أسئلة مفتوحة.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "363e401ba27f718b",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-20T19:32:04+00:00",
-    "en_text": "🛡️ 𝟐𝟓 𝐘𝐞𝐚𝐫𝐬 𝐀𝐟𝐭𝐞𝐫 𝐂𝐨𝐝𝐞 𝐑𝐞𝐝: 𝐖𝐡𝐚𝐭 𝐭𝐡𝐞 𝐖𝐨𝐫𝐦 𝐄𝐫𝐚 𝐂𝐚𝐧 𝐓𝐞𝐚𝐜𝐡 𝐔𝐬 𝐀𝐛𝐨𝐮𝐭 𝐀𝐈 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲\n\n📌 What happened: Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ 25 عامًا بعد الرمز الأحمر: ما يمكن أن يعلمنا إياه عصر الدودة حول أمن الذكاء الاصطناعي\n\n📌 وش اللي صار: يتأمل مارك ميفريت في إرث Code Red والدروس الأمنية التي تساعد المؤسسات على التغلب على مخاطر الذكاء الاصطناعي اليوم.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "eca26416c8bdc26c",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt825053c5705a6278/6a5a7debb02e503616cf34f1/tired-business-man-stress-Volodymyr_TVERDOKHLIB-shutterstock.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-20T19:07:01+00:00",
-    "en_text": "🛡️ 𝐂𝐈𝐒𝐎𝐬 𝐅𝐞𝐞𝐥 𝐭𝐡𝐞 𝐇𝐞𝐚𝐭 𝐎𝐯𝐞𝐫 𝐀𝐈 𝐑𝐢𝐬𝐤\n\n📌 What happened: Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يشعر مديرو تكنولوجيا المعلومات بالتوتر بشأن مخاطر الذكاء الاصطناعي\n\n📌 وش اللي صار: زادت الضغوط الوظيفية مع توجه الشركات نحو اعتماد الذكاء الاصطناعي، مما دفع 26% من كبار المسؤولين التنفيذيين في مجال الأمن إلى التفكير في ترك مناصبهم.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
