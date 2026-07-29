@@ -1,5 +1,23 @@
 [
   {
+    "id": "d5631943f8536b1e",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-29T06:23:34+00:00",
+    "en_text": "🛡️ 𝐒𝐡𝐢𝐧𝐲𝐇𝐮𝐧𝐭𝐞𝐫𝐬 𝐂𝐥𝐚𝐢𝐦𝐬 𝐄𝐫𝐧𝐬𝐭 & 𝐘𝐨𝐮𝐧𝐠 𝐇𝐚𝐜𝐤\n\n📌 What happened: Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ShinyHunters تدعي شركة Ernst & Young Hack\n\n📌 وش اللي صار: أكدت شركة Ernst & Young سابقًا أن المعلومات الشخصية والمالية قد سُرقت من منصة إدارة تابعة لجهة خارجية.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "42d1eedeb284c954",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg",
+    "published_at": "2026-07-29T04:20:57+00:00",
+    "en_text": "🛡️ 𝐓𝐰𝐨 𝐂𝐨𝐦𝐩𝐫𝐨𝐦𝐢𝐬𝐞𝐝 𝐣𝐨𝐲𝐟𝐢𝐥𝐥 𝐧𝐩𝐦 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬 𝐑𝐮𝐧 𝐑𝐀𝐓 𝐖𝐡𝐞𝐧 𝐈𝐦𝐩𝐨𝐫𝐭𝐞𝐝 𝐈𝐧𝐭𝐨 𝐍𝐨𝐝𝐞.𝐣𝐬\n\n📌 What happened: Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تعمل حزمتان من حزم Joyfill npm التي تم اختراقها على تشغيل RAT عند استيرادها إلى Node.js\n\n📌 وش اللي صار: تم اختراق إصدارات الإصدار التجريبي من حزمتي npm في مساحة الاسم @joyfill لتقديم حصان طروادة للوصول عن بعد (RAT) المرتبط بعائلة البرامج الضارة DEV#POPPER.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "331be888ad818330",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-20T10:47:28+00:00",
     "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐒𝐞𝐫𝐯𝐞𝐫 𝐔𝐩𝐝𝐚𝐭𝐞 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐬𝐲𝐧𝐜 𝐝𝐞𝐥𝐚𝐲𝐬\n\n📌 What happened: Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تؤكد Microsoft حدوث تأخيرات في مزامنة خدمات Windows Server Update\n\n📌 وش اللي صار: تعمل Microsoft على إصلاح مشكلة معروفة تؤثر على خوادم Windows Server Update Services (WSUS)، والتي تسببت في حدوث مشكلات في المزامنة لأكثر من أسبوع.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "d7f945db0db66a93",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-20T10:06:17+00:00",
-    "en_text": "🛡️ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐊𝐁𝟓𝟏𝟐𝟏𝟕𝟔𝟕 𝐎𝐎𝐁 𝐮𝐩𝐝𝐚𝐭𝐞 𝐟𝐢𝐱𝐞𝐬 𝐬𝐡𝐮𝐭𝐝𝐨𝐰𝐧𝐬 𝐨𝐧 𝐬𝐨𝐦𝐞 𝐃𝐞𝐥𝐥 𝐏𝐂𝐬\n\n📌 What happened: Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يعمل تحديث Windows KB5121767 OOB على إصلاح عمليات إيقاف التشغيل على بعض أجهزة كمبيوتر Dell\n\n📌 وش اللي صار: أصدرت Microsoft تحديثات طارئة لإصلاح مشكلة معروفة تتسبب في إيقاف تشغيل بعض أجهزة كمبيوتر Dell بعد تثبيت تحديثات أمان Windows 11 لشهر يوليو 2026.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "dbe64c28f70c86fd",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-20T09:29:20+00:00",
-    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐍𝐨𝐰 𝐜𝐨𝐝𝐞 𝐞𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐟𝐥𝐚𝐰 𝐧𝐨𝐰 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐢𝐧 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يتم الآن استغلال ثغرة تنفيذ التعليمات البرمجية الحرجة في ServiceNow في الهجمات\n\n📌 وش اللي صار: بدأ المهاجمون في استغلال ثغرة أمنية حرجة (CVE-2026-6875) في منصة ServiceNow AI Platform، وفقًا لشركة استخبارات التهديدات Defused.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
