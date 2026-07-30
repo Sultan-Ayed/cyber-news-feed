@@ -1,5 +1,23 @@
 [
   {
+    "id": "5ea03de1aea77a45",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-30T06:31:31+00:00",
+    "en_text": "🛡️ 𝐂𝐢𝐬𝐜𝐨 𝐒𝐞𝐜𝐮𝐫𝐞 𝐅𝐌𝐂 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐢𝐧 𝐭𝐡𝐞 𝐖𝐢𝐥𝐝\n\n📌 What happened: The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ استغلال Cisco Secure FMC Zero-Day في البرية\n\n📌 وش اللي صار: يمكن استغلال الثغرة الأمنية التي تم تتبعها باسم CVE-2026-20316 بواسطة مهاجم بعيد غير مصادق عليه لتسجيل الدخول إلى الأجهزة المتضررة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "5b323651846af4f4",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg",
+    "published_at": "2026-07-30T05:08:39+00:00",
+    "en_text": "🛡️ 𝐂𝐢𝐬𝐜𝐨 𝐅𝐌𝐂 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐀𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝, 𝐒𝐭𝐚𝐭𝐢𝐜 𝐂𝐫𝐞𝐝𝐞𝐧𝐭𝐢𝐚𝐥𝐬 𝐂𝐨𝐮𝐥𝐝 𝐄𝐱𝐩𝐨𝐬𝐞 𝐒𝐞𝐧𝐬𝐢𝐭𝐢𝐯𝐞 𝐃𝐚𝐭𝐚\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of…\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم استغلال Cisco FMC Zero-Day بشكل نشط، وقد تكشف بيانات الاعتماد الثابتة بيانات حساسة\n\n📌 وش اللي صار: أضافت وكالة الأمن السيبراني وأمن البنية التحتية الأمريكية (CISA) يوم الأربعاء ثغرة أمنية تم الكشف عنها حديثًا تؤثر على برنامج Cisco Secure Firewall Management Center (FMC) إلى كتالوج الثغرات الأمنية المستغلة المعروفة (KEV)، بعد تقارير عن ...\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "474e0d32a02ff8f1",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-21T08:59:30+00:00",
     "en_text": "🛡️ 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐰𝐩𝟐𝐬𝐡𝐞𝐥𝐥 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐚𝐭𝐢𝐨𝐧 𝐆𝐫𝐨𝐰𝐬 𝐚𝐬 𝐏𝐮𝐛𝐥𝐢𝐜 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐅𝐮𝐞𝐥𝐬 𝐌𝐚𝐬𝐬 𝐒𝐜𝐚𝐧𝐧𝐢𝐧𝐠\n\n📌 What happened: Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ ينمو استغلال WordPress wp2shell حيث يؤدي الاستغلال العام إلى إجراء مسح شامل\n\n📌 وش اللي صار: بدأ المهاجمون في استغلال اثنتين من نقاط الضعف الحرجة في WordPress والتي، عند دمجها معًا، تتيح تنفيذ تعليمات برمجية عن بعد غير مصادق عليها (RCE) والاختراق الكامل لمواقع الويب الضعيفة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "466424b32bb760c0",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-21T08:06:26+00:00",
-    "en_text": "🛡️ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐋𝐞𝐠𝐚𝐜𝐲𝐇𝐢𝐯𝐞 𝐳𝐞𝐫𝐨-𝐝𝐚𝐲 𝐟𝐥𝐚𝐰 𝐠𝐞𝐭𝐬 𝐟𝐫𝐞𝐞, 𝐮𝐧𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐩𝐚𝐭𝐜𝐡𝐞𝐬\n\n📌 What happened: Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يحصل عيب Windows LegacyHive Zero-day على تصحيحات مجانية وغير رسمية\n\n📌 وش اللي صار: تتوفر تصحيحات غير رسمية مجانية لخلل Windows Zero-day الذي تم الكشف عنه مؤخرًا والذي يسمح للمهاجمين بتصعيد الامتيازات على أنظمة Windows المحدثة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "0edace9f3bea69f2",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDTNXJkg3w9ziG7euHnlaoQkTjogtjIhtwE-ZudPv_9wOpJUCUNVc-i_BtBkDTCflKzRSfUOEp5xHyRWAOcQWv18pf2kv9-yuI75SOM52X3akV3VrguZf6GDH9MZejxFG7FoJGMIgARuiWyncCOmNznSofFT8Fn9Zu2ZGmk0V_Ni3niha2I9qAO59VKHw/s1600/ransomware-ai.jpg",
-    "published_at": "2026-07-21T07:34:32+00:00",
-    "en_text": "🛡️ 𝐍𝐞𝐰 𝐄𝐍𝐂𝐅𝐎𝐑𝐆𝐄 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐓𝐚𝐫𝐠𝐞𝐭𝐬 𝐀𝐈 𝐌𝐨𝐝𝐞𝐥 𝐅𝐢𝐥𝐞𝐬 𝐢𝐧 𝐋𝐚𝐧𝐠𝐟𝐥𝐨𝐰 𝐑𝐂𝐄 𝐀𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ برنامج ENCFORGE Ransomware الجديد يستهدف ملفات نماذج الذكاء الاصطناعي في هجوم Langflow RCE\n\n📌 وش اللي صار: ربط الباحثون في Sysdig هجومًا ثانيًا على نفس خادم Langflow بـ JADEPUFFER، المشغل الذي يحركه عامل الذكاء الاصطناعي والذي تم توثيقه لأول مرة في وقت سابق من هذا الشهر.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
