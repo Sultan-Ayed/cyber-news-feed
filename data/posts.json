@@ -1,5 +1,23 @@
 [
   {
+    "id": "40a4ccbf8c2cb080",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-31T10:28:45+00:00",
+    "en_text": "🛡️ 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐈 𝐔𝐧𝐜𝐨𝐯𝐞𝐫𝐬 𝟏𝟑-𝐘𝐞𝐚𝐫-𝐎𝐥𝐝 𝐂𝐡𝐫𝐨𝐦𝐞 𝐅𝐥𝐚𝐰 𝐀𝐦𝐢𝐝 𝐑𝐞𝐜𝐨𝐫𝐝 𝐏𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐏𝐚𝐜𝐞\n\n📌 What happened: The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يكشف الذكاء الاصطناعي من Google عن خلل في Chrome عمره 13 عامًا وسط وتيرة تصحيح قياسية\n\n📌 وش اللي صار: قامت شركة الإنترنت العملاقة ببناء أداة مساعدة للعثور على نقاط الضعف عبر قاعدة بيانات Chrome.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "5b740ea8fc38e403",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-31T09:39:57+00:00",
+    "en_text": "🛡️ 𝐏𝐫𝐨𝐦𝐩𝐭𝐞𝐝 𝐛𝐲 𝐎𝐩𝐞𝐧𝐀𝐈 𝐃𝐢𝐬𝐜𝐥𝐨𝐬𝐮𝐫𝐞, 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜 𝐅𝐢𝐧𝐝𝐬 𝐈𝐭𝐬 𝐎𝐰𝐧 𝐌𝐨𝐝𝐞𝐥𝐬 𝐇𝐚𝐜𝐤𝐞𝐝 𝟑 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬\n\n📌 What happened: A security company’s systems were hacked after it installed a malicious Python package deployed by Claude.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ بعد الكشف عن OpenAI، وجدت شركة Anthropic أن نماذجها الخاصة اخترقت 3 منظمات\n\n📌 وش اللي صار: تم اختراق أنظمة شركة أمنية بعد أن قامت بتثبيت حزمة Python الخبيثة التي نشرها كلود.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "665884aa59552ce3",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-22T09:33:12+00:00",
     "en_text": "🛡️ 𝐎𝐫𝐚𝐜𝐥𝐞 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐎𝐯𝐞𝐫 𝟏,𝟒𝟎𝟎 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐖𝐢𝐭𝐡 𝐐𝐮𝐚𝐫𝐭𝐞𝐫𝐥𝐲 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐔𝐩𝐝𝐚𝐭𝐞𝐬\n\n📌 What happened: Many of the vulnerabilities fixed with the July 2026 Critical Patch Update were likely discovered by AI.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تقوم Oracle بإصلاح أكثر من 1400 نقطة ضعف من خلال تحديثات أمنية ربع سنوية\n\n📌 وش اللي صار: من المحتمل أن يكون الذكاء الاصطناعي قد اكتشف العديد من الثغرات الأمنية التي تم إصلاحها من خلال تحديث التصحيح الحرج لشهر يوليو 2026.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "f19e3d55d9f11a51",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-22T06:40:29+00:00",
-    "en_text": "🛡️ 𝐂𝐡𝐢𝐜𝐤-𝐟𝐢𝐥-𝐀 𝐝𝐢𝐬𝐜𝐥𝐨𝐬𝐞𝐬 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐚𝐟𝐭𝐞𝐫 𝐜𝐫𝐞𝐝𝐞𝐧𝐭𝐢𝐚𝐥 𝐬𝐭𝐮𝐟𝐟𝐢𝐧𝐠 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يكشف Chick-fil-A عن خرق البيانات بعد هجمات حشو بيانات الاعتماد\n\n📌 وش اللي صار: تقوم سلسلة مطاعم الوجبات السريعة الأمريكية Chick-fil-A بإخطار العملاء بحدوث خرق للبيانات بعد اختراق حساباتهم في موجة من هجمات حشو بيانات الاعتماد الأخيرة.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "3cfa79932498cdfe",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaY5kPe-g7dmQXqM_VwJIUOZk8mqgDII9sHVnZgWraV6lnXp9Pu6d664E6wSS82UCkvOd7MkPhzJBnbIKwJO9SLjHaVADbVE0zaSYhZJsHeBkBIh3Y9edJnmW4Ck1ndx5OwkkA5jJMo7gP6ocN_61sO7mOCACXBvzompiLGwnZCRkn2TkaXL6Ay94Fg/s1600/phishkit.jpg",
-    "published_at": "2026-07-22T06:38:45+00:00",
-    "en_text": "🛡️ 𝐏𝐨𝐥𝐢𝐜𝐞 𝐃𝐢𝐬𝐦𝐚𝐧𝐭𝐥𝐞 𝐊𝐫𝐚𝐭𝐨𝐬 𝐏𝐡𝐢𝐬𝐡𝐢𝐧𝐠 𝐊𝐢𝐭 𝐁𝐮𝐢𝐥𝐭 𝐭𝐨 𝐒𝐭𝐞𝐚𝐥 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝟑𝟔𝟓 𝐒𝐞𝐬𝐬𝐢𝐨𝐧𝐬 𝐚𝐧𝐝 𝐁𝐲𝐩𝐚𝐬𝐬 𝐌𝐅𝐀\n\n📌 What happened: German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the man they say developed and ran it.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الشرطة تفكك مجموعة أدوات التصيد الاحتيالي Kratos المصممة لسرقة جلسات Microsoft 365 وتجاوز MFA\n\n📌 وش اللي صار: قامت سلطات إنفاذ القانون الألمانية والأمريكية بتفكيك البنية التحتية الأساسية لبرنامج Kratos، الذي وصفه المحققون الألمان بأنه أحد أكثر أدوات التصيد الإجرامي استخدامًا على نطاق واسع في العالم، واعتقلت السلطات الإندونيسية الرجل الذي تقول إنه قام بتطويره وإدارته.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
