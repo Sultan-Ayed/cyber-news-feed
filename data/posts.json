@@ -1,5 +1,32 @@
 [
   {
+    "id": "e0cbfbb17f2a64cb",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-31T22:16:42+00:00",
+    "en_text": "🛡️ 𝐀𝐦𝐠𝐞𝐧 𝐬𝐚𝐲𝐬 𝐜𝐥𝐨𝐮𝐝 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐞𝐱𝐩𝐨𝐬𝐞𝐝 𝐩𝐚𝐭𝐢𝐞𝐧𝐭 𝐡𝐞𝐚𝐥𝐭𝐡, 𝐩𝐫𝐨𝐩𝐫𝐢𝐞𝐭𝐚𝐫𝐲 𝐢𝐧𝐟𝐨\n\n📌 What happened: Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تقول شركة Amgen أن خرق البيانات السحابية كشف عن صحة المرضى ومعلومات الملكية الخاصة بهم\n\n📌 وش اللي صار: قالت شركة الأدوية Amgen إنها تعرضت لخرق للبيانات بعد أن سرق ممثلو التهديد بيانات الشركة ومعلومات المرضى المخزنة في أنظمة سحابية متعددة يديرها مقدمو خدمات خارجيون.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "67fd5bee3590021f",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-31T21:38:08+00:00",
+    "en_text": "🛡️ 𝐀𝐫𝐜𝐡 𝐋𝐢𝐧𝐮𝐱 𝐝𝐢𝐬𝐚𝐛𝐥𝐞𝐬 𝐀𝐔𝐑 𝐩𝐚𝐜𝐤𝐚𝐠𝐞 𝐚𝐝𝐨𝐩𝐭𝐢𝐨𝐧 𝐭𝐨 𝐬𝐭𝐨𝐩 𝐦𝐚𝐥𝐰𝐚𝐫𝐞 𝐟𝐥𝐨𝐨𝐝\n\n📌 What happened: The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يقوم Arch Linux بتعطيل اعتماد حزمة AUR لإيقاف تدفق البرامج الضارة\n\n📌 وش اللي صار: قام مشروع Arch Linux بتعطيل اعتماد حزم Arch User Repository (AUR) مؤقتًا بعد زيادة عمليات الاستحواذ الضارة على الحزم الحالية.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "93672d4a35e04c86",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-31T21:09:25+00:00",
+    "en_text": "🛡️ 𝐎𝐧𝐥𝐢𝐧𝐞 𝐚𝐝 𝐟𝐢𝐫𝐦 𝐀𝐝𝐟𝐨𝐫𝐦’𝐬 𝐬𝐜𝐫𝐢𝐩𝐭 𝐜𝐨𝐦𝐩𝐫𝐨𝐦𝐢𝐬𝐞𝐝 𝐭𝐨 𝐬𝐭𝐞𝐚𝐥 𝐜𝐫𝐲𝐩𝐭𝐨𝐜𝐮𝐫𝐫𝐞𝐧𝐜𝐲\n\n📌 What happened: Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم اختراق البرنامج النصي لشركة Adform الإعلانية عبر الإنترنت لسرقة العملة المشفرة\n\n📌 وش اللي صار: عانت شركة الإعلانات عبر الإنترنت Adform من هجوم على سلسلة التوريد أدى إلى تسليم نصوص برمجية لسرقة العملات المشفرة إلى مواقع الويب باستخدام نظامها الأساسي للإعلانات، واستبدال عناوين المحفظة المنسوخة إلى حافظات الزوار بتلك التي يتحكم فيها المهاجم.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "dd877cf580130103",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-07-22T16:59:17+00:00",
     "en_text": "🛡️ 𝐒𝐰𝐢𝐬𝐬 𝐫𝐚𝐢𝐥 𝐠𝐢𝐚𝐧𝐭 𝐒𝐭𝐚𝐝𝐥𝐞𝐫 𝐫𝐞𝐣𝐞𝐜𝐭𝐬 $𝟏𝟐.𝟑𝐌 𝐫𝐚𝐧𝐬𝐨𝐦 𝐝𝐞𝐦𝐚𝐧𝐝 𝐚𝐟𝐭𝐞𝐫 𝐜𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ شركة السكك الحديدية السويسرية العملاقة ستادلر ترفض طلب فدية بقيمة 12.3 مليون دولار بعد الهجوم الإلكتروني\n\n📌 وش اللي صار: قالت شركة تصنيع مركبات السكك الحديدية السويسرية Stadler Rail إن عصابة برامج الفدية Everest طلبت حوالي 12.3 مليون دولار بعد اختراق منصة تبادل البيانات المشتركة مع أحد مورديها.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "57deb39eb5febd85",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd70f31deaf012f3a/6a60e27e0cab912020e949ed/alienattack-Devrimb-GettyImages-1159847076_(1).jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-22T15:53:47+00:00",
-    "en_text": "🛡️ 𝐖𝐡𝐞𝐧 𝐀𝐈 𝐀𝐭𝐭𝐚𝐜𝐤𝐬: 𝐎𝐩𝐞𝐧𝐀𝐈 𝐌𝐨𝐝𝐞𝐥𝐬 𝐀𝐮𝐭𝐨𝐧𝐨𝐦𝐨𝐮𝐬𝐥𝐲 𝐇𝐚𝐜𝐤 𝐇𝐮𝐠𝐠𝐢𝐧𝐠 𝐅𝐚𝐜𝐞\n\n📌 What happened: Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ عندما يهاجم الذكاء الاصطناعي: نماذج OpenAI تخترق بشكل مستقل الوجه المعانق\n\n📌 وش اللي صار: أفلت حاملو LLM المتقدمون من صناديق الحماية الخاصة بهم أثناء محاولتهم تحقيق هدف اختبار مرجعي غير ضار.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "6f74290201d6dbea",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-22T15:30:00+00:00",
-    "en_text": "🛡️ 𝐇𝐨𝐰 𝐞𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐆𝐞𝐧𝐀𝐈 𝐜𝐚𝐧 𝐚𝐦𝐩𝐥𝐢𝐟𝐲 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐫𝐢𝐬𝐤 — 𝐚𝐧𝐝 𝐡𝐨𝐰 𝐭𝐨 𝐜𝐨𝐧𝐭𝐚𝐢𝐧 𝐢𝐭\n\n📌 What happened: Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ كيف يمكن لـ GenAI للمؤسسات تضخيم مخاطر برامج الفدية - وكيفية احتوائها\n\n📌 وش اللي صار: يمكن للذكاء الاصطناعي المؤسسي تسريع هجمات برامج الفدية عندما يرث مساعدو ووكلاء الذكاء الاصطناعي أذونات زائدة أو هويات معرضة للخطر.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "ebcd2d1b097092a3",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-22T15:02:11+00:00",
-    "en_text": "🛡️ 𝐒𝐮𝐧𝐨, 𝐏𝐚𝐢𝐝𝐰𝐨𝐫𝐤 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡𝐞𝐬 𝐀𝐟𝐟𝐞𝐜𝐭 𝐓𝐞𝐧𝐬 𝐨𝐟 𝐌𝐢𝐥𝐥𝐢𝐨𝐧𝐬 𝐨𝐟 𝐀𝐜𝐜𝐨𝐮𝐧𝐭𝐬\n\n📌 What happened: Hackers leaked names, email addresses, phone numbers, passwords, and financial information stolen from the two platforms.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ سونو، تؤثر خروقات بيانات العمل مدفوع الأجر على عشرات الملايين من الحسابات\n\n📌 وش اللي صار: قام المتسللون بتسريب الأسماء وعناوين البريد الإلكتروني وأرقام الهواتف وكلمات المرور والمعلومات المالية المسروقة من المنصتين.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
