@@ -1,5 +1,23 @@
 [
   {
+    "id": "e64f30381c40bc65",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-01T14:20:30+00:00",
+    "en_text": "🛡️ 𝐑𝐚𝐢𝐥𝐬 𝐩𝐚𝐭𝐜𝐡𝐞𝐬 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐀𝐜𝐭𝐢𝐯𝐞 𝐒𝐭𝐨𝐫𝐚𝐠𝐞 𝐟𝐥𝐚𝐰 𝐰𝐢𝐭𝐡 𝐑𝐂𝐄 𝐩𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥\n\n📌 What happened: A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE).\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تقوم ريلز بتصحيح الخلل الحرج في التخزين النشط مع إمكانية RCE\n\n📌 وش اللي صار: يمكن أن تسمح ثغرة أمنية حرجة في إطار عمل التخزين النشط لمهاجم غير مصادق بقراءة ملفات عشوائية من تطبيق ريلز، ومن المحتمل أن تتصاعد إلى تنفيذ التعليمات البرمجية عن بعد (RCE).\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "bfc0c92118f147c3",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-01T12:30:00+00:00",
+    "en_text": "🛡️ 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐓𝐡𝐞𝐨𝐫𝐲 𝐑𝐚𝐢𝐬𝐞𝐬 $𝟏𝟗 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐭𝐨 𝐇𝐞𝐥𝐩 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞𝐬 𝐌𝐚𝐧𝐚𝐠𝐞 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭𝐬\n\n📌 What happened: The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تجمع شركة Balance Theory مبلغ 19 مليون دولار لمساعدة الشركات على إدارة استثمارات الأمن السيبراني\n\n📌 وش اللي صار: تمت قيادة جولة التمويل بواسطة SYN Ventures، بمشاركة المستثمرين الحاليين DataTribe وTEDCO.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "cdd2d5be99e725f9",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-23T08:04:35+00:00",
     "en_text": "🛡️ 𝐍𝐢𝐧𝐞-𝐘𝐞𝐚𝐫-𝐎𝐥𝐝 𝐑𝐞𝐟𝐥𝐮𝐗𝐅𝐒 𝐋𝐢𝐧𝐮𝐱 𝐅𝐥𝐚𝐰 𝐆𝐢𝐯𝐞𝐬 𝐋𝐨𝐜𝐚𝐥 𝐔𝐬𝐞𝐫𝐬 𝐑𝐨𝐨𝐭 𝐨𝐧 𝐃𝐞𝐟𝐚𝐮𝐥𝐭 𝐑𝐇𝐄𝐋 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐬\n\n📌 What happened: RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ خلل في نظام RefluXFS Linux عمره تسع سنوات يمنح المستخدمين المحليين إمكانية الوصول إلى عمليات تثبيت RHEL الافتراضية\n\n📌 وش اللي صار: يتيح RefluXFS، وهو خلل جديد في نواة Linux تم الكشف عنه في 22 يوليو وتم تتبعه باسم CVE-2026-64600، لمستخدم محلي لا يتمتع بأي امتيازات الكتابة فوق الملفات المملوكة للجذر على نظام ملفات XFS والحصول على وصول دائم للجذر.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "595728cd86e77418",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbac701ac3f586ad3/6a60fa60dc7d61d2e0f67dab/Lampion_Lisbon-Olena_Malik-Getty.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-23T07:00:00+00:00",
-    "en_text": "🛡️ 𝐁𝐫𝐚𝐳𝐢𝐥𝐢𝐚𝐧 𝐁𝐚𝐧𝐤𝐢𝐧𝐠 𝐓𝐫𝐨𝐣𝐚𝐧 𝐀𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐒𝐩𝐫𝐞𝐚𝐝𝐢𝐧𝐠 𝐢𝐧 𝐏𝐨𝐫𝐭𝐮𝐠𝐚𝐥\n\n📌 What happened: Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.\n\n💡 Why it matters: Modern malware doesn't announce itself — it blends into normal traffic until the moment it needs to strike.\n\n✅ Quick tip: Only install software from official sources — 'free' cracked versions are one of the top malware delivery methods.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ حصان طروادة المصرفي البرازيلي ينتشر بشكل نشط في البرتغال\n\n📌 وش اللي صار: تعمل الشركات البرتغالية بنفس اللغة الأم التي يعمل بها المتسللون البرازيليون، مما يجعل تلك الشركات أهدافًا سهلة.\n\n💡 ليش هذا مهم: البرمجيات الخبيثة الحديثة ما تعلن عن نفسها، تندمج مع النشاط العادي للجهاز لين تجي لحظة الضربة.\n\n✅ نصيحة سريعة: ثبّت البرامج من مصادرها الرسمية بس — النسخ 'المجانية' المقرصنة من أكثر طرق توزيع البرمجيات الخبيثة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "cf457a6325533fbc",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBN3LZDMeKkPoMsoNtsGp_s0KYwVrmhhKHQsQtqgtAN1WAKeS7L-aN1hiehoBwnPi6f1gziIEecy5GlPdAVlWKPlzVprrqHLTLE3tcMZu4NK8QDoRxxS22HEFxfIpyrXnqr8O9b9akb1VVr9dmmmdwzHmhTFTVX4Cpv6WkFwSpz62tr6XKEDvKp5m0aUu/s1600/checkpoint.jpg",
-    "published_at": "2026-07-23T06:34:36+00:00",
-    "en_text": "🛡️ 𝐂𝐡𝐞𝐜𝐤 𝐏𝐨𝐢𝐧𝐭 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐒𝐦𝐚𝐫𝐭𝐂𝐨𝐧𝐬𝐨𝐥𝐞 𝐅𝐥𝐚𝐰 𝐀𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐅𝐮𝐥𝐥 𝐀𝐝𝐦𝐢𝐧 𝐀𝐜𝐜𝐞𝐬𝐬\n\n📌 What happened: Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/check-point-patches-exploited.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تصحيحات نقطة التحقق تستغل عيب SmartConsole مما يسمح بالوصول الكامل للمسؤول\n\n📌 وش اللي صار: أصدرت Check Point تحديثات أمنية لمعالجة نقاط الضعف المتعددة التي تؤثر على منتجات إدارة الأمان وإدارة المجالات المتعددة (MDSM)، بما في ذلك الخلل الخطير الذي تعرض للاستغلال النشط في البرية.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/check-point-patches-exploited.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
