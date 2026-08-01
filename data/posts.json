@@ -1,5 +1,14 @@
 [
   {
+    "id": "cdd2d5be99e725f9",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-01T11:15:00+00:00",
+    "en_text": "🛡️ 𝐑𝐮𝐛𝐲 𝐨𝐧 𝐑𝐚𝐢𝐥𝐬 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE).\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ روبي أون ريلز تصحح نقاط الضعف الحرجة\n\n📌 وش اللي صار: يمكن استغلال الثغرة من قبل مهاجمين غير مصادقين لقراءة الملفات العشوائية وربما تنفيذ التعليمات البرمجية عن بعد (RCE).\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "0fa86a6b2f57fc9d",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
@@ -223,6 +232,15 @@
     "published_at": "2026-07-31T10:28:45+00:00",
     "en_text": "🛡️ 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐈 𝐔𝐧𝐜𝐨𝐯𝐞𝐫𝐬 𝟏𝟑-𝐘𝐞𝐚𝐫-𝐎𝐥𝐝 𝐂𝐡𝐫𝐨𝐦𝐞 𝐅𝐥𝐚𝐰 𝐀𝐦𝐢𝐝 𝐑𝐞𝐜𝐨𝐫𝐝 𝐏𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐏𝐚𝐜𝐞\n\n📌 What happened: The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يكشف الذكاء الاصطناعي من Google عن خلل في Chrome عمره 13 عامًا وسط وتيرة تصحيح قياسية\n\n📌 وش اللي صار: قامت شركة الإنترنت العملاقة ببناء أداة مساعدة للعثور على نقاط الضعف عبر قاعدة بيانات Chrome.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "5bb119d91e399d22",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-07-31T10:00:00+00:00",
+    "en_text": "🛡️ 𝐄𝐔 𝐭𝐨 𝐂𝐫𝐚𝐜𝐤 𝐃𝐨𝐰𝐧 𝐨𝐧 𝐀𝐈 𝐃𝐞𝐞𝐩𝐟𝐚𝐤𝐞𝐬, 𝐈𝐥𝐥𝐢𝐜𝐢𝐭 𝐈𝐦𝐚𝐠𝐞𝐫𝐲 𝐚𝐧𝐝 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐖𝐢𝐭𝐡 𝐍𝐞𝐰 𝐓𝐞𝐚𝐦 𝐢𝐧 𝐁𝐫𝐮𝐬𝐬𝐞𝐥𝐬\n\n📌 What happened: When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الاتحاد الأوروبي يتخذ إجراءات صارمة ضد التزييف العميق والصور غير المشروعة والقرصنة مع فريق جديد في بروكسل\n\n📌 وش اللي صار: عندما يدخل قانون الذكاء الاصطناعي حيز التنفيذ، سيُطلب من شركات الذكاء الاصطناعي أن توضح للمستهلكين من خلال الملصقات أو العلامات المائية الرقمية أن روبوتات الدردشة أو الصور يتم إنشاؤها باستخدام الذكاء الاصطناعي.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "5b740ea8fc38e403",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-23T06:34:36+00:00",
     "en_text": "🛡️ 𝐂𝐡𝐞𝐜𝐤 𝐏𝐨𝐢𝐧𝐭 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐒𝐦𝐚𝐫𝐭𝐂𝐨𝐧𝐬𝐨𝐥𝐞 𝐅𝐥𝐚𝐰 𝐀𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐅𝐮𝐥𝐥 𝐀𝐝𝐦𝐢𝐧 𝐀𝐜𝐜𝐞𝐬𝐬\n\n📌 What happened: Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/check-point-patches-exploited.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تصحيحات نقطة التحقق تستغل عيب SmartConsole مما يسمح بالوصول الكامل للمسؤول\n\n📌 وش اللي صار: أصدرت Check Point تحديثات أمنية لمعالجة نقاط الضعف المتعددة التي تؤثر على منتجات إدارة الأمان وإدارة المجالات المتعددة (MDSM)، بما في ذلك الخلل الخطير الذي تعرض للاستغلال النشط في البرية.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/check-point-patches-exploited.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "a9a284f5294030d4",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-23T05:28:50+00:00",
-    "en_text": "🛡️ 𝐔𝐒 𝐖𝐚𝐫𝐧𝐬 𝐨𝐟 𝐈𝐫𝐚𝐧𝐢𝐚𝐧 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐓𝐚𝐫𝐠𝐞𝐭𝐢𝐧𝐠 𝐒𝐢𝐞𝐦𝐞𝐧𝐬, 𝐒𝐜𝐡𝐧𝐞𝐢𝐝𝐞𝐫, 𝐚𝐧𝐝 𝐑𝐨𝐜𝐤𝐰𝐞𝐥𝐥 𝐈𝐂𝐒 𝐃𝐞𝐯𝐢𝐜𝐞𝐬\n\n📌 What happened: An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الولايات المتحدة تحذر من قراصنة إيرانيين يستهدفون أجهزة Siemens وSchneider وRockwell ICS\n\n📌 وش اللي صار: توفر الاستشارة المحدثة من الوكالات الفيدرالية معلومات حول التقنيات المستخدمة لاختراق وحدات التحكم المنطقية القابلة للبرمجة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "7a0b6551b6e92a56",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67b28f8453d1c038/6a6128d36477bd5dab474c38/frozen-food-in-kanazawa-nihon-Pack-Shot-shutterstock.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-23T01:00:00+00:00",
-    "en_text": "🛡️ 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐀𝐭𝐭𝐚𝐜𝐤 𝐏𝐮𝐭𝐬 𝐚 𝐂𝐡𝐢𝐥𝐥 𝐎𝐧 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐅𝐫𝐨𝐳𝐞𝐧-𝐅𝐨𝐨𝐝 𝐂𝐡𝐚𝐢𝐧\n\n📌 What happened: A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ هجوم برامج الفدية يربك سلسلة الأغذية المجمدة اليابانية\n\n📌 وش اللي صار: أدى هجوم إلكتروني على شركة للأغذية والخدمات اللوجستية إلى تعطيل توريد الأطعمة المجمدة لآلاف العملاء، بما في ذلك الامتيازات الكبرى مثل كنتاكي فرايد تشيكن.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
