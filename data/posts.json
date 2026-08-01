@@ -1,5 +1,23 @@
 [
   {
+    "id": "097fcbe5b08ca7e5",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s1600/adobe-flaw.jpg",
+    "published_at": "2026-08-01T07:12:42+00:00",
+    "en_text": "🛡️ 𝐀𝐝𝐨𝐛𝐞 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧 𝐂𝐥𝐚𝐬𝐬𝐢𝐜 𝐂𝐕𝐒𝐒 𝟏𝟎.𝟎 𝐅𝐥𝐚𝐰 𝐂𝐨𝐮𝐥𝐝 𝐑𝐮𝐧 𝐂𝐨𝐝𝐞 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐔𝐬𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧\n\n📌 What happened: Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يمكن لخلل Adobe Campaign Classic CVSS 10.0 تشغيل التعليمات البرمجية دون تدخل المستخدم\n\n📌 وش اللي صار: أصدرت Adobe تحديثات أمنية لمعالجة ثغرة أمنية شديدة الخطورة في Campaign Classic (ACC)، وهي منصة التشغيل الآلي للتسويق التي تركز على المؤسسات، والتي قد تؤدي إلى تنفيذ تعليمات برمجية عشوائية.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "ef832fb7175ff4cb",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg",
+    "published_at": "2026-08-01T06:29:05+00:00",
+    "en_text": "🛡️ 𝐇𝐢𝐣𝐚𝐜𝐤𝐞𝐝 𝐇𝐨𝐭𝐞𝐥 𝐖𝐢-𝐅𝐢 𝐏𝐮𝐬𝐡𝐞𝐬 𝐅𝐚𝐤𝐞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐭𝐨 𝐃𝐞𝐥𝐢𝐯𝐞𝐫 𝐒𝐮𝐫𝐯𝐞𝐢𝐥𝐥𝐚𝐧𝐜𝐞 𝐌𝐚𝐥𝐰𝐚𝐫𝐞\n\n📌 What happened: A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تعمل خدمة Hijacked Hotel Wi-Fi على نشر تحديثات زائفة لتقديم برامج ضارة للمراقبة\n\n📌 وش اللي صار: قالت Microsoft في تقريرها الأخير إن تحديثًا مزيفًا للمتصفح تم تقديمه عبر شبكة Wi-Fi في الفندق المختطفة تم استخدامه لتقديم CornFlake، وهو حصان طروادة للوصول عن بعد (RAT) يمكنه التقاط صور كاميرا الويب وصوت الميكروفون وضغطات المفاتيح.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "e0cbfbb17f2a64cb",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-22T21:43:39+00:00",
     "en_text": "🛡️ 𝐔𝐩𝐛𝐨𝐮𝐧𝐝 𝐬𝐚𝐲𝐬 𝐡𝐚𝐜𝐤 𝐜𝐚𝐮𝐬𝐞𝐝 $𝟏𝟑 𝐦𝐢𝐥𝐥𝐢𝐨𝐧 𝐢𝐧 𝐟𝐫𝐚𝐮𝐝𝐮𝐥𝐞𝐧𝐭 𝐀𝐜𝐢𝐦𝐚 𝐥𝐞𝐚𝐬𝐞𝐬\n\n📌 What happened: The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يقول Upbound إن الاختراق تسبب في 13 مليون دولار من عقود إيجار Acima الاحتيالية\n\n📌 وش اللي صار: كشفت شركة Upbound Group للتكنولوجيا المالية أن الجهات الفاعلة في مجال التهديد التي سرقت البيانات من أنظمتها استفادت منها لإنشاء 13 مليون دولار في عقود إيجار Acima.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "b6268eeefff4b7e1",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3487664d9c613ba9/6a61308f2c3e688b979308a0/ai_TSViPhoto_shutterstock.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-22T21:29:01+00:00",
-    "en_text": "🛡️ 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐀𝐫𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐭𝐨 𝐋𝐢𝐯𝐞 𝐎𝐟𝐟 𝐭𝐡𝐞 𝐀𝐈 𝐓𝐨𝐨𝐥𝐜𝐡𝐚𝐢𝐧\n\n📌 What happened: Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يتعلم المهاجمون العيش خارج سلسلة أدوات الذكاء الاصطناعي\n\n📌 وش اللي صار: يعد Sandworm_Mode مثالًا مبكرًا للبرامج الضارة التي تستغل أدوات الذكاء الاصطناعي وسير العمل الموثوق بها لجعل النشاط الضار غير قابل للتمييز فعليًا عن النشاط العادي.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "9b6513ea679226cf",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-22T20:06:54+00:00",
-    "en_text": "🛡️ 𝐒𝐨𝐮𝐭𝐡 𝐊𝐨𝐫𝐞𝐚 𝐝𝐢𝐬𝐜𝐥𝐨𝐬𝐞𝐬 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐢𝐦𝐩𝐚𝐜𝐭𝐢𝐧𝐠 𝐝𝐢𝐩𝐥𝐨𝐦𝐚𝐭𝐬 𝐰𝐨𝐫𝐥𝐝𝐰𝐢𝐝𝐞\n\n📌 What happened: South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign Affairs (MFA), including overseas…\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ كوريا الجنوبية تكشف عن خرق للبيانات يؤثر على الدبلوماسيين في جميع أنحاء العالم\n\n📌 وش اللي صار: كشفت كوريا الجنوبية أن قراصنة اخترقوا نظام التعليم عبر الإنترنت التابع للأكاديمية الدبلوماسية الوطنية لمدة عشرة أشهر وسرقوا معلومات شخصية تخص موظفين حاليين وسابقين في وزارة الخارجية (MFA)، بما في ذلك في الخارج.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
