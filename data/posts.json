@@ -1,5 +1,14 @@
 [
   {
+    "id": "2273073f02d3d368",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-02T14:17:16+00:00",
+    "en_text": "🛡️ 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐡𝐫𝐨𝐦𝐞 𝐦𝐚𝐲 𝐬𝐨𝐨𝐧 𝐛𝐥𝐨𝐜𝐤 𝐍𝐞𝐰 𝐓𝐚𝐛 𝐡𝐢𝐣𝐚𝐜𝐤𝐞𝐫 𝐞𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧𝐬 𝐛𝐲 𝐝𝐞𝐟𝐚𝐮𝐥𝐭\n\n📌 What happened: Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ قد يقوم Google Chrome قريبًا بحظر ملحقات New Tab Hijacker افتراضيًا\n\n📌 وش اللي صار: تقوم Google بإعداد ميزة أمان جديدة في Chrome من شأنها منع الإضافات المثبتة بالسياسة من الاستيلاء على صفحة علامة تبويب جديدة أو تغيير محرك البحث الافتراضي.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "33d64b684b386f21",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-23T09:20:10+00:00",
     "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐭𝐨 𝐟𝐢𝐱 𝐄𝐱𝐜𝐡𝐚𝐧𝐠𝐞 𝐎𝐧𝐥𝐢𝐧𝐞 𝐦𝐚𝐢𝐥𝐛𝐨𝐱 𝐪𝐮𝐚𝐫𝐚𝐧𝐭𝐢𝐧𝐞 𝐢𝐬𝐬𝐮𝐞\n\n📌 What happened: Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تعمل Microsoft على إصلاح مشكلة عزل صندوق بريد Exchange Online\n\n📌 وش اللي صار: تعمل Microsoft على حل مشكلة Exchange Online المستمرة التي كانت تقوم عن طريق الخطأ بعزل صناديق بريد العملاء منذ يوم الأحد.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "f359f550fade57a7",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-23T08:13:07+00:00",
-    "en_text": "🛡️ 𝐂𝐡𝐞𝐜𝐤 𝐏𝐨𝐢𝐧𝐭 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐒𝐦𝐚𝐫𝐭𝐂𝐨𝐧𝐬𝐨𝐥𝐞 𝐳𝐞𝐫𝐨-𝐝𝐚𝐲 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐢𝐧 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تحذر Check Point من استغلال SmartConsole لليوم صفر في الهجمات\n\n📌 وش اللي صار: عالجت شركة الأمن السيبراني الإسرائيلية Check Point Software ثغرة يوم الصفر التي تم استغلالها بشكل نشط في لوحة إدارة واجهة المستخدم الرسومية SmartConsole (GUI) الخاصة بالشركة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
