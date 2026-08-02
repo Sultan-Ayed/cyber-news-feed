@@ -1,5 +1,14 @@
 [
   {
+    "id": "b4f28f9ce09cd0f0",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-02T21:14:29+00:00",
+    "en_text": "🛡️ 𝐂𝐎𝐋𝐃𝐂𝐀𝐑𝐃 𝐰𝐚𝐥𝐥𝐞𝐭 𝐑𝐍𝐆 𝐟𝐥𝐚𝐰 𝐥𝐢𝐤𝐞𝐥𝐲 𝐥𝐢𝐧𝐤𝐞𝐝 𝐭𝐨 $𝟖𝟖 𝐦𝐢𝐥𝐥𝐢𝐨𝐧 𝐁𝐢𝐭𝐜𝐨𝐢𝐧 𝐭𝐡𝐞𝐟𝐭\n\n📌 What happened: A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ من المحتمل أن يكون خلل RNG في محفظة COLDCARD مرتبطًا بسرقة عملة بيتكوين بقيمة 88 مليون دولار\n\n📌 وش اللي صار: سمحت ثغرة أمنية في البرامج الثابتة لمحفظة أجهزة COLDCARD للمهاجمين بسرقة ما يقدر بنحو 88.6 مليون دولار من عملة البيتكوين من آلاف المحافظ التي تم إنشاء بذورها باستخدام مولد أرقام عشوائي معيب.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2273073f02d3d368",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-23T10:00:00+00:00",
     "en_text": "🛡️ 𝐍𝐞𝐰 𝐦𝐬𝐚𝐑𝐀𝐓 𝐦𝐚𝐥𝐰𝐚𝐫𝐞 𝐮𝐬𝐞𝐬 𝐂𝐡𝐫𝐨𝐦𝐞, 𝐄𝐝𝐠𝐞 𝐛𝐫𝐨𝐰𝐬𝐞𝐫𝐬 𝐭𝐨 𝐫𝐨𝐮𝐭𝐞 𝐂𝟐 𝐭𝐫𝐚𝐟𝐟𝐢𝐜\n\n📌 What happened: The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تستخدم البرمجيات الخبيثة msaRAT الجديدة متصفحات Chrome وEdge لتوجيه حركة مرور C2\n\n📌 وش اللي صار: تستخدم عصابة Chaos Ransomware بابًا خلفيًا جديدًا يُطلق عليه اسم msaRAT، والذي يخفي اتصال الأوامر والتحكم (C2) عن طريق توجيهه عبر متصفحات Chrome أو Edge.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "2997be36835bb253",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-23T09:20:10+00:00",
-    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐭𝐨 𝐟𝐢𝐱 𝐄𝐱𝐜𝐡𝐚𝐧𝐠𝐞 𝐎𝐧𝐥𝐢𝐧𝐞 𝐦𝐚𝐢𝐥𝐛𝐨𝐱 𝐪𝐮𝐚𝐫𝐚𝐧𝐭𝐢𝐧𝐞 𝐢𝐬𝐬𝐮𝐞\n\n📌 What happened: Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تعمل Microsoft على إصلاح مشكلة عزل صندوق بريد Exchange Online\n\n📌 وش اللي صار: تعمل Microsoft على حل مشكلة Exchange Online المستمرة التي كانت تقوم عن طريق الخطأ بعزل صناديق بريد العملاء منذ يوم الأحد.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
