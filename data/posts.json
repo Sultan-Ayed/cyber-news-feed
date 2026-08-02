@@ -1,5 +1,14 @@
 [
   {
+    "id": "2326aefff799847a",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-02T22:31:41+00:00",
+    "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐀𝐈 𝐭𝐞𝐚𝐬𝐞𝐬 𝐀𝐬𝐭𝐫𝐚, 𝐢𝐭𝐬 𝐧𝐞𝐱𝐭 𝐦𝐚𝐣𝐨𝐫 𝐀𝐈 𝐦𝐨𝐝𝐞𝐥, 𝐚𝐟𝐭𝐞𝐫 𝐢𝐭 𝐬𝐨𝐥𝐯𝐞𝐬 𝟏𝟎 𝐥𝐨𝐧𝐠-𝐬𝐭𝐚𝐧𝐝𝐢𝐧𝐠 𝐦𝐚𝐭𝐡 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬\n\n📌 What happened: OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تقوم OpenAI بالتشويق لـ Astra، نموذجها الرئيسي التالي للذكاء الاصطناعي، بعد أن قامت بحل 10 مسائل رياضية طويلة الأمد\n\n📌 وش اللي صار: كشفت OpenAI عن Astra، وهو نموذج لم يتم طرحه بعد مصمم للتعامل مع المهام المعقدة وطويلة الأمد، بعد أن أنتجت نسخة داخلية عشرة تطورات مهمة في الرياضيات وعلوم الكمبيوتر النظرية.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "b4f28f9ce09cd0f0",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-23T10:00:00+00:00",
     "en_text": "🛡️ 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐝𝐝𝐬 𝐒𝐞𝐥𝐟𝐢𝐞 𝐕𝐢𝐝𝐞𝐨 𝐑𝐞𝐜𝐨𝐯𝐞𝐫𝐲 𝐟𝐨𝐫 𝐔𝐬𝐞𝐫𝐬 𝐋𝐨𝐜𝐤𝐞𝐝 𝐎𝐮𝐭 𝐨𝐟 𝐓𝐡𝐞𝐢𝐫 𝐀𝐜𝐜𝐨𝐮𝐧𝐭𝐬\n\n📌 What happened: Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تضيف Google ميزة استرداد مقاطع الفيديو الشخصية للمستخدمين الذين تم حظر وصولهم إلى حساباتهم\n\n📌 وش اللي صار: أعلنت شركة جوجل يوم الخميس عن طريقة جديدة للمستخدمين لتسجيل الدخول إلى حساباتهم من خلال السماح لهم بالتقاط فيديو سيلفي.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "64a0279d0351d769",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-23T10:00:00+00:00",
-    "en_text": "🛡️ 𝐍𝐞𝐰 𝐦𝐬𝐚𝐑𝐀𝐓 𝐦𝐚𝐥𝐰𝐚𝐫𝐞 𝐮𝐬𝐞𝐬 𝐂𝐡𝐫𝐨𝐦𝐞, 𝐄𝐝𝐠𝐞 𝐛𝐫𝐨𝐰𝐬𝐞𝐫𝐬 𝐭𝐨 𝐫𝐨𝐮𝐭𝐞 𝐂𝟐 𝐭𝐫𝐚𝐟𝐟𝐢𝐜\n\n📌 What happened: The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تستخدم البرمجيات الخبيثة msaRAT الجديدة متصفحات Chrome وEdge لتوجيه حركة مرور C2\n\n📌 وش اللي صار: تستخدم عصابة Chaos Ransomware بابًا خلفيًا جديدًا يُطلق عليه اسم msaRAT، والذي يخفي اتصال الأوامر والتحكم (C2) عن طريق توجيهه عبر متصفحات Chrome أو Edge.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
