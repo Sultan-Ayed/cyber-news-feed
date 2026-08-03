@@ -1,5 +1,23 @@
 [
   {
+    "id": "f765a9e7adb05a6b",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38063499658fdf3d/6a70e89e220415e290089159/N_able_Ontario_Office-JHVEPhoto-GettyImages-2153902736.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-03T21:21:11+00:00",
+    "en_text": "🛡️ 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐍-𝐚𝐛𝐥𝐞 𝐏𝐚𝐭𝐜𝐡 𝐁𝐲𝐩𝐚𝐬𝐬 𝐅𝐥𝐚𝐰 𝐨𝐧 𝐑𝐌𝐌 𝐒𝐞𝐫𝐯𝐞𝐫𝐬\n\n📌 What happened: Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يستغل المهاجمون خطأ تجاوز التصحيح N-able على خوادم RMM\n\n📌 وش اللي صار: خلال عطلة نهاية الأسبوع، اكتشف البائع ناقلًا آخر لتجاوز المصادقة CVE-2026-18577 والذي يمنح المهاجمين وصول المسؤول.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "da93a0737eee5a16",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9546018118863fd/6a70ff2fbe6c657faa5a6e3b/GettyImages-1136317674.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-03T20:42:28+00:00",
+    "en_text": "🛡️ 𝐍𝐞𝐰 𝐓𝐨𝐨𝐥 𝐓𝐫𝐚𝐜𝐞𝐬 𝐀𝐈 𝐕𝐢𝐝𝐞𝐨𝐬 𝐁𝐚𝐜𝐤 𝐭𝐨 𝐓𝐡𝐞𝐢𝐫 𝐒𝐨𝐮𝐫𝐜𝐞\n\n📌 What happened: Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ أداة جديدة تتتبع مقاطع فيديو الذكاء الاصطناعي وتعود إلى مصدرها\n\n📌 وش اللي صار: لقد بحث الباحثون في جذور المشكلة بهدف تعزيز التعاون الصناعي لتحسين تدابير الحماية.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "1074e28188214862",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-23T20:14:35+00:00",
     "en_text": "🛡️ 𝐀𝐮𝐬𝐭𝐫𝐚𝐥𝐢𝐚𝐧 𝐞𝐧𝐞𝐫𝐠𝐲 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐫 𝐎𝐫𝐢𝐠𝐢𝐧 𝐬𝐚𝐲𝐬 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐞𝐱𝐩𝐨𝐬𝐞𝐬 𝐜𝐥𝐢𝐞𝐧𝐭 𝐝𝐚𝐭𝐚\n\n📌 What happened: Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يقول مزود الطاقة الأسترالي Origin إن خرق البيانات يكشف بيانات العميل\n\n📌 وش اللي صار: أكدت شركة Origin Energy أن طرفًا غير مصرح به وصل إلى بيانات العملاء عبر الإنترنت وقام بتسريبها لاحقًا، مما أدى إلى الكشف عن معلومات التعريف الشخصية الحساسة (PII)، من بين أمور أخرى.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "2cb10c32bd7a4272",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-23T19:48:30+00:00",
-    "en_text": "🛡️ 𝐅𝐚𝐤𝐞 𝐂𝐥𝐚𝐮𝐝𝐞 𝐚𝐩𝐩 𝐩𝐫𝐨𝐦𝐨𝐭𝐞𝐝 𝐛𝐲 𝐁𝐢𝐧𝐠 𝐚𝐝𝐬 𝐩𝐮𝐬𝐡𝐞𝐬 𝐒𝐞𝐜𝐭𝐨𝐩𝐑𝐀𝐓 𝐦𝐚𝐥𝐰𝐚𝐫𝐞\n\n📌 What happened: A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware.\n\n💡 Why it matters: Modern malware doesn't announce itself — it blends into normal traffic until the moment it needs to strike.\n\n✅ Quick tip: Only install software from official sources — 'free' cracked versions are one of the top malware delivery methods.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يدفع تطبيق Fake Claude الذي يتم الترويج له بواسطة إعلانات Bing البرامج الضارة لـ SectopRAT\n\n📌 وش اللي صار: تعمل حملة إعلانية ضارة على خدمة بحث Bing على دفع أداة تثبيت تطبيق سطح المكتب Claude المزيفة المستضافة على نطاق Claude.ai الشرعي لتقديم البرامج الضارة SectopRAT.\n\n💡 ليش هذا مهم: البرمجيات الخبيثة الحديثة ما تعلن عن نفسها، تندمج مع النشاط العادي للجهاز لين تجي لحظة الضربة.\n\n✅ نصيحة سريعة: ثبّت البرامج من مصادرها الرسمية بس — النسخ 'المجانية' المقرصنة من أكثر طرق توزيع البرمجيات الخبيثة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "5518fb6b7eb971cc",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzlA3Ln3fk8yzrfLwR9egB99u67BL7NlRui9XkKviyXhFmZ3sYVTF5laSjHTwyphN51YvL39R0irNNPn2hDpVcn6EFi_NmuuSH3XTS9I71aPdZvgZRTOxXczmyqbSkcpqSy2TgOzSSJ0RzAyeQA4YXED73kIChZFtiuZ1fIVzCFvDJK4bEJ5M6Sj-qPeI/s1600/zimbra-email.jpg",
-    "published_at": "2026-07-23T18:36:08+00:00",
-    "en_text": "🛡️ 𝐑𝐮𝐬𝐬𝐢𝐚𝐧 𝐄𝐬𝐩𝐢𝐨𝐧𝐚𝐠𝐞 𝐆𝐫𝐨𝐮𝐩 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐙𝐢𝐦𝐛𝐫𝐚 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐭𝐨 𝐒𝐭𝐞𝐚𝐥 𝐌𝐚𝐢𝐥 𝐚𝐧𝐝 𝟐𝐅𝐀 𝐂𝐨𝐝𝐞𝐬\n\n📌 What happened: A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/russian-espionage-group-exploited.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ استغلت مجموعة التجسس الروسية Zimbra Zero-Day لسرقة البريد ورموز المصادقة الثنائية (2FA).\n\n📌 وش اللي صار: أمضت مجموعة تجسس روسية مدعومة من الدولة أشهرًا في قراءة صناديق البريد الغربية من خلال ثغرة لم تكن معروفة في ذلك الوقت في عميل بريد الويب الخاص بـ Zimbra.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/russian-espionage-group-exploited.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
