@@ -1,5 +1,14 @@
 [
   {
+    "id": "d3d8e65b0f59a7a3",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-04T00:17:15+00:00",
+    "en_text": "🛡️ 𝐇𝐨𝐭𝐞𝐥 𝐖𝐢-𝐅𝐢 𝐚𝐭𝐭𝐚𝐜𝐤𝐬 𝐮𝐬𝐞 𝐜𝐮𝐬𝐭𝐨𝐦 𝐦𝐚𝐥𝐰𝐚𝐫𝐞 𝐭𝐨 𝐛𝐫𝐞𝐚𝐜𝐡 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝟑𝟔𝟓 𝐚𝐜𝐜𝐨𝐮𝐧𝐭𝐬\n\n📌 What happened: Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تستخدم هجمات Wi-Fi في الفنادق برامج ضارة مخصصة لاختراق حسابات Microsoft 365\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "3356ba58fa21399b",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
@@ -88,6 +97,15 @@
     "published_at": "2026-08-03T16:15:13+00:00",
     "en_text": "🛡️ 𝐈𝐍𝐂 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐄𝐦𝐞𝐫𝐠𝐞𝐬 𝐚𝐬 𝐃𝐨𝐦𝐢𝐧𝐚𝐧𝐭 𝐀𝐜𝐭𝐨𝐫 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐢𝐧𝐠 𝐒𝐨𝐧𝐢𝐜𝐖𝐚𝐥𝐥 𝐒𝐌𝐀 𝟏𝟎𝟎𝟎 𝐅𝐥𝐚𝐰𝐬\n\n📌 What happened: The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ INC Ransomware تظهر كجهة مهيمنة تستغل عيوب SonicWall SMA 1000\n\n📌 وش اللي صار: برزت عملية INC Ransomware باعتبارها \"ممثل التهديد المهيمن\" الذي يستغل الثغرات الأمنية التي تم الكشف عنها مؤخرًا في أجهزة VPN من سلسلة SonicWall Secure Mobile Access (SMA) 1000.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "506af16cb0e064d4",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b326661c25a73c5/6a70f5e542103f14fb72de26/aiagents-wildpixel-Getty-1499492092.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-03T15:42:18+00:00",
+    "en_text": "🛡️ 𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐀𝐜𝐭𝐨𝐫 𝐖𝐞𝐚𝐩𝐨𝐧𝐢𝐳𝐞𝐬 𝐃𝐞𝐞𝐩𝐬𝐞𝐞𝐤 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭 𝐭𝐨 𝐀𝐭𝐭𝐚𝐜𝐤 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐅𝐢𝐫𝐦\n\n📌 What happened: Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: اعترض الباحثون النموذج وحققوا فيه، والذي كان يحاول اختراق أكثر من 1200 مضيف من أجل سرقة البروكسي لشن المزيد من الهجمات.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "a15b4f3614497933",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-24T06:50:57+00:00",
     "en_text": "🛡️ 𝐅𝐚𝐤𝐞 𝐍𝐨𝐭𝐞𝐩𝐚𝐝++ 𝐏𝐥𝐮𝐠𝐢𝐧 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐬 𝐌𝐀𝐓𝐂𝐇𝐁𝐎𝐈𝐋.𝐕𝟐 𝐢𝐧 𝐔𝐀𝐂-𝟎𝟎𝟗𝟗 𝐀𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يوفر البرنامج الإضافي Fake Notepad ++ MATCHBOIL.V2 في هجمات UAC-0099\n\n📌 وش اللي صار: حذر فريق الاستجابة لطوارئ الكمبيوتر في أوكرانيا (CERT-UA) من حملة جديدة تتضمن استخدام برنامج ضار يرتدي زي برنامج Notepad ++ الإضافي لاختراق أنظمة Windows.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "c022636a9ec2a180",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-24T05:52:31+00:00",
-    "en_text": "🛡️ 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡 𝐂𝐨𝐧𝐟𝐢𝐫𝐦𝐞𝐝 𝐀𝐟𝐭𝐞𝐫 𝐀𝐮𝐬𝐭𝐫𝐚𝐥𝐢𝐚𝐧 𝐄𝐧𝐞𝐫𝐠𝐲 𝐆𝐢𝐚𝐧𝐭 𝐎𝐫𝐢𝐠𝐢𝐧 𝐈𝐬 𝐇𝐚𝐜𝐤𝐞𝐝\n\n📌 What happened: A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تم تأكيد خرق البيانات بعد اختراق شركة الطاقة الأسترالية العملاقة\n\n📌 وش اللي صار: يدعي أحد المتسللين أنه سرق معلومات مليوني عميل من عملاء Origin Energy ويهدد بتسريبها.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "47dd838936283eaf",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta778b4705951b9ec/6a6271d8e9fe84f275c977a7/russianhackers_Anton_Petrus-Getty-2027926930.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-23T21:23:18+00:00",
-    "en_text": "🛡️ 𝐑𝐮𝐬𝐬𝐢𝐚𝐧 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐙𝐢𝐦𝐛𝐫𝐚 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐀𝐠𝐚𝐢𝐧𝐬𝐭 𝐔𝐒, 𝐔𝐤𝐫𝐚𝐢𝐧𝐞 𝐓𝐚𝐫𝐠𝐞𝐭𝐬\n\n📌 What happened: A state-sponsored threat group, dubbed \"Laundry Bear,\" sends \"half-click\" phishing emails that require a victim only to open or preview the message.\n\n💡 Why it matters: The weakest link is rarely the technology — it's the split second someone trusts a message that looks routine.\n\n✅ Quick tip: Enable phishing-resistant MFA (like passkeys) wherever you can; a stolen password alone shouldn't be enough.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ قراصنة روس يستغلون Zimbra Zero-Day ضد أهداف الولايات المتحدة وأوكرانيا\n\n📌 وش اللي صار: تقوم مجموعة تهديد ترعاها الدولة، يطلق عليها اسم \"Laundry Bear\"، بإرسال رسائل بريد إلكتروني تصيدية \"بنقرة نصف\" والتي تتطلب من الضحية فقط فتح الرسالة أو معاينتها.\n\n💡 ليش هذا مهم: أضعف حلقة نادرًا ما تكون التقنية، هي لحظة يثق فيها شخص برسالة تبدو عادية.\n\n✅ نصيحة سريعة: فعّل مصادقة ثنائية مقاومة للتصيد (زي مفاتيح المرور) كل ما قدرت، لأن كلمة المرور المسروقة لحالها ما لازم تكفي.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
