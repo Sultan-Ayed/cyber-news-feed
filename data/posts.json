@@ -1,5 +1,23 @@
 [
   {
+    "id": "2efc51fb7134378b",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-05T07:24:52+00:00",
+    "en_text": "🛡️ 𝐖𝐚𝐭𝐞𝐫 𝐒𝐞𝐜𝐭𝐨𝐫 𝐂𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤𝐬 𝐑𝐞𝐩𝐨𝐫𝐭𝐞𝐝𝐥𝐲 𝐇𝐢𝐭 𝐚𝐭 𝐋𝐞𝐚𝐬𝐭 𝟏𝟐 𝐒𝐭𝐚𝐭𝐞𝐬\n\n📌 What happened: Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ أفادت التقارير أن الهجمات الإلكترونية في قطاع المياه ضربت 12 ولاية على الأقل\n\n📌 وش اللي صار: تم تأكيد أن جورجيا إحدى الولايات التي تعرضت للهجوم بعد أن أبلغت مقاطعة كلايتون عن تعطل محطة الضخ.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "81a8a88680d37b17",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFQzlCdxoVUtdNgowwmPFaISlBF7Y2HsG1BQf3b-UJDQzRbPB249_W6rwU_-TSW1NES4OI-12R1z3tXQ-QlZv8cEaagpyLJVYz48Etb9W0MtuNp9BTL_13-5Wg95kz-Ey5iZ288mTkPt_5pbsxoh7Kv2KrmHqj_Tqb0KR9NSzz-jO2DuoTLthh6Dn3FUIh/s1600/quick.jpg",
+    "published_at": "2026-08-05T05:47:19+00:00",
+    "en_text": "🛡️ 𝐐𝐮𝐢𝐜𝐤𝐅𝐨𝐱 𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐬 𝐅𝐃𝐌𝐓𝐏 𝐁𝐚𝐜𝐤𝐝𝐨𝐨𝐫 𝐯𝐢𝐚 𝐓𝐫𝐨𝐣𝐚𝐧𝐢𝐳𝐞𝐝 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐞𝐫\n\n📌 What happened: Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يوفر QuickFox Supply Chain Attack بابًا خلفيًا لـ FDMTP عبر برنامج تثبيت Windows Trojanized\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "ab3159d443b1d305",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-24T19:09:09+00:00",
     "en_text": "🛡️ 𝐇𝐞𝐫𝐦𝐞𝐬 𝐀𝐈 𝐚𝐠𝐞𝐧𝐭 𝐮𝐬𝐞𝐝 𝐭𝐨 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐞 𝐚𝐭𝐭𝐚𝐜𝐤 𝐨𝐧 𝐓𝐡𝐚𝐢 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐌𝐢𝐧𝐢𝐬𝐭𝐫𝐲\n\n📌 What happened: A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تم استخدام عميل Hermes AI لأتمتة الهجوم على وزارة المالية التايلاندية\n\n📌 وش اللي صار: استخدم أحد ممثلي التهديد وكيل Hermes AI مفتوح المصدر في وضع \"YOLO\" غير المراقب لأتمتة نشاط ما بعد الاستغلال أثناء الانتهاك المزعوم لوزارة المالية التايلاندية.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "bc184f0aa3d15eec",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-24T17:50:37+00:00",
-    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐡𝐢𝐣𝐚𝐜𝐤 𝐡𝐨𝐭𝐞𝐥 𝐖𝐢-𝐅𝐢 𝐃𝐍𝐒 𝐭𝐨 𝐬𝐭𝐞𝐚𝐥 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝟑𝟔𝟓 𝐚𝐜𝐜𝐨𝐮𝐧𝐭𝐬\n\n📌 What happened: Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يقوم المتسللون باختطاف DNS الخاص بشبكة Wi-Fi بالفندق لسرقة حسابات Microsoft 365\n\n📌 وش اللي صار: يقوم المتسللون بتغيير إعدادات DNS على أجهزة Wi-Fi في الفنادق ومراكز المؤتمرات لإعادة توجيه المستخدمين إلى صفحات تسجيل دخول Microsoft 365 المزيفة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "bc12474a9a3abb0e",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-24T15:41:44+00:00",
-    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐛𝐥𝐚𝐦𝐞𝐬 𝐦𝐚𝐬𝐬𝐢𝐯𝐞 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝟑𝟔𝟓 𝐨𝐮𝐭𝐚𝐠𝐞 𝐨𝐧 𝐦𝐚𝐢𝐧𝐭𝐞𝐧𝐚𝐧𝐜𝐞 𝐛𝐮𝐠\n\n📌 What happened: Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تلوم Microsoft الانقطاع الهائل في Microsoft 365 على خطأ في الصيانة\n\n📌 وش اللي صار: تقول Microsoft إن خطأً في نظام طلب صيانة الشبكة الآلي الخاص بها تسبب في انقطاع كبير يوم الخميس عن طريق إزالة مسارات IP عن طريق الخطأ من أجهزة أكثر مما هو مقصود، مما أدى إلى تعطيل خدمات Azure وMicrosoft 365.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
