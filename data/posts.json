@@ -1,5 +1,14 @@
 [
   {
+    "id": "1d247e0f8135d3d3",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-05T21:53:26+00:00",
+    "en_text": "🛡️ 𝐂𝐚𝐧𝐚𝐝𝐢𝐚𝐧 𝐩𝐥𝐞𝐚𝐝𝐬 𝐠𝐮𝐢𝐥𝐭𝐲 𝐭𝐨 𝐒𝐧𝐨𝐰𝐟𝐥𝐚𝐤𝐞 𝐜𝐥𝐨𝐮𝐝 𝐝𝐚𝐭𝐚-𝐭𝐡𝐞𝐟𝐭 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الكندي يعترف بأنه مذنب في هجمات سرقة البيانات السحابية Snowflake\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "167589835478151c",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
@@ -16,6 +25,15 @@
     "published_at": "2026-08-05T19:47:55+00:00",
     "en_text": "🛡️ 𝐂𝐒𝐒: 𝐓𝐡𝐞 𝐇𝐢𝐝𝐝𝐞𝐧 𝐓𝐡𝐫𝐞𝐚𝐭 𝐋𝐮𝐫𝐤𝐢𝐧𝐠 𝐢𝐧 𝐘𝐨𝐮𝐫 𝐈𝐧𝐛𝐨𝐱\n\n📌 What happened: CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail — and some vendors aren't prepared.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ CSS: التهديد الخفي الكامن في صندوق الوارد الخاص بك\n\n📌 وش اللي صار: كان CSS في السابق يتعلق بالتصميم فقط. والآن يحذر الباحثون من أن هذه الأداة قوية بما يكفي لسحب البيانات من بريد الويب، ولكن بعض البائعين غير مستعدين لذلك.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "e29be7d49e1e22b5",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2fe24d92049f2e32/6a7377e7b9c69a38aff6fae8/Router-Yevhenii_Orlov-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-05T19:08:36+00:00",
+    "en_text": "🛡️ 𝟏𝟓 𝐓𝐏-𝐋𝐢𝐧𝐤 𝐁𝐮𝐠𝐬 𝐄𝐱𝐩𝐨𝐬𝐞 𝐑𝐢𝐬𝐤𝐬 𝐢𝐧 𝐙𝐞𝐫𝐨-𝐓𝐫𝐮𝐬𝐭 𝐏𝐫𝐨𝐯𝐢𝐬𝐢𝐨𝐧𝐢𝐧𝐠\n\n📌 What happened: Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ 15 خطأ في TP-Link يكشف المخاطر في توفير الثقة المعدومة\n\n📌 وش اللي صار: يلفت الباحثون الانتباه إلى المخاطر الكامنة في توفير أجهزة الشبكة الآلية، وذلك باستخدام شركة تصنيع الأجهزة الرائدة عالميًا كدراسة حالة.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "f35a2396c40124f8",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-27T13:05:15+00:00",
     "en_text": "🛡️ 𝐧𝟖𝐧 𝐒𝐚𝐧𝐝𝐛𝐨𝐱 𝐄𝐬𝐜𝐚𝐩𝐞 𝐋𝐞𝐭𝐬 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰 𝐄𝐝𝐢𝐭𝐨𝐫𝐬 𝐑𝐮𝐧 𝐎𝐒 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐬 𝐭𝐡𝐞 𝐧𝟖𝐧 𝐏𝐫𝐨𝐜𝐞𝐬𝐬\n\n📌 What happened: n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يتيح n8n Sandbox Escape لمحرري سير العمل تشغيل أوامر نظام التشغيل كعملية n8n\n\n📌 وش اللي صار: قام n8n بتصحيح هروب عالي الخطورة من وضع الحماية للتعبير والذي قد يسمح لمحرر سير العمل المعتمد بتنفيذ أوامر نظام التشغيل على الخادم الذي يقوم بتشغيل منصة التشغيل الآلي.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "3e98a5e938668834",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ69OB4Ww_Yj5rfCn7WOwEue0i4sxEuvzaqGj1v71E-W52Q6DDfFRKpesydsd2bD9_QQVghes677fGD0S-PJpJQOz10JYs_NV6wv5peadJtT-dbxFzl7eMqaavlrBl0OfePVtGIm9WvI-rEAAUcDqdFdYcBF6ByDv4iPSCzLZgbuzg0Nb-ASL0uzTb90Ag/s1600/teams-malware.jpg",
-    "published_at": "2026-07-27T12:37:49+00:00",
-    "en_text": "🛡️ 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐁𝐥𝐮𝐞𝐃𝐚𝐬𝐡 𝐃𝐞𝐩𝐥𝐨𝐲𝐬 𝐋𝐞𝐯𝐞𝐥 𝐑𝐌𝐌 𝐚𝐧𝐝 𝐒𝐜𝐫𝐞𝐞𝐧𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐯𝐢𝐚 𝐅𝐚𝐤𝐞 𝐓𝐞𝐚𝐦𝐬 𝐔𝐩𝐝𝐚𝐭𝐞\n\n📌 What happened: Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تقوم عملية BlueDash بنشر مستوى RMM وScreenConnect عبر تحديث الفرق المزيفة\n\n📌 وش اللي صار: قام باحثو الأمن السيبراني بوضع علامة على حملة تصيد احتيالي تحت عنوان Microsoft Teams تستخدم إغراءات \"المستند الآمن\" لتقديم أدوات شرعية للمراقبة والإدارة عن بعد (RMM).\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "7c7cdda876d9d947",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBorVFXLroQ9D9Ao8QPsDAQpmoMeD2ciyHIBw3YYRHLBLAeDIjFZ6V9lzrrtmNq3KrIRqHhJUfKAx2sXIsMYCjyFzRV9awIVSLOuujkMY8hOeUkaNlFgM421aS8pVQaiLmjwKcNNLy5TcU389YEAPfCnB8uVeFtUY9BCJ0lz4IjQoD2UZp9pVDP7IzLurf/s1600/malware-hacker.jpg",
-    "published_at": "2026-07-27T10:51:45+00:00",
-    "en_text": "🛡️ 𝐂𝐫𝐮𝐜𝐢𝐟𝐞𝐫𝐫𝐚 𝐂𝐫𝐲𝐩𝐭𝐞𝐫 𝐔𝐬𝐞𝐬 𝐁𝐘𝐎𝐕𝐃 𝐚𝐧𝐝 𝐏𝐫𝐨𝐜𝐞𝐬𝐬 𝐆𝐡𝐨𝐬𝐭𝐢𝐧𝐠 𝐭𝐨 𝐇𝐢𝐝𝐞 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐌𝐚𝐥𝐰𝐚𝐫𝐞\n\n📌 What happened: The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra.\n\n💡 Why it matters: The weakest link is rarely the technology — it's the split second someone trusts a message that looks routine.\n\n✅ Quick tip: Enable phishing-resistant MFA (like passkeys) wherever you can; a stolen password alone shouldn't be enough.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يستخدم Cruciferra Crypter BYOVD وProcess Ghosting لإخفاء البرامج الضارة لنظام Windows\n\n📌 وش اللي صار: تمت ملاحظة مجموعة الجرائم الإلكترونية المرتبطة بالصين والتي تقف وراء استخدام إغراءات التصيد الاحتيالي المتعلقة بضريبة الدخل والتي تستهدف دافعي الضرائب الهنود ومحترفي الضرائب وفرق تمويل الشركات باستخدام خدمة تشفير متطورة تسمى Cruciferra.\n\n💡 ليش هذا مهم: أضعف حلقة نادرًا ما تكون التقنية، هي لحظة يثق فيها شخص برسالة تبدو عادية.\n\n✅ نصيحة سريعة: فعّل مصادقة ثنائية مقاومة للتصيد (زي مفاتيح المرور) كل ما قدرت، لأن كلمة المرور المسروقة لحالها ما لازم تكفي.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
