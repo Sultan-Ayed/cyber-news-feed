@@ -1,5 +1,23 @@
 [
   {
+    "id": "167589835478151c",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-05T19:55:25+00:00",
+    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐫𝐮𝐧 𝐤𝐡𝐮𝐧𝐭 𝐩𝐨𝐬𝐭-𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐚𝐭𝐢𝐨𝐧 𝐭𝐨𝐨𝐥𝐤𝐢𝐭 𝐟𝐫𝐨𝐦 𝐎𝐫𝐚𝐜𝐥𝐞 𝐝𝐚𝐭𝐚𝐛𝐚𝐬𝐞\n\n📌 What happened: Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يقوم المتسللون بتشغيل مجموعة أدوات khunt لما بعد الاستغلال من قاعدة بيانات Oracle\n\n📌 وش اللي صار: استغل المتسللون ثغرة أمنية في حقن SQL لتثبيت مجموعة أدوات ما بعد الاستغلال مباشرة داخل قاعدة بيانات Oracle التي تم استخدامها لاختراق شبكة الشركة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "fd8aaf9651bd0551",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteab809ef662786f0/6a72695ca3f8037e14ce6b0b/email1800_alubalish_GettyImages-184320446.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-05T19:47:55+00:00",
+    "en_text": "🛡️ 𝐂𝐒𝐒: 𝐓𝐡𝐞 𝐇𝐢𝐝𝐝𝐞𝐧 𝐓𝐡𝐫𝐞𝐚𝐭 𝐋𝐮𝐫𝐤𝐢𝐧𝐠 𝐢𝐧 𝐘𝐨𝐮𝐫 𝐈𝐧𝐛𝐨𝐱\n\n📌 What happened: CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail — and some vendors aren't prepared.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ CSS: التهديد الخفي الكامن في صندوق الوارد الخاص بك\n\n📌 وش اللي صار: كان CSS في السابق يتعلق بالتصميم فقط. والآن يحذر الباحثون من أن هذه الأداة قوية بما يكفي لسحب البيانات من بريد الويب، ولكن بعض البائعين غير مستعدين لذلك.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "f35a2396c40124f8",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-27T10:51:45+00:00",
     "en_text": "🛡️ 𝐂𝐫𝐮𝐜𝐢𝐟𝐞𝐫𝐫𝐚 𝐂𝐫𝐲𝐩𝐭𝐞𝐫 𝐔𝐬𝐞𝐬 𝐁𝐘𝐎𝐕𝐃 𝐚𝐧𝐝 𝐏𝐫𝐨𝐜𝐞𝐬𝐬 𝐆𝐡𝐨𝐬𝐭𝐢𝐧𝐠 𝐭𝐨 𝐇𝐢𝐝𝐞 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐌𝐚𝐥𝐰𝐚𝐫𝐞\n\n📌 What happened: The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra.\n\n💡 Why it matters: The weakest link is rarely the technology — it's the split second someone trusts a message that looks routine.\n\n✅ Quick tip: Enable phishing-resistant MFA (like passkeys) wherever you can; a stolen password alone shouldn't be enough.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يستخدم Cruciferra Crypter BYOVD وProcess Ghosting لإخفاء البرامج الضارة لنظام Windows\n\n📌 وش اللي صار: تمت ملاحظة مجموعة الجرائم الإلكترونية المرتبطة بالصين والتي تقف وراء استخدام إغراءات التصيد الاحتيالي المتعلقة بضريبة الدخل والتي تستهدف دافعي الضرائب الهنود ومحترفي الضرائب وفرق تمويل الشركات باستخدام خدمة تشفير متطورة تسمى Cruciferra.\n\n💡 ليش هذا مهم: أضعف حلقة نادرًا ما تكون التقنية، هي لحظة يثق فيها شخص برسالة تبدو عادية.\n\n✅ نصيحة سريعة: فعّل مصادقة ثنائية مقاومة للتصيد (زي مفاتيح المرور) كل ما قدرت، لأن كلمة المرور المسروقة لحالها ما لازم تكفي.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "e5e6a527b664ed39",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuWOQRYm6WQ1zHmOlYkI7jlVOUUKGBIlo68iWyUVuaZ5n3i7ODu8DYpntAk2aGZQ_7LsYpXpp5v0PcQMLxP8LQOajtKl-WaDBb7_wDpo8P3-iCcAwr74JY4rXNeHJJv9h6EB447wPEnrZE08YfDO_WI9N4B_C1lPvxILfvv00Z_J8yHntLSfNYbPVCDjS/s1600/telegram-c2.jpg",
-    "published_at": "2026-07-27T08:48:47+00:00",
-    "en_text": "🛡️ 𝐓𝐄𝐋𝐄𝐒𝐇𝐈𝐌 𝐀𝐛𝐮𝐬𝐞𝐬 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐟𝐨𝐫 𝐂𝟐 𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐀𝐠𝐚𝐢𝐧𝐬𝐭 𝐌𝐢𝐝𝐝𝐥𝐞 𝐄𝐚𝐬𝐭 𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭𝐬\n\n📌 What happened: Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ TELESHIM تسيء استخدام Telegram لـ C2 في هجمات ضد حكومات الشرق الأوسط\n\n📌 وش اللي صار: أبلغ باحثو الأمن السيبراني عن نشاط إلكتروني خبيث جديد من قبل جهة تهديد لها علاقات بشرق آسيا تستهدف الكيانات الحكومية في الشرق الأوسط.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "c2fbf638a7b054d5",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpE4BZgV3wILI8fonm9742zR85yLmBdM2ExXv-uTUS1StV04ZlNVVIwV6FjjhYLZUAFk-DAIInwp3mlXa2W2xekDA_EqSl1UiHrKCgocsjhVAKlvCD48QnlVdUdCIQia7T4ilS65ZFptdi_wox0Q9brVTdpoqDNTvpCjg0D6BslyCAPRzY7QMyUoYNkv-/s1600/gitbot.jpg",
-    "published_at": "2026-07-27T08:01:23+00:00",
-    "en_text": "🛡️ 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐝𝐝𝐬 𝟑-𝐃𝐚𝐲 𝐃𝐞𝐩𝐞𝐧𝐝𝐚𝐛𝐨𝐭 𝐂𝐨𝐨𝐥𝐝𝐨𝐰𝐧 𝐭𝐨 𝐋𝐢𝐦𝐢𝐭 𝐏𝐨𝐢𝐬𝐨𝐧𝐞𝐝 𝐏𝐚𝐜𝐤𝐚𝐠𝐞 𝐀𝐝𝐨𝐩𝐭𝐢𝐨𝐧\n\n📌 What happened: GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يضيف GitHub فترة انتظار Dependabot مدتها 3 أيام للحد من اعتماد الحزمة المسمومة\n\n📌 وش اللي صار: أعلن GitHub عن آلية تبريد جديدة في Dependabot، مما يسمح للأداة بالانتظار لمدة ثلاثة أيام على الأقل بعد نشر الإصدار قبل فتح طلب السحب.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
