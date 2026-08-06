@@ -1,5 +1,23 @@
 [
   {
+    "id": "96ec203c7324f913",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d5bbb76a9a7ed2b/6a73baa39adea75f0c6c4181/fraud-RapidEye-Getty-155132055.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-05T23:35:28+00:00",
+    "en_text": "🛡️ 𝐀𝐈 𝐒𝐞𝐧𝐝𝐬 𝐆𝐥𝐨𝐛𝐚𝐥 𝐂𝐫𝐢𝐦𝐞 𝐒𝐲𝐧𝐝𝐢𝐜𝐚𝐭𝐞𝐬 𝐈𝐧𝐭𝐨 𝐅𝐫𝐚𝐮𝐝 𝐍𝐢𝐫𝐯𝐚𝐧𝐚\n\n📌 What happened: Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الذكاء الاصطناعي يرسل عصابات الجريمة العالمية إلى نيرفانا الاحتيال\n\n📌 وش اللي صار: تقوم الجريمة المنظمة بعمليات احتيال على نطاق واسع بشكل مقنع، مما يكسب المليارات بفضل استنساخ الصوت المدعوم بالذكاء الاصطناعي، وتراكبات الفيديو العميقة في الوقت الفعلي، وإدارة الشخصيات المستندة إلى LLM، والترجمة الآلية.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "0426f429b00fdb6e",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-05T23:00:50+00:00",
+    "en_text": "🛡️ 𝐑𝐚𝐧𝐬𝐨𝐦 𝐂𝐚𝐫𝐭𝐞𝐥 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐜𝐫𝐞𝐚𝐭𝐨𝐫 𝐬𝐞𝐧𝐭𝐞𝐧𝐜𝐞𝐝 𝐭𝐨 𝟏𝟔 𝐲𝐞𝐚𝐫𝐬 𝐢𝐧 𝐩𝐫𝐢𝐬𝐨𝐧\n\n📌 What happened: Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الحكم على منشئ برامج الفدية Ransom Cartel بالسجن لمدة 16 عامًا\n\n📌 وش اللي صار: حُكم على ماكسيم سيلنيكاو، مبتكر ومدير عملية Ransom Cartel Ransomware، بالسجن لمدة 16 عامًا لدوره في هجمات برامج الفدية ضد ما لا يقل عن 18 شركة حول العالم.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "1d247e0f8135d3d3",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-27T14:10:54+00:00",
     "en_text": "🛡️ ⚡ 𝐖𝐞𝐞𝐤𝐥𝐲 𝐑𝐞𝐜𝐚𝐩: 𝐑𝐨𝐠𝐮𝐞 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬, 𝐂𝐡𝐞𝐜𝐤 𝐏𝐨𝐢𝐧𝐭 𝐄𝐱𝐩𝐥𝐨𝐢𝐭, 𝐒𝐥𝐨𝐩𝐬𝐪𝐮𝐚𝐭𝐭𝐢𝐧𝐠, 𝐂𝐥𝐢𝐜𝐤𝐅𝐢𝐱 𝐋𝐮𝐫𝐞𝐬 𝐚𝐧𝐝 𝐌𝐨𝐫𝐞\n\n📌 What happened: Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ ⚡ ملخص أسبوعي: عملاء الذكاء الاصطناعي المارقون، واستغلال نقطة التفتيش، والسكواتينج، وإغراءات ClickFix والمزيد\n\n📌 وش اللي صار: يبدأ يوم الاثنين بالوعد المعتاد بأن كل شيء تحت السيطرة. ثم تستيقظ السجلات. هذا الأسبوع، تجاوزت الأدوات الموثوقة الخطوط، وتم اكتشاف عيوب قديمة، وظلت الأنظمة المكشوفة مكشوفة، وظل المهاجمون يختبئون داخل الخدمات ذات المظهر العادي.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "8cf0bb9ecf31a414",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-27T14:01:11+00:00",
-    "en_text": "🛡️ 𝐒𝐡𝐚𝐝𝐨𝐰 𝐀𝐈 𝐚𝐠𝐞𝐧𝐭𝐬 𝐚𝐫𝐞 𝐦𝐮𝐥𝐭𝐢𝐩𝐥𝐲𝐢𝐧𝐠. 𝐇𝐞𝐫𝐞'𝐬 𝐡𝐨𝐰 𝐭𝐨 𝐟𝐢𝐧𝐝 𝐚𝐧𝐝 𝐬𝐞𝐜𝐮𝐫𝐞 𝐭𝐡𝐞𝐦.\n\n📌 What happened: Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ وكلاء الظل AI يتضاعفون. وإليك كيفية العثور عليها وتأمينها.\n\n📌 وش اللي صار: ينتشر وكلاء الظل للذكاء الاصطناعي بسرعة عبر الأنظمة الأساسية للمؤسسات، وغالبًا ما يكون ذلك بدون رؤية تكنولوجيا المعلومات أو الرؤية الأمنية.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "a95dd26365a570d9",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeKRvflcncQ0UoJ9jitnqLM9fezomqM-liKMmU5fccI5_lOaWwgmRYtpHiYQinkYD1fRUCH-wksW6bq8rWMMbKj3cdvaQ-GhA_CcUvcxCnZuzdkadQkIjZUUkVXawqqUZyYkvKO4Rg7IAmCNTBB6Ivu6yKYhBEegL68JmRFb9HimU1CKg2QyQByo8a0MQ/s1600/sandbox-flaw-n8n.jpg",
-    "published_at": "2026-07-27T13:05:15+00:00",
-    "en_text": "🛡️ 𝐧𝟖𝐧 𝐒𝐚𝐧𝐝𝐛𝐨𝐱 𝐄𝐬𝐜𝐚𝐩𝐞 𝐋𝐞𝐭𝐬 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰 𝐄𝐝𝐢𝐭𝐨𝐫𝐬 𝐑𝐮𝐧 𝐎𝐒 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐬 𝐭𝐡𝐞 𝐧𝟖𝐧 𝐏𝐫𝐨𝐜𝐞𝐬𝐬\n\n📌 What happened: n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يتيح n8n Sandbox Escape لمحرري سير العمل تشغيل أوامر نظام التشغيل كعملية n8n\n\n📌 وش اللي صار: قام n8n بتصحيح هروب عالي الخطورة من وضع الحماية للتعبير والذي قد يسمح لمحرر سير العمل المعتمد بتنفيذ أوامر نظام التشغيل على الخادم الذي يقوم بتشغيل منصة التشغيل الآلي.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
