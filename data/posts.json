@@ -1,5 +1,14 @@
 [
   {
+    "id": "5dba717354aa685d",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-07T06:56:56+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐏𝐚𝐭𝐜𝐡𝐞𝐝 𝐖𝐢𝐭𝐡 𝐂𝐡𝐫𝐨𝐦𝐞 𝟏𝟓𝟏 𝐔𝐩𝐝𝐚𝐭𝐞\n\n📌 What happened: The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم تصحيح الثغرات الأمنية الحرجة بتحديث Chrome 151\n\n📌 وش اللي صار: يعمل تحديث المتصفح على التخلص من أكثر من عشرين خطأ يتعلق بسلامة الذاكرة، بما في ذلك العيوب الحرجة المتعلقة بالاستخدام بعد الاستخدام المجاني.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "93054e5b9f14edf5",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
@@ -117,6 +126,15 @@
     "ar_text": "🛡️ ThreatsDay: Odysseus RCE، وSamsung بنقرة واحدة، وiCloud Backdoor Fight، + 27 قصة أخرى\n\n📌 وش اللي صار: على ما يبدو، فتح الشيء الآن يكفي. يمكن تشغيل الريبو قبل المطالبة الأولى، ويمكن أن تختبئ الحزمة بين المئات، ويمكن لملف PDF ذو مظهر غير ضار إنهاء المهمة.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "4f0c336410c07297",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-06T14:56:31+00:00",
+    "en_text": "🛡️ 𝐒𝐧𝐨𝐰𝐟𝐥𝐚𝐤𝐞 𝐇𝐚𝐜𝐤𝐞𝐫 𝐏𝐥𝐞𝐚𝐝𝐬 𝐆𝐮𝐢𝐥𝐭𝐲 𝐢𝐧 𝐔𝐒 𝐂𝐨𝐮𝐫𝐭\n\n📌 What happened: Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ أقر هاكر Snowflake بأنه مذنب في محكمة أمريكية\n\n📌 وش اللي صار: تم تسليم كونور رايلي موكا إلى الولايات المتحدة في يوليو 2025 بعد اعتقاله في كندا.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "ce1efd08d0461e03",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
@@ -124,6 +142,15 @@
     "published_at": "2026-08-06T14:02:12+00:00",
     "en_text": "🛡️ 𝐇𝐨𝐰 𝐀𝐈 𝐄𝐱𝐩𝐨𝐬𝐞𝐝 𝐚 𝐁𝐫𝐨𝐰𝐬𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐆𝐚𝐩 𝐭𝐡𝐚𝐭 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞𝐬 𝐂𝐚𝐧𝐧𝐨𝐭 𝐈𝐠𝐧𝐨𝐫𝐞\n\n📌 What happened: AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI interactions, and modern work.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ كيف كشف الذكاء الاصطناعي عن ثغرة أمنية في المتصفح لا يمكن للمؤسسات تجاهلها\n\n📌 وش اللي صار: لم يخلق الذكاء الاصطناعي مشكلة أمنية جديدة للمتصفح. لقد كشفت عن مشكلة كانت الشركات قادرة على تجاهلها منذ فترة طويلة. يشرح Skyhigh Security لماذا أصبحت المتصفحات نقطة تحكم مهمة للتحكم في حركة البيانات وتفاعلات الذكاء الاصطناعي والعمل الحديث.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "9af1639880b200a8",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-06T12:54:09+00:00",
+    "en_text": "🛡️ 𝐙𝐞𝐫𝐨-𝐂𝐥𝐢𝐜𝐤 𝐀𝐈 𝐁𝐫𝐨𝐰𝐬𝐞𝐫 𝐇𝐚𝐜𝐤𝐢𝐧𝐠: 𝐂𝐥𝐚𝐮𝐝𝐞 𝐚𝐧𝐝 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐀𝐭𝐥𝐚𝐬 𝐇𝐢𝐣𝐚𝐜𝐤𝐞𝐝 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥𝐬, 𝐗 𝐏𝐨𝐬𝐭𝐬\n\n📌 What happened: Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ اختراق متصفح الذكاء الاصطناعي بنقرة زر واحدة: اختراق Claude وChatGPT Atlas عبر رسائل البريد الإلكتروني وX Posts\n\n📌 وش اللي صار: أبلغ باحثو Zenity النتائج إلى Anthropic وOpenAI في أواخر عام 2025 وأوائل عام 2026، لكنها ظلت دون تصحيح.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "5ebab680430f16a7",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-07-28T18:08:50+00:00",
     "en_text": "🛡️ 𝐯𝐁𝐮𝐥𝐥𝐞𝐭𝐢𝐧 𝐟𝐢𝐱𝐞𝐬 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐩𝐫𝐞-𝐚𝐮𝐭𝐡 𝐑𝐂𝐄 𝐟𝐥𝐚𝐰 𝐰𝐢𝐭𝐡 𝐩𝐮𝐛𝐥𝐢𝐜 𝐞𝐱𝐩𝐥𝐨𝐢𝐭\n\n📌 What happened: A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يعمل vBulletin على إصلاح عيب RCE الحرج قبل المصادقة من خلال الاستغلال العام\n\n📌 وش اللي صار: تسمح ثغرة أمنية خطيرة في برنامج منتدى vBulletin للمهاجمين غير المصادقين بتنفيذ تعليمات برمجية PHP عشوائية من خلال عرض القالب.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "af56a0a4d6169e08",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt35fd3da4c4c2a452/6a68a091fd13417d8c592367/ghost-Connect_Images-Alamy.png?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-28T16:38:48+00:00",
-    "en_text": "🛡️ '𝐂𝐞𝐫𝐭𝐢𝐠𝐡𝐨𝐬𝐭' 𝐅𝐥𝐚𝐰 𝐇𝐚𝐮𝐧𝐭𝐬 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐀𝐜𝐭𝐢𝐯𝐞 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞𝐬\n\n📌 What happened: Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ خلل \"Certighost\" يطارد شهادات Microsoft Active Directory\n\n📌 وش اللي صار: قامت Microsoft بتصحيح ثغرة أمنية عالية الخطورة في وقت سابق من هذا الشهر والتي تسمح لممثل التهديد بتصعيد الامتيازات وتسوية بيئة AD.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "25a6aa3b9fadee7c",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zv7PihU6xAba7-fb5OY-Xv5YIEPM1HhmCu2ET65l5TSKYrPh6q4pYVQRNJtHb9RkvO1oNsBBrsxs50Hm_GRnPKCu4XoG1hhtPOoeGILfRHN99ICGSO72NOGQ6AdUc_haCrQvHRUn4YiyFmCy99WgH1v4-4GRLirZzsV1b5MmCjfTX3a2yWmg1tWOr38/s1600/tengu-botnet.jpg",
-    "published_at": "2026-07-28T15:01:33+00:00",
-    "en_text": "🛡️ 𝐓𝐞𝐧𝐠𝐮 𝐁𝐨𝐭𝐧𝐞𝐭 𝐑𝐞𝐛𝐨𝐨𝐭𝐬 𝐂𝐨𝐦𝐩𝐫𝐨𝐦𝐢𝐬𝐞𝐝 𝐋𝐢𝐧𝐮𝐱 𝐃𝐞𝐯𝐢𝐜𝐞𝐬 𝐖𝐡𝐞𝐧 𝐃𝐞𝐟𝐞𝐧𝐝𝐞𝐫𝐬 𝐊𝐢𝐥𝐥 𝐈𝐭𝐬 𝐏𝐫𝐨𝐜𝐞𝐬𝐬\n\n📌 What happened: A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تقوم Tengu Botnet بإعادة تشغيل أجهزة Linux المعرضة للخطر عندما يقوم المدافعون بقتل عمليتها\n\n📌 وش اللي صار: يمكن لشبكة الروبوتات الجديدة المشتقة من Mirai والتي تسمى Tengu استخدام هيئة مراقبة أجهزة جهاز Linux المخترق لبدء عملية إعادة التشغيل عندما يقوم المدافعون بقتل العملية الرئيسية. إذا حدث ذلك، فإن آليات الثبات الأخرى لدى Tengu تحصل على فرصة أخرى لإعادة إطلاقها.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "81917f51ec1dcd5c",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZDJmL5vHIaEgakZEwVC-O1KGBidMz7xrUS6MQmj0Nfqx4_WzGlwmz4amGxIwYa2PEJTKr5UsFwkh8lEOoFkjAVwTm38bgmbc_gDW2-__9MBpP5Z6cWQrIjFTe3tKTMEhD2lX3XyTrIe0T4mQDruecN3nCWqHUpkU5NpW5OIzZFy5la9RQnMCsmGkt-n8/s1600/bmcs.jpg",
-    "published_at": "2026-07-28T14:41:36+00:00",
-    "en_text": "🛡️ 𝟐𝟒,𝟔𝟓𝟎 𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭-𝐄𝐱𝐩𝐨𝐬𝐞𝐝 𝐁𝐌𝐂𝐬 𝐃𝐢𝐬𝐜𝐥𝐨𝐬𝐞 𝐈𝐏𝐌𝐈 𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐇𝐚𝐬𝐡𝐞𝐬 𝐁𝐞𝐟𝐨𝐫𝐞 𝐋𝐨𝐠𝐢𝐧\n\n📌 What happened: Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تكشف 24,650 شركة BMC مكشوفة على الإنترنت عن تجزئة كلمة مرور IPMI قبل تسجيل الدخول\n\n📌 وش اللي صار: أطلق باحثو الأمن السيبراني تنبيهًا بعد العثور على أكثر من 36000 واجهة إدارة لوحدة التحكم في إدارة اللوحة الأساسية (BMC) تعرض بروتوكول واجهة إدارة النظام الأساسي الذكي (IPMI) للإنترنت العام.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
