@@ -1,5 +1,14 @@
 [
   {
+    "id": "ab513bf86405d81c",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-07T20:14:46+00:00",
+    "en_text": "🛡️ 𝐌𝐞𝐭𝐚𝐛𝐚𝐬𝐞 𝐒𝐐𝐋𝐢 𝐳𝐞𝐫𝐨-𝐝𝐚𝐲 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐢𝐧 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐝𝐚𝐭𝐚-𝐭𝐡𝐞𝐟𝐭 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم استغلال قاعدة تعريف SQLi في هجمات سرقة بيانات العملاء\n\n📌 وش اللي صار: تم استغلال ثغرة أمنية بالغة الأهمية لحقن Metabase SQL في هجمات اليوم صفر لاختراق مثيلات العملاء في هجمات سرقة البيانات، المعروفة بتأثيرها على Framework وTally.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "c5ecbaec5f990434",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-29T15:39:30+00:00",
     "en_text": "🛡️ 𝐑𝐮𝐟𝐥𝐨 𝐌𝐂𝐏 𝐅𝐥𝐚𝐰 𝐋𝐞𝐭𝐬 𝐔𝐧𝐚𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐑𝐮𝐧 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐚𝐧𝐝 𝐏𝐨𝐢𝐬𝐨𝐧 𝐀𝐈 𝐌𝐞𝐦𝐨𝐫𝐲\n\n📌 What happened: Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يتيح خطأ Ruflo MCP للمهاجمين غير المصادقين تشغيل الأوامر وتسميم ذاكرة الذكاء الاصطناعي\n\n📌 وش اللي صار: أشار باحثو الأمن السيبراني إلى ثغرة أمنية شديدة الخطورة في Ruflo، وهو وكيل مفتوح المصدر لـ Anthropic Claude Code وOpenAI Codex، والذي قد يؤدي إلى تنفيذ تعليمات برمجية عن بعد غير مصادق عليها.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "4b55974fab2d3537",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg",
-    "published_at": "2026-07-29T15:31:15+00:00",
-    "en_text": "🛡️ 𝐓𝐡𝐫𝐞𝐞 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐕𝐌𝐰𝐚𝐫𝐞 𝐅𝐥𝐚𝐰𝐬 𝐀𝐥𝐥𝐨𝐰 𝐀𝐮𝐭𝐡 𝐁𝐲𝐩𝐚𝐬𝐬, 𝐂𝐨𝐝𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧, 𝐚𝐧𝐝 𝐕𝐌 𝐄𝐬𝐜𝐚𝐩𝐞\n\n📌 What happened: Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ ثلاثة عيوب خطيرة في برنامج VMware تسمح بتجاوز المصادقة، وتنفيذ التعليمات البرمجية، وهروب الجهاز الافتراضي\n\n📌 وش اللي صار: أصدرت Broadcom تحديثات أمنية لمعالجة العديد من العيوب الأمنية التي تؤثر على VMware ESX، وvCenter، وWorkstation، وFusion، وتم تصنيف ثلاثة منها على أنها خطيرة من حيث الخطورة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
