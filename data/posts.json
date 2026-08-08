@@ -1,5 +1,14 @@
 [
   {
+    "id": "8ce9e4d219e1f1cc",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-08T11:30:00+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐎𝐧𝐞-𝐂𝐥𝐢𝐜𝐤 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐢𝐧 𝐀𝐭𝐥𝐚𝐬𝐬𝐢𝐚𝐧’𝐬 𝐑𝐨𝐯𝐨 𝐀𝐈 𝐄𝐱𝐩𝐨𝐬𝐞𝐝 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐃𝐚𝐭𝐚\n\n📌 What happened: The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ثغرة أمنية خطيرة بنقرة واحدة في بيانات المؤسسة المكشوفة في نظام Rovo AI التابع لشركة Atlassian\n\n📌 وش اللي صار: من الممكن استغلال طريقة الهجوم RovoBlast التي حددها باحثو Varonis لسرقة بيانات Confluence وJira وSharePoint.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "ab2cf02445d4050e",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-29T19:48:12+00:00",
     "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐀𝐈'𝐬 𝐑𝐨𝐠𝐮𝐞 𝐌𝐨𝐝𝐞𝐥 𝐂𝐥𝐚𝐢𝐦𝐬 𝐌𝐨𝐫𝐞 𝐕𝐢𝐜𝐭𝐢𝐦𝐬 𝐁𝐞𝐲𝐨𝐧𝐝 𝐇𝐮𝐠𝐠𝐢𝐧𝐠 𝐅𝐚𝐜𝐞\n\n📌 What happened: OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ نموذج Rogue الخاص بـ OpenAI يدعي المزيد من الضحايا بما يتجاوز معانقة الوجه\n\n📌 وش اللي صار: كشفت شركة OpenAI أن نماذج الذكاء الاصطناعي المارقة أضرت بخدمات أكثر مما تم الكشف عنه في البداية، بما في ذلك بيئة عملاء Modal وغيرها.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "f7255b93e8972b28",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda67aa668122e771/6a6a4b0db8ab35a066dea164/blueteam-sqback-Getty-2255978330.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-29T19:46:20+00:00",
-    "en_text": "🛡️ 𝐑𝐞𝐝 𝐀𝐠𝐞𝐧𝐭𝐬 𝐯𝐬. 𝐁𝐥𝐮𝐞 𝐀𝐠𝐞𝐧𝐭𝐬: 𝐇𝐨𝐰 𝐭𝐨 𝐌𝐚𝐤𝐞 𝐀𝐈 𝐁𝐞𝐭𝐭𝐞𝐫 𝐀𝐭 𝐃𝐞𝐟𝐞𝐧𝐬𝐞\n\n📌 What happened: The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ العملاء الحمر مقابل العملاء الزرق: كيفية تحسين الذكاء الاصطناعي في الدفاع\n\n📌 وش اللي صار: كانت ساحة لعب الذكاء الاصطناعي مائلة بشدة نحو الهجوم، لذلك بدأ الباحثون في استخدام عملاء الفريق الأحمر للمساعدة في تعليم نظرائهم الأزرق.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
