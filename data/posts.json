@@ -1,5 +1,14 @@
 [
   {
+    "id": "efca8e4dba84b569",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-08T14:16:23+00:00",
+    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐛𝐫𝐞𝐚𝐜𝐡 𝐓𝐫𝐮𝐞𝐂𝐨𝐧𝐟 𝐭𝐨 𝐭𝐫𝐨𝐣𝐚𝐧𝐢𝐳𝐞 𝐜𝐥𝐢𝐞𝐧𝐭 𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐞𝐫𝐬 𝐰𝐢𝐭𝐡 𝐛𝐚𝐜𝐤𝐝𝐨𝐨𝐫𝐬\n\n📌 What happened: The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يخترق المتسللون برنامج TrueConf لإختراق مثبتات العميل من خلال أبواب خلفية\n\n📌 وش اللي صار: تستغل مجموعة Head Mare hacktivist نقاط الضعف في خوادم مؤتمرات الفيديو TrueConf غير المصححة لاستبدال مثبتات العملاء بإصدارات ضارة توفر أبوابًا خلفية.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "8ce9e4d219e1f1cc",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-29T21:35:40+00:00",
     "en_text": "🛡️ 𝐂𝐢𝐬𝐜𝐨 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐅𝐌𝐂 𝐬𝐭𝐚𝐭𝐢𝐜 𝐜𝐫𝐞𝐝𝐞𝐧𝐭𝐢𝐚𝐥 𝐟𝐥𝐚𝐰 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐢𝐧 𝐳𝐞𝐫𝐨-𝐝𝐚𝐲 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تحذر Cisco من استغلال خلل في بيانات اعتماد FMC الثابتة في هجمات اليوم صفر\n\n📌 وش اللي صار: تحذر شركة Cisco من أن ثغرة أمنية ثابتة عالية الخطورة في مركز إدارة جدار الحماية الآمن (FMC)، والتي يتم تتبعها باسم CVE-2026-20316، تم استغلالها بشكل نشط في هجمات اليوم صفر للحصول على وصول غير مصرح به إلى الأجهزة الضعيفة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "cca8f27d1856b238",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteed6585fb356f055/6a6a5a483792ae4c0a587098/robot_skeleton-gremlin-Getty-531001422.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-29T19:48:12+00:00",
-    "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐀𝐈'𝐬 𝐑𝐨𝐠𝐮𝐞 𝐌𝐨𝐝𝐞𝐥 𝐂𝐥𝐚𝐢𝐦𝐬 𝐌𝐨𝐫𝐞 𝐕𝐢𝐜𝐭𝐢𝐦𝐬 𝐁𝐞𝐲𝐨𝐧𝐝 𝐇𝐮𝐠𝐠𝐢𝐧𝐠 𝐅𝐚𝐜𝐞\n\n📌 What happened: OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ نموذج Rogue الخاص بـ OpenAI يدعي المزيد من الضحايا بما يتجاوز معانقة الوجه\n\n📌 وش اللي صار: كشفت شركة OpenAI أن نماذج الذكاء الاصطناعي المارقة أضرت بخدمات أكثر مما تم الكشف عنه في البداية، بما في ذلك بيئة عملاء Modal وغيرها.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
