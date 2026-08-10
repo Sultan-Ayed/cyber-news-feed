@@ -1,5 +1,23 @@
 [
   {
+    "id": "6e4380231d05ba8c",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-10T08:55:44+00:00",
+    "en_text": "🛡️ 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐞 𝐃𝐚𝐭𝐚 𝐒𝐭𝐨𝐥𝐞𝐧 𝐢𝐧 𝐋𝐞𝐯𝐢 𝐒𝐭𝐫𝐚𝐮𝐬𝐬 𝐂𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ سرقة بيانات الشركة في الهجوم الإلكتروني ليفي شتراوس\n\n📌 وش اللي صار: باستخدام الهندسة الاجتماعية، تمكن أحد عناصر التهديد من الوصول إلى أجهزة الكمبيوتر الخاصة بثلاثة موظفين وقام بتسريب البيانات منهم.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "43410792e1608026",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR5_Dx4heVYIxaujo8ybl0OFdVuLzMFe0qdEdr6-q_QTdhSVlgHdrP6MeooXamFpRNfHjoAqTquvk3CkkCKUw1TQDkQJCrZY1RTC9iYK_bsTLNvpj0BZfFKFcnlt1RAlBvfcsWeSuLAn6Gwh9lur7v9-HlH-6ZpSmw7npsn9TSZAEpwFSFE54_xcFPcuDi/s1600/pro.jpg",
+    "published_at": "2026-08-10T07:38:23+00:00",
+    "en_text": "🛡️ 𝐒𝐨𝐥𝐢𝐝𝐢𝐭𝐲 𝐏𝐫𝐨 𝐕𝐒 𝐂𝐨𝐝𝐞 𝐄𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧𝐬 𝐒𝐭𝐞𝐚𝐥 𝐂𝐫𝐲𝐩𝐭𝐨 𝐖𝐚𝐥𝐥𝐞𝐭𝐬, 𝐀𝐏𝐈 𝐊𝐞𝐲𝐬, 𝐚𝐧𝐝 𝐂𝐫𝐞𝐝𝐞𝐧𝐭𝐢𝐚𝐥𝐬\n\n📌 What happened: Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer.\n\n💡 Why it matters: Modern malware doesn't announce itself — it blends into normal traffic until the moment it needs to strike.\n\n✅ Quick tip: Only install software from official sources — 'free' cracked versions are one of the top malware delivery methods.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تعمل ملحقات Solidity Pro VS Code على سرقة محافظ العملات المشفرة ومفاتيح API وبيانات الاعتماد\n\n📌 وش اللي صار: قام باحثو الأمن السيبراني بوضع علامة على امتداد Microsoft Visual Studio Code (VS Code) الضار المسمى Solidity Pro (\"solidity-pro\") والذي لوحظ أنه يقدم محفظة متصفح وسرقة بيانات الاعتماد.\n\n💡 ليش هذا مهم: البرمجيات الخبيثة الحديثة ما تعلن عن نفسها، تندمج مع النشاط العادي للجهاز لين تجي لحظة الضربة.\n\n✅ نصيحة سريعة: ثبّت البرامج من مصادرها الرسمية بس — النسخ 'المجانية' المقرصنة من أكثر طرق توزيع البرمجيات الخبيثة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "0c532563f6e3e553",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-30T01:00:00+00:00",
     "en_text": "🛡️ 𝐒𝐄 𝐀𝐬𝐢𝐚𝐧 𝐂𝐲𝐛𝐞𝐫𝐜𝐫𝐢𝐦𝐢𝐧𝐚𝐥 𝐒𝐲𝐧𝐝𝐢𝐜𝐚𝐭𝐞𝐬 𝐁𝐞𝐜𝐨𝐦𝐞 𝐚 𝐆𝐥𝐨𝐛𝐚𝐥 𝐏𝐨𝐰𝐞𝐫\n\n📌 What happened: The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ عصابات مجرمي الإنترنت في جنوب شرق آسيا تصبح قوة عالمية\n\n📌 وش اللي صار: وتنتقل هذه المجموعات من السلع إلى الخدمات وتستمر في تهريب الأشخاص من 80 دولة على الأقل، مما كلف دول المنطقة ما لا يقل عن 88 مليار دولار في عام 2025 وحده.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "dc1e50989655baaf",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64dd0d457b1c0a07/6a6a64473ece06782ad0a027/Eagle-Tatsuya_Sakamoto-GettyImages-2223926307.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-30T00:30:00+00:00",
-    "en_text": "🛡️ '𝐅𝐥𝐲𝐢𝐧𝐠 𝐄𝐚𝐠𝐥𝐞' 𝐅𝐮𝐥𝐥-𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐌𝐨𝐛𝐢𝐥𝐞 𝐑𝐀𝐓 𝐁𝐮𝐢𝐥𝐝𝐞𝐫 𝐖𝐢𝐧𝐠𝐬 𝐀𝐜𝐫𝐨𝐬𝐬 𝐂𝐡𝐢𝐧𝐚\n\n📌 What happened: A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ أجنحة بناء RAT المتنقلة ذات الخدمة الكاملة \"Flying Eagle\" في جميع أنحاء الصين\n\n📌 وش اللي صار: ينتشر عرض البرامج الضارة كخدمة من الدرجة الممتازة مع مجموعات تهديد متعددة، مما يؤدي إلى إنشاء برامج سرقة المعلومات التي تستنزف الحسابات المصرفية للضحايا.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "e595dba041d5ef9c",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-29T23:44:07+00:00",
-    "en_text": "🛡️ 𝐑𝐮𝐬𝐬𝐢𝐚𝐧 𝐡𝐚𝐜𝐤𝐞𝐫𝐬 𝐞𝐱𝐩𝐥𝐨𝐢𝐭 𝐄𝐱𝐜𝐡𝐚𝐧𝐠𝐞 𝐎𝐖𝐀 𝐳𝐞𝐫𝐨-𝐝𝐚𝐲 𝐟𝐨𝐫 𝐥𝐨𝐧𝐠-𝐭𝐞𝐫𝐦 𝐦𝐚𝐢𝐥𝐛𝐨𝐱 𝐚𝐜𝐜𝐞𝐬𝐬\n\n📌 What happened: The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يستغل المتسللون الروس Exchange OWA Zero-day للوصول إلى صندوق البريد على المدى الطويل\n\n📌 وش اللي صار: تستغل مجموعة القرصنة الروسية Laundry Bear التي ترعاها الدولة، والمعروفة أيضًا باسم Void Blizzard، ثغرة أمنية في Exchange Outlook Web Access في حملات البريد الإلكتروني لتوفير باب خلفي متطور يسمى OWAReaper.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
