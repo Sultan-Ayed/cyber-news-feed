@@ -1,5 +1,14 @@
 [
   {
+    "id": "4f798185a435c3c0",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-10T04:44:32+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐅𝐥𝐚𝐰𝐬 𝐃𝐢𝐬𝐜𝐨𝐯𝐞𝐫𝐞𝐝 𝐢𝐧 𝐁𝐞𝐥𝐠𝐢𝐚𝐧 𝐞𝐈𝐃 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐔𝐬𝐞𝐝 𝐛𝐲 𝟐 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐏𝐞𝐨𝐩𝐥𝐞\n\n📌 What happened: The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم اكتشاف عيوب خطيرة في برنامج الهوية الإلكترونية البلجيكي الذي يستخدمه 2 مليون شخص\n\n📌 وش اللي صار: أثرت الثغرات الأمنية على البرامج التي تستخدمها ثمانية من أكبر عشرة بنوك في بلجيكا وأكثر من 60 وكالة حكومية.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "efca8e4dba84b569",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-29T21:39:29+00:00",
     "en_text": "🛡️ 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐂𝐥𝐚𝐮𝐝𝐞 𝐢𝐬 𝐝𝐨𝐰𝐧 𝐰𝐨𝐫𝐥𝐝𝐰𝐢𝐝𝐞\n\n📌 What happened: Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ الأنثروبيك تؤكد أن كلود معطل في جميع أنحاء العالم\n\n📌 وش اللي صار: لقد تعطل Claude بالنسبة لبعض المستخدمين، حيث أكدت Anthropic وجود أخطاء مرتفعة عبر نماذج الذكاء الاصطناعي المتعددة. يتسبب الخلل في فشل الطلبات من خلال رسالة \"529 Overloaded\"، بما في ذلك طلبات Claude والأدوات التي تعتمد على واجهة برمجة التطبيقات (API) الخاصة به.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "8f821d2f9cd7a216",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-29T21:35:40+00:00",
-    "en_text": "🛡️ 𝐂𝐢𝐬𝐜𝐨 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐅𝐌𝐂 𝐬𝐭𝐚𝐭𝐢𝐜 𝐜𝐫𝐞𝐝𝐞𝐧𝐭𝐢𝐚𝐥 𝐟𝐥𝐚𝐰 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐢𝐧 𝐳𝐞𝐫𝐨-𝐝𝐚𝐲 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تحذر Cisco من استغلال خلل في بيانات اعتماد FMC الثابتة في هجمات اليوم صفر\n\n📌 وش اللي صار: تحذر شركة Cisco من أن ثغرة أمنية ثابتة عالية الخطورة في مركز إدارة جدار الحماية الآمن (FMC)، والتي يتم تتبعها باسم CVE-2026-20316، تم استغلالها بشكل نشط في هجمات اليوم صفر للحصول على وصول غير مصرح به إلى الأجهزة الضعيفة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
