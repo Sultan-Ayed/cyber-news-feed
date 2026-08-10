@@ -1,5 +1,14 @@
 [
   {
+    "id": "d319044c80010cfd",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-10T23:07:21+00:00",
+    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐛𝐫𝐞𝐚𝐜𝐡𝐞𝐝 𝐚 𝐬𝐦𝐚𝐥𝐥 𝐏𝐨𝐥𝐢𝐬𝐡 𝐞𝐧𝐞𝐫𝐠𝐲 𝐩𝐥𝐚𝐧𝐭 𝐯𝐢𝐚 𝐩𝐫𝐢𝐯𝐚𝐭𝐞 𝐀𝐏𝐍 𝐥𝐚𝐬𝐭 𝐲𝐞𝐚𝐫\n\n📌 What happened: Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ اخترق قراصنة محطة طاقة بولندية صغيرة عبر شركة APN الخاصة العام الماضي\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "bb7d35876e71e9f6",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-31T00:57:25+00:00",
     "en_text": "🛡️ 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜'𝐬 𝐂𝐥𝐚𝐮𝐝𝐞 𝐛𝐫𝐞𝐚𝐜𝐡𝐞𝐝 𝟑 𝐨𝐫𝐠𝐬, 𝐮𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐏𝐲𝐏𝐈 𝐦𝐚𝐥𝐰𝐚𝐫𝐞 𝐝𝐮𝐫𝐢𝐧𝐠 𝐭𝐞𝐬𝐭𝐬\n\n📌 What happened: One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ قام Anthropic's Claude باختراق 3 مؤسسات، وقام بتحميل برامج PyPI الضارة أثناء الاختبارات\n\n📌 وش اللي صار: قام أحد نماذج Anthropic's Claude ببناء وتحميل حزمة Python ضارة إلى PyPI أثناء تقييم أمني فاشل، حيث تم تشغيله على 15 نظامًا حقيقيًا وسرق بيانات الاعتماد من أحد موردي الأمان. لقد كانت واحدة من ثلاث حوادث أثرت على شركات حقيقية.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "a91a75fed4277345",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-30T22:28:30+00:00",
-    "en_text": "🛡️ 𝐒𝐨𝐮𝐭𝐡 𝐊𝐨𝐫𝐞𝐚 𝐟𝐢𝐧𝐞𝐬 𝐭𝐞𝐥𝐜𝐨 𝐠𝐢𝐚𝐧𝐭 𝐊𝐓 $𝟑𝟗 𝐦𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ كوريا الجنوبية تغرم شركة الاتصالات العملاقة KT 39 مليون دولار بسبب خرق بيانات العملاء\n\n📌 وش اللي صار: فرضت لجنة حماية المعلومات الشخصية في كوريا الجنوبية (PIPC) غرامة على شركة الاتصالات العملاقة KT Corporation بقيمة 53.979 مليار وون كوري (39 مليون دولار) بسبب انتهاكات حماية البيانات.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
