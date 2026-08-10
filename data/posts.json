@@ -126,6 +126,15 @@
     "ar_text": "🛡️ تقوم Kimsuky ببناء حزمة AI غير متصلة بالإنترنت لتعزيز التصيد الاحتيالي وأتمتة تطوير البرامج الضارة\n\n📌 وش اللي صار: لم يعد قراصنة الدولة في كوريا الشمالية راضين عن كتابة مطالبات في برامج الدردشة العامة. بدأت إحدى مجموعات التجسس الرئيسية في البلاد في تشغيل الذكاء الاصطناعي (AI) دون اتصال بالإنترنت على خوادمها الخاصة، وربط أدوات البحث عن المستندات بالملفات الموجودة في...\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "b5619b22fdd70363",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-10T12:59:34+00:00",
+    "en_text": "🛡️ ‘𝐆𝐡𝐨𝐬𝐭𝐣𝐚𝐜𝐤𝐢𝐧𝐠’ 𝐀𝐭𝐭𝐚𝐜𝐤 𝐔𝐬𝐞𝐬 𝐏𝐨𝐢𝐬𝐨𝐧𝐞𝐝 𝐋𝐨𝐠𝐬 𝐭𝐨 𝐓𝐮𝐫𝐧 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬 𝐁𝐚𝐝\n\n📌 What happened: An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يستخدم هجوم \"Ghostjacking\" سجلات مسمومة لتحويل عملاء الذكاء الاصطناعي إلى أشخاص سيئين\n\n📌 وش اللي صار: ينفذ وكيل الذكاء الاصطناعي التعليمات التي زرعها المهاجم في السجل أو التنبيه الذي يسجل كلمة طلب محظورة بكلمة.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2040d24d3b751d71",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
@@ -169,6 +178,15 @@
     "published_at": "2026-08-10T11:47:55+00:00",
     "en_text": "🛡️ 𝐕𝐚𝐥𝐯𝐞 𝐧𝐨𝐭𝐢𝐟𝐢𝐞𝐬 𝐒𝐭𝐞𝐚𝐦 𝐡𝐚𝐫𝐝𝐰𝐚𝐫𝐞 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐨𝐟 𝐚 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يقوم Valve بإخطار عملاء أجهزة Steam بخرق البيانات\n\n📌 وش اللي صار: يقوم ناشر ألعاب الفيديو وعملاق التوزيع الرقمي Valve بإخطار عملاء أجهزة Steam في أوروبا بأن المتسللين سرقوا بياناتهم بعد اختراق شريك الشحن CEVA Logistics.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "3f88238a1d821954",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-10T11:44:26+00:00",
+    "en_text": "🛡️ 𝐍𝐞𝐰 𝐉𝐞𝐫𝐬𝐞𝐲, 𝐀𝐥𝐚𝐛𝐚𝐦𝐚 𝐉𝐨𝐢𝐧 𝐒𝐭𝐚𝐭𝐞𝐬 𝐓𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐢𝐧 𝐖𝐚𝐭𝐞𝐫 𝐂𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ نيوجيرسي وألاباما تنضمان إلى الولايات المستهدفة بالهجمات الإلكترونية المتعلقة بالمياه\n\n📌 وش اللي صار: استهدف قراصنة مرتبطون بإيران أنظمة التحكم الصناعية (ICS) في منشآت المياه في ما لا يقل عن اثنتي عشرة ولاية أمريكية.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "8cd19c7c9cd43bd1",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-30T21:02:21+00:00",
     "en_text": "🛡️ 𝐁𝐚𝐧𝐤 𝐨𝐟 𝐀𝐦𝐞𝐫𝐢𝐜𝐚 𝐭𝐨 𝐀𝐜𝐪𝐮𝐢𝐫𝐞 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐅𝐢𝐫𝐦 𝐌𝐃𝐒𝐞𝐜\n\n📌 What happened: The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ بنك أوف أمريكا يستحوذ على شركة الأمن السيبراني MDSec\n\n📌 وش اللي صار: ستضيف عملية الاستحواذ ما يقرب من 65 متخصصًا في مجال الأمن السيبراني إلى عمليات بنك أوف أمريكا في المملكة المتحدة.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "ce180f4c3f1e123f",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33ea1925a9f97ba7/6a18a8b047696a7d03d6ca07/rube-goldberg-machine-complexity-T_N_Sursock-shutterstock.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-30T19:40:40+00:00",
-    "en_text": "🛡️ 𝐀𝐈 𝐇𝐚𝐫𝐧𝐞𝐬𝐬𝐞𝐬 𝐁𝐮𝐫𝐬𝐭 𝐖𝐢𝐭𝐡 𝐏𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐎𝐩𝐩𝐬\n\n📌 What happened: A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الذكاء الاصطناعي يسخر عمليات الاستغلال المحتملة\n\n📌 وش اللي صار: يشكل عدد لا يحصى من البرامج أداة الذكاء الاصطناعي النموذجية، ويمكن أن تؤدي مشكلات الثقة بين المكونات إلى إنشاء نواقل هجوم مثيرة للقلق.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "6c1a91bf359dac2d",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-30T19:10:26+00:00",
-    "en_text": "🛡️ 𝐎𝐤𝐭𝐚 𝐭𝐨 𝐀𝐜𝐪𝐮𝐢𝐫𝐞 𝐈𝐝𝐞𝐧𝐭𝐢𝐭𝐲 𝐓𝐡𝐫𝐞𝐚𝐭 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐅𝐢𝐫𝐦 𝐏𝐞𝐫𝐦𝐢𝐬𝐨\n\n📌 What happened: The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Okta تستحوذ على شركة Permiso لكشف تهديدات الهوية\n\n📌 وش اللي صار: تعمل الصفقة على توسيع نطاق وصول \"أوكتا\" إلى ما هو أبعد من إدارة الهوية إلى مجال العمليات الأمنية، مما يضع الشركة في موقع يسمح لها بالتنافس بشكل مباشر أكثر في الكشف عن تهديدات الهوية والاستجابة لها.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
