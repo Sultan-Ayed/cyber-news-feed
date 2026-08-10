@@ -1,5 +1,23 @@
 [
   {
+    "id": "1e9db20c81453290",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-10T21:12:10+00:00",
+    "en_text": "🛡️ 𝐁𝐝𝐓𝐡𝐞𝐦𝐞𝐬 𝐩𝐥𝐮𝐠𝐢𝐧𝐬 𝐬𝐮𝐩𝐩𝐥𝐲-𝐜𝐡𝐚𝐢𝐧 𝐡𝐚𝐜𝐤 𝐜𝐫𝐞𝐚𝐭𝐞𝐬 𝐫𝐨𝐠𝐮𝐞 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐚𝐝𝐦𝐢𝐧𝐬\n\n📌 What happened: A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يؤدي اختراق سلسلة التوريد لمكونات BdThemes الإضافية إلى إنشاء مدراء WordPress محتالين\n\n📌 وش اللي صار: قام أحد عناصر التهديد باختراق البنية التحتية الأولية لشركة BdThemes، وهي شركة مطورة لأدوات تصميم الويب المتميزة في WordPress، وقامت بتعديل موجز JSON عن بعد الذي تم تسليمه إلى متصفحات المسؤولين لإنشاء حسابات إدارية مارقة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "f59fccb11158f2cb",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltac5b6cbe22b97997/6a7a3b465e4958876dc35113/blast_radius-George_Peters-GettyImages-1339899824_(1).jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-10T21:02:23+00:00",
+    "en_text": "🛡️ 𝐌𝐞𝐭𝐚𝐛𝐚𝐬𝐞 𝐒𝐐𝐋 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐂𝐨𝐮𝐥𝐝 𝐇𝐚𝐯𝐞 𝐖𝐢𝐝𝐞 𝐁𝐥𝐚𝐬𝐭 𝐑𝐚𝐝𝐢𝐮𝐬\n\n📌 What happened: The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يمكن أن يكون لهجمات Zero-Day لقاعدة تعريف SQL نطاق انفجار واسع\n\n📌 وش اللي صار: تسمح الثغرة الأمنية ذات الحد الأقصى، والتي لا تحتوي حتى الآن على CVE، بالوصول الخبيث للمسؤول عن بعد إلى منصة تحليلات الأعمال ومستخدميها.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "171ab376d7c2fca0",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-30T22:01:31+00:00",
     "en_text": "🛡️ 𝐉𝐞𝐭𝐁𝐫𝐚𝐢𝐧𝐬 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐓𝐞𝐚𝐦𝐂𝐢𝐭𝐲 𝐫𝐞𝐦𝐨𝐭𝐞 𝐜𝐨𝐝𝐞 𝐞𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐟𝐥𝐚𝐰\n\n📌 What happened: JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يحذر JetBrains من خلل خطير في تنفيذ التعليمات البرمجية عن بعد لـ TeamCity\n\n📌 وش اللي صار: تحذر JetBrains من وجود ثغرة أمنية خطيرة لتجاوز المصادقة تؤثر على TeamCity On-Premises والتي يمكن استغلالها لتحقيق تنفيذ التعليمات البرمجية عن بعد.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "8d111d76511b47d3",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd2572a409133e33/6a6bb64522716cf19f0b542e/water_Bilanol_shutterstock.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-07-30T21:16:13+00:00",
-    "en_text": "🛡️ 𝐌𝐢𝐧𝐧𝐞𝐬𝐨𝐭𝐚 𝐖𝐚𝐭𝐞𝐫 𝐔𝐭𝐢𝐥𝐢𝐭𝐲 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐄𝐱𝐩𝐨𝐬𝐞 𝐒𝐞𝐜𝐭𝐨𝐫'𝐬 𝐂𝐲𝐛𝐞𝐫-𝐑𝐢𝐬𝐤𝐬\n\n📌 What happened: A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الهجمات على مرافق المياه في مينيسوتا تكشف المخاطر السيبرانية للقطاع\n\n📌 وش اللي صار: استهدفت جهة فاعلة مدعومة من إيران أكثر من 30 شبكة مياه مجتمعية في ولاية مينيسوتا، في تذكير واقعي بالتهديدات المتزايدة للبنية التحتية الحيوية للولايات المتحدة.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "33bbdb51452f2d3d",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-30T21:02:21+00:00",
-    "en_text": "🛡️ 𝐁𝐚𝐧𝐤 𝐨𝐟 𝐀𝐦𝐞𝐫𝐢𝐜𝐚 𝐭𝐨 𝐀𝐜𝐪𝐮𝐢𝐫𝐞 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐅𝐢𝐫𝐦 𝐌𝐃𝐒𝐞𝐜\n\n📌 What happened: The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ بنك أوف أمريكا يستحوذ على شركة الأمن السيبراني MDSec\n\n📌 وش اللي صار: ستضيف عملية الاستحواذ ما يقرب من 65 متخصصًا في مجال الأمن السيبراني إلى عمليات بنك أوف أمريكا في المملكة المتحدة.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
