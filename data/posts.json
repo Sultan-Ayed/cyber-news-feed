@@ -1,5 +1,23 @@
 [
   {
+    "id": "bb7d35876e71e9f6",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7efbf6a210292d1d/6a7a43503413ca658e4c0cb9/ghosts-MediaProduction-Getty-1437542277.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-10T21:54:22+00:00",
+    "en_text": "🛡️ '𝐆𝐡𝐨𝐬𝐭𝐉𝐚𝐜𝐤𝐢𝐧𝐠' 𝐄𝐱𝐩𝐨𝐬𝐞𝐬 𝐈𝐝𝐞𝐧𝐭𝐢𝐭𝐲 𝐆𝐨𝐯𝐞𝐫𝐧𝐚𝐧𝐜𝐞 𝐆𝐚𝐩𝐬 𝐢𝐧 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬\n\n📌 What happened: New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: يُظهر بحث جديد كيف يمكن للمهاجمين استخدام التنبيهات الأمنية والأحداث المحظورة للتلاعب بوكلاء الذكاء الاصطناعي واختطافهم.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "caa6aa55fb27cd8e",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfab47f61ab6fce61/6a7a20f413d9fd35582fc0f9/Engineer_checks_water_quality-DSCimage-GettyImages-1369464717.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-10T21:34:38+00:00",
+    "en_text": "🛡️ 𝐌𝐮𝐥𝐭𝐢𝐬𝐭𝐚𝐭𝐞 𝐖𝐚𝐭𝐞𝐫 𝐒𝐲𝐬𝐭𝐞𝐦 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐖𝐢𝐝𝐞𝐧, 𝐈𝐫𝐚𝐧 𝐒𝐮𝐬𝐩𝐞𝐜𝐭𝐞𝐝\n\n📌 What happened: Attacks targeting water systems just keep flowing across a dozen states, against ill-secured, Internet-exposed PLCs.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ اتساع نطاق الهجمات على أنظمة المياه المتعددة الولايات، والاشتباه في إيران\n\n📌 وش اللي صار: تستمر الهجمات التي تستهدف أنظمة المياه في التدفق عبر اثنتي عشرة ولاية، ضد الشركات المحدودة العامة غير المؤمنة والمكشوفة على الإنترنت.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "1e9db20c81453290",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-30T22:28:30+00:00",
     "en_text": "🛡️ 𝐒𝐨𝐮𝐭𝐡 𝐊𝐨𝐫𝐞𝐚 𝐟𝐢𝐧𝐞𝐬 𝐭𝐞𝐥𝐜𝐨 𝐠𝐢𝐚𝐧𝐭 𝐊𝐓 $𝟑𝟗 𝐦𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ كوريا الجنوبية تغرم شركة الاتصالات العملاقة KT 39 مليون دولار بسبب خرق بيانات العملاء\n\n📌 وش اللي صار: فرضت لجنة حماية المعلومات الشخصية في كوريا الجنوبية (PIPC) غرامة على شركة الاتصالات العملاقة KT Corporation بقيمة 53.979 مليار وون كوري (39 مليون دولار) بسبب انتهاكات حماية البيانات.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "e79f38452c8b7a51",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-30T22:18:36+00:00",
-    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐔𝐫𝐠𝐞𝐬 𝐖𝐚𝐭𝐞𝐫 𝐒𝐞𝐜𝐭𝐨𝐫 𝐭𝐨 𝐏𝐫𝐨𝐭𝐞𝐜𝐭 𝐎𝐓 𝐀𝐟𝐭𝐞𝐫 𝐂𝐨𝐨𝐫𝐝𝐢𝐧𝐚𝐭𝐞𝐝 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐨𝐧 𝐏𝐋𝐂𝐬\n\n📌 What happened: CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ CISA تحث قطاع المياه على حماية التكنولوجيا التشغيلية بعد الهجمات المنسقة على الشركات العامة المحدودة\n\n📌 وش اللي صار: تحث CISA مرافق المياه والصرف الصحي على إغلاق وحدات التحكم المكشوفة للإنترنت، بعد أيام من اختراق العشرات من أنظمة ولاية مينيسوتا.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "d7e6c8399f800753",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-30T22:01:31+00:00",
-    "en_text": "🛡️ 𝐉𝐞𝐭𝐁𝐫𝐚𝐢𝐧𝐬 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐓𝐞𝐚𝐦𝐂𝐢𝐭𝐲 𝐫𝐞𝐦𝐨𝐭𝐞 𝐜𝐨𝐝𝐞 𝐞𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐟𝐥𝐚𝐰\n\n📌 What happened: JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يحذر JetBrains من خلل خطير في تنفيذ التعليمات البرمجية عن بعد لـ TeamCity\n\n📌 وش اللي صار: تحذر JetBrains من وجود ثغرة أمنية خطيرة لتجاوز المصادقة تؤثر على TeamCity On-Premises والتي يمكن استغلالها لتحقيق تنفيذ التعليمات البرمجية عن بعد.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
