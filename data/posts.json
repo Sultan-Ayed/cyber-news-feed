@@ -1,5 +1,23 @@
 [
   {
+    "id": "dd627adb551f4249",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/hacker-conversations-marcus-hutchins/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-11T10:00:00+00:00",
+    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫 𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧𝐬: 𝐌𝐚𝐫𝐜𝐮𝐬 𝐇𝐮𝐭𝐜𝐡𝐢𝐧𝐬 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐅𝐫𝐨𝐦 𝐭𝐡𝐞 𝐆𝐫𝐚𝐲 𝐙𝐨𝐧𝐞 𝐭𝐨 𝐑𝐞𝐝𝐞𝐦𝐩𝐭𝐢𝐨𝐧\n\n📌 What happened: Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/hacker-conversations-marcus-hutchins/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ محادثات القراصنة: ماركوس هتشينز والرحلة من المنطقة الرمادية إلى الخلاص\n\n📌 وش اللي صار: لا يعتبر ماركوس هاتشينز نفسه هاكرًا شخصيًا، لكنه يقبل هذا اللقب لأنه مصطلح يستخدم على نطاق واسع لوصف ما فعله من قبل.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/hacker-conversations-marcus-hutchins/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "78717ca6ff867f89",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-11T09:47:06+00:00",
+    "en_text": "🛡️ 𝐔𝐒 𝐚𝐧𝐝 𝐒𝐨𝐮𝐭𝐡 𝐊𝐨𝐫𝐞𝐚 𝐰𝐚𝐫𝐧 𝐨𝐟 𝐆𝐮𝐧𝐫𝐚 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐭𝐚𝐫𝐠𝐞𝐭𝐢𝐧𝐠 𝐠𝐨𝐯𝐭 𝐚𝐠𝐞𝐧𝐜𝐢𝐞𝐬\n\n📌 What happened: U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الولايات المتحدة وكوريا الجنوبية تحذران من برنامج الفدية Gunra الذي يستهدف الوكالات الحكومية\n\n📌 وش اللي صار: حذرت الوكالات الفيدرالية الأمريكية ووكالة السياسة الوطنية في كوريا الجنوبية الحكومات ومؤسسات البنية التحتية الحيوية في جميع أنحاء العالم لتأمين أنظمتها ضد هجمات برنامج الفدية Gunra.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "21ad1a2bf2fd1f2a",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-31T10:28:45+00:00",
     "en_text": "🛡️ 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐈 𝐔𝐧𝐜𝐨𝐯𝐞𝐫𝐬 𝟏𝟑-𝐘𝐞𝐚𝐫-𝐎𝐥𝐝 𝐂𝐡𝐫𝐨𝐦𝐞 𝐅𝐥𝐚𝐰 𝐀𝐦𝐢𝐝 𝐑𝐞𝐜𝐨𝐫𝐝 𝐏𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐏𝐚𝐜𝐞\n\n📌 What happened: The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يكشف الذكاء الاصطناعي من Google عن خلل في Chrome عمره 13 عامًا وسط وتيرة تصحيح قياسية\n\n📌 وش اللي صار: قامت شركة الإنترنت العملاقة ببناء أداة مساعدة للعثور على نقاط الضعف عبر قاعدة بيانات Chrome.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "5bb119d91e399d22",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-31T10:00:00+00:00",
-    "en_text": "🛡️ 𝐄𝐔 𝐭𝐨 𝐂𝐫𝐚𝐜𝐤 𝐃𝐨𝐰𝐧 𝐨𝐧 𝐀𝐈 𝐃𝐞𝐞𝐩𝐟𝐚𝐤𝐞𝐬, 𝐈𝐥𝐥𝐢𝐜𝐢𝐭 𝐈𝐦𝐚𝐠𝐞𝐫𝐲 𝐚𝐧𝐝 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐖𝐢𝐭𝐡 𝐍𝐞𝐰 𝐓𝐞𝐚𝐦 𝐢𝐧 𝐁𝐫𝐮𝐬𝐬𝐞𝐥𝐬\n\n📌 What happened: When the AI Act comes into force, AI companies will be required to make clear to consumers with labels or digital watermarks that chatbots or imagery are generated with AI.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الاتحاد الأوروبي يتخذ إجراءات صارمة ضد التزييف العميق والصور غير المشروعة والقرصنة مع فريق جديد في بروكسل\n\n📌 وش اللي صار: عندما يدخل قانون الذكاء الاصطناعي حيز التنفيذ، سيُطلب من شركات الذكاء الاصطناعي أن توضح للمستهلكين من خلال الملصقات أو العلامات المائية الرقمية أن روبوتات الدردشة أو الصور يتم إنشاؤها باستخدام الذكاء الاصطناعي.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "5b740ea8fc38e403",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-31T09:39:57+00:00",
-    "en_text": "🛡️ 𝐏𝐫𝐨𝐦𝐩𝐭𝐞𝐝 𝐛𝐲 𝐎𝐩𝐞𝐧𝐀𝐈 𝐃𝐢𝐬𝐜𝐥𝐨𝐬𝐮𝐫𝐞, 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜 𝐅𝐢𝐧𝐝𝐬 𝐈𝐭𝐬 𝐎𝐰𝐧 𝐌𝐨𝐝𝐞𝐥𝐬 𝐇𝐚𝐜𝐤𝐞𝐝 𝟑 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬\n\n📌 What happened: A security company’s systems were hacked after it installed a malicious Python package deployed by Claude.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ بعد الكشف عن OpenAI، وجدت شركة Anthropic أن نماذجها الخاصة اخترقت 3 منظمات\n\n📌 وش اللي صار: تم اختراق أنظمة شركة أمنية بعد أن قامت بتثبيت حزمة Python الخبيثة التي نشرها كلود.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
