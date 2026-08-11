@@ -1,5 +1,32 @@
 [
   {
+    "id": "d41df8b64332995d",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-11T13:20:28+00:00",
+    "en_text": "🛡️ 𝐌𝐨𝐳𝐢𝐥𝐥𝐚 𝐮𝐩𝐝𝐚𝐭𝐞𝐬 𝐆𝐏𝐆 𝐬𝐢𝐠𝐧𝐢𝐧𝐠 𝐤𝐞𝐲 𝐟𝐨𝐫 𝐅𝐢𝐫𝐞𝐟𝐨𝐱 𝐫𝐞𝐥𝐞𝐚𝐬𝐞𝐬 𝐚𝐟𝐭𝐞𝐫 𝐞𝐱𝐩𝐨𝐬𝐮𝐫𝐞\n\n📌 What happened: Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تقوم Mozilla بتحديث مفتاح توقيع GPG لإصدارات Firefox بعد التعرض لها\n\n📌 وش اللي صار: أعلنت شركة Mozilla اليوم أنها قامت بتحديث مفتاح GPG المستخدم للتوقيع على إصدارات Firefox وThunderbird بعد أن تم كشفه عن طريق الخطأ على GitHub.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "b8a1763e43c3016c",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-11T13:15:24+00:00",
+    "en_text": "🛡️ 𝐕𝐚𝐠𝐮𝐞 𝐓𝐚𝐬𝐤, 𝐓𝐨𝐭𝐚𝐥 𝐀𝐜𝐜𝐞𝐬𝐬: 𝐖𝐡𝐞𝐧 𝐀𝐈 𝐃𝐞𝐥𝐞𝐠𝐚𝐭𝐢𝐨𝐧 𝐁𝐞𝐜𝐨𝐦𝐞𝐬 𝐚 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐑𝐢𝐬𝐤\n\n📌 What happened: AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ مهمة غامضة، وصول كامل: عندما يصبح تفويض الذكاء الاصطناعي خطرًا أمنيًا\n\n📌 وش اللي صار: يمكن لوكلاء الذكاء الاصطناعي الارتجال بما يتجاوز النطاق المقصود للمهمة عندما يتم منحهم وصولاً واسعًا إلى أنظمة وبيانات المؤسسة.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "989bd22c003062d5",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFEJ72sE5G8XpyLqNLnPaYpMcgnUe7K9XLKyJD3zxcwPABaJlkkFpiQd4p3GW4TSWg-eDlFRplyPtmKQjfHR7OwsvO0hOJQo8xmzqxpXy1v1k1VLpxFVs2Nghd6IDGpAcraSGGUYI1_pnFQ8A3Tcox-iKzHIayhoCiXMJPska8cfsiTvNd6dmSMLKEUmN/s1600/openai-exploit.jpg",
+    "published_at": "2026-08-11T13:11:23+00:00",
+    "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐀𝐈 𝐋𝐚𝐮𝐧𝐜𝐡𝐞𝐬 𝐆𝐏𝐓-𝟓.𝟔-𝐂𝐲𝐛𝐞𝐫 𝐰𝐢𝐭𝐡 𝐑𝐞𝐝𝐮𝐜𝐞𝐝 𝐒𝐚𝐟𝐞𝐠𝐮𝐚𝐫𝐝𝐬 𝐟𝐨𝐫 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭\n\n📌 What happened: OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ OpenAI تطلق GPT-5.6-Cyber ​​مع ضمانات مخففة لتطوير البرمجيات المستغلة\n\n📌 وش اللي صار: كشفت OpenAI يوم الاثنين عن نموذج جديد يركز على الأمن السيبراني يسمى GPT-5.6-Cyber ​​والذي قالت إنه يركز على أبحاث الثغرات الأمنية واختبار الاختراق والاستجابة للحوادث.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "729f36dc6beff8cd",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-07-31T15:47:02+00:00",
     "en_text": "🛡️ 𝐈𝐧 𝐎𝐭𝐡𝐞𝐫 𝐍𝐞𝐰𝐬: 𝐎𝐩𝐞𝐧𝐀𝐈 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐓𝐨𝐨𝐥, 𝐀𝐖𝐒 𝐋𝐢𝐧𝐤𝐬 𝐇𝐚𝐜𝐤𝐬 𝐭𝐨 𝐍𝐨𝐫𝐭𝐡 𝐊𝐨𝐫𝐞𝐚, 𝐌𝐲𝐭𝐡𝐨𝐬 𝐂𝐫𝐲𝐩𝐭𝐨 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡\n\n📌 What happened: Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ في أخبار أخرى: أداة OpenAI مفتوحة المصدر، AWS تربط الاختراقات بكوريا الشمالية، Mythos Crypto Research\n\n📌 وش اللي صار: قصص جديرة بالملاحظة ربما تكون قد اختفت من تحت الرادار: اختراق شركة تسليم الطرود OnTrac، وتصحيحات Adobe، وفقدان وزارة التعليم البريطانية 607000 سجل.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "67bae3a5b8a18e5f",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-31T15:17:41+00:00",
-    "en_text": "🛡️ 𝐂𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤𝐬 𝐨𝐧 𝐌𝐢𝐧𝐧𝐞𝐬𝐨𝐭𝐚 𝐖𝐚𝐭𝐞𝐫 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 𝐈𝐧𝐯𝐞𝐬𝐭𝐢𝐠𝐚𝐭𝐞𝐝 𝐚𝐬 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥𝐬 𝐖𝐚𝐫𝐧 𝐀𝐛𝐨𝐮𝐭 𝐈𝐫𝐚𝐧𝐢𝐚𝐧 𝐇𝐚𝐜𝐤𝐞𝐫𝐬\n\n📌 What happened: Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ التحقيق في الهجمات السيبرانية على أنظمة المياه في ولاية مينيسوتا بينما يحذر المسؤولون من المتسللين الإيرانيين\n\n📌 وش اللي صار: وأشار الخبراء إلى أن إيران لديها \"دوافع جيوسياسية\" وتاريخ حديث في استهداف شبكات المياه.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "8a2c99fa930a0297",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxfc7_NuArKSujgjgzPzENagYVTlBxcvnFBXSbptnFs_TI1o-Zt5SINHtPEO5MNkJ3vwkKUTX68vwmCzVxRQVFcgnb9eXwAsLKayCtzMLVRuqwV3RDaWTgQNOm0CVXcV_jX1v4x4mgEthTDjAsZdF4BSPSuTTRqKnM6qbIhPVjZP38dHmpptNurSmXRM/s1600/android-tv.jpg",
-    "published_at": "2026-07-31T14:45:01+00:00",
-    "en_text": "🛡️ 𝐂𝐡𝐞𝐚𝐩 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐓𝐕 𝐁𝐨𝐱𝐞𝐬 𝐏𝐨𝐬𝐞 𝐚𝐬 𝐏𝐡𝐨𝐧𝐞𝐬 𝐚𝐧𝐝 𝐓𝐮𝐫𝐧 𝐎𝐰𝐧𝐞𝐫𝐬’ 𝐁𝐫𝐨𝐚𝐝𝐛𝐚𝐧𝐝 𝐈𝐧𝐭𝐨 𝐏𝐫𝐨𝐱𝐢𝐞𝐬\n\n📌 What happened: Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تظهر صناديق تلفزيون Android الرخيصة وكأنها هواتف وتحول النطاق العريض الخاص بالمالكين إلى وكلاء\n\n📌 وش اللي صار: تقول Bitsight إن بعض صناديق Android TV الرخيصة قد تم شحنها مع تطبيقات تعيد كتابة هوية أجهزتها لتقليد هواتف Samsung أو Huawei أو Xiaomi أو Vivo، ثم النقر فوق الإعلانات على مواقع الويب التي يديرها نفس المشغلين.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "7b0535bbb7f51436",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-31T14:01:11+00:00",
-    "en_text": "🛡️ 𝐄𝐒𝐄𝐓 𝐭𝐫𝐚𝐜𝐤𝐬 𝐫𝐢𝐬𝐞 𝐢𝐧 𝐦𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐀𝐈 𝐬𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐚𝐝𝐚𝐩𝐭𝐚𝐛𝐥𝐞 𝐦𝐚𝐥𝐰𝐚𝐫𝐞\n\n📌 What happened: Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ ترتفع مسارات ESET في مهارات الذكاء الاصطناعي الضارة والبرامج الضارة القابلة للتكيف\n\n📌 وش اللي صار: يقوم المهاجمون بتكييف التقنيات المعمول بها مع منصات الذكاء الاصطناعي والتقنيات الناشئة وتغيير سلوك المستخدم.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
