@@ -1,5 +1,23 @@
 [
   {
+    "id": "bc8bdcb78a9e1664",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-11T15:59:35+00:00",
+    "en_text": "🛡️ 𝐖𝐞𝐬𝐜𝐨 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐢𝐧𝐜𝐢𝐝𝐞𝐧𝐭 𝐚𝐟𝐭𝐞𝐫 𝐄𝐱𝐟𝐢𝐥𝐒𝐪𝐮𝐚𝐝 𝐜𝐥𝐚𝐢𝐦𝐬 𝐝𝐚𝐭𝐚 𝐭𝐡𝐞𝐟𝐭\n\n📌 What happened: Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تؤكد Wesco وقوع حادث أمني بعد مطالبة ExfilSquad بسرقة البيانات\n\n📌 وش اللي صار: أكدت شركة Wesco العملاقة العالمية لسلسلة التوريد والتوزيع في بيان لموقع BleepingComputer أنها تحقق في حادث يتعلق بالأمن السيبراني.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "dd0027a7c58b9fa1",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-11T15:49:53+00:00",
+    "en_text": "🛡️ 𝐙𝐨𝐨𝐦 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐙𝐞𝐫𝐨-𝐂𝐥𝐢𝐜𝐤 𝐂𝐨𝐝𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يقوم Zoom بتصحيح ثغرة أمنية في تنفيذ التعليمات البرمجية بنقرة صفرية\n\n📌 وش اللي صار: ومن خلال التأثير على التعليق التوضيحي لـ Zoom، يمكن استغلال الخطأ من قبل أحد المشاركين في الاجتماع لتنفيذ تعليمات برمجية على جهاز مشارك آخر.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "d41df8b64332995d",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-31T16:49:49+00:00",
     "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐜𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤𝐬 𝐝𝐢𝐬𝐫𝐮𝐩𝐭𝐢𝐧𝐠 𝐔.𝐒. 𝐰𝐚𝐭𝐞𝐫 𝐮𝐭𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ CISA تحذر من الهجمات الإلكترونية التي تعطل مرافق المياه في الولايات المتحدة\n\n📌 وش اللي صار: تحذر وكالة الأمن السيبراني وأمن البنية التحتية الأمريكية (CISA) من زيادة كبيرة في الهجمات التي تستهدف وحدات التحكم المنطقية القابلة للبرمجة المعرضة للإنترنت (PLCs) في قطاع أنظمة المياه والصرف الصحي.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "b854b6f9db795aeb",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaqDYzKWLfOEp56DfMjSmDMudw7Y3DBFUY_xOhGNTnzRYlKw9YCNNbjLvepf-vDHB_KVSSA-KZjx2dNXjJR3ZpTpS_IgGSfhLRjyR2P8ocr_uWQ1w5UcYpuXnycnyv2tPtDqXoZMvD9pqgCNCPDrYMwAup0ftaycFLYzxHvdoOWhEA1ZXffc9ahBpkj5/s1600/law-firm.jpg",
-    "published_at": "2026-07-31T16:39:31+00:00",
-    "en_text": "🛡️ 𝐇𝐨𝐥𝐥𝐨𝐰𝐅𝐫𝐚𝐦𝐞 𝐋𝐨𝐚𝐝𝐞𝐫 𝐃𝐞𝐩𝐥𝐨𝐲𝐬 𝐌𝐚𝐭𝐫𝐲𝐨𝐬𝐡𝐤𝐚 𝐁𝐚𝐜𝐤𝐝𝐨𝐨𝐫 𝐢𝐧 𝐒𝐩𝐞𝐚𝐫-𝐏𝐡𝐢𝐬𝐡𝐢𝐧𝐠 𝐀𝐭𝐭𝐚𝐜𝐤 𝐨𝐧 𝐋𝐚𝐰 𝐅𝐢𝐫𝐦\n\n📌 What happened: Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ أداة تحميل HollowFrame تستخدم الباب الخلفي لـ Matryoshka في هجوم التصيد الاحتيالي على شركة محاماة\n\n📌 وش اللي صار: ألقى باحثو الأمن السيبراني الضوء على إطار عمل محمل قائم على Go غير موثق سابقًا يسمى HollowFrame وعائلة برامج ضارة قائمة على Rust يتم تتبعها باسم Matryoshka.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "e74935451af59a4c",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-31T15:47:02+00:00",
-    "en_text": "🛡️ 𝐈𝐧 𝐎𝐭𝐡𝐞𝐫 𝐍𝐞𝐰𝐬: 𝐎𝐩𝐞𝐧𝐀𝐈 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐓𝐨𝐨𝐥, 𝐀𝐖𝐒 𝐋𝐢𝐧𝐤𝐬 𝐇𝐚𝐜𝐤𝐬 𝐭𝐨 𝐍𝐨𝐫𝐭𝐡 𝐊𝐨𝐫𝐞𝐚, 𝐌𝐲𝐭𝐡𝐨𝐬 𝐂𝐫𝐲𝐩𝐭𝐨 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡\n\n📌 What happened: Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ في أخبار أخرى: أداة OpenAI مفتوحة المصدر، AWS تربط الاختراقات بكوريا الشمالية، Mythos Crypto Research\n\n📌 وش اللي صار: قصص جديرة بالملاحظة ربما تكون قد اختفت من تحت الرادار: اختراق شركة تسليم الطرود OnTrac، وتصحيحات Adobe، وفقدان وزارة التعليم البريطانية 607000 سجل.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
