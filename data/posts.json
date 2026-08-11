@@ -1,5 +1,32 @@
 [
   {
+    "id": "215b91448d4dcac6",
+    "source": "Krebs on Security",
+    "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-11T21:28:35+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐥𝐮𝐠𝐬 𝐍𝐞𝐚𝐫𝐥𝐲 𝟒𝟎𝟎 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐇𝐨𝐥𝐞𝐬\n\n📌 What happened: Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Krebs on Security — https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ مايكروسوفت تسد ما يقرب من 400 ثغرة أمنية\n\n📌 وش اللي صار: أصدرت Microsoft اليوم تحديثات لمعالجة ما لا يقل عن 398 ثغرة أمنية في أنظمة تشغيل Windows والبرامج المدعومة، بما في ذلك نقطة ضعف واحدة تم استغلالها بالفعل بشكل نشط واثنتين أخريين تم تفصيلهما علنًا قبل اليوم.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Krebs on Security — https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "5556828abfadd68d",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt468a31de0930ebef/6a7b87a0f0b097cbb1a7bb39/ransomware-jittawit.21-Getty-2178699306.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-11T21:16:25+00:00",
+    "en_text": "🛡️ 𝐆𝐮𝐧𝐫𝐚 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐆𝐚𝐧𝐠 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐬 𝐅𝐨𝐫𝐭𝐢𝐧𝐞𝐭 𝐅𝐥𝐚𝐰𝐬, 𝐁𝐲𝐩𝐚𝐬𝐬𝐞𝐬 𝐌𝐅𝐀\n\n📌 What happened: The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تستغل Gunra Ransomware Gang عيوب Fortinet وتتجاوز MFA\n\n📌 وش اللي صار: حققت عملية برامج الفدية كخدمة نجاحًا ضد أهداف البنية التحتية الحيوية من خلال كود Conti المسرب والعيوب القديمة في جدران الحماية وأجهزة VPN.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "4cc0270f88d8d7c1",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-11T21:07:24+00:00",
+    "en_text": "🛡️ 𝐒𝐚𝐧𝐝𝐰𝐨𝐫𝐦 𝐡𝐚𝐜𝐤𝐞𝐫𝐬 𝐭𝐚𝐫𝐠𝐞𝐭 𝐈𝐓 𝐩𝐫𝐨𝐬 𝐰𝐢𝐭𝐡 𝐭𝐫𝐨𝐣𝐚𝐧𝐢𝐳𝐞𝐝 𝐖𝐢𝐫𝐞𝐆𝐮𝐚𝐫𝐝 𝐕𝐏𝐍 𝐜𝐥𝐢𝐞𝐧𝐭\n\n📌 What happened: Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يستهدف قراصنة Sandworm محترفي تكنولوجيا المعلومات باستخدام عميل WireGuard VPN المصاب بفيروس طروادة\n\n📌 وش اللي صار: يستهدف المتسللون المرتبطون بمجموعة التهديد الروسية Sandworm مسؤولي النظام ومتخصصي تكنولوجيا المعلومات من خلال عروض عمل مزيفة منذ شهر مايو على الأقل.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "36069f37dfa6017d",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-08-01T17:17:22+00:00",
     "en_text": "🛡️ 𝐂𝐨𝐥𝐝𝐜𝐚𝐫𝐝 𝐇𝐚𝐫𝐝𝐰𝐚𝐫𝐞 𝐖𝐚𝐥𝐥𝐞𝐭 𝐅𝐥𝐚𝐰 𝐋𝐢𝐧𝐤𝐞𝐝 𝐭𝐨 $𝟕𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐁𝐢𝐭𝐜𝐨𝐢𝐧 𝐓𝐡𝐞𝐟𝐭 𝐢𝐧 𝟒𝟏 𝐌𝐢𝐧𝐮𝐭𝐞𝐬\n\n📌 What happened: An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ خلل في محفظة أجهزة Coldcard مرتبط بسرقة عملة بيتكوين بقيمة 70 مليون دولار في 41 دقيقة\n\n📌 وش اللي صار: استنزف أحد المهاجمين 1,196 عنوان بيتكوين في 41 دقيقة يوم 30 يوليو، حيث استولى على 1,082.65 بيتكوين بقيمة حوالي 70.2 مليون دولار في ذلك الوقت.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "e64f30381c40bc65",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-01T14:20:30+00:00",
-    "en_text": "🛡️ 𝐑𝐚𝐢𝐥𝐬 𝐩𝐚𝐭𝐜𝐡𝐞𝐬 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐀𝐜𝐭𝐢𝐯𝐞 𝐒𝐭𝐨𝐫𝐚𝐠𝐞 𝐟𝐥𝐚𝐰 𝐰𝐢𝐭𝐡 𝐑𝐂𝐄 𝐩𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥\n\n📌 What happened: A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE).\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تقوم ريلز بتصحيح الخلل الحرج في التخزين النشط مع إمكانية RCE\n\n📌 وش اللي صار: يمكن أن تسمح ثغرة أمنية حرجة في إطار عمل التخزين النشط لمهاجم غير مصادق بقراءة ملفات عشوائية من تطبيق ريلز، ومن المحتمل أن تتصاعد إلى تنفيذ التعليمات البرمجية عن بعد (RCE).\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "bfc0c92118f147c3",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-01T12:30:00+00:00",
-    "en_text": "🛡️ 𝐁𝐚𝐥𝐚𝐧𝐜𝐞 𝐓𝐡𝐞𝐨𝐫𝐲 𝐑𝐚𝐢𝐬𝐞𝐬 $𝟏𝟗 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐭𝐨 𝐇𝐞𝐥𝐩 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞𝐬 𝐌𝐚𝐧𝐚𝐠𝐞 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐈𝐧𝐯𝐞𝐬𝐭𝐦𝐞𝐧𝐭𝐬\n\n📌 What happened: The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تجمع شركة Balance Theory مبلغ 19 مليون دولار لمساعدة الشركات على إدارة استثمارات الأمن السيبراني\n\n📌 وش اللي صار: تمت قيادة جولة التمويل بواسطة SYN Ventures، بمشاركة المستثمرين الحاليين DataTribe وTEDCO.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "cdd2d5be99e725f9",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-01T11:15:00+00:00",
-    "en_text": "🛡️ 𝐑𝐮𝐛𝐲 𝐨𝐧 𝐑𝐚𝐢𝐥𝐬 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE).\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ روبي أون ريلز تصحح نقاط الضعف الحرجة\n\n📌 وش اللي صار: يمكن استغلال الثغرة من قبل مهاجمين غير مصادقين لقراءة الملفات العشوائية وربما تنفيذ التعليمات البرمجية عن بعد (RCE).\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
