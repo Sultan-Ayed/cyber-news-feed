@@ -1,5 +1,14 @@
 [
   {
+    "id": "21ad1a2bf2fd1f2a",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS_4KcVdL2QogjCtjg4yqVFuDNgQ9a8SYCzjsxUKME896DBso0Zwpvb8gH9T5gMPOqM2LU-A-7IyKOqKpKiXgLWAdiABf4RrVvAq9nNpDDC2TNppKWt9RKVXmNr2-Z9Y1kIBNVi8fETA6Aj6K2s_gU0Hmc8CKDi1q1wbqD9G9uUP5cPpuwk5h88mfD9I0/s1600/power-plant.jpg",
+    "published_at": "2026-08-11T06:55:45+00:00",
+    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐁𝐫𝐞𝐚𝐜𝐡 𝐏𝐨𝐥𝐢𝐬𝐡 𝐏𝐨𝐰𝐞𝐫 𝐏𝐥𝐚𝐧𝐭 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬 𝐯𝐢𝐚 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐂𝐞𝐥𝐥𝐮𝐥𝐚𝐫 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐚𝐧𝐝 𝐒𝐡𝐮𝐭 𝐓𝐮𝐫𝐛𝐢𝐧𝐞\n\n📌 What happened: Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ قراصنة يخترقون ضوابط محطة توليد الكهرباء البولندية عبر شبكة خلوية خاصة ويغلقون التوربينات\n\n📌 وش اللي صار: قام المهاجمون بإغلاق توربين بخاري ونظام معالجة المياه في محطة بولندية مشتركة للحرارة والكهرباء من خلال الدخول عبر الشبكة الخلوية الخاصة التي يستخدمها مشغل الشبكة المحلية للوصول إلى المعدات البعيدة.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "9d308e8b60664292",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-07-31T09:39:57+00:00",
     "en_text": "🛡️ 𝐏𝐫𝐨𝐦𝐩𝐭𝐞𝐝 𝐛𝐲 𝐎𝐩𝐞𝐧𝐀𝐈 𝐃𝐢𝐬𝐜𝐥𝐨𝐬𝐮𝐫𝐞, 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜 𝐅𝐢𝐧𝐝𝐬 𝐈𝐭𝐬 𝐎𝐰𝐧 𝐌𝐨𝐝𝐞𝐥𝐬 𝐇𝐚𝐜𝐤𝐞𝐝 𝟑 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬\n\n📌 What happened: A security company’s systems were hacked after it installed a malicious Python package deployed by Claude.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ بعد الكشف عن OpenAI، وجدت شركة Anthropic أن نماذجها الخاصة اخترقت 3 منظمات\n\n📌 وش اللي صار: تم اختراق أنظمة شركة أمنية بعد أن قامت بتثبيت حزمة Python الخبيثة التي نشرها كلود.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "665884aa59552ce3",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-31T06:50:30+00:00",
-    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐂𝐨𝐝𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐏𝐚𝐭𝐜𝐡𝐞𝐝 𝐢𝐧 𝐓𝐞𝐚𝐦𝐂𝐢𝐭𝐲\n\n📌 What happened: Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تم تصحيح ثغرة أمنية خطيرة في تنفيذ التعليمات البرمجية في TeamCity\n\n📌 وش اللي صار: يمكن استغلال الخلل الأمني، الذي تم تتبعه بالرقم CVE-2026-63077، دون المصادقة عبر بروتوكول استقصاء الوكيل.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
