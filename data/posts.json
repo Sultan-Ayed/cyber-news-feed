@@ -1,5 +1,23 @@
 [
   {
+    "id": "9d308e8b60664292",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-11T06:16:01+00:00",
+    "en_text": "🛡️ 𝐌𝐨𝐳𝐢𝐥𝐥𝐚 𝐈𝐬𝐬𝐮𝐞𝐬 𝐍𝐞𝐰 𝐅𝐢𝐫𝐞𝐟𝐨𝐱 𝐆𝐏𝐆 𝐊𝐞𝐲 𝐅𝐨𝐥𝐥𝐨𝐰𝐢𝐧𝐠 𝐄𝐱𝐩𝐨𝐬𝐮𝐫𝐞\n\n📌 What happened: The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تصدر Mozilla مفتاح Firefox GPG الجديد بعد التعرض له\n\n📌 وش اللي صار: تمت إضافة المفتاح الفرعي السابق لتوقيع GPG عن غير قصد إلى مستودع GitHub وقررت Mozilla إبطاله.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "39f20a787adea7b2",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh96gU64z_xM5LiLI39IXPndJ1felnUkfQmWxQ2sGfE9r_yYK6AKPLV3x6uVWeZxZoEsJwy0h7OUHILX1sAbwc6MYHpIeeTvCVeH52TnCInqqjjRPW4-Sx7gPPq4abN7ltCnClrjRhDDqyON8UBxcKFjoyubm7CeEgaZos3j4OCLJdRozfEOrDX1rPsnSoF/s1600/wordpress.jpg",
+    "published_at": "2026-08-11T05:48:44+00:00",
+    "en_text": "🛡️ 𝐁𝐝𝐓𝐡𝐞𝐦𝐞𝐬 𝐒𝐮𝐩𝐩𝐥𝐲 𝐂𝐡𝐚𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤 𝐏𝐨𝐢𝐬𝐨𝐧𝐬 𝐉𝐒𝐎𝐍 𝐭𝐨 𝐂𝐫𝐞𝐚𝐭𝐞 𝐑𝐨𝐠𝐮𝐞 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐀𝐝𝐦𝐢𝐧𝐬\n\n📌 What happened: Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ هجوم سلسلة التوريد BdThemes يسمم JSON لإنشاء مسؤولي WordPress المحتالين\n\n📌 وش اللي صار: حذر باحثو الأمن السيبراني من وجود اختراق في سلسلة التوريد يؤثر على بائع المكونات الإضافية لـ WordPress BdThemes، مما دفع فريق المكونات الإضافية لمنصة أنظمة إدارة المحتوى (CMS) إلى تعطيل التنزيلات الخاصة بهم مؤقتًا.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "d319044c80010cfd",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-07-31T06:50:30+00:00",
     "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐂𝐨𝐝𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐏𝐚𝐭𝐜𝐡𝐞𝐝 𝐢𝐧 𝐓𝐞𝐚𝐦𝐂𝐢𝐭𝐲\n\n📌 What happened: Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تم تصحيح ثغرة أمنية خطيرة في تنفيذ التعليمات البرمجية في TeamCity\n\n📌 وش اللي صار: يمكن استغلال الخلل الأمني، الذي تم تتبعه بالرقم CVE-2026-63077، دون المصادقة عبر بروتوكول استقصاء الوكيل.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "82d450915eb17be1",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ3hIjH82iCzMILnA0uACotjW9waDLj4siTRhyphenhyphenBSiVyis0Ul0j7-7FcWyDzmCAzZPLJ72iYRezpbd9dUAB_UMw5G4eMBRwph0Sb_aQr9yCRXeLXAkjGiNFekM_qDtOZNFsSk6LLC81Ef74JaqIrcJN58-5p2ShHmUuhKC1IYeVgpQ7D76NWXLnR44RN6G6/s1600/claude.jpg",
-    "published_at": "2026-07-31T06:41:44+00:00",
-    "en_text": "🛡️ 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜 𝐒𝐚𝐲𝐬 𝐂𝐥𝐚𝐮𝐝𝐞 𝐌𝐢𝐬𝐭𝐨𝐨𝐤 𝐭𝐡𝐞 𝐎𝐩𝐞𝐧 𝐈𝐧𝐭𝐞𝐫𝐧𝐞𝐭 𝐟𝐨𝐫 𝐚 𝐂𝐓𝐅 𝐚𝐧𝐝 𝐁𝐫𝐞𝐚𝐜𝐡𝐞𝐝 𝐓𝐡𝐫𝐞𝐞 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬\n\n📌 What happened: Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed organizations during cybersecurity testing without…\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تقول الأنثروبيك إن كلود أخطأ في فهم الإنترنت المفتوح على أنه إحدى قوات مكافحة الإرهاب وقام باختراق ثلاث منظمات\n\n📌 وش اللي صار: أصبحت Anthropic يوم الخميس أحدث شركة ذكاء اصطناعي (AI) تكشف أن ثلاثة من نماذجها، بما في ذلك Claude Opus 4.7، وMythos 5، ونموذج بحث لم يذكر اسمه، قد اخترقت ثلاث منظمات لم تذكر اسمها أثناء اختبار الأمن السيبراني دون ...\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "65dc8ba86df182d9",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-07-31T00:57:25+00:00",
-    "en_text": "🛡️ 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜'𝐬 𝐂𝐥𝐚𝐮𝐝𝐞 𝐛𝐫𝐞𝐚𝐜𝐡𝐞𝐝 𝟑 𝐨𝐫𝐠𝐬, 𝐮𝐩𝐥𝐨𝐚𝐝𝐞𝐝 𝐏𝐲𝐏𝐈 𝐦𝐚𝐥𝐰𝐚𝐫𝐞 𝐝𝐮𝐫𝐢𝐧𝐠 𝐭𝐞𝐬𝐭𝐬\n\n📌 What happened: One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ قام Anthropic's Claude باختراق 3 مؤسسات، وقام بتحميل برامج PyPI الضارة أثناء الاختبارات\n\n📌 وش اللي صار: قام أحد نماذج Anthropic's Claude ببناء وتحميل حزمة Python ضارة إلى PyPI أثناء تقييم أمني فاشل، حيث تم تشغيله على 15 نظامًا حقيقيًا وسرق بيانات الاعتماد من أحد موردي الأمان. لقد كانت واحدة من ثلاث حوادث أثرت على شركات حقيقية.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
