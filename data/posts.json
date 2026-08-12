@@ -1,5 +1,14 @@
 [
   {
+    "id": "69d803bc6f787a59",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-12T01:15:55+00:00",
+    "en_text": "🛡️ 𝐆𝐨𝐨𝐠𝐥𝐞 𝐬𝐚𝐲𝐬 𝐂𝐡𝐫𝐨𝐦𝐞 𝐜𝐮𝐭𝐬 𝟕 𝐛𝐢𝐥𝐥𝐢𝐨𝐧 𝐮𝐧𝐰𝐚𝐧𝐭𝐞𝐝 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐧𝐨𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐚 𝐝𝐚𝐲 𝐭𝐨 𝐟𝐢𝐠𝐡𝐭 𝐚𝐛𝐮𝐬𝐞\n\n📌 What happened: Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تقول Google إن Chrome يقطع 7 مليارات إشعارات Android غير المرغوب فيها يوميًا لمكافحة إساءة الاستخدام\n\n📌 وش اللي صار: تقول Google إن أنظمة مكافحة إساءة الاستخدام في Chrome خفضت الإشعارات غير المرغوب فيها على Android بأكثر من 7 مليارات يوميًا خلال الربع الأول من عام 2026.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "00914884b0e1da5a",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-03T09:13:56+00:00",
     "en_text": "🛡️ 𝐏𝐍𝐋𝐃 𝐁𝐫𝐞𝐚𝐜𝐡 𝐄𝐱𝐩𝐨𝐬𝐞𝐬 𝐔.𝐊. 𝐏𝐨𝐥𝐢𝐜𝐞 𝐚𝐧𝐝 𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬 𝐨𝐧 𝐃𝐚𝐫𝐤 𝐖𝐞𝐛\n\n📌 What happened: The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يكشف خرق PNLD تفاصيل الاتصال بالشرطة والحكومة في المملكة المتحدة على الويب المظلم\n\n📌 وش اللي صار: أكدت قاعدة البيانات القانونية الوطنية للشرطة (PNLD) أن معلومات الاتصال بالشرطة والحكومة والعملاء قد تم اختراقها ونشرها على الويب المظلم.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "000b4c51e3b2ed33",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg",
-    "published_at": "2026-08-03T08:05:30+00:00",
-    "en_text": "🛡️ 𝐓𝐡𝐞𝐫𝐦𝐨 𝐅𝐢𝐬𝐡𝐞𝐫 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐅𝐥𝐚𝐰 𝐓𝐡𝐚𝐭 𝐂𝐨𝐮𝐥𝐝 𝐌𝐚𝐤𝐞 𝐃𝐍𝐀 𝐅𝐢𝐥𝐞 𝐓𝐚𝐦𝐩𝐞𝐫𝐢𝐧𝐠 𝐍𝐞𝐚𝐫𝐥𝐲 𝐔𝐧𝐝𝐞𝐭𝐞𝐜𝐭𝐚𝐛𝐥𝐞\n\n📌 What happened: Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تقوم شركة Thermo Fisher بتصحيح الخلل الذي قد يجعل التلاعب بملف الحمض النووي غير قابل للاكتشاف تقريبًا\n\n📌 وش اللي صار: قامت شركة Thermo Fisher Scientific بتصحيح خلل في برنامج تحديد الهوية البشرية التابع لشركة Applied Biosystems والذي قد يسمح بتغيير ملفات البيانات قبل أن يقوم برنامج التحليل بتحميلها.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
