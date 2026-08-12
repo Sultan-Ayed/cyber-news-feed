@@ -1,5 +1,14 @@
 [
   {
+    "id": "1d2292fea9dd3005",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-12T23:07:23+00:00",
+    "en_text": "🛡️ \"𝐂𝐢𝐭𝐲-𝐅𝐨𝐫𝐮𝐦\" 𝐝𝐚𝐭𝐚-𝐭𝐡𝐞𝐟𝐭 𝐚𝐭𝐭𝐚𝐜𝐤𝐬 𝐭𝐚𝐫𝐠𝐞𝐭 𝐒𝐚𝐥𝐞𝐬𝐟𝐨𝐫𝐜𝐞, 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐍𝐨𝐰 𝐩𝐨𝐫𝐭𝐚𝐥𝐬\n\n📌 What happened: An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تستهدف هجمات سرقة البيانات \"City-Forum\" بوابات Salesforce وServiceNow\n\n📌 وش اللي صار: تستخدم حملة سرقة البيانات المستمرة أدوات مخصصة لسرقة البيانات المكشوفة لمستخدمين مجهولين من خلال بوابات عملاء Salesforce Experience Cloud وServiceNow.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "f2480e43b37d98c2",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-04T17:27:39+00:00",
     "en_text": "🛡️ 𝐆𝐫𝐞𝐚𝐭𝐧𝐞𝐬𝐬 𝐏𝐡𝐚𝐚𝐒 𝐀𝐝𝐝𝐬 𝐃𝐞𝐯𝐢𝐜𝐞 𝐂𝐨𝐝𝐞 𝐏𝐡𝐢𝐬𝐡𝐢𝐧𝐠 𝐭𝐨 𝐁𝐲𝐩𝐚𝐬𝐬 𝐌𝐅𝐀 𝐚𝐧𝐝 𝐒𝐭𝐞𝐚𝐥 𝐓𝐨𝐤𝐞𝐧𝐬\n\n📌 What happened: The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass…\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "3c4c81dd2ba5ee1c",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-04T16:49:39+00:00",
-    "en_text": "🛡️ 𝐁𝐥𝐚𝐜𝐤 𝐇𝐚𝐭 𝐔𝐒𝐀 𝟐𝟎𝟐𝟔 – 𝐒𝐮𝐦𝐦𝐚𝐫𝐲 𝐨𝐟 𝐕𝐞𝐧𝐝𝐨𝐫 𝐀𝐧𝐧𝐨𝐮𝐧𝐜𝐞𝐦𝐞𝐧𝐭𝐬 (𝐏𝐚𝐫𝐭 𝟐)\n\n📌 What happened: Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Black Hat USA 2026 – ملخص إعلانات الموردين (الجزء الثاني)\n\n📌 وش اللي صار: تعرض العديد من الشركات منتجاتها وخدماتها هذا الأسبوع في نسخة 2026 من مؤتمر Black Hat في لاس فيغاس.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
