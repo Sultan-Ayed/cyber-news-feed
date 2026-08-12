@@ -1,5 +1,14 @@
 [
   {
+    "id": "fb25ddb821729790",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-12T05:10:47+00:00",
+    "en_text": "🛡️ 𝐂𝐢𝐬𝐜𝐨 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐅𝐢𝐫𝐞𝐰𝐚𝐥𝐥 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐟𝐨𝐫 𝐃𝐨𝐒 𝐀𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تقوم Cisco بتصحيح جدار الحماية Zero-Day المستغل لهجمات DoS\n\n📌 وش اللي صار: يمكن استغلال CVE-2026-20349 عن بعد دون المصادقة على أجهزة Secure Firewall ASA وFTD.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "69d803bc6f787a59",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-03T10:49:06+00:00",
     "en_text": "🛡️ 𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐓𝐡𝐫𝐞𝐚𝐭 𝐀𝐜𝐭𝐨𝐫 𝐔𝐬𝐞𝐬 𝐋𝐞𝐚𝐤𝐞𝐝 𝐃𝐚𝐫𝐤𝐒𝐰𝐨𝐫𝐝 𝐊𝐢𝐭 𝐭𝐨 𝐃𝐞𝐩𝐥𝐨𝐲 𝐆𝐇𝐎𝐒𝐓𝐁𝐋𝐀𝐃𝐄 𝐨𝐧 𝐢𝐎𝐒\n\n📌 What happened: An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يستخدم ممثل التهديد الصيني مجموعة DarkSword المسربة لنشر GHOSTBLADE على iOS\n\n📌 وش اللي صار: تمت ملاحظة جهة تهديد صينية غير معروفة وهي تدير حملة تستهدف أجهزة Apple iOS من خلال الاستفادة من نسخة تم تسريبها علنًا من مجموعة استغلال DarkSword.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "a71a79482b5b0878",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg",
-    "published_at": "2026-08-03T09:13:56+00:00",
-    "en_text": "🛡️ 𝐏𝐍𝐋𝐃 𝐁𝐫𝐞𝐚𝐜𝐡 𝐄𝐱𝐩𝐨𝐬𝐞𝐬 𝐔.𝐊. 𝐏𝐨𝐥𝐢𝐜𝐞 𝐚𝐧𝐝 𝐆𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬 𝐨𝐧 𝐃𝐚𝐫𝐤 𝐖𝐞𝐛\n\n📌 What happened: The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يكشف خرق PNLD تفاصيل الاتصال بالشرطة والحكومة في المملكة المتحدة على الويب المظلم\n\n📌 وش اللي صار: أكدت قاعدة البيانات القانونية الوطنية للشرطة (PNLD) أن معلومات الاتصال بالشرطة والحكومة والعملاء قد تم اختراقها ونشرها على الويب المظلم.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
