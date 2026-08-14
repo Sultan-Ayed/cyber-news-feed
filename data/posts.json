@@ -1,5 +1,41 @@
 [
   {
+    "id": "a26a1b6d971623f9",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-14T11:35:23+00:00",
+    "en_text": "🛡️ 𝐓𝐫𝐢𝐯𝐲, 𝐍𝐨𝐭 𝐋𝐢𝐭𝐞𝐋𝐋𝐌 𝐁𝐞𝐡𝐢𝐧𝐝 𝐭𝐡𝐞 𝟐,𝟓𝟎𝟎 𝐎𝐫𝐠 𝐂𝐨𝐦𝐩𝐫𝐨𝐦𝐢𝐬𝐞\n\n📌 What happened: Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Trivy، وليس LiteLLM وراء تسوية 2500 مؤسسة\n\n📌 وش اللي صار: تم الكشف عن أكثر من 95% من الشركات المتضررة قبل نشر حزم LiteLLM الضارة.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "669791ec854cd4e3",
+    "source": "Krebs on Security",
+    "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-14T11:24:35+00:00",
+    "en_text": "🛡️ 𝐖𝐡𝐨’𝐬 𝐓𝐫𝐚𝐜𝐤𝐢𝐧𝐠 𝐘𝐨𝐮? 𝐔𝐬𝐞 𝐓𝐡𝐢𝐬 𝐍𝐞𝐰 𝐒𝐞𝐫𝐯𝐢𝐜𝐞 𝐭𝐨 𝐅𝐢𝐧𝐝 𝐎𝐮𝐭\n\n📌 What happened: It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Krebs on Security — https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ من يتتبعك؟ استخدم هذه الخدمة الجديدة لمعرفة ذلك\n\n📌 وش اللي صار: قد يكون من الصعب تحديد المسؤول عن عرض الإعلانات على مواقع الويب التي نزورها، أو من يجمع البيانات من تطبيقات الهاتف المحمول التي نستخدمها يوميًا.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Krebs on Security — https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "b67e797e66a6a4ed",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-14T11:00:00+00:00",
+    "en_text": "🛡️ 𝐆𝐨𝐨𝐠𝐥𝐞 𝐂𝐥𝐨𝐮𝐝 𝐒𝐞𝐭𝐬 𝐎𝐮𝐭 𝐏𝐨𝐬𝐭-𝐐𝐮𝐚𝐧𝐭𝐮𝐦 𝐑𝐨𝐚𝐝𝐦𝐚𝐩 𝐖𝐢𝐭𝐡 𝟐𝟎𝟐𝟗 𝐑𝐞𝐚𝐝𝐢𝐧𝐞𝐬𝐬 𝐆𝐨𝐚𝐥\n\n📌 What happened: Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تحدد Google Cloud خارطة طريق ما بعد الكم مع هدف الاستعداد لعام 2029\n\n📌 وش اللي صار: تحدد Google Cloud خارطة الطريق الخاصة بها للاستعداد الكامل للتشفير الكمي، مع المعالم الرئيسية المستهدفة لعامي 2027 و2028.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "815fb64a5a953d1e",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-14T10:52:05+00:00",
+    "en_text": "🛡️ 𝐑𝐢𝐧𝐠𝐂𝐞𝐧𝐭𝐫𝐚𝐥 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐞𝐱𝐩𝐨𝐬𝐞𝐝 𝐢𝐧𝐟𝐨 𝐨𝐟 𝟏.𝟔 𝐦𝐢𝐥𝐥𝐢𝐨𝐧 𝐚𝐜𝐜𝐨𝐮𝐧𝐭𝐬\n\n📌 What happened: The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ كشف اختراق بيانات RingCentral عن معلومات لـ 1.6 مليون حساب\n\n📌 وش اللي صار: سرقت مجموعة ShinyHunters الابتزازية معلومات شخصية من 1.6 مليون حساب على RingCentral بعد اختراق الشركة في يوليو، وفقًا لخدمة إشعار خرق البيانات Have I Been Pwned.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "d6d5f2b7f81e29eb",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
@@ -1762,41 +1798,5 @@
     "published_at": "2026-08-05T23:30:00+00:00",
     "en_text": "🛡️ 𝐀𝐈 𝐁𝐫𝐨𝐰𝐬𝐞𝐫𝐬 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐥𝐞 𝐭𝐨 '𝐏𝐥𝐞𝐚𝐬𝐞𝐅𝐢𝐱' 𝐙𝐞𝐫𝐨-𝐂𝐥𝐢𝐜𝐤 𝐀𝐠𝐞𝐧𝐭 𝐇𝐢𝐣𝐚𝐜𝐤𝐢𝐧𝐠\n\n📌 What happened: Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ متصفحات الذكاء الاصطناعي معرضة لخطر اختطاف عامل النقر الصفري \"PleaseFix\".\n\n📌 وش اللي صار: يمكن للمهاجمين السيطرة على العملاء من خلال تعليمات ضارة مخفية في المحتوى المقدم لمتصفحات الذكاء الاصطناعي، وليس هناك حل بسيط للتهديد.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "0426f429b00fdb6e",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-05T23:00:50+00:00",
-    "en_text": "🛡️ 𝐑𝐚𝐧𝐬𝐨𝐦 𝐂𝐚𝐫𝐭𝐞𝐥 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐜𝐫𝐞𝐚𝐭𝐨𝐫 𝐬𝐞𝐧𝐭𝐞𝐧𝐜𝐞𝐝 𝐭𝐨 𝟏𝟔 𝐲𝐞𝐚𝐫𝐬 𝐢𝐧 𝐩𝐫𝐢𝐬𝐨𝐧\n\n📌 What happened: Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الحكم على منشئ برامج الفدية Ransom Cartel بالسجن لمدة 16 عامًا\n\n📌 وش اللي صار: حُكم على ماكسيم سيلنيكاو، مبتكر ومدير عملية Ransom Cartel Ransomware، بالسجن لمدة 16 عامًا لدوره في هجمات برامج الفدية ضد ما لا يقل عن 18 شركة حول العالم.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "cc708ad7bf475114",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7e0cf3695ec46a69/6a73b8d82ab3843852e5758c/robot_browsing-sorbetto-Getty-2150544898.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-08-05T22:18:25+00:00",
-    "en_text": "🛡️ 𝐍𝐨 𝐏𝐞𝐫𝐟𝐞𝐜𝐭 𝐅𝐢𝐱 𝐟𝐨𝐫 𝐀𝐈 𝐁𝐫𝐨𝐰𝐬𝐞𝐫 𝐏𝐫𝐨𝐦𝐩𝐭 𝐈𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧 𝐅𝐥𝐚𝐰𝐬\n\n📌 What happened: AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ لا يوجد حل مثالي لعيوب الحقن الفوري لمتصفح الذكاء الاصطناعي\n\n📌 وش اللي صار: تظل متصفحات الذكاء الاصطناعي من كبار البائعين عرضة لهجمات الحقن السريع على الرغم من حواجز الحماية الأمنية المتعددة، وفقًا لبحث جديد.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "1d247e0f8135d3d3",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-05T21:53:26+00:00",
-    "en_text": "🛡️ 𝐂𝐚𝐧𝐚𝐝𝐢𝐚𝐧 𝐩𝐥𝐞𝐚𝐝𝐬 𝐠𝐮𝐢𝐥𝐭𝐲 𝐭𝐨 𝐒𝐧𝐨𝐰𝐟𝐥𝐚𝐤𝐞 𝐜𝐥𝐨𝐮𝐝 𝐝𝐚𝐭𝐚-𝐭𝐡𝐞𝐟𝐭 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الكندي يعترف بأنه مذنب في هجمات سرقة البيانات السحابية Snowflake\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "167589835478151c",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-05T19:55:25+00:00",
-    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐫𝐮𝐧 𝐤𝐡𝐮𝐧𝐭 𝐩𝐨𝐬𝐭-𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐚𝐭𝐢𝐨𝐧 𝐭𝐨𝐨𝐥𝐤𝐢𝐭 𝐟𝐫𝐨𝐦 𝐎𝐫𝐚𝐜𝐥𝐞 𝐝𝐚𝐭𝐚𝐛𝐚𝐬𝐞\n\n📌 What happened: Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يقوم المتسللون بتشغيل مجموعة أدوات khunt لما بعد الاستغلال من قاعدة بيانات Oracle\n\n📌 وش اللي صار: استغل المتسللون ثغرة أمنية في حقن SQL لتثبيت مجموعة أدوات ما بعد الاستغلال مباشرة داخل قاعدة بيانات Oracle التي تم استخدامها لاختراق شبكة الشركة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
