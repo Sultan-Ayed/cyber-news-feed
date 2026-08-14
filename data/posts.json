@@ -1,5 +1,14 @@
 [
   {
+    "id": "9f7d0a43b985f2a5",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt82eda035ca3e22ea/6a7f3bb6faf5c1cbf257cd7b/Edinburgh-StephenBridger-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-14T15:58:50+00:00",
+    "en_text": "🛡️ 𝐒𝐜𝐨𝐭𝐭𝐢𝐬𝐡 𝐆𝐨𝐯𝐭 𝐒𝐮𝐟𝐟𝐞𝐫𝐬 𝐏𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥𝐥𝐲 𝐖𝐢𝐝𝐞𝐧𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡 𝐚𝐭 𝐏𝐫𝐨𝐬𝐞𝐜𝐮𝐭𝐨𝐫'𝐬 𝐎𝐟𝐟𝐢𝐜𝐞\n\n📌 What happened: One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تعاني الحكومة الاسكتلندية من خرق محتمل للبيانات في مكتب المدعي العام\n\n📌 وش اللي صار: أبلغت إحدى الوكالات الحكومية في كاليدونيا عن حدوث اختراق، وذلك بفضل طرف ثالث ربما يكون قد خدم وكالات أخرى أيضًا.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "f3d1727276b91814",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-06T11:33:08+00:00",
     "en_text": "🛡️ 𝐀𝐩𝐩𝐥𝐞 𝐢𝐂𝐥𝐨𝐮𝐝 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐑𝐞𝐥𝐚𝐲 𝐂𝐚𝐧 𝐄𝐱𝐩𝐨𝐬𝐞 𝐑𝐞𝐚𝐥 𝐈𝐏𝐬 𝐓𝐡𝐫𝐨𝐮𝐠𝐡 𝐖𝐞𝐛𝐊𝐢𝐭 𝐏𝐫𝐨𝐱𝐲 𝐁𝐲𝐩𝐚𝐬𝐬𝐞𝐬\n\n📌 What happened: Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يمكن لـ Apple iCloud Private Relay الكشف عن عناوين IP الحقيقية من خلال تجاوزات وكيل WebKit\n\n📌 وش اللي صار: كشف باحثو الأمن السيبراني عن مشكلة أمنية في أداة iCloud Private Relay من Apple والتي يمكنها الكشف عن عنوان IP الحقيقي للمستخدم.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "376accbc001ddf74",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgERF89TJZsy7Kq1JhEcPKC5ynyCNMv1JAObXj4W415ZbGwE-ZZplLbq5HEiBWi3ULKifDI7Tl440UrQvLFEmngeAHL4o2XfWKxTgb7CEsHmBqBt-w5qePo-BGmlDcu_vJtyfsh1CV5COMXpIUHRiw8WmPeitZAzEu3ugQJ90mDtOhlU0BzTaRDogTHg2Y/s1600/ask-ai.jpg",
-    "published_at": "2026-08-06T11:30:00+00:00",
-    "en_text": "🛡️ 𝐀𝐈 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐏𝐨𝐢𝐬𝐨𝐧𝐢𝐧𝐠: 𝐇𝐨𝐰 \"𝐀𝐬𝐤 𝐀𝐈\" 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐒𝐢𝐥𝐞𝐧𝐭𝐥𝐲 𝐀𝐥𝐭𝐞𝐫 𝐋𝐋𝐌 𝐌𝐞𝐦𝐨𝐫𝐲\n\n📌 What happened: A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pre-filled deep links.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ التسمم بتوصيات الذكاء الاصطناعي: كيف تعمل أزرار \"اسأل الذكاء الاصطناعي\" على تغيير ذاكرة LLM بصمت\n\n📌 وش اللي صار: تنتشر فئة جديدة من الحقن الفوري عبر المواقع التجارية. فهو لا يتطلب أي برامج ضارة، أو بيانات اعتماد مسروقة، أو استغلال يوم الصفر. إنه يسيء استخدام ميزة قياسية مضمنة في كل مساعد رئيسي للذكاء الاصطناعي تقريبًا: الروابط العميقة المملوءة مسبقًا.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
