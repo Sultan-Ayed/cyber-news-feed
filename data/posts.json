@@ -1,5 +1,14 @@
 [
   {
+    "id": "df1d901c6dd98219",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-14T01:19:12+00:00",
+    "en_text": "🛡️ 𝐀𝐩𝐩𝐥𝐞 𝐬𝐞𝐧𝐝𝐬 𝐧𝐞𝐰 ‘𝐓𝐡𝐫𝐞𝐚𝐭 𝐍𝐨𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧’ 𝐚𝐥𝐞𝐫𝐭𝐬 𝐨𝐯𝐞𝐫 𝐦𝐞𝐫𝐜𝐞𝐧𝐚𝐫𝐲 𝐬𝐩𝐲𝐰𝐚𝐫𝐞 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\"\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ترسل Apple تنبيهات \"إشعارات التهديد\" الجديدة بشأن هجمات برامج التجسس المرتزقة\n\n📌 وش اللي صار: لست وحدك إذا تلقيت للتو \"إشعار تهديد من Apple\" يفيد بأنه اكتشف \"هجوم برامج تجسس مرتزقة يستهدف جهاز iPhone الخاص بك\".\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2ef1deb56f009fc1",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-05T17:49:41+00:00",
     "en_text": "🛡️ 𝐂𝐎𝐋𝐃𝐂𝐀𝐑𝐃 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐮𝐝𝐢𝐭 𝐩𝐡𝐢𝐬𝐡𝐢𝐧𝐠 𝐚𝐭𝐭𝐚𝐜𝐤 𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐬 𝐫𝐞𝐦𝐨𝐭𝐞 𝐚𝐜𝐜𝐞𝐬𝐬 𝐭𝐨𝐨𝐥\n\n📌 What happened: A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يقوم هجوم التصيد الاحتيالي للتدقيق الأمني ​​لـ COLDCARD بتثبيت أداة الوصول عن بعد\n\n📌 وش اللي صار: تستغل حملة التصيد الاحتيالي المخاوف المحيطة بالثغرة الأمنية التي تم الكشف عنها مؤخرًا في محفظة COLDCARD وسرقة بيتكوين بقيمة 88.6 مليون دولار لخداع المستخدمين لتثبيت برنامج الوصول عن بعد ScreenConnect.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "4dcce587c04dd0d3",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-05T15:51:33+00:00",
-    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐰𝐚𝐫𝐧𝐬 𝐨𝐟 𝐡𝐚𝐜𝐤𝐞𝐫𝐬 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐟𝐥𝐨𝐰, 𝐍-𝐜𝐞𝐧𝐭𝐫𝐚𝐥, 𝐀𝐩𝐚𝐜𝐡𝐞 𝐓𝐨𝐦𝐜𝐚𝐭 𝐟𝐥𝐚𝐰𝐬\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تحذر CISA من المتسللين الذين يستغلون عيوب Langflow وN-central وApache Tomcat\n\n📌 وش اللي صار: منحت وكالة الأمن السيبراني وأمن البنية التحتية الأمريكية الوكالات الفيدرالية ثلاثة أيام للتخفيف من نقاط الضعف في IBM Langflow وN-central وApache Tomcat، والتي تم استغلالها جميعًا بشكل نشط.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
