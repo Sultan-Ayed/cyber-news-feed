@@ -1,5 +1,14 @@
 [
   {
+    "id": "f3d1727276b91814",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-14T14:59:55+00:00",
+    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐞𝐱𝐩𝐥𝐨𝐢𝐭 𝐦𝐚𝐜𝐎𝐒 𝐒𝐜𝐫𝐞𝐞𝐧 𝐒𝐡𝐚𝐫𝐢𝐧𝐠 𝐟𝐥𝐚𝐰 𝐭𝐨 𝐝𝐞𝐩𝐥𝐨𝐲 𝐌𝐨𝐧𝐞𝐫𝐨 𝐦𝐢𝐧𝐞𝐫\n\n📌 What happened: The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يستغل المتسللون ثغرة مشاركة شاشة نظام التشغيل MacOS لنشر أداة تعدين Monero\n\n📌 وش اللي صار: يحذر المركز الوطني للأمن السيبراني في هولندا (NCSC) من أن المتسللين يستغلون بشكل نشط ثغرة أمنية لتجاوز مصادقة نظام التشغيل MacOS بعد ظهور كود الاستغلال العام.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "4c9d6b022a5d05c3",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-06T11:30:00+00:00",
     "en_text": "🛡️ 𝐀𝐈 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐏𝐨𝐢𝐬𝐨𝐧𝐢𝐧𝐠: 𝐇𝐨𝐰 \"𝐀𝐬𝐤 𝐀𝐈\" 𝐁𝐮𝐭𝐭𝐨𝐧𝐬 𝐒𝐢𝐥𝐞𝐧𝐭𝐥𝐲 𝐀𝐥𝐭𝐞𝐫 𝐋𝐋𝐌 𝐌𝐞𝐦𝐨𝐫𝐲\n\n📌 What happened: A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pre-filled deep links.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ التسمم بتوصيات الذكاء الاصطناعي: كيف تعمل أزرار \"اسأل الذكاء الاصطناعي\" على تغيير ذاكرة LLM بصمت\n\n📌 وش اللي صار: تنتشر فئة جديدة من الحقن الفوري عبر المواقع التجارية. فهو لا يتطلب أي برامج ضارة، أو بيانات اعتماد مسروقة، أو استغلال يوم الصفر. إنه يسيء استخدام ميزة قياسية مضمنة في كل مساعد رئيسي للذكاء الاصطناعي تقريبًا: الروابط العميقة المملوءة مسبقًا.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "4c338a28ee4465db",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGMHYrRkDGf3XV_lOoUbE1UCSjvcN9x-XNpNGpX_f45JqZzd2FrxJ-metvu-U5VyDqH2PGNaY9MiSeShhH-YVN3O4ryN5lh4ICsuXtz0-DuCSAgnywXUifDOf_qZS81AtjRGNQWgs1QnL4Eu54icswla_ZK7qGoZqWDaVzPX46pmcTrvj_ec0yQwrt9k/s1600/oracle-root.jpg",
-    "published_at": "2026-08-06T09:19:23+00:00",
-    "en_text": "🛡️ 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐂𝐨𝐦𝐩𝐢𝐥𝐞 𝐤𝐡𝐮𝐧𝐭 𝐈𝐧𝐬𝐢𝐝𝐞 𝐎𝐫𝐚𝐜𝐥𝐞 𝐭𝐨 𝐓𝐮𝐫𝐧 𝐒𝐐𝐋 𝐈𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧 𝐈𝐧𝐭𝐨 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐒𝐘𝐒𝐓𝐄𝐌 𝐀𝐜𝐜𝐞𝐬𝐬\n\n📌 What happened: Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يقوم المهاجمون بتجميع khunt داخل Oracle لتحويل حقن SQL إلى Windows SYSTEM Access\n\n📌 وش اللي صار: اخترق المهاجمون قاعدة بيانات Oracle الخاصة بالمؤسسة من خلال خلل في إدخال SQL في تطبيق ويب عام، ثم قاموا بتثبيت مجموعة أدوات ما بعد الاستغلال دون كتابة ملف قابل للتنفيذ على القرص.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
