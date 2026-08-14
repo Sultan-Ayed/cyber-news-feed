@@ -1,5 +1,32 @@
 [
   {
+    "id": "6b8fef3ef86eff01",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-14T08:16:00+00:00",
+    "en_text": "🛡️ 𝟏𝟒,𝟎𝟎𝟎 𝐓𝐫𝐞𝐳𝐨𝐫 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐈𝐦𝐩𝐚𝐜𝐭𝐞𝐝 𝐛𝐲 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡 𝐚𝐭 𝐒𝐡𝐢𝐩𝐌𝐨𝐧𝐤\n\n📌 What happened: Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تأثر 14000 من عملاء Trezor بخرق البيانات في ShipMonk\n\n📌 وش اللي صار: سرق المتسللون معلومات الشحن الخاصة بالعملاء، بما في ذلك الأسماء والعناوين وعناوين البريد الإلكتروني وأرقام الهواتف.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "f83a252b76c93aa0",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-14T07:01:56+00:00",
+    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐢𝐧𝐠 𝐔𝐧𝐩𝐚𝐭𝐜𝐡𝐞𝐝 𝐆𝐞𝐨𝐒𝐞𝐫𝐯𝐞𝐫 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲\n\n📌 What happened: The security defect is described as an SQL injection that could allow attackers to achieve remote code execution.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ قراصنة يستغلون GeoServer Zero-Day غير المصحح\n\n📌 وش اللي صار: يوصف الخلل الأمني ​​بأنه حقنة SQL قد تسمح للمهاجمين بتنفيذ التعليمات البرمجية عن بعد.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "cdcfdf45252c2c94",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-14T06:41:43+00:00",
+    "en_text": "🛡️ 𝐀𝐦𝐧𝐞𝐬𝐢𝐚𝐒𝐭𝐞𝐚𝐥𝐞𝐫 𝐦𝐚𝐜𝐎𝐒 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐒𝐭𝐞𝐚𝐥𝐬 𝐃𝐚𝐭𝐚, 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬 𝐁𝐫𝐨𝐰𝐬𝐞𝐫 𝐒𝐞𝐬𝐬𝐢𝐨𝐧𝐬\n\n📌 What happened: The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies.\n\n💡 Why it matters: Modern malware doesn't announce itself — it blends into normal traffic until the moment it needs to strike.\n\n✅ Quick tip: Only install software from official sources — 'free' cracked versions are one of the top malware delivery methods.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ برنامج AmnesiaStealer macOS الخبيث يسرق البيانات ويتحكم في جلسات المتصفح\n\n📌 وش اللي صار: يقوم برنامج سرقة معلومات macOS القائم على Rust بحصد كلمات مرور المستخدمين ومعلومات سلسلة المفاتيح وبيانات المتصفح المستندة إلى Chromium وملفات تعريف الارتباط Safari.\n\n💡 ليش هذا مهم: البرمجيات الخبيثة الحديثة ما تعلن عن نفسها، تندمج مع النشاط العادي للجهاز لين تجي لحظة الضربة.\n\n✅ نصيحة سريعة: ثبّت البرامج من مصادرها الرسمية بس — النسخ 'المجانية' المقرصنة من أكثر طرق توزيع البرمجيات الخبيثة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "df1d901c6dd98219",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-08-05T19:08:36+00:00",
     "en_text": "🛡️ 𝟏𝟓 𝐓𝐏-𝐋𝐢𝐧𝐤 𝐁𝐮𝐠𝐬 𝐄𝐱𝐩𝐨𝐬𝐞 𝐑𝐢𝐬𝐤𝐬 𝐢𝐧 𝐙𝐞𝐫𝐨-𝐓𝐫𝐮𝐬𝐭 𝐏𝐫𝐨𝐯𝐢𝐬𝐢𝐨𝐧𝐢𝐧𝐠\n\n📌 What happened: Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ 15 خطأ في TP-Link يكشف المخاطر في توفير الثقة المعدومة\n\n📌 وش اللي صار: يلفت الباحثون الانتباه إلى المخاطر الكامنة في توفير أجهزة الشبكة الآلية، وذلك باستخدام شركة تصنيع الأجهزة الرائدة عالميًا كدراسة حالة.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "f35a2396c40124f8",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEMAtBAmz-q78zPppsCxMiU-EtelOA3FQy_T6Qzb9KpWEsc9wNMT1f_dDjf65q2W_nrioQ033KClusfHFXexSM8V30mReU5V3nbRY4W0_F3cg2ehG51P1nnWa1iKiGX3hJ_yUUYLF92TanEEE0HifpkzdqRQeqe8qFYXq0SPRx6pW9IrfS7sK_lPzWRM/s1600/mackos-finger.jpg",
-    "published_at": "2026-08-05T18:44:31+00:00",
-    "en_text": "🛡️ 𝐎𝐯𝐞𝐫 𝟐𝟓𝟎 𝐂𝐥𝐢𝐜𝐤𝐅𝐢𝐱 𝐃𝐨𝐦𝐚𝐢𝐧𝐬 𝐔𝐬𝐞 𝐁𝐫𝐨𝐰𝐬𝐞𝐫 𝐅𝐢𝐧𝐠𝐞𝐫𝐩𝐫𝐢𝐧𝐭𝐢𝐧𝐠 𝐭𝐨 𝐇𝐢𝐝𝐞 𝐦𝐚𝐜𝐎𝐒 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐋𝐮𝐫𝐞𝐬\n\n📌 What happened: A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks.\n\n💡 Why it matters: Modern malware doesn't announce itself — it blends into normal traffic until the moment it needs to strike.\n\n✅ Quick tip: Only install software from official sources — 'free' cracked versions are one of the top malware delivery methods.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يستخدم أكثر من 250 نطاق ClickFix بصمات المتصفح لإخفاء إغراءات البرامج الضارة لنظام التشغيل MacOS\n\n📌 وش اللي صار: تعمل الآن عملية ClickFix لنظام التشغيل macOS التي تمتد على أكثر من 250 نطاقًا أماميًا على أخذ بصمات أصابع الزائرين قبل أن تقرر ما إذا كانت ستظهر لهم إغراء البرامج الضارة، وهو تغيير تتبعته Microsoft Threat Intelligence في البنية التحتية التي كانت تراقبها منذ أسابيع.\n\n💡 ليش هذا مهم: البرمجيات الخبيثة الحديثة ما تعلن عن نفسها، تندمج مع النشاط العادي للجهاز لين تجي لحظة الضربة.\n\n✅ نصيحة سريعة: ثبّت البرامج من مصادرها الرسمية بس — النسخ 'المجانية' المقرصنة من أكثر طرق توزيع البرمجيات الخبيثة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "55ca866b1715118a",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYzVApv7lLg_Qt67mGI-sC0vUGKZwkNmFsVgTykAPCHqVMsfGSSQRRaxVXuxx0RDd6wk18yEiVXXy3uPRpmLT_XLNMCI_0iuKbPtJ3z9CtuPtjBsIGDAsVTd5f8DE_z2yMfAsQFW66vvoe5MeQPWvfBM2CoSzi-xpgm_mTvXfqHERAr-1z9NYOUPGOgwP/s1600/chatgpt-scam.jpg",
-    "published_at": "2026-08-05T18:33:47+00:00",
-    "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐀𝐈 𝐃𝐢𝐬𝐫𝐮𝐩𝐭𝐬 𝐏𝐨𝐢𝐩𝐞𝐭 𝐒𝐜𝐚𝐦 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 𝐔𝐬𝐢𝐧𝐠 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐀𝐜𝐫𝐨𝐬𝐬 𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐅𝐫𝐚𝐮𝐝 𝐒𝐜𝐡𝐞𝐦𝐞𝐬\n\n📌 What happened: OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ OpenAI تعطل شبكة Poipet الاحتيالية باستخدام ChatGPT عبر مخططات احتيال متعددة\n\n📌 وش اللي صار: قالت OpenAI إنها عطلت عملية احتيال في كمبوديا استخدمت برنامج الدردشة الآلي ChatGPT الخاص بالذكاء الاصطناعي لتسهيل مجموعة واسعة من مخططات الاستثمار والرومانسية والمقامرة وانتحال هوية إنفاذ القانون.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "b8de3a001b73a65e",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-05T17:49:41+00:00",
-    "en_text": "🛡️ 𝐂𝐎𝐋𝐃𝐂𝐀𝐑𝐃 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐮𝐝𝐢𝐭 𝐩𝐡𝐢𝐬𝐡𝐢𝐧𝐠 𝐚𝐭𝐭𝐚𝐜𝐤 𝐢𝐧𝐬𝐭𝐚𝐥𝐥𝐬 𝐫𝐞𝐦𝐨𝐭𝐞 𝐚𝐜𝐜𝐞𝐬𝐬 𝐭𝐨𝐨𝐥\n\n📌 What happened: A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يقوم هجوم التصيد الاحتيالي للتدقيق الأمني ​​لـ COLDCARD بتثبيت أداة الوصول عن بعد\n\n📌 وش اللي صار: تستغل حملة التصيد الاحتيالي المخاوف المحيطة بالثغرة الأمنية التي تم الكشف عنها مؤخرًا في محفظة COLDCARD وسرقة بيتكوين بقيمة 88.6 مليون دولار لخداع المستخدمين لتثبيت برنامج الوصول عن بعد ScreenConnect.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
