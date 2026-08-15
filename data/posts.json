@@ -1,5 +1,14 @@
 [
   {
+    "id": "adf27a5de8bb50c1",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-14T23:24:17+00:00",
+    "en_text": "🛡️ 𝐇𝐨𝐰 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜 𝐩𝐥𝐚𝐧𝐬 𝐭𝐨 𝐰𝐚𝐭𝐞𝐫𝐦𝐚𝐫𝐤 𝐂𝐥𝐚𝐮𝐝𝐞'𝐬 𝐀𝐈-𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐭𝐞𝐱𝐭\n\n📌 What happened: It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "4ae5bf990f474593",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-06T12:54:09+00:00",
     "en_text": "🛡️ 𝐙𝐞𝐫𝐨-𝐂𝐥𝐢𝐜𝐤 𝐀𝐈 𝐁𝐫𝐨𝐰𝐬𝐞𝐫 𝐇𝐚𝐜𝐤𝐢𝐧𝐠: 𝐂𝐥𝐚𝐮𝐝𝐞 𝐚𝐧𝐝 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐀𝐭𝐥𝐚𝐬 𝐇𝐢𝐣𝐚𝐜𝐤𝐞𝐝 𝐯𝐢𝐚 𝐄𝐦𝐚𝐢𝐥𝐬, 𝐗 𝐏𝐨𝐬𝐭𝐬\n\n📌 What happened: Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ اختراق متصفح الذكاء الاصطناعي بنقرة زر واحدة: اختراق Claude وChatGPT Atlas عبر رسائل البريد الإلكتروني وX Posts\n\n📌 وش اللي صار: أبلغ باحثو Zenity النتائج إلى Anthropic وOpenAI في أواخر عام 2025 وأوائل عام 2026، لكنها ظلت دون تصحيح.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "5ebab680430f16a7",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUzp-V2FqPXO6jQl0K2Qnn-2Ys6UG168FNhA0TcFv7CGHtBIgWuD66JsjhDiQhf_DkSTBo_YpVGTY3wcLe3SITSszBT0XAD01P6_nFLkXOHNNoKmp6VTsQ-zB9oKR6qYU2tCpf5RwHZ_u35lJiF41Sa3T7zuGfXujh_Ums9snpXTUAJIbcL6LfF9a5bIw/s1600/power.jpg",
-    "published_at": "2026-08-06T12:16:58+00:00",
-    "en_text": "🛡️ 𝐎𝐯𝐞𝐫 𝟒,𝟒𝟎𝟎 𝐑𝐨𝐜𝐤𝐰𝐞𝐥𝐥 𝐏𝐋𝐂𝐬 𝐄𝐱𝐩𝐨𝐬𝐞𝐝 𝐎𝐧𝐥𝐢𝐧𝐞, 𝟐𝟐 𝐅𝐨𝐮𝐧𝐝 𝐢𝐧 𝐖𝐚𝐭𝐞𝐫 𝐀𝐭𝐭𝐚𝐜𝐤 𝐂𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تم الكشف عن أكثر من 4400 شركة Rockwell PLC عبر الإنترنت، وتم العثور على 22 منها في مدن تتعرض لهجمات مائية\n\n📌 وش اللي صار: عثرت شركة Forescout على 22 وحدة تحكم منطقية قابلة للبرمجة (PLCs) من شركة Rockwell Automation متصلة بالإنترنت في المدن التي تعرضت لهجمات إلكترونية حديثة على مرافق المياه في الولايات المتحدة. تسعة عشر استخدموا نفس شبكة مشغل الهاتف المحمول.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
