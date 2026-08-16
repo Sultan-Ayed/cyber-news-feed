@@ -1,5 +1,14 @@
 [
   {
+    "id": "6565f68216623d65",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-16T17:29:52+00:00",
+    "en_text": "🛡️ 𝐋𝐚𝐫𝐠𝐞-𝐬𝐜𝐚𝐥𝐞 𝐃𝐃𝐨𝐒 𝐚𝐭𝐭𝐚𝐜𝐤𝐬 𝐝𝐢𝐬𝐫𝐮𝐩𝐭𝐞𝐝 𝐓𝐡𝐫𝐞𝐞𝐦𝐚 𝐬𝐞𝐜𝐮𝐫𝐞 𝐦𝐞𝐬𝐬𝐚𝐠𝐢𝐧𝐠 𝐬𝐞𝐫𝐯𝐢𝐜𝐞\n\n📌 What happened: Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: استهدفت هجمات رفض الخدمة الموزعة (DDoS) خدمة المراسلة الآمنة Threema في وقت سابق من هذا الأسبوع، مما تسبب في انقطاع شديد في الاتصالات.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "0a6826eb0448c7a0",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-06T15:24:31+00:00",
     "en_text": "🛡️ 𝐓𝐡𝐫𝐞𝐚𝐭𝐬𝐃𝐚𝐲: 𝐎𝐝𝐲𝐬𝐬𝐞𝐮𝐬 𝐑𝐂𝐄, 𝐒𝐚𝐦𝐬𝐮𝐧𝐠 𝐎𝐧𝐞-𝐂𝐥𝐢𝐜𝐤 𝐓𝐚𝐤𝐞𝐨𝐯𝐞𝐫, 𝐢𝐂𝐥𝐨𝐮𝐝 𝐁𝐚𝐜𝐤𝐝𝐨𝐨𝐫 𝐅𝐢𝐠𝐡𝐭 + 𝟐𝟕 𝐌𝐨𝐫𝐞 𝐒𝐭𝐨𝐫𝐢𝐞𝐬\n\n📌 What happened: Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ ThreatsDay: Odysseus RCE، وSamsung بنقرة واحدة، وiCloud Backdoor Fight، + 27 قصة أخرى\n\n📌 وش اللي صار: على ما يبدو، فتح الشيء الآن يكفي. يمكن تشغيل الريبو قبل المطالبة الأولى، ويمكن أن تختبئ الحزمة بين المئات، ويمكن لملف PDF ذو مظهر غير ضار إنهاء المهمة.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "4f0c336410c07297",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-06T14:56:31+00:00",
-    "en_text": "🛡️ 𝐒𝐧𝐨𝐰𝐟𝐥𝐚𝐤𝐞 𝐇𝐚𝐜𝐤𝐞𝐫 𝐏𝐥𝐞𝐚𝐝𝐬 𝐆𝐮𝐢𝐥𝐭𝐲 𝐢𝐧 𝐔𝐒 𝐂𝐨𝐮𝐫𝐭\n\n📌 What happened: Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ أقر هاكر Snowflake بأنه مذنب في محكمة أمريكية\n\n📌 وش اللي صار: تم تسليم كونور رايلي موكا إلى الولايات المتحدة في يوليو 2025 بعد اعتقاله في كندا.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
