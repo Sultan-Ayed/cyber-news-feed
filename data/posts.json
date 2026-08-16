@@ -1,5 +1,14 @@
 [
   {
+    "id": "0748ca510918d820",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-16T22:28:57+00:00",
+    "en_text": "🛡️ 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐂𝐥𝐚𝐮𝐝𝐞 𝐢𝐬 𝐝𝐨𝐰𝐧 𝐢𝐧 𝐦𝐚𝐣𝐨𝐫 𝐨𝐮𝐭𝐚𝐠𝐞 𝐚𝐟𝐟𝐞𝐜𝐭𝐢𝐧𝐠 𝐦𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬\n\n📌 What happened: Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تؤكد أنثروبيك أن كلود قد تعرض للعطل بسبب انقطاع كبير يؤثر على خدمات متعددة\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "6565f68216623d65",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-06T16:17:13+00:00",
     "en_text": "🛡️ 𝐍𝐞𝐰 𝐈𝐧𝐭𝐞𝐫𝐫𝐮𝐩𝐭 𝐈𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧 𝐀𝐭𝐭𝐚𝐜𝐤 𝐂𝐚𝐧 𝐁𝐲𝐩𝐚𝐬𝐬 𝐒𝐩𝐞𝐜𝐭𝐫𝐞 𝐯𝟐 𝐃𝐞𝐟𝐞𝐧𝐬𝐞𝐬 𝐨𝐧 𝐈𝐧𝐭𝐞𝐥 𝐚𝐧𝐝 𝐀𝐌𝐃 𝐂𝐏𝐔𝐬\n\n📌 What happened: An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يمكن لهجوم حقن المقاطعة الجديد تجاوز دفاعات Spectre v2 على وحدات المعالجة المركزية Intel وAMD\n\n📌 وش اللي صار: يمكن لبرنامج Linux الذي لا يتمتع بامتيازات توقيت مقاطعة الأجهزة للوصول إلى الفجوة بين المعالج الذي يقوم بتطهير المتنبئ الفرعي الخاص به والنواة التي تستخدمه، مما يؤدي إلى إعادة تسميم المتنبئ بعد تشغيل الدفاع.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "8347f09debcf9426",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl0f74Tyvl6NQ4TAbPMIpgYWuHQN8THsYSQ77D9qmHuZdKsK2ZDrTLyWshLPV-UfSYW6Rbtfj866jP0X_D1QHmOFYIoEDZG90G3cy7JGFJrKsq0m7VeGqa0CCDygB9F3ttryPRQm-6MY50zIOsGFBdnwZZgAf31swGo5dOIa0noWuIoEk7rPrUkdfoddIj/s1600/threatsd.jpg",
-    "published_at": "2026-08-06T15:24:31+00:00",
-    "en_text": "🛡️ 𝐓𝐡𝐫𝐞𝐚𝐭𝐬𝐃𝐚𝐲: 𝐎𝐝𝐲𝐬𝐬𝐞𝐮𝐬 𝐑𝐂𝐄, 𝐒𝐚𝐦𝐬𝐮𝐧𝐠 𝐎𝐧𝐞-𝐂𝐥𝐢𝐜𝐤 𝐓𝐚𝐤𝐞𝐨𝐯𝐞𝐫, 𝐢𝐂𝐥𝐨𝐮𝐝 𝐁𝐚𝐜𝐤𝐝𝐨𝐨𝐫 𝐅𝐢𝐠𝐡𝐭 + 𝟐𝟕 𝐌𝐨𝐫𝐞 𝐒𝐭𝐨𝐫𝐢𝐞𝐬\n\n📌 What happened: Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ ThreatsDay: Odysseus RCE، وSamsung بنقرة واحدة، وiCloud Backdoor Fight، + 27 قصة أخرى\n\n📌 وش اللي صار: على ما يبدو، فتح الشيء الآن يكفي. يمكن تشغيل الريبو قبل المطالبة الأولى، ويمكن أن تختبئ الحزمة بين المئات، ويمكن لملف PDF ذو مظهر غير ضار إنهاء المهمة.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
