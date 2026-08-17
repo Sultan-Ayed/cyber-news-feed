@@ -1,5 +1,14 @@
 [
   {
+    "id": "651dff2e0053b34f",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-17T10:09:48+00:00",
+    "en_text": "🛡️ 𝐅𝐫𝐞𝐧𝐜𝐡 𝐭𝐚𝐱 𝐚𝐮𝐭𝐡𝐨𝐫𝐢𝐭𝐲 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐚𝐟𝐟𝐞𝐜𝐭𝐬 𝟔𝟕𝟖,𝟎𝟎𝟎 𝐢𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐚𝐥𝐬\n\n📌 What happened: The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يؤثر خرق بيانات مصلحة الضرائب الفرنسية على 678 ألف فرد\n\n📌 وش اللي صار: كشفت وزارة الاقتصاد والمالية الفرنسية عن خرق للبيانات بعد أن تمكن مهاجم من الوصول إلى أنظمة المديرية العامة للمالية العامة (DGFiP) وسرق بيانات تخص 678000 فرد.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2444e8256b11b6e0",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-06T20:07:24+00:00",
     "en_text": "🛡️ 𝐇𝐞𝐝𝐠𝐞 𝐟𝐮𝐧𝐝 𝐜𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤𝐬 𝐭𝐢𝐞𝐝 𝐭𝐨 𝐁𝐥𝐚𝐜𝐤𝐅𝐢𝐥𝐞-𝐥𝐢𝐧𝐤𝐞𝐝 𝐔𝐍𝐂𝟔𝟔𝟕𝟏 𝐞𝐱𝐭𝐨𝐫𝐭𝐢𝐨𝐧 𝐠𝐫𝐨𝐮𝐩\n\n📌 What happened: A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ الهجمات الإلكترونية لصناديق التحوط مرتبطة بمجموعة الابتزاز UNC6671 المرتبطة بـ BlackFile\n\n📌 وش اللي صار: تم ربط موجة حديثة من الهجمات الإلكترونية التي استهدفت صناديق التحوط وشركات الأسهم الخاصة والمنظمات المالية الأخرى بـ UNC6671، وهي مجموعة ابتزاز يقال إنها مرتبطة بالجهات الفاعلة في تهديد BlackFile.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "ceb0d67e2cdce822",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta9b29fb5e05ae54b/6a74db9f0045cd127fea0cc4/Image_(11).jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-08-06T19:00:11+00:00",
-    "en_text": "🛡️ 𝐅𝐫𝐨𝐦 𝐁𝐨𝐛𝐦𝐨𝐣𝐢𝐬 𝐭𝐨 𝐁𝐨𝐛𝐛𝐥𝐞𝐡𝐞𝐚𝐝𝐬: 𝐇𝐨𝐰 𝐭𝐡𝐞 𝐃𝐞𝐦𝐨𝐜𝐫𝐚𝐭𝐢𝐜 𝐏𝐚𝐫𝐭𝐲 𝐁𝐮𝐢𝐥𝐭 𝐚 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲-𝐅𝐢𝐫𝐬𝐭 𝐂𝐮𝐥𝐭𝐮𝐫𝐞\n\n📌 What happened: Former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support – and a dose of absurdity.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ من Bobmojis إلى Bobbleheads: كيف بنى الحزب الديمقراطي ثقافة الأمن أولاً\n\n📌 وش اللي صار: ويشرح كبار ضباط الأمن السابقين في اللجنة الوطنية الديمقراطية أن العقلية القوية التي تعطي الأولوية للأمن أولا تتطلب الدعم التنفيذي ــ وجرعة من السخافة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
