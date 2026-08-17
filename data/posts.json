@@ -1,5 +1,14 @@
 [
   {
+    "id": "c49ba4469c445896",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-17T08:13:07+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐒𝐀𝐏 𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐂𝐥𝐨𝐮𝐝 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝟑 𝐃𝐚𝐲𝐬 𝐀𝐟𝐭𝐞𝐫 𝐃𝐢𝐬𝐜𝐥𝐨𝐬𝐮𝐫𝐞\n\n📌 What happened: The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم استغلال ثغرة أمنية حرجة في SAP Commerce Cloud بعد 3 أيام من الكشف عنها\n\n📌 وش اللي صار: يمكن استغلال الثغرة الأمنية التي تم تتبعها باسم CVE-2026-58231 لتنفيذ تعليمات برمجية عشوائية واختراق المكونات الداخلية.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "72619960d1b99cc5",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-06T17:58:30+00:00",
     "en_text": "🛡️ 𝐍𝐞𝐰 𝐙𝐚𝐩𝐬𝐜𝐚𝐩𝐞 𝐊𝐕𝐌 𝐅𝐥𝐚𝐰 𝐂𝐨𝐮𝐥𝐝 𝐋𝐞𝐭 𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞𝐝 𝐋𝟏 𝐆𝐮𝐞𝐬𝐭 𝐂𝐨𝐝𝐞 𝐄𝐬𝐜𝐚𝐩𝐞 𝐭𝐨 𝐋𝐢𝐧𝐮𝐱 𝐇𝐨𝐬𝐭𝐬\n\n📌 What happened: Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ خلل جديد في Zapscape KVM قد يسمح لكود الضيف المميز L1 بالهروب إلى مضيفي Linux\n\n📌 وش اللي صار: يمكن أن تسمح Zapscape، وهي ثغرة أمنية جديدة في Linux kernel، للمهاجم الذي يتمتع بامتيازات kernel داخل الجهاز الظاهري الضيف L1 (VM) بالهروب من عزلة KVM وتنفيذ التعليمات البرمجية على المضيف.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "928199c4605279db",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzkSwdiUeH8rB-KgSkEXrT-oNL19IyghM7Ks8UDOedxPYB5czgwO8pXNf0YUt7OHqAbRRDJkRvJffzJ0lfpEdqfLn-w-Bc9pwOa_1FNJjJkrVbD-diaZu9HRFqAlOBWogXEsZ4sSFRDW-HYmsaUmVD98QGQoyq2rHep_dwDa5ueafTUO0Lh6zsA-Czd3he/s1600/cisco-flaws.jpg",
-    "published_at": "2026-08-06T17:13:15+00:00",
-    "en_text": "🛡️ 𝐂𝐢𝐬𝐜𝐨 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝟏𝟐 𝐒𝐃-𝐖𝐀𝐍 𝐚𝐧𝐝 𝐈𝐎𝐒 𝐗𝐄 𝐅𝐥𝐚𝐰𝐬, 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐓𝐡𝐫𝐞𝐞 𝟗.𝟖 𝐂𝐕𝐒𝐒 𝐒𝐜𝐨𝐫𝐞 𝐁𝐮𝐠𝐬\n\n📌 What happened: Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تقوم Cisco بتصحيح 12 عيبًا في SD-WAN وIOS XE، بما في ذلك ثلاثة أخطاء في نظام 9.8 CVSS\n\n📌 وش اللي صار: طرحت Cisco تحديثات لمعالجة العديد من الثغرات الأمنية الهامة التي تؤثر على برنامج Catalyst SD-WAN وIOS XE كجزء من مراجعة أمنية داخلية شاملة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
