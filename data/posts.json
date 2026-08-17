@@ -1,5 +1,14 @@
 [
   {
+    "id": "72619960d1b99cc5",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-17T06:51:08+00:00",
+    "en_text": "🛡️ 𝐅𝐨𝐫𝐭𝐮𝐧𝐞 𝟓𝟎𝟎 𝐂𝐨𝐦𝐩𝐚𝐧𝐢𝐞𝐬 𝐇𝐢𝐭 𝐢𝐧 𝐀𝐳𝐮𝐫𝐞 𝐃𝐚𝐭𝐚 𝐓𝐡𝐞𝐟𝐭 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧\n\n📌 What happened: A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ضربت شركة Fortune 500 في حملة لسرقة بيانات Azure\n\n📌 وش اللي صار: يدعي أحد عناصر التهديد سرقة ملايين السجلات من ماكدونالدز، وTCS، وفودافون، وغيرها من المؤسسات الكبيرة.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "847da71208bc87c8",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-06T17:13:15+00:00",
     "en_text": "🛡️ 𝐂𝐢𝐬𝐜𝐨 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝟏𝟐 𝐒𝐃-𝐖𝐀𝐍 𝐚𝐧𝐝 𝐈𝐎𝐒 𝐗𝐄 𝐅𝐥𝐚𝐰𝐬, 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐓𝐡𝐫𝐞𝐞 𝟗.𝟖 𝐂𝐕𝐒𝐒 𝐒𝐜𝐨𝐫𝐞 𝐁𝐮𝐠𝐬\n\n📌 What happened: Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تقوم Cisco بتصحيح 12 عيبًا في SD-WAN وIOS XE، بما في ذلك ثلاثة أخطاء في نظام 9.8 CVSS\n\n📌 وش اللي صار: طرحت Cisco تحديثات لمعالجة العديد من الثغرات الأمنية الهامة التي تؤثر على برنامج Catalyst SD-WAN وIOS XE كجزء من مراجعة أمنية داخلية شاملة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "58eb3ce5569a189e",
-    "source": "Krebs on Security",
-    "link": "https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-06T17:00:56+00:00",
-    "en_text": "🛡️ 𝐂𝐚𝐧𝐚𝐝𝐢𝐚𝐧 𝐌𝐚𝐧 𝐏𝐥𝐞𝐚𝐝𝐬 𝐆𝐮𝐢𝐥𝐭𝐲 𝐢𝐧 𝐒𝐧𝐨𝐰𝐟𝐥𝐚𝐤𝐞 𝐄𝐱𝐭𝐨𝐫𝐭𝐢𝐨𝐧𝐬\n\n📌 What happened: A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used the cloud data storage provider Snowflake.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: Krebs on Security — https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ رجل كندي يعترف بأنه مذنب في عمليات ابتزاز ندفة الثلج\n\n📌 وش اللي صار: اعترف رجل كندي يبلغ من العمر 26 عامًا، وُصِف ذات مرة بأنه أحد أكثر الجهات الفاعلة في تهديدات الجرائم الإلكترونية لعام 2024، بالذنب في جرائم الاحتيال الحاسوبي والتآمر لاختراق وابتزاز أكثر من 165 منظمة استخدمت مزود تخزين البيانات السحابية Snowflake.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Krebs on Security — https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
