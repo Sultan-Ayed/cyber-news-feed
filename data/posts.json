@@ -1,5 +1,14 @@
 [
   {
+    "id": "31464e819e005ffd",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt998467101da3f975/6a82f98ac19d9402c559c55d/robot-army-laurent-davoust-alamy.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-17T15:44:34+00:00",
+    "en_text": "🛡️ 𝐋𝐢𝐧𝐮𝐱 𝐁𝐨𝐭𝐧𝐞𝐭 𝐄𝐯𝐨𝐨𝐨𝟏𝐁𝐨𝐭 𝐄𝐱𝐩𝐚𝐧𝐝𝐬 𝐌𝐢𝐫𝐚𝐢 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐖𝐞𝐥𝐥 𝐁𝐞𝐲𝐨𝐧𝐝 𝐃𝐃𝐨𝐒\n\n📌 What happened: The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Linux Botnet Evooo1Bot يوسع قدرات Mirai إلى ما هو أبعد من DDoS\n\n📌 وش اللي صار: تضيف شبكة الروبوتات وحدات استغلال وسرقة بيانات الاعتماد ومرحلات SOCKS العكسية لتحويل الأجهزة المخترقة إلى بنية تحتية للمهاجم المستمر.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "854ad5325b12e6af",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-07T10:38:27+00:00",
     "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝟑𝟔𝟓 𝐀𝐢𝐭𝐌 𝐏𝐡𝐢𝐬𝐡𝐢𝐧𝐠 𝐇𝐢𝐣𝐚𝐜𝐤𝐬 𝐀𝐜𝐜𝐨𝐮𝐧𝐭𝐬 𝐭𝐨 𝐂𝐨𝐥𝐥𝐞𝐜𝐭 𝐏𝐚𝐲𝐫𝐨𝐥𝐥 𝐚𝐧𝐝 𝐅𝐢𝐧𝐚𝐧𝐜𝐞 𝐄𝐦𝐚𝐢𝐥𝐬\n\n📌 What happened: Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in…\n\n💡 Why it matters: The weakest link is rarely the technology — it's the split second someone trusts a message that looks routine.\n\n✅ Quick tip: Enable phishing-resistant MFA (like passkeys) wherever you can; a stolen password alone shouldn't be enough.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يقوم Microsoft 365 AitM Phishing باختطاف الحسابات لجمع رسائل البريد الإلكتروني الخاصة بالمرتبات والمالية\n\n📌 وش اللي صار: لفت باحثو الأمن السيبراني الانتباه إلى \"حملة تصيد احتيالية واسعة النطاق تعتمد على البريد الإلكتروني\" تستخدم تقنيات الخصم في الوسط (AitM) للسيطرة على حسابات Microsoft 365 بهدف تحديد الموظفين الرئيسيين المشاركين في ...\n\n💡 ليش هذا مهم: أضعف حلقة نادرًا ما تكون التقنية، هي لحظة يثق فيها شخص برسالة تبدو عادية.\n\n✅ نصيحة سريعة: فعّل مصادقة ثنائية مقاومة للتصيد (زي مفاتيح المرور) كل ما قدرت، لأن كلمة المرور المسروقة لحالها ما لازم تكفي.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "862642bee841f026",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynSSg0CZ1sssmMR8F0u09LmQ82liuj5nt2aor3klmi-xPcKTmalo4JLFQ7jd2mU9Ycnltsrnw2MiVVjmlT-wcYR74Ob7NMN31KNnny14lqVRdrmj30r3yqTSxapzCmQPk9lPG7v9GDSVKQwE4ufB-jWfsx1lc2O5GNd0bHd5M6FbMNah3dcLzu2EAFXo/s1600/Desync.jpg",
-    "published_at": "2026-08-07T10:09:54+00:00",
-    "en_text": "🛡️ 𝐀𝐈-𝐀𝐬𝐬𝐢𝐬𝐭𝐞𝐝 𝐇𝐓𝐓𝐏 𝐓𝐞𝐫𝐦𝐢𝐧𝐚𝐭𝐨𝐫 𝐅𝐢𝐧𝐝𝐬 𝐍𝐨𝐯𝐞𝐥 𝐇𝐓𝐓𝐏 𝐃𝐞𝐬𝐲𝐧𝐜 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 𝐚𝐧𝐝 𝐀𝐩𝐚𝐜𝐡𝐞 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲\n\n📌 What happened: PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate attack vectors.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يجد برنامج HTTP Terminator المدعوم بالذكاء الاصطناعي تقنيات جديدة لإلغاء مزامنة HTTP وApache Zero-Day\n\n📌 وش اللي صار: يقول PortSwigger إن HTTP Terminator، وهو نظام بحث مدعوم بالذكاء الاصطناعي (AI) أنشأه جيمس كيتل، أنشأ وأثبت تقنيات جديدة لإلغاء مزامنة HTTP بعد استكشاف 30000 من ناقلات الهجوم المرشحة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
