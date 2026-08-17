@@ -1,5 +1,32 @@
 [
   {
+    "id": "2444e8256b11b6e0",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-17T09:37:06+00:00",
+    "en_text": "🛡️ 𝟒𝟎,𝟎𝟎𝟎 𝐈𝐦𝐩𝐚𝐜𝐭𝐞𝐝 𝐛𝐲 𝐒𝐚𝐟𝐞𝐏𝐚𝐥 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/40000-impacted-by-safepal-data-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ 40.000 متأثر باختراق بيانات SafePal\n\n📌 وش اللي صار: استغل المتسللون ثغرة أمنية في وظيفة تتبع الطلب لأحد المكونات الإضافية للوصول إلى معلومات عملاء SafePal.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/40000-impacted-by-safepal-data-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "9da7db7cc2a65cda",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-17T09:05:33+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐃𝐞𝐟𝐞𝐧𝐝𝐞𝐫 𝐩𝐚𝐭𝐜𝐡 𝐟𝐨𝐫 𝐒𝐡𝐢𝐞𝐥𝐝𝐁𝐫𝐞𝐚𝐤 𝐳𝐞𝐫𝐨-𝐝𝐚𝐲\n\n📌 What happened: Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تعمل Microsoft على تصحيح Defender لـ ShieldBreak-zero-day\n\n📌 وش اللي صار: تعمل Microsoft على تصحيح أمني لثغرة \"ShieldBreak\" التي تم الكشف عنها الأسبوع الماضي من قبل الباحث الأمني ​​\"Nightmare Eclipse\" والتي يتم تتبعها الآن باسم CVE-2026-69414.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "cb007e6bc04e44c8",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-17T08:47:38+00:00",
+    "en_text": "🛡️ 𝐑𝐞𝐜𝐞𝐧𝐭 𝐦𝐚𝐜𝐎𝐒 𝐒𝐜𝐫𝐞𝐞𝐧 𝐒𝐡𝐚𝐫𝐢𝐧𝐠 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Threat actors gained root access to the vulnerable systems and deployed a Monero miner.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم استغلال ثغرة أمنية حديثة في مشاركة شاشة نظام التشغيل MacOS في الهجمات\n\n📌 وش اللي صار: تمكنت الجهات الفاعلة في مجال التهديد من الوصول إلى الأنظمة الضعيفة ونشرت عامل تعدين Monero.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "c49ba4469c445896",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-08-06T19:00:11+00:00",
     "en_text": "🛡️ 𝐅𝐫𝐨𝐦 𝐁𝐨𝐛𝐦𝐨𝐣𝐢𝐬 𝐭𝐨 𝐁𝐨𝐛𝐛𝐥𝐞𝐡𝐞𝐚𝐝𝐬: 𝐇𝐨𝐰 𝐭𝐡𝐞 𝐃𝐞𝐦𝐨𝐜𝐫𝐚𝐭𝐢𝐜 𝐏𝐚𝐫𝐭𝐲 𝐁𝐮𝐢𝐥𝐭 𝐚 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲-𝐅𝐢𝐫𝐬𝐭 𝐂𝐮𝐥𝐭𝐮𝐫𝐞\n\n📌 What happened: Former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support – and a dose of absurdity.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ من Bobmojis إلى Bobbleheads: كيف بنى الحزب الديمقراطي ثقافة الأمن أولاً\n\n📌 وش اللي صار: ويشرح كبار ضباط الأمن السابقين في اللجنة الوطنية الديمقراطية أن العقلية القوية التي تعطي الأولوية للأمن أولا تتطلب الدعم التنفيذي ــ وجرعة من السخافة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "453404a975a88668",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-06T18:14:19+00:00",
-    "en_text": "🛡️ 𝐒𝐰𝐢𝐬𝐬 𝐠𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 𝐒𝐡𝐚𝐫𝐞𝐏𝐨𝐢𝐧𝐭 𝐛𝐫𝐞𝐚𝐜𝐡 𝐜𝐨𝐦𝐩𝐫𝐨𝐦𝐢𝐬𝐞𝐝 𝟐𝟎𝟎 𝐚𝐜𝐜𝐨𝐮𝐧𝐭𝐬\n\n📌 What happened: Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ أدى اختراق SharePoint التابع للحكومة السويسرية إلى اختراق 200 حساب\n\n📌 وش اللي صار: يقول مكتب تكنولوجيا المعلومات الفيدرالي في سويسرا إن المتسللين استغلوا نقاط الضعف لاختراق خوادم Microsoft SharePoint الخاصة به وقاموا باختراق ما يقرب من 200 حساب.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "e04150fe0f1daa40",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-06T18:03:45+00:00",
-    "en_text": "🛡️ 𝐍𝐞𝐰 𝐓𝐎𝐍𝐓𝐎𝐔 𝐂𝐏𝐔 𝐚𝐭𝐭𝐚𝐜𝐤 𝐛𝐲𝐩𝐚𝐬𝐬𝐞𝐬 𝐒𝐩𝐞𝐜𝐭𝐫𝐞 𝐯𝟐 𝐟𝐢𝐱𝐞𝐬, 𝐥𝐞𝐚𝐤𝐬 𝐋𝐢𝐧𝐮𝐱 𝐩𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐡𝐚𝐬𝐡𝐞𝐬\n\n📌 What happened: Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يتجاوز هجوم TONTOU CPU الجديد إصلاحات Spectre v2، ويتسرب تجزئات كلمة مرور Linux\n\n📌 وش اللي صار: وجد الباحثون طريقة لتجاوز عمليات التخفيف الأخيرة لهجمات القناة الجانبية لتنفيذ المضاربة Spectre v2 وطوروا استغلالًا لتسريب الأسرار من أجهزة Linux.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "76d72c59e4a3096d",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5BBX-j7uA7NqPF9tVWhx3y09F3whJ3zweRoWGyI2kJDxhW6ymOG1oumq5Oz0sZWtCAKSCALcd9TTl7Kf5Mo3aqE3aWKH8jfKWt2uUD-CUa6tmid-3MvMTM08EAEhg5iLQ2mlEgFkVeuVKv1QkRqr2T0Ya9JcNtMYheggInGndCG0n-N7BPjyH9vbKCg8/s1600/Zapscape.gif",
-    "published_at": "2026-08-06T17:58:30+00:00",
-    "en_text": "🛡️ 𝐍𝐞𝐰 𝐙𝐚𝐩𝐬𝐜𝐚𝐩𝐞 𝐊𝐕𝐌 𝐅𝐥𝐚𝐰 𝐂𝐨𝐮𝐥𝐝 𝐋𝐞𝐭 𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞𝐝 𝐋𝟏 𝐆𝐮𝐞𝐬𝐭 𝐂𝐨𝐝𝐞 𝐄𝐬𝐜𝐚𝐩𝐞 𝐭𝐨 𝐋𝐢𝐧𝐮𝐱 𝐇𝐨𝐬𝐭𝐬\n\n📌 What happened: Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ خلل جديد في Zapscape KVM قد يسمح لكود الضيف المميز L1 بالهروب إلى مضيفي Linux\n\n📌 وش اللي صار: يمكن أن تسمح Zapscape، وهي ثغرة أمنية جديدة في Linux kernel، للمهاجم الذي يتمتع بامتيازات kernel داخل الجهاز الظاهري الضيف L1 (VM) بالهروب من عزلة KVM وتنفيذ التعليمات البرمجية على المضيف.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
