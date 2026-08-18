@@ -1,5 +1,14 @@
 [
   {
+    "id": "c81f051852d37998",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1cc19b0ee66e581e/6a84baf0098985445ad1e287/gitlab_bella1105_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-18T21:25:58+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐆𝐢𝐭𝐋𝐚𝐛 𝐙𝐞𝐫𝐨-𝐂𝐥𝐢𝐜𝐤 𝐅𝐥𝐚𝐰 𝐏𝐨𝐬𝐞𝐬 𝐌𝐢𝐭𝐢𝐠𝐚𝐭𝐢𝐨𝐧 𝐂𝐡𝐚𝐥𝐥𝐞𝐧𝐠𝐞𝐬\n\n📌 What happened: A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يشكل خلل النقر الصفري الحرج في GitLab تحديات للتخفيف من المخاطر\n\n📌 وش اللي صار: قد يؤدي الافتقار إلى التفاصيل الفنية إلى جعل من الصعب على المؤسسات التي تقوم بتشغيل إصدارات GitLab المُدارة ذاتيًا اكتشاف الاستغلال المحتمل لـ CVE-2026-19478.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "cd21e9704a972128",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-10T14:07:48+00:00",
     "en_text": "🛡️ 𝐂𝐢𝐬𝐜𝐨 𝐖𝐚𝐫𝐧𝐬 𝐨𝐟 𝐇𝐢𝐠𝐡-𝐒𝐞𝐯𝐞𝐫𝐢𝐭𝐲 𝐂𝐥𝐚𝐦𝐀𝐕 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐖𝐢𝐭𝐡 𝐏𝐮𝐛𝐥𝐢𝐜 𝐏𝐨𝐂\n\n📌 What happened: Remote, unauthenticated attackers could exploit the bugs to cause a denial-of-service (DoS) condition.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تحذر Cisco من ثغرات ClamAV عالية الخطورة في إثبات المفهوم (PoC) العام\n\n📌 وش اللي صار: يمكن للمهاجمين عن بعد وغير المصادق عليهم استغلال الأخطاء للتسبب في حالة رفض الخدمة (DoS).\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "b02e825d52875460",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-10T14:01:11+00:00",
-    "en_text": "🛡️ 𝐖𝐡𝐞𝐧 𝐂𝐫𝐞𝐝𝐞𝐧𝐭𝐢𝐚𝐥𝐬 𝐀𝐫𝐞 𝐍𝐨 𝐋𝐨𝐧𝐠𝐞𝐫 𝐄𝐧𝐨𝐮𝐠𝐡: 𝐃𝐞𝐯𝐢𝐜𝐞 𝐓𝐫𝐮𝐬𝐭 𝐢𝐧 𝐭𝐡𝐞 𝐀𝐈 𝐄𝐫𝐚\n\n📌 What happened: AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ عندما لم تعد بيانات الاعتماد كافية: الثقة في الأجهزة في عصر الذكاء الاصطناعي\n\n📌 وش اللي صار: يعمل الذكاء الاصطناعي على جعل عمليات التصيد الاحتيالي وسرقة بيانات الاعتماد والهندسة الاجتماعية أسرع وأكثر كفاءة، في حين يصبح تجاوز إشارات الثقة التقليدية مثل كلمات المرور والمصادقة متعددة العوامل وسمعة IP وتحديد الموقع الجغرافي أسهل.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
