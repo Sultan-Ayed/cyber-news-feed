@@ -1,5 +1,23 @@
 [
   {
+    "id": "9587eb4daf420aa5",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-18T06:46:22+00:00",
+    "en_text": "🛡️ 𝐃𝐨𝐳𝐞𝐧𝐬 𝐨𝐟 𝐖𝐞𝐛𝐊𝐢𝐭 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐏𝐚𝐭𝐜𝐡𝐞𝐝 𝐖𝐢𝐭𝐡 𝐅𝐫𝐞𝐬𝐡 𝐦𝐚𝐜𝐎𝐒, 𝐢𝐎𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐔𝐩𝐝𝐚𝐭𝐞𝐬\n\n📌 What happened: The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم تصحيح العشرات من ثغرات WebKit باستخدام تحديثات أمان macOS وiOS الجديدة\n\n📌 وش اللي صار: يمكن استغلال الأخطاء لتعطيل Safari، وإتلاف الذاكرة، وتسريب البيانات الحساسة، والهروب من وضع الحماية، وتصفية البيانات.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "c8f5936ef6e38497",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW_d5c3hAfK37Zdlctl3fWxMgNXEsGKNJ9Fwf0LvHSV75qdLLYHAnyy7Le8aziJ58ma6YA83clBQQwK0xqG-lmeat7Z9bcTEaV4hmNl_SJL5iAh3r1Q4w8vk4b87pQHiGgorzFqyAYUcGXgkSyXA-0ZN1FTjC6ztxhHceoMJr-Qf-B0giZ1ZEC74B4FKL7/s1600/cisa-ray.jpg",
+    "published_at": "2026-08-18T06:34:20+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐅𝐥𝐚𝐠𝐬 𝐀𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐑𝐚𝐲 𝐅𝐥𝐚𝐰 𝐓𝐡𝐚𝐭 𝐂𝐚𝐧 𝐓𝐫𝐢𝐠𝐠𝐞𝐫 𝐁𝐫𝐨𝐰𝐬𝐞𝐫-𝐁𝐚𝐬𝐞𝐝 𝐑𝐂𝐄\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تشير CISA إلى استغلال خلل الأشعة بشكل نشط والذي يمكن أن يؤدي إلى تشغيل RCE المستند إلى المتصفح\n\n📌 وش اللي صار: أضافت وكالة الأمن السيبراني وأمن البنية التحتية الأمريكية (CISA) يوم الاثنين عيبًا خطيرًا يؤثر على راي إلى كتالوج الثغرات الأمنية المستغلة المعروفة (KEV)، مستشهدة بأدلة على الاستغلال النشط.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "41f91fb7fcb0459e",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-08-07T18:29:08+00:00",
     "en_text": "🛡️ 𝐂𝐥𝐢𝐜𝐤𝐅𝐢𝐱 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐃𝐞𝐥𝐢𝐯𝐞𝐫 𝐦𝐚𝐜𝐎𝐒 𝐒𝐭𝐞𝐚𝐥𝐞𝐫 𝐓𝐡𝐚𝐭 𝐂𝐚𝐧 𝐃𝐫𝐚𝐢𝐧 𝐂𝐫𝐲𝐩𝐭𝐨 𝐖𝐚𝐥𝐥𝐞𝐭𝐬\n\n📌 What happened: ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ توفر هجمات ClickFix أداة سرقة لنظام التشغيل macOS يمكنها استنزاف محافظ العملات المشفرة\n\n📌 وش اللي صار: يتم استخدام الهجمات على غرار ClickFix لتقديم برامج ضارة مستندة إلى Go قادرة على سرقة أصول العملات المشفرة، بالإضافة إلى كلمات المرور المخزنة في المتصفح، وبيانات Apple iCloud Keychain، وبيانات الاعتماد المخزنة مؤقتًا.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "37859bd4cd5d193a",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg",
-    "published_at": "2026-08-07T18:16:13+00:00",
-    "en_text": "🛡️ 𝐔𝐍𝐂𝟔𝟔𝟕𝟏 𝐕𝐢𝐬𝐡𝐢𝐧𝐠 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐓𝐚𝐫𝐠𝐞𝐭 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐡𝐨𝐧𝐞𝐬 𝐭𝐨 𝐒𝐭𝐞𝐚𝐥 𝐒𝐚𝐚𝐒 𝐃𝐚𝐭𝐚\n\n📌 What happened: A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تستهدف هجمات التصيد الاحتيالي UNC6671 الهواتف الشخصية لسرقة بيانات SaaS\n\n📌 وش اللي صار: تُعزى الموجة الأخيرة من الهجمات السيبرانية التي تستهدف الخدمات المالية والأسهم الخاصة والخدمات المهنية إلى مجموعة ابتزاز البيانات المعروفة باسم UNC6671.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "a08bb624a7323ff0",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51cfa43c126c431d/6a75005453cbbc62a56894c9/patches-in-denim-nnattalli-shutterstock.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-08-07T16:47:43+00:00",
-    "en_text": "🛡️ 𝐀𝐈-𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐅𝐚𝐢𝐥 𝐇𝐚𝐥𝐟 𝐭𝐡𝐞 𝐓𝐢𝐦𝐞\n\n📌 What happened: A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تفشل التصحيحات التي يتم إنشاؤها بواسطة الذكاء الاصطناعي في نصف الوقت\n\n📌 وش اللي صار: وجدت دراسة أجريت على أكثر من 6000 تصحيح أنه حتى التصحيحات العاملة يمكن أن تسبب أخطاء جديدة، أو تكسر شيئًا آخر، أو تكون مفتوحة للتجاوز.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
