@@ -1,5 +1,32 @@
 [
   {
+    "id": "0314939e025a6234",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-18T14:30:00+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐎 𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧𝐬: 𝐍𝐢𝐜𝐨 𝐖𝐚𝐢𝐬𝐦𝐚𝐧 – 𝐅𝐫𝐨𝐦 𝐒𝐞𝐥𝐟-𝐓𝐚𝐮𝐠𝐡𝐭 𝐇𝐚𝐜𝐤𝐞𝐫 𝐭𝐨 𝐀𝐈-𝐃𝐫𝐢𝐯𝐞𝐧 𝐎𝐟𝐟𝐞𝐧𝐬𝐢𝐯𝐞 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐚𝐭 𝐗𝐁𝐎𝐖\n\n📌 What happened: With no formal training and no career plan, Waisman built a path from Argentina's early hacking scene to leading security at an AI-powered offensive security firm.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ محادثات CISO: نيكو وايزمان - من الهاكر الذي علم نفسه بنفسه إلى الأمن الهجومي القائم على الذكاء الاصطناعي في XBOW\n\n📌 وش اللي صار: بدون تدريب رسمي أو خطة وظيفية، بنى وايزمان طريقًا من مشهد القرصنة المبكر في الأرجنتين إلى قيادة الأمن في شركة أمنية هجومية تعمل بالذكاء الاصطناعي.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "a83ffd80f6bb4144",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-18T14:01:11+00:00",
+    "en_text": "🛡️ 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬 𝐁𝐥𝐨𝐜𝐤 𝐊𝐧𝐨𝐰𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬. 𝐖𝐡𝐚𝐭 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐁𝐞𝐡𝐚𝐯𝐢𝐨𝐫?\n\n📌 What happened: Security controls can block a familiar attack method while missing quieter ways to achieve the same objective.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ عناصر التحكم الخاصة بك تمنع الهجمات المعروفة. ماذا عن السلوك؟\n\n📌 وش اللي صار: يمكن لضوابط الأمان أن تمنع طريقة هجوم مألوفة بينما تفتقد طرقًا أكثر هدوءًا لتحقيق نفس الهدف.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "1f616d071c66b5ee",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-18T13:00:00+00:00",
+    "en_text": "🛡️ '𝐑𝐚𝐧𝐬𝐨𝐦 𝐁𝐮𝐬𝐭𝐞𝐫𝐬': 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐀𝐜𝐭𝐨𝐫 𝐏𝐨𝐬𝐞𝐬 𝐚𝐬 𝐈𝐧𝐜𝐢𝐝𝐞𝐧𝐭-𝐑𝐞𝐜𝐨𝐯𝐞𝐫𝐲 𝐒𝐞𝐫𝐯𝐢𝐜𝐞\n\n📌 What happened: A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ \"منتهكي الفدية\": ممثل برنامج الفدية يتظاهر بأنه خدمة استرداد الحوادث\n\n📌 وش اللي صار: يبدو أن إحدى الشركات التابعة لبرامج الفدية تتجه نحو الضحايا بتقديم عروض المساعدة، مما يخفي نيتها الحقيقية المتمثلة في تحويل مدفوعات الفدية.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "f626add06be0c495",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-08-10T11:03:55+00:00",
     "en_text": "🛡️ 𝐌𝐞𝐭𝐚𝐛𝐚𝐬𝐞 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐚𝐬 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲\n\n📌 What happened: The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تم استغلال الثغرات الأمنية في تصحيحات قاعدة التعريف باعتبارها Zero-Day\n\n📌 وش اللي صار: يسمح الخلل الأمني ​​للمهاجمين عن بعد غير المصادقين بالحصول على حق الوصول الإداري إلى مثيلات قاعدة التعريف.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "49060716e9345ad0",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-10T10:01:52+00:00",
-    "en_text": "🛡️ 𝐍𝐨𝐯𝐞𝐥 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐀𝐏𝐍 𝐏𝐢𝐯𝐨𝐭 𝐋𝐞𝐭 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐒𝐚𝐛𝐨𝐭𝐚𝐠𝐞 𝐒𝐞𝐜𝐨𝐧𝐝 𝐏𝐨𝐥𝐢𝐬𝐡 𝐄𝐧𝐞𝐫𝐠𝐲 𝐅𝐚𝐜𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: CERT.PL said this appears to be the first instance of a private APN being used as an attack vector.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تسمح رواية APN Pivot الخاصة للقراصنة بتخريب منشأة الطاقة البولندية الثانية\n\n📌 وش اللي صار: وقال CERT.PL إن هذا يبدو أن هذه هي المرة الأولى التي يتم فيها استخدام APN خاص كموجه للهجوم.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "3df9f34363e74412",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-10T09:49:37+00:00",
-    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐏𝐫𝐨𝐠𝐫𝐞𝐬𝐬 𝐋𝐨𝐚𝐝𝐌𝐚𝐬𝐭𝐞𝐫 𝐟𝐥𝐚𝐰 𝐧𝐨𝐰 𝐚𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐢𝐧 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تم الآن استغلال ثغرة Critical Progress LoadMaster بشكل نشط في الهجمات\n\n📌 وش اللي صار: حذرت وكالة الأمن السيبراني وأمن البنية التحتية الأمريكية (CISA) من أن المتسللين يستغلون ثغرة أمنية بالغة الخطورة من نوع Progress Kemp LoadMaster.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "6e4380231d05ba8c",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-10T08:55:44+00:00",
-    "en_text": "🛡️ 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐞 𝐃𝐚𝐭𝐚 𝐒𝐭𝐨𝐥𝐞𝐧 𝐢𝐧 𝐋𝐞𝐯𝐢 𝐒𝐭𝐫𝐚𝐮𝐬𝐬 𝐂𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ سرقة بيانات الشركة في الهجوم الإلكتروني ليفي شتراوس\n\n📌 وش اللي صار: باستخدام الهندسة الاجتماعية، تمكن أحد عناصر التهديد من الوصول إلى أجهزة الكمبيوتر الخاصة بثلاثة موظفين وقام بتسريب البيانات منهم.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
