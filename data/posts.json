@@ -1,5 +1,14 @@
 [
   {
+    "id": "7ac5e5cf0cbb4c56",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-18T15:03:30+00:00",
+    "en_text": "🛡️ 𝐖𝐞𝐛𝐢𝐧𝐚𝐫 𝐓𝐨𝐝𝐚𝐲: 𝐑𝐞𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 𝐂𝐲𝐛𝐞𝐫 𝐃𝐞𝐟𝐞𝐧𝐬𝐞 𝐟𝐨𝐫 𝐀𝐈-𝐒𝐩𝐞𝐞𝐝 𝐀𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Join the live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ندوة عبر الإنترنت اليوم: إعادة التفكير في الدفاع السيبراني لهجمات الذكاء الاصطناعي السريعة\n\n📌 وش اللي صار: انضم إلى الندوة المباشرة عبر الويب بينما نستكشف ما إذا كانت عمليات الكشف الأمني ​​الأولى يمكنها مواكبة الذكاء الاصطناعي، أو ما إذا كان الوقت قد حان لإعادة التفكير في الوقاية باعتبارها الإجراء الافتراضي الأقوى.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "0314939e025a6234",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/",
@@ -16,6 +25,15 @@
     "published_at": "2026-08-18T14:01:11+00:00",
     "en_text": "🛡️ 𝐘𝐨𝐮𝐫 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬 𝐁𝐥𝐨𝐜𝐤 𝐊𝐧𝐨𝐰𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬. 𝐖𝐡𝐚𝐭 𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐁𝐞𝐡𝐚𝐯𝐢𝐨𝐫?\n\n📌 What happened: Security controls can block a familiar attack method while missing quieter ways to achieve the same objective.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ عناصر التحكم الخاصة بك تمنع الهجمات المعروفة. ماذا عن السلوك؟\n\n📌 وش اللي صار: يمكن لضوابط الأمان أن تمنع طريقة هجوم مألوفة بينما تفتقد طرقًا أكثر هدوءًا لتحقيق نفس الهدف.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "497468b5d0250e35",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-18T13:00:00+00:00",
+    "en_text": "🛡️ 𝐀𝐈-𝐃𝐫𝐢𝐯𝐞𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐒𝐮𝐫𝐠𝐞 𝐁𝐫𝐞𝐚𝐤𝐬 𝐭𝐡𝐞 𝐓𝐫𝐚𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐏𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐌𝐨𝐝𝐞𝐥\n\n📌 What happened: Rapid7 warns that traditional patch cycles cannot keep pace with soaring vulnerability disclosures and faster exploitation, forcing defenders to prioritize exposure over severity scores.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ إن زيادة الثغرات الأمنية المدفوعة بالذكاء الاصطناعي تكسر نموذج التصحيح التقليدي\n\n📌 وش اللي صار: تحذر Rapid7 من أن دورات التصحيح التقليدية لا يمكنها مواكبة الكشف عن الثغرات الأمنية المتزايدة والاستغلال الأسرع، مما يجبر المدافعين على إعطاء الأولوية للتعرض على درجات الخطورة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "1f616d071c66b5ee",
@@ -61,6 +79,15 @@
     "published_at": "2026-08-18T12:29:08+00:00",
     "en_text": "🛡️ 𝐗𝐩𝐚𝐧𝐝𝐞𝐫 𝐑𝐚𝐢𝐬𝐞𝐬 $𝟕.𝟓 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐟𝐨𝐫 𝐀𝐈 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭 𝐚𝐧𝐝 𝐆𝐨𝐯𝐞𝐫𝐧𝐚𝐧𝐜𝐞\n\n📌 What happened: Xpander’s platform uses a universal agent harness that executes AI agents as portable workloads and securely renders interfaces on demand.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Xpander يجمع 7.5 مليون دولار لإدارة الذكاء الاصطناعي وحوكمته\n\n📌 وش اللي صار: تستخدم منصة Xpander مجموعة أدوات عالمية تعمل على تنفيذ وكلاء الذكاء الاصطناعي كأحمال عمل محمولة وعرض الواجهات بشكل آمن عند الطلب.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "86705db7749ce00a",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-18T12:06:21+00:00",
+    "en_text": "🛡️ 𝐅𝐨𝐫𝐭𝐢𝐧𝐞𝐭 𝐀𝐜𝐪𝐮𝐢𝐫𝐞𝐬 𝐀𝐈 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐂𝐨𝐦𝐩𝐚𝐧𝐲 𝐕𝐢𝐫𝐭𝐮𝐞 𝐀𝐈\n\n📌 What happened: Fortinet will use Virtue AI technology to enhance its AI security portfolio, including for AI models, applications, and agentic systems.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Fortinet تستحوذ على شركة Virtue AI لأمن الذكاء الاصطناعي\n\n📌 وش اللي صار: ستستخدم Fortinet تقنية Virtue AI لتعزيز محفظة أمان الذكاء الاصطناعي الخاصة بها، بما في ذلك نماذج الذكاء الاصطناعي والتطبيقات والأنظمة الوكيلة.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "baa27ed0fe16d8c9",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-08-10T11:47:55+00:00",
     "en_text": "🛡️ 𝐕𝐚𝐥𝐯𝐞 𝐧𝐨𝐭𝐢𝐟𝐢𝐞𝐬 𝐒𝐭𝐞𝐚𝐦 𝐡𝐚𝐫𝐝𝐰𝐚𝐫𝐞 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐨𝐟 𝐚 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يقوم Valve بإخطار عملاء أجهزة Steam بخرق البيانات\n\n📌 وش اللي صار: يقوم ناشر ألعاب الفيديو وعملاق التوزيع الرقمي Valve بإخطار عملاء أجهزة Steam في أوروبا بأن المتسللين سرقوا بياناتهم بعد اختراق شريك الشحن CEVA Logistics.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "3f88238a1d821954",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-10T11:44:26+00:00",
-    "en_text": "🛡️ 𝐍𝐞𝐰 𝐉𝐞𝐫𝐬𝐞𝐲, 𝐀𝐥𝐚𝐛𝐚𝐦𝐚 𝐉𝐨𝐢𝐧 𝐒𝐭𝐚𝐭𝐞𝐬 𝐓𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐢𝐧 𝐖𝐚𝐭𝐞𝐫 𝐂𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ نيوجيرسي وألاباما تنضمان إلى الولايات المستهدفة بالهجمات الإلكترونية المتعلقة بالمياه\n\n📌 وش اللي صار: استهدف قراصنة مرتبطون بإيران أنظمة التحكم الصناعية (ICS) في منشآت المياه في ما لا يقل عن اثنتي عشرة ولاية أمريكية.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "8cd19c7c9cd43bd1",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwaZH1uRwKD4SlLCwgb-7zVkEGjYYXdFxb21glBm3grBdwOZ_M-ECnOmNVFPPY6mg6wXUCf4R4xm9mI8mBiEm21Ixh6y9GXYvL9DKQgKEBkTN65AVQqFz9DJpMs6BRmrGWjGC5vDC-cFgx774ASr7j73D0wiRxrs9tKNdovUbwmLuGicKgcZeQR53z71bT/s1600/trueconf.jpg",
-    "published_at": "2026-08-10T11:33:41+00:00",
-    "en_text": "🛡️ 𝐓𝐫𝐮𝐞𝐂𝐨𝐧𝐟 𝐒𝐞𝐫𝐯𝐞𝐫 𝐅𝐥𝐚𝐰𝐬 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐭𝐨 𝐑𝐞𝐩𝐥𝐚𝐜𝐞 𝐂𝐥𝐢𝐞𝐧𝐭 𝐈𝐧𝐬𝐭𝐚𝐥𝐥𝐞𝐫𝐬 𝐰𝐢𝐭𝐡 𝐏𝐡𝐚𝐧𝐭𝐨𝐦𝐂𝐨𝐫𝐞\n\n📌 What happened: The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تم استغلال عيوب خادم TrueConf لاستبدال أدوات تثبيت العميل بـ PhantomCore\n\n📌 وش اللي صار: وقد لوحظ أن جهة التهديد المعروفة باسم Head Mare تستخدم الثغرات الأمنية في خوادم TrueConf غير المصححة كسلاح مرة أخرى في الهجمات التي تستهدف الشركات الروسية التي تغطي قطاعات الأجهزة والإلكترونيات والنقل والطاقة وتكنولوجيا المعلومات وتطوير البرمجيات.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "3fbf5e4cd0e53120",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-10T11:03:55+00:00",
-    "en_text": "🛡️ 𝐌𝐞𝐭𝐚𝐛𝐚𝐬𝐞 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐚𝐬 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲\n\n📌 What happened: The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تم استغلال الثغرات الأمنية في تصحيحات قاعدة التعريف باعتبارها Zero-Day\n\n📌 وش اللي صار: يسمح الخلل الأمني ​​للمهاجمين عن بعد غير المصادقين بالحصول على حق الوصول الإداري إلى مثيلات قاعدة التعريف.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
