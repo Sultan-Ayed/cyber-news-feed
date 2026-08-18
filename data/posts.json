@@ -1,5 +1,14 @@
 [
   {
+    "id": "25a892e0e0743a39",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-18T08:12:08+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐬𝐭𝐚𝐫𝐭𝐬 𝐫𝐞𝐦𝐨𝐯𝐢𝐧𝐠 𝐖𝐌𝐈𝐂 𝐭𝐨𝐨𝐥 𝐮𝐬𝐞𝐝 𝐛𝐲 𝐜𝐲𝐛𝐞𝐫𝐜𝐫𝐢𝐦𝐢𝐧𝐚𝐥𝐬\n\n📌 What happened: Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تبدأ Microsoft في إزالة أداة WMIC التي يستخدمها مجرمو الإنترنت\n\n📌 وش اللي صار: أعلنت شركة Microsoft أنها قامت بإزالة أداة سطر أوامر Windows Management Instrumentation (WMIC) من Windows 11 24H2 و25H2، وكذلك من إصدارات Windows 11 التجريبية التي تم إصدارها هذا الأسبوع.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "9587eb4daf420aa5",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-07T18:48:17+00:00",
     "en_text": "🛡️ 𝐍𝐞𝐚𝐫𝐥𝐲 𝟖𝟎𝟎 𝐌𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐧𝐩𝐦 𝐏𝐚𝐜𝐤𝐚𝐠𝐞𝐬 𝐃𝐞𝐥𝐢𝐯𝐞𝐫 𝐂𝐫𝐨𝐬𝐬-𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐑𝐀𝐓 𝐚𝐧𝐝 𝐈𝐧𝐟𝐨𝐬𝐭𝐞𝐚𝐥𝐞𝐫\n\n📌 What happened: A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems.\n\n💡 Why it matters: Modern malware doesn't announce itself — it blends into normal traffic until the moment it needs to strike.\n\n✅ Quick tip: Only install software from official sources — 'free' cracked versions are one of the top malware delivery methods.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ ما يقرب من 800 حزمة npm ضارة توفر RAT عبر الأنظمة الأساسية وInfostealer\n\n📌 وش اللي صار: تم نشر مجموعة تضم ما يقرب من 800 حزمة ضارة في سجل npm كجزء من حملة جديدة مصممة لتقديم برامج ضارة عبر الأنظمة الأساسية تستهدف أنظمة Windows وMac وLinux.\n\n💡 ليش هذا مهم: البرمجيات الخبيثة الحديثة ما تعلن عن نفسها، تندمج مع النشاط العادي للجهاز لين تجي لحظة الضربة.\n\n✅ نصيحة سريعة: ثبّت البرامج من مصادرها الرسمية بس — النسخ 'المجانية' المقرصنة من أكثر طرق توزيع البرمجيات الخبيثة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "e7092c00880a133b",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQGTQ6AquoAvAeMWXXITPacYsdChgFUpg7MLwKkfb2AylEuwQTk9av5GqMSdgtsB_tr_6QC70DrJkEo02t-Wo67z1gumix6FKKlOPSWo4fLEUHCibBoTrf1zCdmn72ESzo5CzCKKEgyETZ0FeVD_3QLfCNit7vIwlMA7MmwGYg2JGbeYOBrjSHmOnfpWl/s1600/macos.jpg",
-    "published_at": "2026-08-07T18:29:08+00:00",
-    "en_text": "🛡️ 𝐂𝐥𝐢𝐜𝐤𝐅𝐢𝐱 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐃𝐞𝐥𝐢𝐯𝐞𝐫 𝐦𝐚𝐜𝐎𝐒 𝐒𝐭𝐞𝐚𝐥𝐞𝐫 𝐓𝐡𝐚𝐭 𝐂𝐚𝐧 𝐃𝐫𝐚𝐢𝐧 𝐂𝐫𝐲𝐩𝐭𝐨 𝐖𝐚𝐥𝐥𝐞𝐭𝐬\n\n📌 What happened: ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ توفر هجمات ClickFix أداة سرقة لنظام التشغيل macOS يمكنها استنزاف محافظ العملات المشفرة\n\n📌 وش اللي صار: يتم استخدام الهجمات على غرار ClickFix لتقديم برامج ضارة مستندة إلى Go قادرة على سرقة أصول العملات المشفرة، بالإضافة إلى كلمات المرور المخزنة في المتصفح، وبيانات Apple iCloud Keychain، وبيانات الاعتماد المخزنة مؤقتًا.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
