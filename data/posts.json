@@ -1,5 +1,14 @@
 [
   {
+    "id": "b7712547b45eb56e",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-19T01:00:00+00:00",
+    "en_text": "🛡️ 𝐂𝐡𝐢𝐧𝐚-𝐋𝐢𝐧𝐤𝐞𝐝 𝐇𝐚𝐜𝐤𝐞𝐫 𝐒𝐡𝐨𝐰𝐬 𝐀𝐈 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐢𝐧 𝐀𝐏𝐀𝐂 𝐀𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: In the first purported \"near-autonomous\" attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ هاكر مرتبط بالصين يُظهر قدرات الذكاء الاصطناعي في هجوم منطقة آسيا والمحيط الهادئ\n\n📌 وش اللي صار: في أول هجوم \"شبه مستقل\" مزعوم على دولة قومية، استخدم مشغل باللغة الصينية إطار عمل معقد للذكاء الاصطناعي لاستهداف الوكالات الحكومية وتهديدها، على الأرجح في تايوان.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "c81f051852d37998",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-10T14:19:36+00:00",
     "en_text": "🛡️ 𝐒𝐭𝐞𝐚𝐥𝐭𝐡𝐢𝐮𝐦 𝐓𝐚𝐫𝐠𝐞𝐭𝐬 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐁𝐥𝐢𝐧𝐝 𝐒𝐩𝐨𝐭𝐬 𝐢𝐧 𝐀𝐈 𝐀𝐜𝐜𝐞𝐥𝐞𝐫𝐚𝐭𝐨𝐫𝐬 𝐚𝐧𝐝 𝐍𝐞𝐨-𝐂𝐥𝐨𝐮𝐝𝐬\n\n📌 What happened: The startup analyzes subtle telemetry signals to detect attacks that traditional security tools cannot see inside accelerator-powered AI infrastructure.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يستهدف التخفي النقاط الأمنية العمياء في مسرعات الذكاء الاصطناعي والسحب الجديدة\n\n📌 وش اللي صار: تقوم الشركة الناشئة بتحليل إشارات القياس عن بعد الدقيقة للكشف عن الهجمات التي لا تستطيع أدوات الأمان التقليدية رؤيتها داخل البنية التحتية للذكاء الاصطناعي التي تعمل بالمسرع.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "4a1b6117d30c02c6",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-10T14:07:48+00:00",
-    "en_text": "🛡️ 𝐂𝐢𝐬𝐜𝐨 𝐖𝐚𝐫𝐧𝐬 𝐨𝐟 𝐇𝐢𝐠𝐡-𝐒𝐞𝐯𝐞𝐫𝐢𝐭𝐲 𝐂𝐥𝐚𝐦𝐀𝐕 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐖𝐢𝐭𝐡 𝐏𝐮𝐛𝐥𝐢𝐜 𝐏𝐨𝐂\n\n📌 What happened: Remote, unauthenticated attackers could exploit the bugs to cause a denial-of-service (DoS) condition.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تحذر Cisco من ثغرات ClamAV عالية الخطورة في إثبات المفهوم (PoC) العام\n\n📌 وش اللي صار: يمكن للمهاجمين عن بعد وغير المصادق عليهم استغلال الأخطاء للتسبب في حالة رفض الخدمة (DoS).\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
