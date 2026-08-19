@@ -1,5 +1,23 @@
 [
   {
+    "id": "3383e6d1162ff098",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-19T08:19:09+00:00",
+    "en_text": "🛡️ 𝐂𝐡𝐫𝐨𝐦𝐞, 𝐅𝐢𝐫𝐞𝐟𝐨𝐱 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 𝐏𝐚𝐭𝐜𝐡 𝐃𝐨𝐳𝐞𝐧𝐬 𝐨𝐟 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يقوم Chrome وFirefox بتحديث العشرات من نقاط الضعف\n\n📌 وش اللي صار: يمكن أن تؤدي الأخطاء إلى تنفيذ التعليمات البرمجية وتصعيد الامتيازات وهروب وضع الحماية والكشف عن المعلومات.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "5ef6f15942f813cd",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-19T08:00:48+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀: 𝐌𝐞𝐝𝐮𝐬𝐚 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐡𝐢𝐭 𝐨𝐯𝐞𝐫 𝟓𝟎𝟎 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐢𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐨𝐫𝐠𝐬\n\n📌 What happened: The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ CISA: أصابت Medusa Ransomware أكثر من 500 مؤسسة للبنية التحتية الحيوية\n\n📌 وش اللي صار: قال مكتب التحقيقات الفيدرالي يوم الثلاثاء إن عصابة Medusa Ransomware اخترقت أكثر من 500 مؤسسة للبنية التحتية الحيوية في الولايات المتحدة منذ يونيو 2021.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "8aad283e3513caca",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-08-10T15:00:29+00:00",
     "en_text": "🛡️ ⚡ 𝐖𝐞𝐞𝐤𝐥𝐲 𝐑𝐞𝐜𝐚𝐩: 𝐀𝐈 𝐆𝐨𝐞𝐬 𝐑𝐨𝐠𝐮𝐞, 𝐌𝐞𝐭𝐚𝐛𝐚𝐬𝐞 𝟎-𝐃𝐚𝐲, 𝐌𝐂𝐏 𝐒𝐮𝐩𝐩𝐥𝐲-𝐂𝐡𝐚𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐬, 𝐚𝐧𝐝 𝐑𝐨𝐮𝐭𝐞𝐫 𝐁𝐚𝐜𝐤𝐝𝐨𝐨𝐫𝐬\n\n📌 What happened: A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default. That pretty much covers the mood this week.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ ⚡ ملخص أسبوعي: الذكاء الاصطناعي يصبح شريرًا، وقاعدة التعريف 0-يوم، وهجمات سلسلة التوريد MCP، والأبواب الخلفية لجهاز التوجيه\n\n📌 وش اللي صار: لا تزال الكثير من المشكلات الأمنية تبدأ عندما يقوم شخص ما بفعل شيء عادي تمامًا. استنساخ الريبو. الرد على مكالمة. ترك صندوق مكشوف. الثقة الافتراضية. وهذا يغطي إلى حد كبير الحالة المزاجية هذا الأسبوع.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "1b13f7171cfd26a6",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-10T14:34:32+00:00",
-    "en_text": "🛡️ 𝐂𝐈𝐒𝐀: 𝐒𝐨𝐧𝐢𝐜𝐖𝐚𝐥𝐥 𝐒𝐌𝐀𝟏𝟎𝟎𝟎 𝐟𝐥𝐚𝐰𝐬 𝐧𝐨𝐰 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐛𝐲 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐠𝐚𝐧𝐠𝐬\n\n📌 What happened: CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ CISA: يتم الآن استغلال عيوب SonicWall SMA1000 من قبل عصابات برامج الفدية\n\n📌 وش اللي صار: أكدت CISA أن عصابات برامج الفدية بدأت في استغلال اثنتين من نقاط الضعف التي تم تصحيحها مؤخرًا في SonicWall SMA1000، بما في ذلك ثغرة تزوير الطلب من جانب الخادم (SSRF) ذات الحد الأقصى من الخطورة.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "bf9649b0a071eb81",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-10T14:33:36+00:00",
-    "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐀𝐈’𝐬 𝐔𝐩𝐜𝐨𝐦𝐢𝐧𝐠 𝐀𝐬𝐭𝐫𝐚 𝐌𝐨𝐝𝐞𝐥 𝐑𝐚𝐢𝐬𝐞𝐬 𝐀𝐮𝐭𝐨𝐧𝐨𝐦𝐨𝐮𝐬 𝐂𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤 𝐂𝐨𝐧𝐜𝐞𝐫𝐧𝐬\n\n📌 What happened: The current GPT-5.6-Sol has been assigned a ‘high’ cybersecurity threshold, but Astra could reach the maximum ‘critical’ threshold.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ نموذج Astra القادم من OpenAI يثير مخاوف بشأن الهجمات السيبرانية المستقلة\n\n📌 وش اللي صار: تم تعيين عتبة \"عالية\" للأمن السيبراني لـ GPT-5.6-Sol الحالي، لكن Astra يمكن أن تصل إلى الحد الأقصى \"الحرج\".\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
