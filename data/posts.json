@@ -1,5 +1,14 @@
 [
   {
+    "id": "5790559cab4910b5",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf72b6d96243f3ad0/6a85b7da026bc525d4e194a5/rats-Andyworks-Getty-2192975649.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-19T16:58:23+00:00",
+    "en_text": "🛡️ 𝐒𝐢𝐥𝐤𝐏𝐚𝐫𝐚𝐬𝐢𝐭𝐞 𝐓𝐡𝐫𝐞𝐚𝐭𝐞𝐧𝐬 𝐂𝐞𝐧𝐭𝐫𝐚𝐥 𝐀𝐬𝐢𝐚𝐧 𝐎𝐫𝐠𝐬 𝐖𝐢𝐭𝐡 𝐅𝐥𝐮𝐫𝐫𝐲 𝐨𝐟 𝐑𝐀𝐓𝐬\n\n📌 What happened: A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs.\n\n💡 Why it matters: The weakest link is rarely the technology — it's the split second someone trusts a message that looks routine.\n\n✅ Quick tip: Enable phishing-resistant MFA (like passkeys) wherever you can; a stolen password alone shouldn't be enough.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يهدد SilkParasite منظمات آسيا الوسطى بموجة من الفئران\n\n📌 وش اللي صار: توفر حملة التصيد الاحتيالي التي تقوم بها مجموعة صينية مرتبطة بـ FamousSparrow نظرة ثاقبة للتحركات العالمية الجيوسياسية والتقنية والاستراتيجية التي تقوم بها التهديدات المستمرة المتقدمة الصينية.\n\n💡 ليش هذا مهم: أضعف حلقة نادرًا ما تكون التقنية، هي لحظة يثق فيها شخص برسالة تبدو عادية.\n\n✅ نصيحة سريعة: فعّل مصادقة ثنائية مقاومة للتصيد (زي مفاتيح المرور) كل ما قدرت، لأن كلمة المرور المسروقة لحالها ما لازم تكفي.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "b7fff6367cfe50ea",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-11T10:24:00+00:00",
     "en_text": "🛡️ 𝐌𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐌𝐂𝐏 𝐒𝐞𝐫𝐯𝐞𝐫𝐬 𝐂𝐚𝐧 𝐒𝐩𝐥𝐢𝐭 𝐈𝐧𝐬𝐭𝐫𝐮𝐜𝐭𝐢𝐨𝐧𝐬 𝐭𝐨 𝐌𝐚𝐤𝐞 𝐀𝐈 𝐂𝐨𝐝𝐢𝐧𝐠 𝐀𝐠𝐞𝐧𝐭𝐬 𝐄𝐱𝐟𝐢𝐥𝐭𝐫𝐚𝐭𝐞 𝐒𝐞𝐜𝐫𝐞𝐭𝐬\n\n📌 What happened: A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يمكن لخوادم MCP الضارة تقسيم التعليمات لجعل وكلاء ترميز الذكاء الاصطناعي يستخرجون الأسرار\n\n📌 وش اللي صار: يمكن لخادم الأدوات الضارة المتصل بمساعد ترميز الذكاء الاصطناعي أن يتعامل بهدوء مع مفاتيح SSH وأسرار البيئة وكود المصدر وبيانات العميل دون إرسال أي تعليمات ضارة بشكل واضح.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "dd627adb551f4249",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/hacker-conversations-marcus-hutchins/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-11T10:00:00+00:00",
-    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫 𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧𝐬: 𝐌𝐚𝐫𝐜𝐮𝐬 𝐇𝐮𝐭𝐜𝐡𝐢𝐧𝐬 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐅𝐫𝐨𝐦 𝐭𝐡𝐞 𝐆𝐫𝐚𝐲 𝐙𝐨𝐧𝐞 𝐭𝐨 𝐑𝐞𝐝𝐞𝐦𝐩𝐭𝐢𝐨𝐧\n\n📌 What happened: Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/hacker-conversations-marcus-hutchins/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ محادثات القراصنة: ماركوس هتشينز والرحلة من المنطقة الرمادية إلى الخلاص\n\n📌 وش اللي صار: لا يعتبر ماركوس هاتشينز نفسه هاكرًا شخصيًا، لكنه يقبل هذا اللقب لأنه مصطلح يستخدم على نطاق واسع لوصف ما فعله من قبل.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/hacker-conversations-marcus-hutchins/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
