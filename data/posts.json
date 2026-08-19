@@ -1,5 +1,14 @@
 [
   {
+    "id": "b7fff6367cfe50ea",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-19T15:56:09+00:00",
+    "en_text": "🛡️ 𝐔𝐒 𝐜𝐡𝐚𝐫𝐠𝐞𝐬 𝐈𝐫𝐚𝐧𝐢𝐚𝐧 𝐡𝐚𝐜𝐤𝐞𝐫𝐬 𝐨𝐯𝐞𝐫 $𝟑.𝟒 𝐛𝐢𝐥𝐥𝐢𝐨𝐧 𝐢𝐧𝐭𝐞𝐥𝐥𝐞𝐜𝐭𝐮𝐚𝐥 𝐩𝐫𝐨𝐩𝐞𝐫𝐭𝐲 𝐭𝐡𝐞𝐟𝐭\n\n📌 What happened: The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تتهم الولايات المتحدة قراصنة إيرانيين بسرقة ملكية فكرية بقيمة 3.4 مليار دولار\n\n📌 وش اللي صار: اتهمت الولايات المتحدة 17 إيرانيًا، يُزعم أنهم أعضاء في شركة قرصنة مقابل أجر تدعى Mabna Institute، متورطين في عمليات استمرت لسنوات لسرقة بيانات من المنظمات الأمريكية.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "3480c475467139bf",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-11T10:00:00+00:00",
     "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫 𝐂𝐨𝐧𝐯𝐞𝐫𝐬𝐚𝐭𝐢𝐨𝐧𝐬: 𝐌𝐚𝐫𝐜𝐮𝐬 𝐇𝐮𝐭𝐜𝐡𝐢𝐧𝐬 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐅𝐫𝐨𝐦 𝐭𝐡𝐞 𝐆𝐫𝐚𝐲 𝐙𝐨𝐧𝐞 𝐭𝐨 𝐑𝐞𝐝𝐞𝐦𝐩𝐭𝐢𝐨𝐧\n\n📌 What happened: Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/hacker-conversations-marcus-hutchins/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ محادثات القراصنة: ماركوس هتشينز والرحلة من المنطقة الرمادية إلى الخلاص\n\n📌 وش اللي صار: لا يعتبر ماركوس هاتشينز نفسه هاكرًا شخصيًا، لكنه يقبل هذا اللقب لأنه مصطلح يستخدم على نطاق واسع لوصف ما فعله من قبل.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/hacker-conversations-marcus-hutchins/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "78717ca6ff867f89",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-11T09:47:06+00:00",
-    "en_text": "🛡️ 𝐔𝐒 𝐚𝐧𝐝 𝐒𝐨𝐮𝐭𝐡 𝐊𝐨𝐫𝐞𝐚 𝐰𝐚𝐫𝐧 𝐨𝐟 𝐆𝐮𝐧𝐫𝐚 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐭𝐚𝐫𝐠𝐞𝐭𝐢𝐧𝐠 𝐠𝐨𝐯𝐭 𝐚𝐠𝐞𝐧𝐜𝐢𝐞𝐬\n\n📌 What happened: U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الولايات المتحدة وكوريا الجنوبية تحذران من برنامج الفدية Gunra الذي يستهدف الوكالات الحكومية\n\n📌 وش اللي صار: حذرت الوكالات الفيدرالية الأمريكية ووكالة السياسة الوطنية في كوريا الجنوبية الحكومات ومؤسسات البنية التحتية الحيوية في جميع أنحاء العالم لتأمين أنظمتها ضد هجمات برنامج الفدية Gunra.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
