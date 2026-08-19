@@ -1,5 +1,14 @@
 [
   {
+    "id": "8aad283e3513caca",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-19T06:56:43+00:00",
+    "en_text": "🛡️ 𝐂𝐚𝐫𝐞𝐂𝐥𝐨𝐮𝐝 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡 𝐈𝐦𝐩𝐚𝐜𝐭 𝐆𝐫𝐨𝐰𝐬 𝐭𝐨 𝟑.𝟕 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐈𝐧𝐝𝐢𝐯𝐢𝐝𝐮𝐚𝐥𝐬\n\n📌 What happened: The data breach was initially believed to affect roughly 350,000 people, but the HHS breach tracker shows a far bigger impact.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تأثير خرق بيانات CareCloud ينمو إلى 3.7 مليون فرد\n\n📌 وش اللي صار: كان يُعتقد في البداية أن خرق البيانات سيؤثر على ما يقرب من 350 ألف شخص، لكن متتبع اختراقات وزارة الصحة والخدمات الإنسانية يُظهر تأثيرًا أكبر بكثير.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "b7712547b45eb56e",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-10T14:33:36+00:00",
     "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐀𝐈’𝐬 𝐔𝐩𝐜𝐨𝐦𝐢𝐧𝐠 𝐀𝐬𝐭𝐫𝐚 𝐌𝐨𝐝𝐞𝐥 𝐑𝐚𝐢𝐬𝐞𝐬 𝐀𝐮𝐭𝐨𝐧𝐨𝐦𝐨𝐮𝐬 𝐂𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤 𝐂𝐨𝐧𝐜𝐞𝐫𝐧𝐬\n\n📌 What happened: The current GPT-5.6-Sol has been assigned a ‘high’ cybersecurity threshold, but Astra could reach the maximum ‘critical’ threshold.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ نموذج Astra القادم من OpenAI يثير مخاوف بشأن الهجمات السيبرانية المستقلة\n\n📌 وش اللي صار: تم تعيين عتبة \"عالية\" للأمن السيبراني لـ GPT-5.6-Sol الحالي، لكن Astra يمكن أن تصل إلى الحد الأقصى \"الحرج\".\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "743a09ee88220dbe",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-10T14:19:36+00:00",
-    "en_text": "🛡️ 𝐒𝐭𝐞𝐚𝐥𝐭𝐡𝐢𝐮𝐦 𝐓𝐚𝐫𝐠𝐞𝐭𝐬 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐁𝐥𝐢𝐧𝐝 𝐒𝐩𝐨𝐭𝐬 𝐢𝐧 𝐀𝐈 𝐀𝐜𝐜𝐞𝐥𝐞𝐫𝐚𝐭𝐨𝐫𝐬 𝐚𝐧𝐝 𝐍𝐞𝐨-𝐂𝐥𝐨𝐮𝐝𝐬\n\n📌 What happened: The startup analyzes subtle telemetry signals to detect attacks that traditional security tools cannot see inside accelerator-powered AI infrastructure.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يستهدف التخفي النقاط الأمنية العمياء في مسرعات الذكاء الاصطناعي والسحب الجديدة\n\n📌 وش اللي صار: تقوم الشركة الناشئة بتحليل إشارات القياس عن بعد الدقيقة للكشف عن الهجمات التي لا تستطيع أدوات الأمان التقليدية رؤيتها داخل البنية التحتية للذكاء الاصطناعي التي تعمل بالمسرع.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
