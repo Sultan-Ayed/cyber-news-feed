@@ -1,5 +1,14 @@
 [
   {
+    "id": "2b2f8778b75699ef",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-19T20:59:58+00:00",
+    "en_text": "🛡️ 𝐑𝐨𝐠𝐮𝐞 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐚𝐟𝐟𝐢𝐥𝐢𝐚𝐭𝐞 𝐩𝐨𝐬𝐞𝐬 𝐚𝐬 𝐫𝐞𝐜𝐨𝐯𝐞𝐫𝐲 𝐟𝐢𝐫𝐦 𝐭𝐨 𝐬𝐭𝐞𝐚𝐥 𝐩𝐚𝐲𝐦𝐞𝐧𝐭𝐬\n\n📌 What happened: A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تتظاهر شركة تابعة لبرامج الفدية المارقة بأنها شركة استرداد لسرقة المدفوعات\n\n📌 وش اللي صار: تتظاهر إحدى الشركات التابعة المشتبه بها لبرامج الفدية بأنها خدمة استرداد برامج الفدية تسمى \"Ransom Busters\"، وتتواصل مع الضحايا قبل أن تصبح الهجمات علنية وتدعي أنها قادرة على توفير مفاتيح فك التشفير وحذف البيانات المسروقة مقابل رسوم.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "6085404bdc04b8e7",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-data-recovery-firm/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-11T13:15:24+00:00",
     "en_text": "🛡️ 𝐕𝐚𝐠𝐮𝐞 𝐓𝐚𝐬𝐤, 𝐓𝐨𝐭𝐚𝐥 𝐀𝐜𝐜𝐞𝐬𝐬: 𝐖𝐡𝐞𝐧 𝐀𝐈 𝐃𝐞𝐥𝐞𝐠𝐚𝐭𝐢𝐨𝐧 𝐁𝐞𝐜𝐨𝐦𝐞𝐬 𝐚 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐑𝐢𝐬𝐤\n\n📌 What happened: AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ مهمة غامضة، وصول كامل: عندما يصبح تفويض الذكاء الاصطناعي خطرًا أمنيًا\n\n📌 وش اللي صار: يمكن لوكلاء الذكاء الاصطناعي الارتجال بما يتجاوز النطاق المقصود للمهمة عندما يتم منحهم وصولاً واسعًا إلى أنظمة وبيانات المؤسسة.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "989bd22c003062d5",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEFEJ72sE5G8XpyLqNLnPaYpMcgnUe7K9XLKyJD3zxcwPABaJlkkFpiQd4p3GW4TSWg-eDlFRplyPtmKQjfHR7OwsvO0hOJQo8xmzqxpXy1v1k1VLpxFVs2Nghd6IDGpAcraSGGUYI1_pnFQ8A3Tcox-iKzHIayhoCiXMJPska8cfsiTvNd6dmSMLKEUmN/s1600/openai-exploit.jpg",
-    "published_at": "2026-08-11T13:11:23+00:00",
-    "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐀𝐈 𝐋𝐚𝐮𝐧𝐜𝐡𝐞𝐬 𝐆𝐏𝐓-𝟓.𝟔-𝐂𝐲𝐛𝐞𝐫 𝐰𝐢𝐭𝐡 𝐑𝐞𝐝𝐮𝐜𝐞𝐝 𝐒𝐚𝐟𝐞𝐠𝐮𝐚𝐫𝐝𝐬 𝐟𝐨𝐫 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭\n\n📌 What happened: OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ OpenAI تطلق GPT-5.6-Cyber ​​مع ضمانات مخففة لتطوير البرمجيات المستغلة\n\n📌 وش اللي صار: كشفت OpenAI يوم الاثنين عن نموذج جديد يركز على الأمن السيبراني يسمى GPT-5.6-Cyber ​​والذي قالت إنه يركز على أبحاث الثغرات الأمنية واختبار الاختراق والاستجابة للحوادث.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
