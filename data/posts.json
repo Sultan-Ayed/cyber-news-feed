@@ -1,5 +1,23 @@
 [
   {
+    "id": "03ef212068a67dd1",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-20T14:59:22+00:00",
+    "en_text": "🛡️ 𝐏𝐚𝐤𝐢𝐬𝐭𝐚𝐧'𝐬 𝐓𝐫𝐚𝐧𝐬𝐩𝐚𝐫𝐞𝐧𝐭 𝐓𝐫𝐢𝐛𝐞 𝐑𝐞𝐟𝐫𝐞𝐬𝐡𝐞𝐬 𝐓𝐨𝐨𝐥𝐬𝐞𝐭 𝐟𝐨𝐫 𝐀𝐟𝐠𝐡𝐚𝐧 𝐂𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ قبيلة باكستان الشفافة تُحدِّث مجموعة أدوات الهجمات الإلكترونية الأفغانية\n\n📌 وش اللي صار: يقوم أحد عناصر تهديد الدولة القومية بمهاجمة المنظمات غير الناضجة التي تديرها حركة طالبان، لكنه يفشل في مواجهة الوكالات الحكومية الأكثر استعدادًا في الهند.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "541e0309d10b7da7",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-20T14:39:48+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐄𝐥𝐞𝐦𝐞𝐧𝐭𝐨𝐫 𝐏𝐫𝐨 𝐛𝐮𝐠 𝐞𝐱𝐩𝐨𝐬𝐞𝐬 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐬𝐢𝐭𝐞𝐬 𝐭𝐨 𝐑𝐂𝐄 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يعرض خطأ Elementor Pro الحرج مواقع WordPress لهجمات RCE\n\n📌 وش اللي صار: قد تسمح ثغرة أمنية خطيرة في المكون الإضافي Elementor Pro WordPress للمهاجمين بتحميل الملفات القابلة للتنفيذ لتنفيذ التعليمات البرمجية عن بعد على الخادم.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "41d45d363a36e857",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-08-12T05:10:47+00:00",
     "en_text": "🛡️ 𝐂𝐢𝐬𝐜𝐨 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐅𝐢𝐫𝐞𝐰𝐚𝐥𝐥 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐟𝐨𝐫 𝐃𝐨𝐒 𝐀𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تقوم Cisco بتصحيح جدار الحماية Zero-Day المستغل لهجمات DoS\n\n📌 وش اللي صار: يمكن استغلال CVE-2026-20349 عن بعد دون المصادقة على أجهزة Secure Firewall ASA وFTD.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "69d803bc6f787a59",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-12T01:15:55+00:00",
-    "en_text": "🛡️ 𝐆𝐨𝐨𝐠𝐥𝐞 𝐬𝐚𝐲𝐬 𝐂𝐡𝐫𝐨𝐦𝐞 𝐜𝐮𝐭𝐬 𝟕 𝐛𝐢𝐥𝐥𝐢𝐨𝐧 𝐮𝐧𝐰𝐚𝐧𝐭𝐞𝐝 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐧𝐨𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐚 𝐝𝐚𝐲 𝐭𝐨 𝐟𝐢𝐠𝐡𝐭 𝐚𝐛𝐮𝐬𝐞\n\n📌 What happened: Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تقول Google إن Chrome يقطع 7 مليارات إشعارات Android غير المرغوب فيها يوميًا لمكافحة إساءة الاستخدام\n\n📌 وش اللي صار: تقول Google إن أنظمة مكافحة إساءة الاستخدام في Chrome خفضت الإشعارات غير المرغوب فيها على Android بأكثر من 7 مليارات يوميًا خلال الربع الأول من عام 2026.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "00914884b0e1da5a",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-11T22:15:22+00:00",
-    "en_text": "🛡️ 𝐃𝐞𝐚𝐝𝐋𝐨𝐜𝐤 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐮𝐬𝐞𝐬 𝐛𝐥𝐨𝐜𝐤𝐜𝐡𝐚𝐢𝐧 𝐭𝐨 𝐫𝐞𝐬𝐢𝐬𝐭 𝐢𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐭𝐚𝐤𝐞𝐝𝐨𝐰𝐧\n\n📌 What happened: The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تستخدم برامج الفدية DeadLock تقنية blockchain لمقاومة إزالة البنية التحتية\n\n📌 وش اللي صار: تستخدم عملية برنامج الفدية DeadLock بنية تحتية لا مركزية تعتمد على الخدمات المدعومة بسلسلة الكتل لحماية اتصالاتها مع الضحايا ونشاط تسرب البيانات.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
