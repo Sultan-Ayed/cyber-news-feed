@@ -180,6 +180,15 @@
     "ar_text": "🛡️ يستغل المهاجمون ثغرة Zimbra SNMP لتنفيذ تعليمات برمجية عن بعد غير مصادق عليها\n\n📌 وش اللي صار: تعرض ثغرة أمنية تم تصحيحها تؤثر على Zimbra Collaboration (ZCS) للاستغلال النشط في البرية، وفقًا لفريق الاستجابة لطوارئ الكمبيوتر البولندي (CERT Polska).\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "7c35278befa7606b",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-20T13:16:35+00:00",
+    "en_text": "🛡️ 𝐓𝐡𝐫𝐞𝐚𝐭 𝐀𝐜𝐭𝐨𝐫 𝐇𝐚𝐜𝐤𝐬 𝟏𝟒,𝟎𝟎𝟎 𝐈𝐏 𝐂𝐚𝐦𝐞𝐫𝐚𝐬 𝐢𝐧 𝐔𝐤𝐫𝐚𝐢𝐧𝐞 𝐚𝐧𝐝 𝐑𝐮𝐬𝐬𝐢𝐚\n\n📌 What happened: Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ ممثل التهديد يخترق 14000 كاميرا IP في أوكرانيا وروسيا\n\n📌 وش اللي صار: استهدفت عملية CameraSwarm كاميرات Dahua في العديد من البلدان، مع التركيز على كتل شبكات الاتصالات في روسيا ورابطة الدول المستقلة.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2e61538784a463f0",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
@@ -196,6 +205,15 @@
     "published_at": "2026-08-20T12:14:38+00:00",
     "en_text": "🛡️ 𝐂𝐢𝐭𝐫𝐢𝐱 𝐮𝐫𝐠𝐞𝐬 𝐚𝐝𝐦𝐢𝐧𝐬 𝐭𝐨 𝐩𝐚𝐭𝐜𝐡 𝐧𝐞𝐰 𝐍𝐞𝐭𝐒𝐜𝐚𝐥𝐞𝐫 𝐟𝐥𝐚𝐰𝐬 𝐚𝐬 𝐬𝐨𝐨𝐧 𝐚𝐬 𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞\n\n📌 What happened: Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تحث Citrix المسؤولين على تصحيح عيوب NetScaler الجديدة في أسرع وقت ممكن\n\n📌 وش اللي صار: حذرت Citrix العملاء من ضرورة تأمين أنظمتهم على الفور ضد اثنتين من نقاط الضعف التي تؤثر على حلول الوصول عن بعد الآمنة NetScaler Gateway وأجهزة شبكات NetScaler ADC.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "b437cbcc9c57d0b4",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-20T12:05:55+00:00",
+    "en_text": "🛡️ 𝐌𝐋𝐟𝐥𝐨𝐰 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐟𝐨𝐫 𝐂𝐥𝐨𝐮𝐝 𝐂𝐫𝐞𝐝𝐞𝐧𝐭𝐢𝐚𝐥 𝐓𝐡𝐞𝐟𝐭\n\n📌 What happened: The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ استغلال ثغرة أمنية في MLflow لسرقة بيانات الاعتماد السحابية\n\n📌 وش اللي صار: يسمح ثغرة الخطورة الحرجة للمهاجمين بإرسال طلبات HTTP إلى نقاط النهاية الداخلية واستخراج المعلومات الحساسة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "b398c07080514782",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-08-12T13:00:00+00:00",
     "en_text": "🛡️ 𝐒𝐭𝐞𝐚𝐥𝐭𝐡𝐲 ‘𝐂𝐢𝐭𝐲-𝐅𝐨𝐫𝐮𝐦’ 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐓𝐚𝐫𝐠𝐞𝐭 𝐒𝐚𝐥𝐞𝐬𝐟𝐨𝐫𝐜𝐞 𝐚𝐧𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐍𝐨𝐰 𝐖𝐢𝐭𝐡 𝐂𝐮𝐬𝐭𝐨𝐦 𝐓𝐨𝐨𝐥𝐬𝐞𝐭\n\n📌 What happened: Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تستهدف هجمات \"City-Forum\" الخفية Salesforce وServiceNow باستخدام مجموعة الأدوات المخصصة\n\n📌 وش اللي صار: لاحظ الباحثون أن الحملة الجديدة تستغل وصول الضيوف غير المصادق عليهم لتعداد وتصفية البيانات المكشوفة من كلا النظامين بهدوء.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "57a36420fa56c709",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-12T13:00:00+00:00",
-    "en_text": "🛡️ 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐔𝐧𝐯𝐞𝐢𝐥𝐬 𝐍𝐞𝐰 𝐒𝐜𝐚𝐦 𝐀𝐥𝐞𝐫𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞\n\n📌 What happened: Signal has also made a security announcement: an automatic key verification feature to complement its safety number system.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ واتساب يكشف عن ميزة جديدة للتنبيه من الاحتيال\n\n📌 وش اللي صار: أصدرت Signal أيضًا إعلانًا أمنيًا: ميزة التحقق التلقائي من المفتاح لاستكمال نظام رقم الأمان الخاص بها.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "61ed7624ab7f5e6e",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a664b4c9f102c54/67041e74357c961dfaad7427/Natee_Jindakum-CISO-icons-shutterstock.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-08-12T12:41:03+00:00",
-    "en_text": "🛡️ 𝐖𝐚𝐥𝐦𝐚𝐫𝐭 𝐋𝐞𝐚𝐝𝐞𝐫𝐬 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐆𝐨𝐢𝐧𝐠 𝐁𝐚𝐧𝐚𝐧𝐚𝐬\n\n📌 What happened: The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency and team spirit are key factors.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ قادة وول مارت يغيرون العمليات الأمنية دون اللجوء إلى الموز\n\n📌 وش اللي صار: لقد قامت الشركة العملاقة بتوسيع نطاق دفاعاتها من خلال تشجيع الثقة والابتكار. تعد الاتصالات الجيدة والشفافية وروح الفريق من العوامل الرئيسية.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
