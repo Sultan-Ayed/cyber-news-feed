@@ -1,5 +1,23 @@
 [
   {
+    "id": "e47f737af38eb916",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-20T07:02:02+00:00",
+    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐔𝐬𝐢𝐧𝐠 𝐀𝐈 𝐭𝐨 𝐓𝐚𝐫𝐠𝐞𝐭 𝐒𝐢𝐞𝐦𝐞𝐧𝐬 𝐏𝐋𝐂𝐬 𝐢𝐧 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐔𝐒 𝐒𝐞𝐜𝐭𝐨𝐫𝐬\n\n📌 What happened: A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ قراصنة يستخدمون الذكاء الاصطناعي لاستهداف شركات PLC من شركة Siemens في القطاعات الحيوية في الولايات المتحدة\n\n📌 وش اللي صار: تمت كتابة تقرير استشاري للأمن السيبراني يحتوي على تفاصيل وتوصيات فنية من قبل وكالة الأمن القومي وCISA ووكالات أخرى.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "2c9d3178c27ec900",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-20T06:51:03+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐬𝐚𝐲𝐬 𝐀𝐮𝐠𝐮𝐬𝐭 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐮𝐩𝐝𝐚𝐭𝐞𝐬 𝐦𝐚𝐲 𝐜𝐚𝐮𝐬𝐞 𝐠𝐚𝐦𝐢𝐧𝐠 𝐢𝐬𝐬𝐮𝐞𝐬\n\n📌 What happened: Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تقول Microsoft أن تحديثات Windows لشهر أغسطس قد تسبب مشكلات في الألعاب\n\n📌 وش اللي صار: تحقق Microsoft في مشكلة محتملة تتعلق بتحديثات أغسطس 2026 والتي قد تمنع تشغيل بعض الألعاب أو تتسبب في تعطلها على أنظمة Windows 11 المتأثرة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "b1da55ba01341c88",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-08-11T15:49:53+00:00",
     "en_text": "🛡️ 𝐙𝐨𝐨𝐦 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐙𝐞𝐫𝐨-𝐂𝐥𝐢𝐜𝐤 𝐂𝐨𝐝𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يقوم Zoom بتصحيح ثغرة أمنية في تنفيذ التعليمات البرمجية بنقرة صفرية\n\n📌 وش اللي صار: ومن خلال التأثير على التعليق التوضيحي لـ Zoom، يمكن استغلال الخطأ من قبل أحد المشاركين في الاجتماع لتنفيذ تعليمات برمجية على جهاز مشارك آخر.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "4651411a2ede9dcc",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-11T15:00:00+00:00",
-    "en_text": "🛡️ 𝐓𝐡𝐞 𝐀𝐈 𝐆𝐨𝐯𝐞𝐫𝐧𝐚𝐧𝐜𝐞 𝐆𝐚𝐩 𝐈𝐬 𝐚 𝐋𝐞𝐚𝐝𝐞𝐫𝐬𝐡𝐢𝐩 𝐏𝐫𝐨𝐛𝐥𝐞𝐦: 𝐖𝐚𝐢𝐭𝐢𝐧𝐠 𝐖𝐨𝐧’𝐭 𝐂𝐥𝐨𝐬𝐞 𝐈𝐭\n\n📌 What happened: Organizations are rushing to implement AI without fully grasping where its legal protections begin and end.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ فجوة حوكمة الذكاء الاصطناعي هي مشكلة قيادة: الانتظار لن يسدها\n\n📌 وش اللي صار: تسارع المؤسسات إلى تطبيق الذكاء الاصطناعي دون أن تدرك بشكل كامل أين تبدأ وأين تنتهي حمايتها القانونية.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "4822403e8f9b84a3",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-11T14:14:32+00:00",
-    "en_text": "🛡️ 𝐒𝐀𝐏 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐂𝐨𝐝𝐞 𝐈𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧, 𝐌𝐞𝐦𝐨𝐫𝐲 𝐂𝐨𝐫𝐫𝐮𝐩𝐭𝐢𝐨𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: SAP released 28 new and two updated security notes, including four notes dealing with critical-severity bugs.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تصحيحات SAP لحقن التعليمات البرمجية الحرجة وثغرات تلف الذاكرة\n\n📌 وش اللي صار: أصدرت SAP 28 ملاحظة أمنية جديدة ومذكرتين محدثتين، بما في ذلك أربع ملاحظات تتناول الأخطاء بالغة الخطورة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
