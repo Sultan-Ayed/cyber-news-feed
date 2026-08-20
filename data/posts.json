@@ -1,5 +1,14 @@
 [
   {
+    "id": "eac982b66ebccc44",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-20T00:20:55+00:00",
+    "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐀𝐈 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐢𝐬 𝐝𝐨𝐰𝐧 𝐚𝐬 𝐥𝐨𝐠𝐢𝐧𝐬 𝐚𝐧𝐝 𝐬𝐢𝐠𝐧𝐮𝐩𝐬 𝐟𝐚𝐢𝐥\n\n📌 What happened: ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يؤكد OpenAI أن ChatGPT معطل بسبب فشل عمليات تسجيل الدخول والاشتراكات\n\n📌 وش اللي صار: يواجه ChatGPT انقطاعًا كبيرًا، ولا يتمكن المستخدمون من تسجيل الدخول أو إنشاء حسابات أو تحميل الدردشات، بما في ذلك المحادثات السابقة.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2b2f8778b75699ef",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-11T13:20:28+00:00",
     "en_text": "🛡️ 𝐌𝐨𝐳𝐢𝐥𝐥𝐚 𝐮𝐩𝐝𝐚𝐭𝐞𝐬 𝐆𝐏𝐆 𝐬𝐢𝐠𝐧𝐢𝐧𝐠 𝐤𝐞𝐲 𝐟𝐨𝐫 𝐅𝐢𝐫𝐞𝐟𝐨𝐱 𝐫𝐞𝐥𝐞𝐚𝐬𝐞𝐬 𝐚𝐟𝐭𝐞𝐫 𝐞𝐱𝐩𝐨𝐬𝐮𝐫𝐞\n\n📌 What happened: Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تقوم Mozilla بتحديث مفتاح توقيع GPG لإصدارات Firefox بعد التعرض لها\n\n📌 وش اللي صار: أعلنت شركة Mozilla اليوم أنها قامت بتحديث مفتاح GPG المستخدم للتوقيع على إصدارات Firefox وThunderbird بعد أن تم كشفه عن طريق الخطأ على GitHub.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "b8a1763e43c3016c",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-11T13:15:24+00:00",
-    "en_text": "🛡️ 𝐕𝐚𝐠𝐮𝐞 𝐓𝐚𝐬𝐤, 𝐓𝐨𝐭𝐚𝐥 𝐀𝐜𝐜𝐞𝐬𝐬: 𝐖𝐡𝐞𝐧 𝐀𝐈 𝐃𝐞𝐥𝐞𝐠𝐚𝐭𝐢𝐨𝐧 𝐁𝐞𝐜𝐨𝐦𝐞𝐬 𝐚 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐑𝐢𝐬𝐤\n\n📌 What happened: AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ مهمة غامضة، وصول كامل: عندما يصبح تفويض الذكاء الاصطناعي خطرًا أمنيًا\n\n📌 وش اللي صار: يمكن لوكلاء الذكاء الاصطناعي الارتجال بما يتجاوز النطاق المقصود للمهمة عندما يتم منحهم وصولاً واسعًا إلى أنظمة وبيانات المؤسسة.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
