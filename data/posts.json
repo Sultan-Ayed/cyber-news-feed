@@ -1,5 +1,14 @@
 [
   {
+    "id": "e5821c833a2f64b3",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-20T07:48:24+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐆𝐢𝐭𝐋𝐚𝐛 𝐅𝐥𝐚𝐰 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐒𝐡𝐨𝐫𝐭𝐥𝐲 𝐀𝐟𝐭𝐞𝐫 𝐃𝐢𝐬𝐜𝐥𝐨𝐬𝐮𝐫𝐞\n\n📌 What happened: CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم استغلال الخلل الفادح في GitLab بعد وقت قصير من الكشف عنه\n\n📌 وش اللي صار: يمكن استغلال CVE-2026-19478 بدون مصادقة لتعديل أو حذف المشاريع العامة وبيانات المستخدم.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "e47f737af38eb916",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-11T15:59:35+00:00",
     "en_text": "🛡️ 𝐖𝐞𝐬𝐜𝐨 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐢𝐧𝐜𝐢𝐝𝐞𝐧𝐭 𝐚𝐟𝐭𝐞𝐫 𝐄𝐱𝐟𝐢𝐥𝐒𝐪𝐮𝐚𝐝 𝐜𝐥𝐚𝐢𝐦𝐬 𝐝𝐚𝐭𝐚 𝐭𝐡𝐞𝐟𝐭\n\n📌 What happened: Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تؤكد Wesco وقوع حادث أمني بعد مطالبة ExfilSquad بسرقة البيانات\n\n📌 وش اللي صار: أكدت شركة Wesco العملاقة العالمية لسلسلة التوريد والتوزيع في بيان لموقع BleepingComputer أنها تحقق في حادث يتعلق بالأمن السيبراني.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "dd0027a7c58b9fa1",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-11T15:49:53+00:00",
-    "en_text": "🛡️ 𝐙𝐨𝐨𝐦 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐙𝐞𝐫𝐨-𝐂𝐥𝐢𝐜𝐤 𝐂𝐨𝐝𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يقوم Zoom بتصحيح ثغرة أمنية في تنفيذ التعليمات البرمجية بنقرة صفرية\n\n📌 وش اللي صار: ومن خلال التأثير على التعليق التوضيحي لـ Zoom، يمكن استغلال الخطأ من قبل أحد المشاركين في الاجتماع لتنفيذ تعليمات برمجية على جهاز مشارك آخر.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
