@@ -9,6 +9,15 @@
     "ar_text": "🛡️ دعوة محترفي الإنترنت للمساعدة في الدفاع عن مجلس المدينة\n\n📌 وش اللي صار: تحتاج الوكالات الحكومية ذات الميزانيات الصغيرة إلى الدعم — وإليك كيف يمكنك المساعدة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "630ad3fed036364e",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid22xatm4tPGWO1VA9heA8p7i0iK4au3br36QORRasXlUO2uY5836xkZe6gywLOId9oHICopC6jZ8J-di4JI9O3CPOSOGsqoOR4Ps4DrEbKCXSXwMxX_wOGo0fY3zaTW4By4nzbY6jldD58kLAlBYfFxMOEeZOglaQu8R0TtT23Q2jLbQjHwJSoS21pqu5/s1600/entraid.jpg",
+    "published_at": "2026-08-21T06:06:11+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐄𝐧𝐭𝐫𝐚 𝐈𝐃 𝐅𝐥𝐚𝐰 (𝐂𝐕𝐒𝐒 𝟏𝟎.𝟎) 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐢𝐧 𝐖𝐢𝐥𝐝, 𝐀𝐥𝐥𝐨𝐰𝐬 𝐑𝐞𝐦𝐨𝐭𝐞 𝐂𝐨𝐝𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧\n\n📌 What happened: Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم استغلال خطأ معرف Microsoft Entra (CVSS 10.0) بشكل غير قانوني، مما يسمح بتنفيذ التعليمات البرمجية عن بعد\n\n📌 وش اللي صار: حذرت شركة مايكروسوفت يوم الخميس من ثغرة أمنية شديدة الخطورة في معرف Entra الذي قالت إنه تم استغلاله بشكل عشوائي، لكنها أشارت إلى أنه لا يلزم اتخاذ أي إجراء من جانب العميل.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "0c1b8ac4190705cb",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-12T13:24:00+00:00",
     "en_text": "🛡️ 𝐌𝐢𝐧𝐝𝐠𝐚𝐫𝐝 𝐑𝐚𝐢𝐬𝐞𝐬 $𝟑𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐭𝐨 𝐏𝐫𝐨𝐭𝐞𝐜𝐭 𝐀𝐈 𝐒𝐲𝐬𝐭𝐞𝐦𝐬\n\n📌 What happened: The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Mindgard تجمع 30 مليون دولار لحماية أنظمة الذكاء الاصطناعي\n\n📌 وش اللي صار: ستستخدم الشركة الناشئة في مجال الأمن السيبراني الاستثمار الجديد لتوسيع نطاق فرق المنتجات والهندسة والمبيعات والتسويق.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "4e350a087e3830f5",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-12T13:00:00+00:00",
-    "en_text": "🛡️ 𝐒𝐭𝐞𝐚𝐥𝐭𝐡𝐲 ‘𝐂𝐢𝐭𝐲-𝐅𝐨𝐫𝐮𝐦’ 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐓𝐚𝐫𝐠𝐞𝐭 𝐒𝐚𝐥𝐞𝐬𝐟𝐨𝐫𝐜𝐞 𝐚𝐧𝐝 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐍𝐨𝐰 𝐖𝐢𝐭𝐡 𝐂𝐮𝐬𝐭𝐨𝐦 𝐓𝐨𝐨𝐥𝐬𝐞𝐭\n\n📌 What happened: Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تستهدف هجمات \"City-Forum\" الخفية Salesforce وServiceNow باستخدام مجموعة الأدوات المخصصة\n\n📌 وش اللي صار: لاحظ الباحثون أن الحملة الجديدة تستغل وصول الضيوف غير المصادق عليهم لتعداد وتصفية البيانات المكشوفة من كلا النظامين بهدوء.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
