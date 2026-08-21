@@ -9,6 +9,15 @@
     "ar_text": "🛡️ دعوة محترفي الإنترنت للمساعدة في الدفاع عن مجلس المدينة\n\n📌 وش اللي صار: تحتاج الوكالات الحكومية ذات الميزانيات الصغيرة إلى الدعم — وإليك كيف يمكنك المساعدة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "be976adb7e03a07d",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-21T07:25:50+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐔𝐫𝐠𝐞𝐬 𝐈𝐦𝐦𝐞𝐝𝐢𝐚𝐭𝐞 𝐏𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐨𝐟 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐓𝐫𝐮𝐞𝐂𝐨𝐧𝐟 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تحث CISA على التصحيح الفوري لثغرات TrueConf المستغلة\n\n📌 وش اللي صار: قامت مجموعة Head Mare hacktivist باستغلال الأخطاء لنشر البرامج الضارة PhantomCore.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "630ad3fed036364e",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-12T14:00:00+00:00",
     "en_text": "🛡️ 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐇𝐢𝐭𝐬 𝐂𝐨𝐥𝐨𝐦𝐛𝐢𝐚𝐧 𝐉𝐮𝐬𝐭𝐢𝐜𝐞 𝐌𝐢𝐧𝐢𝐬𝐭𝐫𝐲 𝐃𝐚𝐲𝐬 𝐁𝐞𝐟𝐨𝐫𝐞 𝐏𝐫𝐞𝐬𝐢𝐝𝐞𝐧𝐭𝐢𝐚𝐥 𝐓𝐫𝐚𝐧𝐬𝐢𝐭𝐢𝐨𝐧\n\n📌 What happened: Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ برنامج الفدية يضرب وزارة العدل الكولومبية قبل أيام من الانتقال الرئاسي\n\n📌 وش اللي صار: ويواصل المهاجمون استهداف البنية التحتية الحيوية والمنظمات المرتبطة بالحكومة في البلاد، مما يعكس النشاط المتزايد في جميع أنحاء أمريكا اللاتينية.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "3619b27ce92befbd",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-12T13:24:00+00:00",
-    "en_text": "🛡️ 𝐌𝐢𝐧𝐝𝐠𝐚𝐫𝐝 𝐑𝐚𝐢𝐬𝐞𝐬 $𝟑𝟎 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐭𝐨 𝐏𝐫𝐨𝐭𝐞𝐜𝐭 𝐀𝐈 𝐒𝐲𝐬𝐭𝐞𝐦𝐬\n\n📌 What happened: The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Mindgard تجمع 30 مليون دولار لحماية أنظمة الذكاء الاصطناعي\n\n📌 وش اللي صار: ستستخدم الشركة الناشئة في مجال الأمن السيبراني الاستثمار الجديد لتوسيع نطاق فرق المنتجات والهندسة والمبيعات والتسويق.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
