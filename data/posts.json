@@ -1,5 +1,23 @@
 [
   {
+    "id": "e9e0eed4def8f092",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-21T18:01:30+00:00",
+    "en_text": "🛡️ 𝐍𝐞𝐰 𝐒𝐲𝐧𝐤𝐋𝐨𝐚𝐝𝐞𝐫 𝐦𝐚𝐥𝐰𝐚𝐫𝐞 𝐩𝐮𝐬𝐡𝐞𝐝 𝐢𝐧 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐓𝐞𝐚𝐦𝐬 𝐩𝐡𝐢𝐬𝐡𝐢𝐧𝐠 𝐜𝐚𝐦𝐩𝐚𝐢𝐠𝐧\n\n📌 What happened: A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تم نشر برنامج ضار SynkLoader جديد في حملة التصيد الاحتيالي لـ Microsoft Teams\n\n📌 وش اللي صار: يتم توزيع عائلة برامج ضارة غير معروفة سابقًا يطلق عليها اسم SynkLoader في حملات التصيد الاحتيالي لـ Microsoft Teams لسرقة بيانات الاعتماد عبر شاشة قفل مزيفة.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "52236a821b5452fe",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0778b75e05f471bd/6a8857b7c856a513e1627c23/purple-skills-flowchart-air-lemos.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-21T17:36:53+00:00",
+    "en_text": "🛡️ 𝐎𝐖𝐀𝐒𝐏 𝐅𝐥𝐚𝐠𝐬 𝐓𝐨𝐩 𝐀𝐈 𝐒𝐤𝐢𝐥𝐥 𝐑𝐢𝐬𝐤𝐬 𝐢𝐧 𝐍𝐞𝐰 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐁𝐥𝐮𝐞𝐩𝐫𝐢𝐧𝐭\n\n📌 What happened: The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ OWASP تشير إلى أهم مخاطر مهارات الذكاء الاصطناعي في المخطط الأمني ​​الجديد\n\n📌 وش اللي صار: يحتوي مشروع Open Worldwide Application Security Project على قائمة جديدة تمامًا لأفضل 10 تطبيقات أمنية مصممة خصيصًا للعصر الحديث، ويظهر لأول مرة تنسيق Universal Skill Fork لإضافة الاتساق والأمان إلى الوظائف الإضافية للذكاء الاصطناعي.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "29fad3c22f6fe097",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-08-13T12:53:56+00:00",
     "en_text": "🛡️ 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝟕.𝟎.𝟒 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐑𝐞𝐦𝐨𝐭𝐞 𝐂𝐨𝐝𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يقوم WordPress 7.0.4 بتصحيح الثغرة الأمنية في تنفيذ التعليمات البرمجية عن بعد\n\n📌 وش اللي صار: يمكن للمهاجمين الذين لديهم مستخدم على مستوى المؤلف أو أذونات أعلى استغلال الخلل عبر ملفات Postscript الضارة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "cbd65415698669f4",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-13T11:50:22+00:00",
-    "en_text": "🛡️ 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩 𝐫𝐨𝐥𝐥𝐬 𝐨𝐮𝐭 𝐧𝐞𝐰 𝐟𝐞𝐚𝐭𝐮𝐫𝐞 𝐭𝐡𝐚𝐭 𝐟𝐥𝐚𝐠𝐬 𝐩𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥 𝐬𝐜𝐚𝐦 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬\n\n📌 What happened: WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يطرح تطبيق WhatsApp ميزة جديدة تحدد رسائل الاحتيال المحتملة\n\n📌 وش اللي صار: بدأ تطبيق WhatsApp في طرح ميزة \"Scam Alert\" الاختيارية الجديدة، والتي تستخدم نموذجًا محليًا للتعلم الآلي لتحذير المستخدمين عندما يستهدفهم المحتالون.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "46ad5ad272e0da2a",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-13T11:42:48+00:00",
-    "en_text": "🛡️ 𝐕𝐞𝐧𝐭𝐮𝐫𝐞 𝐅𝐢𝐫𝐦 𝐓𝐞𝐚𝐦𝟖 𝐒𝐞𝐜𝐮𝐫𝐞𝐬 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 $𝟑𝟔𝟓 𝐌𝐢𝐥𝐥𝐢𝐨𝐧\n\n📌 What happened: The Israeli company has nearly $2 billion in total assets under management since 2014.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ شركة Venture Company Team8 تحصل على مبلغ إضافي قدره 365 مليون دولار\n\n📌 وش اللي صار: وتمتلك الشركة الإسرائيلية ما يقرب من 2 مليار دولار من إجمالي الأصول الخاضعة للإدارة منذ عام 2014.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
