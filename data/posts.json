@@ -1,5 +1,32 @@
 [
   {
+    "id": "5af2f8bcbf22f962",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-21T15:55:15+00:00",
+    "en_text": "🛡️ 𝐇𝐮𝐧𝐝𝐫𝐞𝐝𝐬 𝐨𝐟 𝐥𝐞𝐚𝐤𝐞𝐝 𝐀𝐖𝐒 𝐤𝐞𝐲𝐬 𝐠𝐢𝐯𝐞 𝐟𝐮𝐥𝐥 𝐜𝐨𝐧𝐭𝐫𝐨𝐥 𝐨𝐯𝐞𝐫 𝐜𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐞 𝐚𝐜𝐜𝐨𝐮𝐧𝐭𝐬\n\n📌 What happened: More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ توفر المئات من مفاتيح AWS المسربة تحكمًا كاملاً في حسابات الشركات\n\n📌 وش اللي صار: لا يزال أكثر من 9300 مفتاح وصول لخدمات Amazon Web Services (AWS) التي تم الكشف عنها للعامة بين أغسطس 2022 وأغسطس 2026 نشطة وصالحة.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "befbe5399e8065d8",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCbsmb6Wk8pQKWQmByAl5wnZQEVjS7ZYiHrlsHRM7VlcoPL7s30TaoTReoaQ4LI8Oy3KfKlIRHn9sN_7bjEKd_FWPHi1V0JR6LERepKBWSdJOk6cSUNgfIN2KVc6ydfbTILTy11owREYfpO7K11gFQV00l6qf1zl5rzF28jPhcN744yTvRAA-EjyDSBXs/s1600/windows.jpg",
+    "published_at": "2026-08-21T15:52:10+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐃𝐞𝐟𝐞𝐧𝐝𝐞𝐫'𝐬 𝐎𝐰𝐧 𝐃𝐫𝐢𝐯𝐞𝐫 𝐂𝐚𝐧 𝐁𝐞 𝐖𝐞𝐚𝐩𝐨𝐧𝐢𝐳𝐞𝐝 𝐭𝐨 𝐃𝐞𝐥𝐞𝐭𝐞 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐚𝐭 𝐁𝐨𝐨𝐭\n\n📌 What happened: Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11…\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يمكن استخدام برنامج التشغيل الخاص بـ Microsoft Defender كسلاح لحذف برامج الأمان عند التمهيد\n\n📌 وش اللي صار: كشفت شركة Check Point Research عن تقنية تستخدم برنامج تشغيل معالجة وقت التمهيد الموقع بشكل شرعي الخاص بـ Microsoft Defender لإجراء عمليات تسجيل وتعسفية على مستوى kernel على أنظمة Windows التي تتراوح من Windows 7 إلى Windows 11.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "a068075960f8a725",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1EQE-DqLXTzpjwGf3nQnM4CTnjibkKl_2ersn8abw3Gmqoc5MUaFC2LvkA7c6Xoa0XBPZeHL4wHHiXU7Pc9nGLcI1zTorwFTwvYXfww4Q68oSUrgcQhmBzQBNqYp-woIZFK_I1OOsnBNptiwA90VHhpE_hvlz3qdFomOmOMLreYe5YCenvR2CeawvRrMU/s1600/car.png",
+    "published_at": "2026-08-21T15:41:44+00:00",
+    "en_text": "🛡️ 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐂𝐚𝐫 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐒𝐩𝐫𝐞𝐚𝐝𝐬 𝐓𝐡𝐫𝐨𝐮𝐠𝐡 𝐁𝐮𝐢𝐥𝐭-𝐈𝐧 𝐔𝐩𝐝𝐚𝐭𝐞𝐫𝐬 𝐟𝐨𝐫 𝐀𝐝 𝐅𝐫𝐚𝐮𝐝, 𝐏𝐫𝐨𝐱𝐲 𝐁𝐨𝐭𝐧𝐞𝐭\n\n📌 What happened: Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/android-car-malware-spreads-through.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تنتشر البرامج الضارة الخاصة بسيارات Android من خلال برامج التحديث المضمنة للاحتيال الإعلاني وشبكة الروبوتات الوكيلة\n\n📌 وش اللي صار: قام باحثو الأمن السيبراني بوضع علامة على عائلة جديدة من البرامج الضارة المصممة خصيصًا لإصابة البرامج الثابتة لوحدة رأس السيارة المستندة إلى نظام Android والتي طورتها DoFun.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/android-car-malware-spreads-through.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "a4a8e831095dac58",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-08-13T10:00:00+00:00",
     "en_text": "🛡️ '𝐉𝐞𝐰𝐞𝐥𝐛𝐮𝐠' 𝐀𝐏𝐓 𝐁𝐚𝐥𝐚𝐧𝐜𝐞𝐬 𝐒𝐭𝐚𝐭𝐞 𝐄𝐬𝐩𝐢𝐨𝐧𝐚𝐠𝐞 & 𝐂𝐫𝐲𝐩𝐭𝐨𝐜𝐮𝐫𝐫𝐞𝐧𝐜𝐲 𝐓𝐡𝐞𝐟𝐭\n\n📌 What happened: Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ APT \"Jewelbug\" يوازن بين التجسس على الدولة وسرقة العملات المشفرة\n\n📌 وش اللي صار: اكتشف الباحثون قراصنة مأجورين يقومون بالتجسس السيبراني وعمليات السطو ذات الدوافع المالية من نفس لوحة الويب.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "62739d88b4c40b85",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-13T09:53:04+00:00",
-    "en_text": "🛡️ 𝐖𝐡𝐢𝐭𝐞 𝐇𝐨𝐮𝐬𝐞 𝐌𝐨𝐛𝐢𝐥𝐢𝐳𝐞𝐬 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐅𝐢𝐫𝐦𝐬 𝐟𝐨𝐫 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐀𝐠𝐚𝐢𝐧𝐬𝐭 𝐅𝐨𝐫𝐞𝐢𝐠𝐧 𝐂𝐲𝐛𝐞𝐫𝐜𝐫𝐢𝐦𝐞 𝐆𝐚𝐧𝐠𝐬\n\n📌 What happened: Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ البيت الأبيض يحشد شركات الأمن للقيام بعمليات ضد عصابات الجرائم الإلكترونية الأجنبية\n\n📌 وش اللي صار: قد تتطلب العقود سندات بقيمة مليون دولار، والتي سيتم مصادرتها إذا فشلت الشركة في الالتزام بالمتطلبات التشغيلية.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "c234084d7230b669",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-13T09:06:40+00:00",
-    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐕𝐌𝐰𝐚𝐫𝐞 𝐯𝐂𝐞𝐧𝐭𝐞𝐫 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐢𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬’ 𝐂𝐫𝐨𝐬𝐬𝐡𝐚𝐢𝐫𝐬\n\n📌 What happened: Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ ثغرة أمنية خطيرة في برنامج VMware vCenter في مرمى المهاجمين\n\n📌 وش اللي صار: يسمح خطأ اجتياز الدليل، الذي تم تتبعه باسم CVE-2026–59310، للمهاجمين عن بعد بتنفيذ تعليمات برمجية عشوائية.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "5688fda416b0820b",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-13T08:38:03+00:00",
-    "en_text": "🛡️ 𝐍𝐢𝐠𝐡𝐭𝐦𝐚𝐫𝐞 𝐄𝐜𝐥𝐢𝐩𝐬𝐞 𝐃𝐫𝐨𝐩𝐬 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 ‘𝐒𝐡𝐢𝐞𝐥𝐝𝐁𝐫𝐞𝐚𝐤’\n\n📌 What happened: Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Nightmare Eclipse يسقط ثغرة Windows Zero-Day \"ShieldBreak\"\n\n📌 وش اللي صار: تم إسقاط هذا الاستغلال في برنامج Patch Tuesday، وهو يسمح لأي مستخدم بإنشاء غلاف يتمتع بامتيازات النظام.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
