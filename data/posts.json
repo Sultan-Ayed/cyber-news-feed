@@ -9,6 +9,15 @@
     "ar_text": "🛡️ دعوة محترفي الإنترنت للمساعدة في الدفاع عن مجلس المدينة\n\n📌 وش اللي صار: تحتاج الوكالات الحكومية ذات الميزانيات الصغيرة إلى الدعم — وإليك كيف يمكنك المساعدة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "c28837178a4227a5",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-21T10:10:42+00:00",
+    "en_text": "🛡️ 𝐒𝐢𝐜𝐤𝐊𝐢𝐝𝐬 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐞𝐱𝐩𝐨𝐬𝐞𝐬 𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐞 𝐚𝐧𝐝 𝐣𝐨𝐛 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐧𝐭 𝐢𝐧𝐟𝐨\n\n📌 What happened: Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يكشف خرق بيانات SickKids معلومات الموظف والمتقدم للوظيفة\n\n📌 وش اللي صار: يقول مستشفى تورونتو للأطفال المرضى (SickKids) إن حادث الأمن السيبراني كشف المعلومات الشخصية لبعض الموظفين الحاليين والسابقين والمتقدمين للوظائف، نتيجة لخلل في برامج الطرف الثالث.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "5c4e2cd6076c559a",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-12T15:38:08+00:00",
     "en_text": "🛡️ 𝐋𝐚𝐳𝐚𝐫𝐮𝐬 𝐡𝐚𝐜𝐤𝐞𝐫𝐬 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐳𝐞𝐫𝐨-𝐝𝐚𝐲 𝐭𝐨 𝐭𝐚𝐫𝐠𝐞𝐭 𝐝𝐞𝐟𝐞𝐧𝐬𝐞 𝐟𝐢𝐫𝐦𝐬\n\n📌 What happened: North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ استغل قراصنة Lazarus نظام Windows Zero Day لاستهداف شركات الدفاع\n\n📌 وش اللي صار: يستغل المتسللون الكوريون الشماليون ثغرة Windows Zero-day (CVE-2026-68820) لاستهداف شركات قطاع الدفاع كجزء من حملة Operation Dream Job.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "11be2fbf8bdce9da",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-12T14:47:01+00:00",
-    "en_text": "🛡️ 𝐒𝐡𝐚𝐫𝐞𝐏𝐨𝐢𝐧𝐭 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐒𝐡𝐨𝐫𝐭𝐥𝐲 𝐀𝐟𝐭𝐞𝐫 𝐏𝐨𝐂 𝐑𝐞𝐥𝐞𝐚𝐬𝐞\n\n📌 What happened: The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تم استغلال ثغرة SharePoint بعد وقت قصير من إصدار PoC\n\n📌 وش اللي صار: قامت شركة Microsoft بتصحيح الثغرة الأمنية في شهر يوليو، وحذرت CISA من احتمال استغلالها في نهاية المطاف.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
