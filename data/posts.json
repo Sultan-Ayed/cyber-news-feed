@@ -1,5 +1,23 @@
 [
   {
+    "id": "a4a8e831095dac58",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-21T15:11:16+00:00",
+    "en_text": "🛡️ 𝐈𝐧 𝐎𝐭𝐡𝐞𝐫 𝐍𝐞𝐰𝐬: 𝐙𝐨𝐦𝐛𝐢𝐞 𝐂𝐚𝐫𝐝 𝐀𝐭𝐭𝐚𝐜𝐤, 𝐓-𝐌𝐨𝐛𝐢𝐥𝐞 𝐂𝐮𝐭 𝐂𝐚𝐛𝐥𝐞 𝐭𝐨 𝐒𝐭𝐨𝐩 𝐇𝐚𝐜𝐤𝐞𝐫𝐬, 𝐆𝐢𝐭𝐇𝐮𝐛 𝐃𝐞𝐧𝐢𝐞𝐬 𝐀𝐈 𝐂𝐚𝐮𝐬𝐞𝐝 𝐁𝐮𝐠\n\n📌 What happened: Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ في أخبار أخرى: هجوم بطاقة Zombie، وقطع كابل T-Mobile لإيقاف المتسللين، وينفي GitHub حدوث خطأ في الذكاء الاصطناعي\n\n📌 وش اللي صار: قصص أخرى جديرة بالملاحظة ربما تكون قد اختفت عن الأنظار: هجوم Threema DDoS، وEvooo1Bot Linux botnet، وCrypto4A تحصل على شهادة NIST من الدرجة الأولى.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "68f7c56418ab7e3b",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-21T14:54:49+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐛𝐥𝐚𝐦𝐞𝐬 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐠𝐚𝐦𝐢𝐧𝐠 𝐢𝐬𝐬𝐮𝐞𝐬 𝐨𝐧 𝐑𝐆𝐁 𝐥𝐢𝐠𝐡𝐭𝐢𝐧𝐠 𝐝𝐞𝐯𝐢𝐜𝐞𝐬\n\n📌 What happened: Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ تلقي Microsoft باللوم في مشكلات ألعاب Windows على أجهزة إضاءة RGB\n\n📌 وش اللي صار: تقول Microsoft إن المشكلات المستمرة التي تتسبب في تعطل الألعاب أو فشل تشغيلها بعد تثبيت تحديثات Windows لشهر أغسطس 2026 قد تكون ناجمة عن الأجهزة الطرفية المزودة بإضاءة RGB.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "6b617776fd344f09",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-08-13T08:38:03+00:00",
     "en_text": "🛡️ 𝐍𝐢𝐠𝐡𝐭𝐦𝐚𝐫𝐞 𝐄𝐜𝐥𝐢𝐩𝐬𝐞 𝐃𝐫𝐨𝐩𝐬 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 ‘𝐒𝐡𝐢𝐞𝐥𝐝𝐁𝐫𝐞𝐚𝐤’\n\n📌 What happened: Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Nightmare Eclipse يسقط ثغرة Windows Zero-Day \"ShieldBreak\"\n\n📌 وش اللي صار: تم إسقاط هذا الاستغلال في برنامج Patch Tuesday، وهو يسمح لأي مستخدم بإنشاء غلاف يتمتع بامتيازات النظام.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "6ad3c57e750ed778",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4b34421b322d00/6a7cd6b1cff117fe2ff5b3b3/Belgium-alxpin-GettyImages-2159495100.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-08-13T07:00:00+00:00",
-    "en_text": "🛡️ 𝐁𝐞𝐥𝐠𝐢𝐮𝐦'𝐬 𝐞𝐈𝐃 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐎𝐩𝐞𝐧𝐬 𝐂𝐢𝐭𝐢𝐳𝐞𝐧 𝐀𝐜𝐜𝐨𝐮𝐧𝐭𝐬 𝐭𝐨 𝐑𝐂𝐄\n\n📌 What happened: The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ مصادقة الهوية الإلكترونية في بلجيكا تفتح حسابات المواطنين لـ RCE\n\n📌 وش اللي صار: تعرض إطار الثقة الذي يقوم عليه نظام الهوية الإلكترونية البلجيكي للخطر الكامل بسبب نقاط الضعف الشديدة في امتداد المتصفح الرئيسي، مما يعرض مشاكل أكبر مع الامتدادات بشكل عام.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "3c5ef5fa5324c56d",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_e1WsuZlqC_AfMpdI4wXB0wzIA6nGpPb5ktYmwO5jRhFqH2t56eGghhYAV7he6u0qTqiPacKD-Wf3c1vXxUmBV159KAObOJUTEDGdDafl9B0makdRgyKTUwWHZ5qxLpGbWRg33JJl_0KaY0K0fiWLaV2xghWX4KqUSeaoNgD9Z5ql1Q5VesZQyH-1eO7W/s1600/poc.jpg",
-    "published_at": "2026-08-13T06:09:48+00:00",
-    "en_text": "🛡️ 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐒𝐡𝐚𝐫𝐞𝐏𝐨𝐢𝐧𝐭 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐁𝐲𝐩𝐚𝐬𝐬 𝐀𝐟𝐭𝐞𝐫 𝐏𝐮𝐛𝐥𝐢𝐜 𝐏𝐨𝐂 𝐑𝐞𝐥𝐞𝐚𝐬𝐞\n\n📌 What happened: Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يستغل المهاجمون تجاوز مصادقة SharePoint بعد إصدار إثبات المفهوم (PoC) العام\n\n📌 وش اللي صار: بدأت الجهات الفاعلة في مجال التهديد في استغلال ثغرة Microsoft SharePoint التي تم الكشف عنها حديثًا بعد إصدار رمز إثبات المفهوم (PoC).\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
