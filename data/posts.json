@@ -1,5 +1,14 @@
 [
   {
+    "id": "018a1d09bc982d66",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-22T13:00:09+00:00",
+    "en_text": "🛡️ 𝐍𝐚𝐦𝐞𝐝 𝐏𝐢𝐩𝐞𝐬 𝐔𝐧𝐝𝐞𝐫 𝐀𝐭𝐭𝐚𝐜𝐤: 𝐒𝐞𝐜𝐮𝐫𝐢𝐧𝐠 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐈𝐧𝐭𝐞𝐫𝐩𝐫𝐨𝐜𝐞𝐬𝐬 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧\n\n📌 What happened: Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الأنابيب المسماة تحت الهجوم: تأمين الاتصال بين العمليات في Windows\n\n📌 وش اللي صار: توفر الأنابيب المسماة في Windows اتصالاً سريعًا بين العمليات، ولكن يمكن أن تؤدي عناصر التحكم في الوصول الضعيفة إلى تعريض الخدمات المميزة لعمليات غير موثوقة.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2e68898a067d95fe",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-13T15:13:19+00:00",
     "en_text": "🛡️ 𝐓𝐫𝐞𝐳𝐨𝐫 𝐝𝐢𝐬𝐜𝐥𝐨𝐬𝐞𝐬 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐚𝐟𝐟𝐞𝐜𝐭𝐢𝐧𝐠 𝐧𝐞𝐚𝐫𝐥𝐲 𝟏𝟒,𝟎𝟎𝟎 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬\n\n📌 What happened: Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping and logistics provider, was hacked\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تكشف شركة Trezor عن خرق للبيانات يؤثر على ما يقرب من 14000 عميل\n\n📌 وش اللي صار: كشفت شركة Trezor، الشركة المصنعة لمحافظ الأجهزة، عن حدوث خرق للبيانات أثر على ما يقرب من 14000 من عملائها بعد اختراق شركة ShipMonk، مزود الشحن والخدمات اللوجستية الخاص بها.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "a1e877d7c6d287ab",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-13T14:41:44+00:00",
-    "en_text": "🛡️ 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐌&𝐀 𝐑𝐨𝐮𝐧𝐝𝐮𝐩: 𝟐𝟏 𝐃𝐞𝐚𝐥𝐬 𝐀𝐧𝐧𝐨𝐮𝐧𝐜𝐞𝐝 𝐢𝐧 𝐉𝐮𝐥𝐲 𝟐𝟎𝟐𝟔\n\n📌 What happened: Significant cybersecurity M&A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تقرير موجز عن عمليات الاندماج والاستحواذ في مجال الأمن السيبراني: تم الإعلان عن 21 صفقة في يوليو 2026\n\n📌 وش اللي صار: صفقات الاندماج والاستحواذ المهمة في مجال الأمن السيبراني التي أعلنت عنها شركات Barracuda وCrowdStrike وCyera وOkta وPalo Alto Networks وQualcomm.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
