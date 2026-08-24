@@ -1,5 +1,23 @@
 [
   {
+    "id": "17e59ce72fba8349",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-24T10:59:30+00:00",
+    "en_text": "🛡️ 𝐕𝐞𝐧𝐞𝐳𝐮𝐞𝐥𝐚𝐧 𝐆𝐞𝐭𝐬 𝐑𝐞𝐜𝐨𝐫𝐝 𝐅𝐞𝐝𝐞𝐫𝐚𝐥 𝐏𝐫𝐢𝐬𝐨𝐧 𝐓𝐞𝐫𝐦 𝐟𝐨𝐫 𝐀𝐓𝐌 𝐉𝐚𝐜𝐤𝐩𝐨𝐭𝐭𝐢𝐧𝐠\n\n📌 What happened: Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ فنزويلي يحصل على عقوبة سجن فيدرالية قياسية بسبب الفوز بالجائزة الكبرى لأجهزة الصراف الآلي\n\n📌 وش اللي صار: حُكم على خوان مانويل جوفيا أغيليرا بالسجن لمدة 8 سنوات لدوره في مخطط الفوز بالجائزة الكبرى لأجهزة الصراف الآلي والذي تسبب في خسائر بالملايين.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "e14279b772b46caa",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-24T10:45:12+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐨𝐫𝐝𝐞𝐫𝐬 𝐮𝐫𝐠𝐞𝐧𝐭 𝐩𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐨𝐟 𝐚𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐙𝐢𝐦𝐛𝐫𝐚 𝐟𝐥𝐚𝐰\n\n📌 What happened: The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ أوامر CISA بالتصحيح العاجل لثغرة Zimbra المستغلة بشكل نشط\n\n📌 وش اللي صار: أمرت وكالة الأمن السيبراني وأمن البنية التحتية (CISA) الوكالات الحكومية الأمريكية بتصحيح الثغرة الأمنية المستغلة بشكل نشط في Zimbra Collaboration Suite (ZCS) في غضون ثلاثة أيام.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "501c31bffd7b42f9",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-08-14T09:20:28+00:00",
     "en_text": "🛡️ 𝐎𝐯𝐞𝐫 𝟏,𝟎𝟎𝟎 𝐂𝐡𝐚𝐫𝐢𝐭𝐢𝐞𝐬 𝐇𝐢𝐭 𝐛𝐲 𝐁𝐞𝐚𝐜𝐨𝐧 𝐂𝐑𝐌 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ أكثر من 1000 مؤسسة خيرية تعرضت لاختراق بيانات Beacon CRM\n\n📌 وش اللي صار: يُعتقد أن السبب الجذري للحادث هو مفتاح وصول AWS المخترق والذي تم الكشف عنه في عناصر بناء JavaScript المتاحة للجمهور.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "de4f35c2e82cef5f",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-14T08:27:18+00:00",
-    "en_text": "🛡️ 𝐃𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐬𝐭 𝐬𝐞𝐧𝐭 𝐭𝐨 𝐩𝐫𝐢𝐬𝐨𝐧 𝐟𝐨𝐫 𝐬𝐭𝐞𝐚𝐥𝐢𝐧𝐠 𝐝𝐚𝐭𝐚, 𝐞𝐱𝐭𝐨𝐫𝐭𝐢𝐧𝐠 𝐞𝐦𝐩𝐥𝐨𝐲𝐞𝐫\n\n📌 What happened: A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تم إرسال محلل بيانات إلى السجن بتهمة سرقة البيانات وابتزاز صاحب العمل\n\n📌 وش اللي صار: حُكم على مقاول محلل بيانات سابق لشركة Brightly Software بالسجن لمدة عامين لاستهدافه صاحب العمل في مخطط ابتزاز بقيمة 2.5 مليون دولار.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "6b8fef3ef86eff01",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-14T08:16:00+00:00",
-    "en_text": "🛡️ 𝟏𝟒,𝟎𝟎𝟎 𝐓𝐫𝐞𝐳𝐨𝐫 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐈𝐦𝐩𝐚𝐜𝐭𝐞𝐝 𝐛𝐲 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡 𝐚𝐭 𝐒𝐡𝐢𝐩𝐌𝐨𝐧𝐤\n\n📌 What happened: Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تأثر 14000 من عملاء Trezor بخرق البيانات في ShipMonk\n\n📌 وش اللي صار: سرق المتسللون معلومات الشحن الخاصة بالعملاء، بما في ذلك الأسماء والعناوين وعناوين البريد الإلكتروني وأرقام الهواتف.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
