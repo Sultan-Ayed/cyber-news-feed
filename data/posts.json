@@ -9,6 +9,15 @@
     "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "ec147778d981cc6a",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxfnZQzz7hUDdRKPJM-KWXJAJemk0-S3QlOB71Z1Bq9nVxHA4G0VtkwUUVJjgO-2gtDImMt-ktLnUQd3rkScujv0fWVlfc_tr3qO7sZ-MI2QDtoyT8pKx4q_ZCndRyxhPQcNtZB70fZ4VlaBuE3YaMcE__MWrRtngOU0rTHcSmOXsGkhlARwfUkIBUj9Q/s1600/recap-n.jpg",
+    "published_at": "2026-08-24T14:32:10+00:00",
+    "en_text": "🛡️ ⚡ 𝐖𝐞𝐞𝐤𝐥𝐲 𝐑𝐞𝐜𝐚𝐩: 𝐀𝐈-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐏𝐋𝐂 𝐀𝐭𝐭𝐚𝐜𝐤𝐬, 𝐆𝐢𝐭𝐋𝐚𝐛 𝐀𝐭𝐭𝐚𝐜𝐤𝐬, 𝐒𝐭𝐫𝐢𝐩𝐞 𝐊𝐞𝐲 𝐋𝐞𝐚𝐤𝐬 𝐚𝐧𝐝 𝐌𝐨𝐫𝐞\n\n📌 What happened: A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "5a4c9da06b51c567",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-14T14:00:00+00:00",
     "en_text": "🛡️ 𝐖𝐡𝐚𝐭 𝐁𝐨𝐚𝐫𝐝𝐬 𝐍𝐞𝐞𝐝 𝐭𝐨 𝐊𝐧𝐨𝐰 𝐀𝐛𝐨𝐮𝐭 𝐓𝐞𝐜𝐡 𝐑𝐢𝐬𝐤\n\n📌 What happened: Why do so many boards underestimate technology risk until it becomes a crisis?\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ ما تحتاج مجالس الإدارة إلى معرفته حول المخاطر التقنية\n\n📌 وش اللي صار: لماذا تستهين العديد من مجالس الإدارة بمخاطر التكنولوجيا حتى تصبح أزمة؟\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "99dadd313b8cdbdf",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-14T13:45:18+00:00",
-    "en_text": "🛡️ 𝐌𝐚𝐱 𝐬𝐞𝐯𝐞𝐫𝐢𝐭𝐲 𝐒𝐀𝐏 𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐂𝐥𝐨𝐮𝐝 𝐟𝐥𝐚𝐰 𝐧𝐨𝐰 𝐭𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐢𝐧 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ الحد الأقصى لخطورة عيب SAP Commerce Cloud مستهدف الآن في الهجمات\n\n📌 وش اللي صار: تم بالفعل استهداف ثغرة أمنية شديدة الخطورة في تنفيذ التعليمات البرمجية عن بعد في SAP Commerce Cloud، والتي تم تصحيحها قبل ثلاثة أيام، في الهجمات، وفقًا لشركة استخبارات التهديدات Defused.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
