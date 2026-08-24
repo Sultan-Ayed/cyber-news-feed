@@ -1,5 +1,14 @@
 [
   {
+    "id": "a00e8a598a61ff7f",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-24T17:56:24+00:00",
+    "en_text": "🛡️ 𝐓𝐢𝐤𝐓𝐨𝐤 𝐫𝐞𝐚𝐜𝐡𝐞𝐬 $𝟒𝟎𝟎𝐌 𝐬𝐞𝐭𝐭𝐥𝐞𝐦𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐔𝐒 𝐨𝐯𝐞𝐫 𝐂𝐎𝐏𝐏𝐀 𝐯𝐢𝐨𝐥𝐚𝐭𝐢𝐨𝐧𝐬\n\n📌 What happened: The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA).\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "5157632da92a9e2c",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-14T14:59:55+00:00",
     "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐞𝐱𝐩𝐥𝐨𝐢𝐭 𝐦𝐚𝐜𝐎𝐒 𝐒𝐜𝐫𝐞𝐞𝐧 𝐒𝐡𝐚𝐫𝐢𝐧𝐠 𝐟𝐥𝐚𝐰 𝐭𝐨 𝐝𝐞𝐩𝐥𝐨𝐲 𝐌𝐨𝐧𝐞𝐫𝐨 𝐦𝐢𝐧𝐞𝐫\n\n📌 What happened: The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يستغل المتسللون ثغرة مشاركة شاشة نظام التشغيل MacOS لنشر أداة تعدين Monero\n\n📌 وش اللي صار: يحذر المركز الوطني للأمن السيبراني في هولندا (NCSC) من أن المتسللين يستغلون بشكل نشط ثغرة أمنية لتجاوز مصادقة نظام التشغيل MacOS بعد ظهور كود الاستغلال العام.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "4c9d6b022a5d05c3",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-14T14:00:10+00:00",
-    "en_text": "🛡️ 𝐓𝐡𝐞 𝐌𝐨𝐝𝐞𝐫𝐧 𝐀𝐭𝐭𝐚𝐜𝐤 𝐂𝐡𝐚𝐢𝐧: 𝐑𝐞𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 𝐆𝐨𝐨𝐠𝐥𝐞 𝐖𝐨𝐫𝐤𝐬𝐩𝐚𝐜𝐞 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐢𝐧 𝐭𝐡𝐞 𝐀𝐠𝐞 𝐨𝐟 𝐀𝐈\n\n📌 What happened: Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain.\n\n💡 Why it matters: The weakest link is rarely the technology — it's the split second someone trusts a message that looks routine.\n\n✅ Quick tip: Enable phishing-resistant MFA (like passkeys) wherever you can; a stolen password alone shouldn't be enough.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ سلسلة الهجمات الحديثة: إعادة التفكير في أمان Google Workspace في عصر الذكاء الاصطناعي\n\n📌 وش اللي صار: لا تبدأ هجمات Google Workspace دائمًا بالتصيد الاحتيالي. يمكن أن توفر رموز OAuth المسروقة مسارًا آخر إلى Gmail وDrive والأنظمة المتصلة. يشرح الأمن المادي سبب احتياج المؤسسات إلى دفاعات تغطي سلسلة هجمات Workspace بأكملها.\n\n💡 ليش هذا مهم: أضعف حلقة نادرًا ما تكون التقنية، هي لحظة يثق فيها شخص برسالة تبدو عادية.\n\n✅ نصيحة سريعة: فعّل مصادقة ثنائية مقاومة للتصيد (زي مفاتيح المرور) كل ما قدرت، لأن كلمة المرور المسروقة لحالها ما لازم تكفي.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
