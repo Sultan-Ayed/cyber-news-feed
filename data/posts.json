@@ -1,5 +1,23 @@
 [
   {
+    "id": "501c31bffd7b42f9",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-24T10:08:42+00:00",
+    "en_text": "🛡️ 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧 𝐄𝐱𝐩𝐨𝐬𝐞𝐝 𝐢𝐧 𝐀𝐩𝐨𝐥𝐥𝐨 𝐆𝐥𝐨𝐛𝐚𝐥 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ المعلومات الشخصية التي تم الكشف عنها في خرق بيانات أبولو العالمية\n\n📌 وش اللي صار: ويبدو أن شركة الأسهم الخاصة قد تم استهدافها كجزء من حملة تركز على الشركات المالية الكبرى.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "8d87a4340a35ef96",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-24T10:00:00+00:00",
+    "en_text": "🛡️ 𝐑𝐞𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐀𝐈 𝐄𝐫𝐚\n\n📌 What happened: As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/rethinking-application-security-for-the-ai-era/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ إعادة النظر في أمن التطبيقات في عصر الذكاء الاصطناعي\n\n📌 وش اللي صار: نظرًا لأن الذكاء الاصطناعي يقلل بشكل كبير الوقت المستغرق من الكشف عن الثغرات الأمنية إلى استغلالها، يجب على الشركات أن تنظر إلى ما هو أبعد من التصحيح لتقليل مخاطر التطبيقات.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/rethinking-application-security-for-the-ai-era/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "19ff5c708114b4fa",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-08-14T08:16:00+00:00",
     "en_text": "🛡️ 𝟏𝟒,𝟎𝟎𝟎 𝐓𝐫𝐞𝐳𝐨𝐫 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐈𝐦𝐩𝐚𝐜𝐭𝐞𝐝 𝐛𝐲 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡 𝐚𝐭 𝐒𝐡𝐢𝐩𝐌𝐨𝐧𝐤\n\n📌 What happened: Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تأثر 14000 من عملاء Trezor بخرق البيانات في ShipMonk\n\n📌 وش اللي صار: سرق المتسللون معلومات الشحن الخاصة بالعملاء، بما في ذلك الأسماء والعناوين وعناوين البريد الإلكتروني وأرقام الهواتف.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "f83a252b76c93aa0",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-14T07:01:56+00:00",
-    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐢𝐧𝐠 𝐔𝐧𝐩𝐚𝐭𝐜𝐡𝐞𝐝 𝐆𝐞𝐨𝐒𝐞𝐫𝐯𝐞𝐫 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲\n\n📌 What happened: The security defect is described as an SQL injection that could allow attackers to achieve remote code execution.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ قراصنة يستغلون GeoServer Zero-Day غير المصحح\n\n📌 وش اللي صار: يوصف الخلل الأمني ​​بأنه حقنة SQL قد تسمح للمهاجمين بتنفيذ التعليمات البرمجية عن بعد.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "cdcfdf45252c2c94",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-14T06:41:43+00:00",
-    "en_text": "🛡️ 𝐀𝐦𝐧𝐞𝐬𝐢𝐚𝐒𝐭𝐞𝐚𝐥𝐞𝐫 𝐦𝐚𝐜𝐎𝐒 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐒𝐭𝐞𝐚𝐥𝐬 𝐃𝐚𝐭𝐚, 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬 𝐁𝐫𝐨𝐰𝐬𝐞𝐫 𝐒𝐞𝐬𝐬𝐢𝐨𝐧𝐬\n\n📌 What happened: The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies.\n\n💡 Why it matters: Modern malware doesn't announce itself — it blends into normal traffic until the moment it needs to strike.\n\n✅ Quick tip: Only install software from official sources — 'free' cracked versions are one of the top malware delivery methods.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ برنامج AmnesiaStealer macOS الخبيث يسرق البيانات ويتحكم في جلسات المتصفح\n\n📌 وش اللي صار: يقوم برنامج سرقة معلومات macOS القائم على Rust بحصد كلمات مرور المستخدمين ومعلومات سلسلة المفاتيح وبيانات المتصفح المستندة إلى Chromium وملفات تعريف الارتباط Safari.\n\n💡 ليش هذا مهم: البرمجيات الخبيثة الحديثة ما تعلن عن نفسها، تندمج مع النشاط العادي للجهاز لين تجي لحظة الضربة.\n\n✅ نصيحة سريعة: ثبّت البرامج من مصادرها الرسمية بس — النسخ 'المجانية' المقرصنة من أكثر طرق توزيع البرمجيات الخبيثة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
