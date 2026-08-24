@@ -9,6 +9,15 @@
     "ar_text": "🛡️ Microsoft: تحديثات أغسطس تؤدي إلى توقف الطباعة وتصدير ملفات PDF في تطبيقات WPF\n\n📌 وش اللي صار: أكدت Microsoft أن تحديثات .NET Framework التي تم إصدارها كجزء من تصحيح يوم الثلاثاء لشهر أغسطس 2026 تؤدي إلى تعطيل الطباعة وتصدير PDF في تطبيقات WPF.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "eef5e5ff1cf8c96d",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNZ5JtaLAZIvAO7R42dqB1NBKwtOlFHZIl0yqtfPhyphenhyphenHMJB9MMg8oLLb8p6n9mF67PgHSytYigaqeAoGejuVd42lDlCT42T6vqCgfl6IE-8LnMQjyiCj8MVMdg5ZKznn2cZ18T9zubhLJ-JUZLSWeqEVGQbke44f83WHpoMuaVM9J6G0FA-9RG8_wb8lUTt/s1600/windows-signin.jpg",
+    "published_at": "2026-08-24T12:35:36+00:00",
+    "en_text": "🛡️ 𝐖𝐨𝐫𝐝𝐥𝐢𝐬𝐭𝐋𝐨𝐚𝐝𝐞𝐫 𝐃𝐞𝐥𝐢𝐯𝐞𝐫𝐬 𝐀𝐦𝐚𝐭𝐞𝐫𝐚 𝐯𝐢𝐚 𝐂𝐥𝐢𝐜𝐤𝐅𝐢𝐱, 𝐒𝐲𝐧𝐤𝐋𝐨𝐚𝐝𝐞𝐫 𝐏𝐡𝐢𝐬𝐡𝐞𝐬 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝𝐬\n\n📌 What happened: Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يقوم WordlistLoader بتسليم Amatera عبر ClickFix، ويقوم SynkLoader بتصيد كلمات مرور Windows\n\n📌 وش اللي صار: قام باحثو الأمن السيبراني بوضع علامة على عائلتين جديدتين من البرامج الضارة تسمى WordlistLoader وSynkLoader والتي يتم استخدامها لتقديم حمولات المرحلة التالية ومن المحتمل أن تبيع الوصول إلى مجموعات برامج الفدية.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "a17500170f53d0ba",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-14T11:55:45+00:00",
     "en_text": "🛡️ 𝐒𝐡𝐞𝐥𝐥 𝐢𝐧𝐯𝐞𝐬𝐭𝐢𝐠𝐚𝐭𝐞𝐬 '𝐩𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥 𝐢𝐧𝐜𝐢𝐝𝐞𝐧𝐭' 𝐚𝐟𝐭𝐞𝐫 𝐂𝐥𝐨𝐩 𝐝𝐚𝐭𝐚 𝐭𝐡𝐞𝐟𝐭 𝐜𝐥𝐚𝐢𝐦𝐬\n\n📌 What happened: Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تحقق شل في \"حادث محتمل\" بعد مزاعم سرقة بيانات كلوب\n\n📌 وش اللي صار: أكدت شركة شل العملاقة للنفط أنها تحقق في حادث أمني محتمل بعد أن زعمت عصابة برامج الفدية Clop أنها سرقت 89 جيجابايت من البيانات.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "a26a1b6d971623f9",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-14T11:35:23+00:00",
-    "en_text": "🛡️ 𝐓𝐫𝐢𝐯𝐲, 𝐍𝐨𝐭 𝐋𝐢𝐭𝐞𝐋𝐋𝐌 𝐁𝐞𝐡𝐢𝐧𝐝 𝐭𝐡𝐞 𝟐,𝟓𝟎𝟎 𝐎𝐫𝐠 𝐂𝐨𝐦𝐩𝐫𝐨𝐦𝐢𝐬𝐞\n\n📌 What happened: Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Trivy، وليس LiteLLM وراء تسوية 2500 مؤسسة\n\n📌 وش اللي صار: تم الكشف عن أكثر من 95% من الشركات المتضررة قبل نشر حزم LiteLLM الضارة.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
