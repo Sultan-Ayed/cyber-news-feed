@@ -1,5 +1,14 @@
 [
   {
+    "id": "5157632da92a9e2c",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-24T15:17:16+00:00",
+    "en_text": "🛡️ 𝐑𝐞𝐥𝐢𝐚𝐐𝐮𝐞𝐬𝐭 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐟𝐚𝐢𝐥𝐞𝐝 𝐝𝐚𝐭𝐚-𝐭𝐡𝐞𝐟𝐭 𝐚𝐭𝐭𝐚𝐜𝐤 𝐚𝐟𝐭𝐞𝐫 𝐒𝐡𝐢𝐧𝐲𝐇𝐮𝐧𝐭𝐞𝐫𝐬 𝐛𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team.\n\n💡 Why it matters: Phishing keeps winning not because people are careless, but because attackers now rent professional kits that mimic real logins perfectly.\n\n✅ Quick tip: Before clicking any login link, check the actual domain character by character — not just the logo or design.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التصيّد الاحتيالي ما زال ناجح، مو لأن الناس مهملين، بل لأن المهاجمين صاروا يستأجرون أدوات احترافية تقلّد صفحات الدخول الحقيقية بدقة.\n\n✅ نصيحة سريعة: قبل ما تضغط أي رابط دخول، تأكد من النطاق (الدومين) حرف بحرف، مو بس الشعار أو التصميم.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "5a4c9da06b51c567",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-14T13:45:18+00:00",
     "en_text": "🛡️ 𝐌𝐚𝐱 𝐬𝐞𝐯𝐞𝐫𝐢𝐭𝐲 𝐒𝐀𝐏 𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐂𝐥𝐨𝐮𝐝 𝐟𝐥𝐚𝐰 𝐧𝐨𝐰 𝐭𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐢𝐧 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ الحد الأقصى لخطورة عيب SAP Commerce Cloud مستهدف الآن في الهجمات\n\n📌 وش اللي صار: تم بالفعل استهداف ثغرة أمنية شديدة الخطورة في تنفيذ التعليمات البرمجية عن بعد في SAP Commerce Cloud، والتي تم تصحيحها قبل ثلاثة أيام، في الهجمات، وفقًا لشركة استخبارات التهديدات Defused.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "5bfa349da239b2e7",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta34684778cb8b0db/682deb002835ee067393fc41/Mergers_M&A_(1800)_pichetw_Alamy.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-08-14T12:17:21+00:00",
-    "en_text": "🛡️ 𝐂𝐲𝐞𝐫𝐚'𝐬 𝐎𝐚𝐬𝐢𝐬 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐁𝐮𝐲 𝐢𝐬 𝐀𝐥𝐥 𝐀𝐛𝐨𝐮𝐭 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭 𝐂𝐨𝐧𝐭𝐫𝐨𝐥\n\n📌 What happened: The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ إن عملية شراء Oasis Security من Cyera تدور حول التحكم في عملاء الذكاء الاصطناعي\n\n📌 وش اللي صار: وتهدف الصفقة التي تبلغ قيمتها مليار دولار إلى دمج أمن البيانات والهوية في مستوى تحكم واحد للوكلاء، مع إعادة تعريف الوصول المميز حول سياق الأعمال بدلاً من الأدوار الثابتة.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
