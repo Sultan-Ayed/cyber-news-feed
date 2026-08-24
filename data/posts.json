@@ -36,6 +36,15 @@
     "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "9fe6bd2c3a89ef79",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1dbd4251686aed8/6a8c90973725ccfa2c8aef7d/panda_Oneinchpunch_Alamy_16_X_9_VERSION.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-24T14:34:59+00:00",
+    "en_text": "🛡️ 𝐓𝐨𝐱𝐢𝐜𝐏𝐚𝐧𝐝𝐚 𝐁𝐚𝐧𝐤𝐢𝐧𝐠 𝐓𝐫𝐨𝐣𝐚𝐧 𝐌𝐚𝐭𝐮𝐫𝐞𝐬 𝐈𝐧𝐭𝐨 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐓𝐡𝐫𝐞𝐚𝐭\n\n📌 What happened: The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "ec147778d981cc6a",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-14T17:32:46+00:00",
     "en_text": "🛡️ 𝐀𝐦𝐢𝐝 𝐀𝐈-𝐃𝐫𝐢𝐯𝐞𝐧 𝐁𝐮𝐠 𝐓𝐬𝐮𝐧𝐚𝐦𝐢, 𝐍𝐈𝐒𝐓 𝐋𝐨𝐨𝐤𝐬 𝐭𝐨…𝐀𝐈\n\n📌 What happened: Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ وسط تسونامي الحشرات الذي يحركه الذكاء الاصطناعي، تتطلع NIST إلى...الذكاء الاصطناعي\n\n📌 وش اللي صار: بفضل البحث والمسح المعززين بالذكاء الاصطناعي، تستمر أحجام الثغرات الأمنية في الارتفاع، مما دفع المعهد الوطني للمعايير والتكنولوجيا إلى التساؤل عما إذا كان الذكاء الاصطناعي هو الحل.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "9f7d0a43b985f2a5",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt82eda035ca3e22ea/6a7f3bb6faf5c1cbf257cd7b/Edinburgh-StephenBridger-Getty.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-08-14T15:58:50+00:00",
-    "en_text": "🛡️ 𝐒𝐜𝐨𝐭𝐭𝐢𝐬𝐡 𝐆𝐨𝐯𝐭 𝐒𝐮𝐟𝐟𝐞𝐫𝐬 𝐏𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥𝐥𝐲 𝐖𝐢𝐝𝐞𝐧𝐢𝐧𝐠 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡 𝐚𝐭 𝐏𝐫𝐨𝐬𝐞𝐜𝐮𝐭𝐨𝐫'𝐬 𝐎𝐟𝐟𝐢𝐜𝐞\n\n📌 What happened: One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تعاني الحكومة الاسكتلندية من خرق محتمل للبيانات في مكتب المدعي العام\n\n📌 وش اللي صار: أبلغت إحدى الوكالات الحكومية في كاليدونيا عن حدوث اختراق، وذلك بفضل طرف ثالث ربما يكون قد خدم وكالات أخرى أيضًا.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
