@@ -1,5 +1,23 @@
 [
   {
+    "id": "a02830e149d4661f",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4-mx98ENuq77sCTBd49TSl4Ov5dD1Wua0Vf1MiyVVPfcFckY__TjnTEOeC5CIQWX4L_OLA-xZHHY5nAlp926SIpa3eK8Tvfw1HSHHK1GMot7noTz4Cg36t-ZuZ-NUh5mnsfzs0HJ8F7p410LgWFVPN39PYh8YR6qkDlE8duNKmKpOtJHW4NA9T_ddTGLp/s1600/hackers.jpg",
+    "published_at": "2026-08-24T08:08:31+00:00",
+    "en_text": "🛡️ 𝐔𝐀𝐓-𝟏𝟎𝟏𝟒𝟕 𝐔𝐬𝐞𝐬 𝐀𝐈 𝐭𝐨 𝐒𝐜𝐚𝐥𝐞 𝐒𝐞𝐫𝐯𝐞𝐫 𝐀𝐭𝐭𝐚𝐜𝐤𝐬, 𝐃𝐞𝐩𝐥𝐨𝐲𝐬 𝐒𝐏𝐄𝐂𝐓𝐑𝐄 𝐖𝐢𝐭𝐡 𝐄𝐃𝐑 𝐁𝐲𝐩𝐚𝐬𝐬 𝐚𝐧𝐝 𝐋𝐢𝐧𝐮𝐱 𝐑𝐨𝐨𝐭𝐤𝐢𝐭\n\n📌 What happened: Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يستخدم UAT-10147 الذكاء الاصطناعي لتوسيع نطاق هجمات الخادم، وينشر SPECTER باستخدام EDR Bypass وLinux Rootkit\n\n📌 وش اللي صار: كشف باحثو الأمن السيبراني عن تفاصيل مجموعة جرائم إلكترونية ناطقة باللغة الصينية يطلق عليها اسم UAT-10147 والتي تستهدف خوادم الويب التي تعمل بنظامي التشغيل Windows وLinux على مستوى العالم عبر قطاعات التعليم والإعلام والتكنولوجيا والألعاب.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "52d790077bf66b56",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-24T07:18:58+00:00",
+    "en_text": "🛡️ 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜 𝐄𝐱𝐩𝐚𝐧𝐝𝐬 𝐌𝐲𝐭𝐡𝐨𝐬 𝟓 𝐀𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐌𝐨𝐫𝐞 𝐃𝐞𝐟𝐞𝐧𝐝𝐞𝐫𝐬, 𝐔𝐧𝐯𝐞𝐢𝐥𝐬 $𝟑𝟓𝐌 𝐎𝐩𝐞𝐧 𝐒𝐨𝐮𝐫𝐜𝐞 𝐅𝐮𝐧𝐝\n\n📌 What happened: Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Anthropic توسع نطاق وصول Mythos 5 إلى المزيد من المدافعين، وتكشف عن صندوق مفتوح المصدر بقيمة 35 مليون دولار\n\n📌 وش اللي صار: يقوم Claude Security، حاليًا في الإصدار التجريبي العام لعملاء Claude Enterprise، بتشغيل عمليات فحص قاعدة التعليمات البرمجية على Mythos 5.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "b423251955043778",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-08-13T21:12:47+00:00",
     "en_text": "🛡️ 𝐔𝐤𝐫𝐚𝐢𝐧𝐞 𝐬𝐡𝐮𝐭𝐬 𝐝𝐨𝐰𝐧 𝟗𝟒 𝐟𝐫𝐚𝐮𝐝𝐮𝐥𝐞𝐧𝐭 𝐜𝐚𝐥𝐥 𝐜𝐞𝐧𝐭𝐞𝐫𝐬, 𝐬𝐞𝐢𝐳𝐞 𝐦𝐢𝐥𝐥𝐢𝐨𝐧𝐬 𝐢𝐧 𝐜𝐚𝐬𝐡\n\n📌 What happened: Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ أوكرانيا تغلق 94 مركز اتصال احتياليًا وتصادر ملايين الدولارات نقدًا\n\n📌 وش اللي صار: أغلقت السلطات في أوكرانيا 94 مركز اتصال احتياليًا في جميع أنحاء البلاد كانت تستدرج الأشخاص إلى عمليات احتيال استثمارية أو تحاول الوصول إلى الحسابات المصرفية.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "dace2be75c679582",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-13T20:47:02+00:00",
-    "en_text": "🛡️ 𝐀𝐤𝐢𝐫𝐚 𝐡𝐚𝐜𝐤𝐞𝐫𝐬 𝐝𝐢𝐬𝐚𝐛𝐥𝐞 𝐄𝐃𝐑 𝐰𝐢𝐭𝐡 𝐒𝐚𝐟𝐞 𝐌𝐨𝐝𝐞, 𝐬𝐭𝐞𝐚𝐥 𝐝𝐚𝐭𝐚 𝐛𝐮𝐭 𝐟𝐚𝐢𝐥 𝐭𝐨 𝐞𝐧𝐜𝐫𝐲𝐩𝐭\n\n📌 What happened: An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يقوم قراصنة Akira بتعطيل EDR باستخدام الوضع الآمن، ويسرقون البيانات ولكن يفشلون في تشفيرها\n\n📌 وش اللي صار: قامت إحدى الشركات التابعة لبرامج الفدية Akira بتعطيل حل الكشف عن نقطة النهاية والاستجابة لها (EDR) على نظام مخترق عن طريق إعادة تشغيل الجهاز في الوضع الآمن مع الاتصال بالشبكة.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "7a20fee85e3db3a9",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf3a1b76742bf9f5e/6a7e21b20030f83b5312474b/vmware-MaboHH-Getty-474325206.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-08-13T20:45:17+00:00",
-    "en_text": "🛡️ 𝐆𝐥𝐨𝐛𝐚𝐥 𝐓𝐡𝐫𝐞𝐚𝐭 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧 𝐇𝐢𝐭𝐬 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐕𝐌𝐰𝐚𝐫𝐞 𝐯𝐂𝐞𝐧𝐭𝐞𝐫 𝐅𝐥𝐚𝐰\n\n📌 What happened: Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ حملة التهديدات العالمية تصطدم بخلل خطير في برنامج VMware vCenter\n\n📌 وش اللي صار: بدأ الاستغلال ضد CVE-2026–59310 في وقت سابق من هذا الشهر، وقد لا يكون تصحيح الثغرة الأمنية كافيًا للتخفيف من التهديد بشكل كامل.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
