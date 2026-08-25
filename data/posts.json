@@ -1,5 +1,14 @@
 [
   {
+    "id": "d8eb520164317923",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-25T16:23:45+00:00",
+    "en_text": "🛡️ 𝐋𝐢𝐧𝐮𝐱 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐭𝐨 𝐆𝐨𝐯𝐞𝐫𝐧 𝐓𝐑𝐀𝐂𝐄, 𝐚𝐧 𝐎𝐩𝐞𝐧 𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝 𝐟𝐨𝐫 𝐀𝐈 𝐑𝐮𝐧𝐭𝐢𝐦𝐞 𝐀𝐭𝐭𝐞𝐬𝐭𝐚𝐭𝐢𝐨𝐧\n\n📌 What happened: TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ مؤسسة Linux تحكم TRACE، وهو معيار مفتوح لشهادة وقت تشغيل الذكاء الاصطناعي\n\n📌 وش اللي صار: تم تطوير TRACE بواسطة AMD وIntel وMicrosoft وOPAQUE وTII وساهم في مؤسسة Linux.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "0856539010ab90d5",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-17T14:47:08+00:00",
     "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐆𝐢𝐭𝐇𝐮𝐛 𝐢𝐬 𝐝𝐨𝐰𝐧 𝐰𝐨𝐫𝐥𝐝𝐰𝐢𝐝𝐞\n\n📌 What happened: GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تؤكد Microsoft أن GitHub معطل في جميع أنحاء العالم\n\n📌 وش اللي صار: GitHub معطل بالنسبة لبعض المستخدمين نظرًا لأن انقطاع التيار الكهربائي على نطاق واسع يتسبب في حدوث أخطاء عبر موقع الويب وواجهة برمجة التطبيقات والإجراءات وطلبات السحب والعديد من الخدمات الأخرى.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "c7510fc0ce5f9849",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-17T14:00:10+00:00",
-    "en_text": "🛡️ 𝐂𝐞𝐫𝐭𝐢𝐠𝐡𝐨𝐬𝐭 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐇𝐢𝐝𝐢𝐧𝐠 𝐢𝐧 𝐘𝐨𝐮𝐫 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞 𝐀𝐮𝐭𝐡𝐨𝐫𝐢𝐭𝐲\n\n📌 What happened: CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Certighost والامتياز المخفي في مرجع الشهادة الخاص بك\n\n📌 وش اللي صار: يتيح CVE-2026-54121 لمستخدم المجال القياسي تحويل CA الخاص بـ Enterprise إلى وحدة تحكم بالمجال. التصحيح هو الجزء السهل. الدرس المستفاد هو الامتياز والثقة الضمنية والتعامل مع البنية التحتية للمفاتيح العامة باعتبارها البنية التحتية للهوية من المستوى 0 كما كانت دائمًا.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
