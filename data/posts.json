@@ -1,5 +1,14 @@
 [
   {
+    "id": "dbe91be8feb7ea72",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb89ba684bc1c6174/6a8df1b462865819d86ce1bf/llm_gguy_shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-25T21:08:55+00:00",
+    "en_text": "🛡️ 𝐇𝐢𝐝𝐝𝐞𝐧 𝐏𝐫𝐨𝐦𝐩𝐭𝐬 𝐓𝐫𝐢𝐜𝐤 𝐀𝐈 𝐈𝐧𝐭𝐨 𝐅𝐚𝐥𝐬𝐞 𝐄𝐦𝐚𝐢𝐥 𝐒𝐮𝐦𝐦𝐚𝐫𝐢𝐞𝐬\n\n📌 What happened: With some simple HTML that's invisible to users, attackers can manipulate AI-powered email summarizers into producing malicious information.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "b300bf62ab6cfed1",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-17T18:22:09+00:00",
     "en_text": "🛡️ 𝐅𝐨𝐫𝐦𝐢𝐧𝐚𝐭𝐨𝐫 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐅𝐥𝐚𝐰 𝐂𝐚𝐧 𝐄𝐧𝐚𝐛𝐥𝐞 𝐔𝐧𝐚𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐑𝐂𝐄 𝐯𝐢𝐚 𝐌𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐏𝐇𝐏 𝐔𝐩𝐥𝐨𝐚𝐝𝐬\n\n📌 What happened: A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يمكن أن يؤدي خلل Forminator WordPress إلى تمكين RCE غير المصادق عليه عبر تحميلات PHP الضارة\n\n📌 وش اللي صار: تم الكشف عن ثغرة أمنية خطيرة في Forminator Forms، وهو مكون إضافي لـ WordPress يحتوي على أكثر من 600000 عملية تثبيت نشطة، والتي يمكن استغلالها لتنفيذ تعليمات برمجية عشوائية على المواقع الحساسة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "788b4d9b4fc14739",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu-MyaPNuRr2_NJ_TMqLf7OYW5AzCqgHpQ6HMfxlc-qsMzwSkfWlZDbHfecZ3IRp639FVDelhMZgpbnN87Fdchoh-g08R-cAiXxr7RvfdGy_ihvMxg152HK-rbOTIOnEueRTnPT-wU0eID3vplpIN1GBClvJC5e0egCGpDb_H0ykwH1x6a4zOvpW8V-Ssy/s1600/google.jpg",
-    "published_at": "2026-08-17T17:41:06+00:00",
-    "en_text": "🛡️ 𝐂𝐚𝐯𝐞𝐫𝐧 𝐂𝟐 𝐔𝐬𝐞𝐬 𝐃𝐍𝐒 𝐚𝐧𝐝 𝐆𝐨𝐨𝐠𝐥𝐞 𝐀𝐩𝐩𝐬 𝐒𝐜𝐫𝐢𝐩𝐭 𝐭𝐨 𝐁𝐥𝐞𝐧𝐝 𝐈𝐧𝐭𝐨 𝐋𝐞𝐠𝐢𝐭𝐢𝐦𝐚𝐭𝐞 𝐓𝐫𝐚𝐟𝐟𝐢𝐜\n\n📌 What happened: Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يستخدم Cavern C2 DNS وGoogle Apps Script للدمج في حركة المرور المشروعة\n\n📌 وش اللي صار: تتبع باحثو الأمن السيبراني التطور المستمر لإطار القيادة والسيطرة (C2) Cavern (المعروف أيضًا باسم Cav3rn) الذي يستخدمه قراصنة الدولة القومية الإيرانية في الهجمات التي تستهدف كيانات في إسرائيل.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
