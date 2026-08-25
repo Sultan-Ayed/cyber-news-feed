@@ -1,5 +1,14 @@
 [
   {
+    "id": "5fe735c75f0cbaf4",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Uq1yn-ay_vU25xZUbhhvnVMHSWo2rQwy4HhIfNIdnk-MIF-cbtytzKqkvrcBNIGy6fDgW22x0dMZiNhTmvTY_V6SxK-FE6VificiC99BkJMHaWdJB_-tSZeNeM96lL-HaG4VvrBRuA3JmPlkL3sE_F6kfJYhW_ZaXXQK0dses4BK6A2G4yF9GsHUrgXo/s1600/iranian-hackers.jpg",
+    "published_at": "2026-08-25T18:17:17+00:00",
+    "en_text": "🛡️ 𝐔.𝐒. 𝐒𝐚𝐧𝐜𝐭𝐢𝐨𝐧𝐬 𝐈𝐫𝐚𝐧-𝐋𝐢𝐧𝐤𝐞𝐝 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐁𝐞𝐡𝐢𝐧𝐝 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞 𝐁𝐫𝐞𝐚𝐜𝐡𝐞𝐬\n\n📌 What happened: The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "d8eb520164317923",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-17T15:44:34+00:00",
     "en_text": "🛡️ 𝐋𝐢𝐧𝐮𝐱 𝐁𝐨𝐭𝐧𝐞𝐭 𝐄𝐯𝐨𝐨𝐨𝟏𝐁𝐨𝐭 𝐄𝐱𝐩𝐚𝐧𝐝𝐬 𝐌𝐢𝐫𝐚𝐢 𝐂𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐖𝐞𝐥𝐥 𝐁𝐞𝐲𝐨𝐧𝐝 𝐃𝐃𝐨𝐒\n\n📌 What happened: The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Linux Botnet Evooo1Bot يوسع قدرات Mirai إلى ما هو أبعد من DDoS\n\n📌 وش اللي صار: تضيف شبكة الروبوتات وحدات استغلال وسرقة بيانات الاعتماد ومرحلات SOCKS العكسية لتحويل الأجهزة المخترقة إلى بنية تحتية للمهاجم المستمر.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "854ad5325b12e6af",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-17T14:47:08+00:00",
-    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐆𝐢𝐭𝐇𝐮𝐛 𝐢𝐬 𝐝𝐨𝐰𝐧 𝐰𝐨𝐫𝐥𝐝𝐰𝐢𝐝𝐞\n\n📌 What happened: GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تؤكد Microsoft أن GitHub معطل في جميع أنحاء العالم\n\n📌 وش اللي صار: GitHub معطل بالنسبة لبعض المستخدمين نظرًا لأن انقطاع التيار الكهربائي على نطاق واسع يتسبب في حدوث أخطاء عبر موقع الويب وواجهة برمجة التطبيقات والإجراءات وطلبات السحب والعديد من الخدمات الأخرى.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
