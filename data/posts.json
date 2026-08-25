@@ -1,5 +1,14 @@
 [
   {
+    "id": "3219746e78a81997",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-25T08:30:00+00:00",
+    "en_text": "🛡️ 𝐓𝐚𝐢𝐰𝐚𝐧 𝐂𝐡𝐚𝐫𝐠𝐞𝐬 𝟗 𝐎𝐯𝐞𝐫 𝐈𝐥𝐥𝐞𝐠𝐚𝐥 𝐀𝐈 𝐒𝐞𝐫𝐯𝐞𝐫 𝐄𝐱𝐩𝐨𝐫𝐭𝐬 𝐭𝐨 𝐂𝐡𝐢𝐧𝐚, 𝐈𝐧𝐜𝐥𝐮𝐝𝐢𝐧𝐠 𝐍𝐯𝐢𝐝𝐢𝐚 𝐚𝐧𝐝 𝐒𝐮𝐩𝐞𝐫 𝐌𝐢𝐜𝐫𝐨 𝐒𝐭𝐚𝐟𝐟\n\n📌 What happened: AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "3307be845e621eee",
     "source": "SecurityWeek",
     "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-17T06:51:08+00:00",
     "en_text": "🛡️ 𝐅𝐨𝐫𝐭𝐮𝐧𝐞 𝟓𝟎𝟎 𝐂𝐨𝐦𝐩𝐚𝐧𝐢𝐞𝐬 𝐇𝐢𝐭 𝐢𝐧 𝐀𝐳𝐮𝐫𝐞 𝐃𝐚𝐭𝐚 𝐓𝐡𝐞𝐟𝐭 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧\n\n📌 What happened: A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ ضربت شركة Fortune 500 في حملة لسرقة بيانات Azure\n\n📌 وش اللي صار: يدعي أحد عناصر التهديد سرقة ملايين السجلات من ماكدونالدز، وTCS، وفودافون، وغيرها من المؤسسات الكبيرة.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "847da71208bc87c8",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-16T23:47:06+00:00",
-    "en_text": "🛡️ 𝐒𝐚𝐟𝐞𝐏𝐚𝐥 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐢𝐦𝐩𝐚𝐜𝐭𝐬 𝟑𝟗,𝟕𝟗𝟖 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬, 𝐬𝐭𝐨𝐥𝐞𝐧 𝐢𝐧𝐟𝐨 𝐟𝐨𝐫 𝐬𝐚𝐥𝐞\n\n📌 What happened: Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يؤثر خرق بيانات SafePal على 39,798 عميلاً، ومعلومات مسروقة معروضة للبيع\n\n📌 وش اللي صار: يحذر مزود محفظة الأجهزة المشفرة SafePal من حدوث خرق للبيانات يؤثر على حوالي 39,798 عميلًا بعد استغلال خلل لسرقة معلومات طلبات العملاء، ويدعي ممثل التهديد الآن أنه يبيع البيانات المسروقة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
