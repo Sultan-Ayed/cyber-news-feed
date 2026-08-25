@@ -9,6 +9,15 @@
     "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "96654d5a54af36d1",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2d6c1792a2093976/6a8daf2931dc781c97eef199/GettyImages-147695159.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-25T14:53:13+00:00",
+    "en_text": "🛡️ 𝐈𝐬 𝐂𝐲𝐛𝐞𝐫 𝐅𝐚𝐜𝐢𝐧𝐠 𝐚𝐧 𝐀𝐟𝐟𝐨𝐫𝐝𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐂𝐫𝐢𝐬𝐢𝐬?\n\n📌 What happened: As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ هل يواجه الإنترنت أزمة القدرة على تحمل التكاليف؟\n\n📌 وش اللي صار: ومع وصول تكاليف الاختراق إلى مستويات قياسية واقتراب الإنفاق الدفاعي من 240 مليار دولار، تتعرض الشركات الصغيرة للخطر بشكل خطير، مما يهدد أمن سلسلة التوريد.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "6390d9c4dbeda298",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-17T14:00:10+00:00",
     "en_text": "🛡️ 𝐂𝐞𝐫𝐭𝐢𝐠𝐡𝐨𝐬𝐭 𝐚𝐧𝐝 𝐭𝐡𝐞 𝐏𝐫𝐢𝐯𝐢𝐥𝐞𝐠𝐞 𝐇𝐢𝐝𝐢𝐧𝐠 𝐢𝐧 𝐘𝐨𝐮𝐫 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞 𝐀𝐮𝐭𝐡𝐨𝐫𝐢𝐭𝐲\n\n📌 What happened: CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Certighost والامتياز المخفي في مرجع الشهادة الخاص بك\n\n📌 وش اللي صار: يتيح CVE-2026-54121 لمستخدم المجال القياسي تحويل CA الخاص بـ Enterprise إلى وحدة تحكم بالمجال. التصحيح هو الجزء السهل. الدرس المستفاد هو الامتياز والثقة الضمنية والتعامل مع البنية التحتية للمفاتيح العامة باعتبارها البنية التحتية للهوية من المستوى 0 كما كانت دائمًا.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "f2ae3024ec05f09e",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-17T13:53:55+00:00",
-    "en_text": "🛡️ 𝟔𝟖𝟎,𝟎𝟎𝟎 𝐈𝐦𝐩𝐚𝐜𝐭𝐞𝐝 𝐛𝐲 𝐅𝐫𝐞𝐧𝐜𝐡 𝐓𝐚𝐱 𝐀𝐮𝐭𝐡𝐨𝐫𝐢𝐭𝐲 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: Hackers used compromised credentials to access enterprise and personal tax-related data.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ 680 ألف شخص تأثروا بخرق بيانات هيئة الضرائب الفرنسية\n\n📌 وش اللي صار: استخدم المتسللون بيانات اعتماد مخترقة للوصول إلى بيانات المؤسسة والبيانات الشخصية المتعلقة بالضرائب.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
