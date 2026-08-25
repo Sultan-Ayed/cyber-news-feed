@@ -1,5 +1,14 @@
 [
   {
+    "id": "0856539010ab90d5",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-25T15:52:36+00:00",
+    "en_text": "🛡️ 𝐌𝐚𝐬𝐬𝐢𝐯𝐞 𝐃𝐃𝐨𝐒 𝐚𝐭𝐭𝐚𝐜𝐤 𝐝𝐢𝐬𝐫𝐮𝐩𝐭𝐬 𝐍𝐨𝐫𝐰𝐚𝐲’𝐬 𝐠𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬\n\n📌 What happened: A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "6390d9c4dbeda298",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-17T13:53:55+00:00",
     "en_text": "🛡️ 𝟔𝟖𝟎,𝟎𝟎𝟎 𝐈𝐦𝐩𝐚𝐜𝐭𝐞𝐝 𝐛𝐲 𝐅𝐫𝐞𝐧𝐜𝐡 𝐓𝐚𝐱 𝐀𝐮𝐭𝐡𝐨𝐫𝐢𝐭𝐲 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: Hackers used compromised credentials to access enterprise and personal tax-related data.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ 680 ألف شخص تأثروا بخرق بيانات هيئة الضرائب الفرنسية\n\n📌 وش اللي صار: استخدم المتسللون بيانات اعتماد مخترقة للوصول إلى بيانات المؤسسة والبيانات الشخصية المتعلقة بالضرائب.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "74a4bb0aafac04c0",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg",
-    "published_at": "2026-08-17T13:23:51+00:00",
-    "en_text": "🛡️ ⚡ 𝐖𝐞𝐞𝐤𝐥𝐲 𝐑𝐞𝐜𝐚𝐩: 𝐕𝐌𝐰𝐚𝐫𝐞 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐬, 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝟎-𝐃𝐚𝐲, 𝐌𝐂𝐏 𝐀𝐭𝐭𝐚𝐜𝐤𝐬, 𝐁𝐫𝐨𝐰𝐬𝐞𝐫 𝐇𝐢𝐣𝐚𝐜𝐤𝐬 𝐚𝐧𝐝 𝐌𝐨𝐫𝐞\n\n📌 What happened: The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: الهجمات الباهظة الثمن ليست دائمًا هي الهجمات الذكية. هذا الأسبوع كان لديه الكثير من الأدلة. تعرضت الخدمات المكشوفة للضرب، وتم العثور على أخطاء قديمة تم استخدامها حديثًا، وأصبحت جلسات المتصفح مسارات للهجوم، واستمرت مشكلات سلسلة التوريد في الانتشار إلى أبعد من التسوية الأصلية.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
