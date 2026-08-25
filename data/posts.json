@@ -1,5 +1,14 @@
 [
   {
+    "id": "3307be845e621eee",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-25T07:46:34+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐖𝐚𝐫𝐧𝐬 𝐨𝐟 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐎𝐫𝐚𝐜𝐥𝐞 𝐖𝐞𝐛𝐋𝐨𝐠𝐢𝐜 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "62298a83d4d48134",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-16T23:47:06+00:00",
     "en_text": "🛡️ 𝐒𝐚𝐟𝐞𝐏𝐚𝐥 𝐝𝐚𝐭𝐚 𝐛𝐫𝐞𝐚𝐜𝐡 𝐢𝐦𝐩𝐚𝐜𝐭𝐬 𝟑𝟗,𝟕𝟗𝟖 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬, 𝐬𝐭𝐨𝐥𝐞𝐧 𝐢𝐧𝐟𝐨 𝐟𝐨𝐫 𝐬𝐚𝐥𝐞\n\n📌 What happened: Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يؤثر خرق بيانات SafePal على 39,798 عميلاً، ومعلومات مسروقة معروضة للبيع\n\n📌 وش اللي صار: يحذر مزود محفظة الأجهزة المشفرة SafePal من حدوث خرق للبيانات يؤثر على حوالي 39,798 عميلًا بعد استغلال خلل لسرقة معلومات طلبات العملاء، ويدعي ممثل التهديد الآن أنه يبيع البيانات المسروقة.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "0748ca510918d820",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-16T22:28:57+00:00",
-    "en_text": "🛡️ 𝐀𝐧𝐭𝐡𝐫𝐨𝐩𝐢𝐜 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐂𝐥𝐚𝐮𝐝𝐞 𝐢𝐬 𝐝𝐨𝐰𝐧 𝐢𝐧 𝐦𝐚𝐣𝐨𝐫 𝐨𝐮𝐭𝐚𝐠𝐞 𝐚𝐟𝐟𝐞𝐜𝐭𝐢𝐧𝐠 𝐦𝐮𝐥𝐭𝐢𝐩𝐥𝐞 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬\n\n📌 What happened: Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تؤكد أنثروبيك أن كلود قد تعرض للعطل بسبب انقطاع كبير يؤثر على خدمات متعددة\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
