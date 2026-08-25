@@ -1,5 +1,32 @@
 [
   {
+    "id": "6390d9c4dbeda298",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-25T14:44:16+00:00",
+    "en_text": "🛡️ 𝐇𝐨𝐬𝐩𝐢𝐭𝐚𝐥 𝐨𝐩𝐞𝐫𝐚𝐭𝐨𝐫 𝐍𝐮𝐭𝐞𝐱 𝐇𝐞𝐚𝐥𝐭𝐡 𝐬𝐚𝐲𝐬 𝐝𝐚𝐭𝐚 𝐬𝐭𝐨𝐥𝐞𝐧 𝐢𝐧 𝐜𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "887eefd9521c2a87",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-25T14:01:11+00:00",
+    "en_text": "🛡️ 𝐅𝐫𝐨𝐦 𝐅𝐚𝐤𝐞 𝐖𝐨𝐫𝐤𝐞𝐫𝐬 𝐭𝐨 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐑𝐞𝐜𝐨𝐯𝐞𝐫𝐲: 𝐓𝐡𝐞 𝐆𝐫𝐨𝐰𝐢𝐧𝐠 𝐈𝐝𝐞𝐧𝐭𝐢𝐭𝐲 𝐕𝐞𝐫𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐑𝐢𝐬𝐤\n\n📌 What happened: Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself.\n\n💡 Why it matters: The weakest link is rarely the technology — it's the split second someone trusts a message that looks routine.\n\n✅ Quick tip: Enable phishing-resistant MFA (like passkeys) wherever you can; a stolen password alone shouldn't be enough.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: أضعف حلقة نادرًا ما تكون التقنية، هي لحظة يثق فيها شخص برسالة تبدو عادية.\n\n✅ نصيحة سريعة: فعّل مصادقة ثنائية مقاومة للتصيد (زي مفاتيح المرور) كل ما قدرت، لأن كلمة المرور المسروقة لحالها ما لازم تكفي.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "665c8b839bdef5f0",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-25T13:51:58+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐨𝐰𝐞𝐫𝐓𝐨𝐲𝐬 𝐚𝐝𝐝𝐬 𝐀𝐥𝐭+𝐓𝐚𝐛-𝐬𝐭𝐲𝐥𝐞 𝐬𝐰𝐢𝐭𝐜𝐡𝐢𝐧𝐠 𝐟𝐨𝐫 𝐚𝐧 𝐚𝐩𝐩'𝐬 𝐰𝐢𝐧𝐝𝐨𝐰𝐬\n\n📌 What happened: Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2e3b78a4e6c20431",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-08-17T12:33:11+00:00",
     "en_text": "🛡️ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐒𝐞𝐫𝐯𝐞𝐫 𝟐𝟎𝟐𝟐 𝐫𝐞𝐚𝐜𝐡𝐞𝐬 𝐞𝐧𝐝 𝐨𝐟 𝐦𝐚𝐢𝐧𝐬𝐭𝐫𝐞𝐚𝐦 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐢𝐧 𝟔𝟎 𝐝𝐚𝐲𝐬\n\n📌 What happened: Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يصل Windows Server 2022 إلى نهاية الدعم الأساسي خلال 60 يومًا\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "5016d2d7a952351f",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-17T12:11:00+00:00",
-    "en_text": "🛡️ 𝐈𝐫𝐫𝐞𝐠𝐮𝐥𝐚𝐫 𝐃𝐞𝐭𝐚𝐢𝐥𝐬 𝐇𝐨𝐰 𝐚 𝐍𝐚𝐦𝐢𝐧𝐠 𝐄𝐫𝐫𝐨𝐫 𝐋𝐞𝐭 𝐀𝐈 𝐌𝐨𝐝𝐞𝐥𝐬 𝐀𝐭𝐭𝐚𝐜𝐤 𝐚 𝐑𝐞𝐚𝐥 𝐂𝐨𝐦𝐩𝐚𝐧𝐲\n\n📌 What happened: The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تفاصيل غير منتظمة كيف سمح خطأ في التسمية لنماذج الذكاء الاصطناعي بمهاجمة شركة حقيقية\n\n📌 وش اللي صار: قامت شركة اختبار أمان الذكاء الاصطناعي بمشاركة معلومات حول حادث تم الكشف عنه مؤخرًا يتعلق بنماذج الذكاء الاصطناعي البشرية.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "5ab36643acff495f",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmy_mE0_W-wEeuppBUYhS19P_uTo6RifgrGEV5eLim_B6KkhI_BO5wSL930qS_NCD6aR7nL5mAizU4RAfinzkWhz-oq1wCnHszL6C25H0Sj_MahJIBsr7lw_wzJ7xZ4YF7-GVJJO0L1wxe8LQXv3rHuLV3vbuDUEQ9D7vXa6D4zK6ARD1aFmiQv4fka5Y/s1600/keeper.png",
-    "published_at": "2026-08-17T11:58:00+00:00",
-    "en_text": "🛡️ 𝐇𝐨𝐰 𝐌𝐂𝐏 𝐒𝐞𝐫𝐯𝐞𝐫𝐬 𝐂𝐚𝐧 𝐄𝐱𝐩𝐨𝐬𝐞 𝐄𝐧𝐭𝐞𝐫𝐩𝐫𝐢𝐬𝐞 𝐒𝐞𝐜𝐫𝐞𝐭𝐬\n\n📌 What happened: MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ كيف يمكن لخوادم MCP كشف أسرار المؤسسة\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "1982bb8549d62c4e",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-17T11:25:02+00:00",
-    "en_text": "🛡️ 𝐏𝐡𝐢𝐥𝐢𝐩𝐬 𝐚𝐧𝐝 𝐆𝐄 𝐢𝐧𝐯𝐞𝐬𝐭𝐢𝐠𝐚𝐭𝐢𝐧𝐠 𝐂𝐥𝐨𝐩 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐝𝐚𝐭𝐚 𝐭𝐡𝐞𝐟𝐭 𝐜𝐥𝐚𝐢𝐦𝐬\n\n📌 What happened: Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تحقق شركتا Philips وGE في مزاعم سرقة بيانات برنامج الفدية Clop\n\n📌 وش اللي صار: وأكدت شركتا التكنولوجيا العملاقة جنرال إلكتريك (GE) وفيليبس أيضًا أنهما تحققان في مزاعم بأن عصابة برامج الفدية Clop اخترقت أنظمتها وسرقت البيانات.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
