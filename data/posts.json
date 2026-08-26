@@ -1,5 +1,14 @@
 [
   {
+    "id": "7917df953883e387",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-26T21:33:20+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐀𝐯𝐚𝐝𝐚 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐭𝐡𝐞𝐦𝐞 𝐟𝐥𝐚𝐰 𝐞𝐧𝐚𝐛𝐥𝐞𝐬 𝐳𝐞𝐫𝐨-𝐜𝐥𝐢𝐜𝐤 𝐑𝐂𝐄\n\n📌 What happened: A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "ad489365471939a7",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-18T16:58:16+00:00",
     "en_text": "🛡️ 𝐑𝐚𝐧𝐬𝐨𝐦 𝐁𝐮𝐬𝐭𝐞𝐫𝐬 𝐂𝐥𝐚𝐢𝐦𝐬 𝐈𝐭 𝐇𝐚𝐜𝐤𝐞𝐝 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐒𝐞𝐫𝐯𝐞𝐫𝐬, 𝐀𝐬𝐤𝐬 𝐕𝐢𝐜𝐭𝐢𝐦𝐬 𝐟𝐨𝐫 𝐔𝐩 𝐭𝐨 $𝟔𝟎,𝟎𝟎𝟎\n\n📌 What happened: A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000.\n\n💡 Why it matters: What used to take attackers weeks now takes hours, because ransomware crews increasingly buy ready-made access instead of building it.\n\n✅ Quick tip: Segment your network. If ransomware can't move laterally, it can't hold the whole organization hostage.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تدعي Ransom Busters أنها اخترقت خوادم Ransomware وتطلب من الضحايا ما يصل إلى 60 ألف دولار\n\n📌 وش اللي صار: تم رصد شركة تابعة لبرامج الفدية تطلق على نفسها اسم Ransom Busters وهي ترسل رسائل بريد إلكتروني بشكل استباقي إلى المنظمات الضحية وتدعي حذف البيانات المسروقة من خوادم مجموعات برامج الفدية مقابل رسوم تتراوح بين 20 ألف دولار إلى 60 ألف دولار.\n\n💡 ليش هذا مهم: اللي كان يحتاج أسابيع من المهاجمين صار يصير بساعات، لأن عصابات الفدية صارت تشتري صلاحيات دخول جاهزة بدل ما تبنيها.\n\n✅ نصيحة سريعة: قسّم شبكتك لأجزاء معزولة، إذا ما قدرت الفدية تتحرك بين الأنظمة ما تقدر تشل المنشأة كلها.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "7ac5e5cf0cbb4c56",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-18T15:03:30+00:00",
-    "en_text": "🛡️ 𝐖𝐞𝐛𝐢𝐧𝐚𝐫 𝐓𝐨𝐝𝐚𝐲: 𝐑𝐞𝐭𝐡𝐢𝐧𝐤𝐢𝐧𝐠 𝐂𝐲𝐛𝐞𝐫 𝐃𝐞𝐟𝐞𝐧𝐬𝐞 𝐟𝐨𝐫 𝐀𝐈-𝐒𝐩𝐞𝐞𝐝 𝐀𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Join the live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ ندوة عبر الإنترنت اليوم: إعادة التفكير في الدفاع السيبراني لهجمات الذكاء الاصطناعي السريعة\n\n📌 وش اللي صار: انضم إلى الندوة المباشرة عبر الويب بينما نستكشف ما إذا كانت عمليات الكشف الأمني ​​الأولى يمكنها مواكبة الذكاء الاصطناعي، أو ما إذا كان الوقت قد حان لإعادة التفكير في الوقاية باعتبارها الإجراء الافتراضي الأقوى.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
