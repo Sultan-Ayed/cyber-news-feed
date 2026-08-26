@@ -1,5 +1,14 @@
 [
   {
+    "id": "53a9ade4ffbe934a",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63bd2d870ede3278/6a8debc1ca06172c1b4c29f7/jackal_family-skynesher-GettyImages-2185687731.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-08-26T08:30:00+00:00",
+    "en_text": "🛡️ 𝐈𝐧𝐭𝐞𝐫𝐩𝐨𝐥'𝐬 𝐉𝐚𝐜𝐤𝐚𝐥 𝐈𝐕 𝐃𝐢𝐬𝐫𝐮𝐩𝐭𝐬 𝐖𝐞𝐬𝐭 𝐀𝐟𝐫𝐢𝐜𝐚𝐧 𝐂𝐫𝐢𝐦𝐞 𝐈𝐧𝐟𝐫𝐚𝐬𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞\n\n📌 What happened: The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "8ba2097a32dfd062",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-18T08:12:08+00:00",
     "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐬𝐭𝐚𝐫𝐭𝐬 𝐫𝐞𝐦𝐨𝐯𝐢𝐧𝐠 𝐖𝐌𝐈𝐂 𝐭𝐨𝐨𝐥 𝐮𝐬𝐞𝐝 𝐛𝐲 𝐜𝐲𝐛𝐞𝐫𝐜𝐫𝐢𝐦𝐢𝐧𝐚𝐥𝐬\n\n📌 What happened: Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تبدأ Microsoft في إزالة أداة WMIC التي يستخدمها مجرمو الإنترنت\n\n📌 وش اللي صار: أعلنت شركة Microsoft أنها قامت بإزالة أداة سطر أوامر Windows Management Instrumentation (WMIC) من Windows 11 24H2 و25H2، وكذلك من إصدارات Windows 11 التجريبية التي تم إصدارها هذا الأسبوع.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "9587eb4daf420aa5",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-18T06:46:22+00:00",
-    "en_text": "🛡️ 𝐃𝐨𝐳𝐞𝐧𝐬 𝐨𝐟 𝐖𝐞𝐛𝐊𝐢𝐭 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐏𝐚𝐭𝐜𝐡𝐞𝐝 𝐖𝐢𝐭𝐡 𝐅𝐫𝐞𝐬𝐡 𝐦𝐚𝐜𝐎𝐒, 𝐢𝐎𝐒 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐔𝐩𝐝𝐚𝐭𝐞𝐬\n\n📌 What happened: The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تم تصحيح العشرات من ثغرات WebKit باستخدام تحديثات أمان macOS وiOS الجديدة\n\n📌 وش اللي صار: يمكن استغلال الأخطاء لتعطيل Safari، وإتلاف الذاكرة، وتسريب البيانات الحساسة، والهروب من وضع الحماية، وتصفية البيانات.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
