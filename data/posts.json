@@ -1,5 +1,14 @@
 [
   {
+    "id": "1fb16fb55a3e69f5",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-26T05:17:28+00:00",
+    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐖𝐚𝐫𝐧𝐬 𝐨𝐟 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐆𝐢𝐭𝐞𝐚 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: CVE-2026-60004 is a remote code execution vulnerability patched by Gitea developers in late July with the release of version 1.27.1.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: CVE-2026-60004 عبارة عن ثغرة أمنية تتعلق بتنفيذ التعليمات البرمجية عن بُعد، وقد تم تصحيحها بواسطة مطوري Gitea في أواخر يوليو بإصدار الإصدار 1.27.1.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "2e7f77b49688cca8",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-17T21:37:23+00:00",
     "en_text": "🛡️ 𝐕𝐢𝐝𝐞𝐨 𝐂𝐚𝐥𝐥 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐂𝐡𝐚𝐢𝐧𝐬 𝐓𝐰𝐨 𝐅𝐥𝐚𝐰𝐬 𝐢𝐧 𝐔𝐧𝐢𝐬𝐨𝐜 𝐌𝐨𝐝𝐞𝐦𝐬\n\n📌 What happened: Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ يؤدي استغلال مكالمات الفيديو إلى وجود عيبين في أجهزة مودم Unisoc\n\n📌 وش اللي صار: ووجد الباحثون أنه من خلال الجمع بين اثنتين من نقاط الضعف، يمكنهم الاستيلاء على جهاز يعمل بنظام Android عن طريق توصيل حمولة وجعل الضحية يرد على هاتفه.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "7ed54789e434b230",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg",
-    "published_at": "2026-08-17T21:03:04+00:00",
-    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐆𝐢𝐭𝐋𝐚𝐛 𝐆𝐫𝐚𝐩𝐡𝐐𝐋 𝐅𝐥𝐚𝐰 𝐂𝐨𝐮𝐥𝐝 𝐋𝐞𝐭 𝐔𝐧𝐚𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐃𝐞𝐥𝐞𝐭𝐞 𝐏𝐮𝐛𝐥𝐢𝐜 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬\n\n📌 What happened: GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public…\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ قد يسمح الخلل الحرج في GitLab GraphQL للمهاجمين غير المصادقين بحذف المشاريع العامة\n\n📌 وش اللي صار: أصدرت GitLab تحديثات أمنية لمعالجة ثغرة أمنية حرجة تؤثر على برنامج Community Edition (CE) وEnterprise Edition (EE) الذي، في ظل ظروف معينة، قد يسمح لمهاجم غير مصادق بتعديل أو حذف البيانات العامة عن بعد.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
