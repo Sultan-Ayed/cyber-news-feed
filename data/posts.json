@@ -1,5 +1,23 @@
 [
   {
+    "id": "9da814d3675d77e5",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-26T15:19:21+00:00",
+    "en_text": "🛡️ 𝐁𝐨𝐬𝐭𝐨𝐧 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐟𝐢𝐜 𝐬𝐚𝐲𝐬 𝐜𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤 𝐝𝐢𝐬𝐫𝐮𝐩𝐭𝐞𝐝 𝐨𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐠𝐥𝐨𝐛𝐚𝐥𝐥𝐲\n\n📌 What happened: Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "8415d773bae65b60",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-26T14:47:51+00:00",
+    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐭𝐚𝐫𝐠𝐞𝐭 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐒𝐡𝐚𝐫𝐞𝐏𝐨𝐢𝐧𝐭 𝐑𝐂𝐄 𝐜𝐡𝐚𝐢𝐧 𝐰𝐢𝐭𝐡 𝐏𝐨𝐂 𝐞𝐱𝐩𝐥𝐨𝐢𝐭\n\n📌 What happened: Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "bfa32915e74bbb6e",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-08-18T13:00:00+00:00",
     "en_text": "🛡️ '𝐑𝐚𝐧𝐬𝐨𝐦 𝐁𝐮𝐬𝐭𝐞𝐫𝐬': 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐀𝐜𝐭𝐨𝐫 𝐏𝐨𝐬𝐞𝐬 𝐚𝐬 𝐈𝐧𝐜𝐢𝐝𝐞𝐧𝐭-𝐑𝐞𝐜𝐨𝐯𝐞𝐫𝐲 𝐒𝐞𝐫𝐯𝐢𝐜𝐞\n\n📌 What happened: A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ \"منتهكي الفدية\": ممثل برنامج الفدية يتظاهر بأنه خدمة استرداد الحوادث\n\n📌 وش اللي صار: يبدو أن إحدى الشركات التابعة لبرامج الفدية تتجه نحو الضحايا بتقديم عروض المساعدة، مما يخفي نيتها الحقيقية المتمثلة في تحويل مدفوعات الفدية.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "f626add06be0c495",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-08-18T13:00:00+00:00",
-    "en_text": "🛡️ 𝐒𝐢𝐥𝐞𝐧𝐭 '𝐓𝐰𝐢𝐧𝐋𝐨𝐨𝐭' 𝐂𝐲𝐛𝐞𝐫 𝐓𝐡𝐫𝐞𝐚𝐭 𝐎𝐩𝐞𝐫𝐚𝐭𝐞𝐬 𝐄𝐧𝐭𝐢𝐫𝐞𝐥𝐲 𝐅𝐫𝐨𝐦 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭'𝐬 𝐂𝐥𝐨𝐮𝐝\n\n📌 What happened: The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يعمل التهديد الإلكتروني الصامت \"TwinLoot\" بالكامل من سحابة Microsoft\n\n📌 وش اللي صار: يأخذ إطار عمل البرامج الضارة المستند إلى Python تكتيكات العيش خارج الأرض إلى آفاق جديدة من التخفي، من خلال زرع وحدات يسرق بيانات الاعتماد ويحقق الاستمرارية.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "31ec7c38c09a8dd9",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg",
-    "published_at": "2026-08-18T12:38:36+00:00",
-    "en_text": "🛡️ 𝐀𝐈 \"𝐌𝐢𝐧𝐝 𝐕𝐢𝐫𝐮𝐬𝐞𝐬\" 𝐂𝐚𝐧 𝐒𝐩𝐫𝐞𝐚𝐝 𝐁𝐞𝐭𝐰𝐞𝐞𝐧 𝐀𝐠𝐞𝐧𝐭𝐬 𝐓𝐡𝐫𝐨𝐮𝐠𝐡 𝐏𝐞𝐫𝐬𝐢𝐬𝐭𝐞𝐧𝐭 𝐏𝐫𝐨𝐦𝐩𝐭 𝐅𝐢𝐥𝐞𝐬\n\n📌 What happened: Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry…\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ يمكن أن تنتشر \"فيروسات العقل\" الخاصة بالذكاء الاصطناعي بين الوكلاء من خلال الملفات السريعة المستمرة\n\n📌 وش اللي صار: أثبت باحثون أمنيون في Anthropic ومدرسة EPFL السويسرية أن الحمولات ذاتية النشر يمكن أن تنتشر من وكيل ذكاء اصطناعي (AI) إلى آخر من خلال ملفات النظام القابلة للتحرير التي يستخدمها الوكيل المستقل للحمل...\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
