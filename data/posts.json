@@ -1,5 +1,23 @@
 [
   {
+    "id": "3b13dddb2c0ce406",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-26T12:06:28+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐭𝐞𝐬𝐭𝐬 𝐧𝐞𝐰 𝐩𝐫𝐢𝐯𝐚𝐜𝐲 𝐜𝐨𝐧𝐭𝐫𝐨𝐥𝐬 𝐟𝐨𝐫 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝟏𝟏 𝐝𝐞𝐬𝐤𝐭𝐨𝐩 𝐚𝐩𝐩𝐬\n\n📌 What happened: Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "ca41f16130462278",
+    "source": "The Hacker News",
+    "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZq8QFTxW4LuCB6uU-05X_ZcT88PxrCrq4S8Tlt-ntdFViEUD7XTOuFp0Ep2oNd61UEYcnfV0dFYW7E1jzogc2t4fm3R2CU7I45rc9bF2fAPi85MeDbxGio5jRIK_8jmMeI9A6hU_laVDVcU5yvODt55syFnI0F4cHX0N1Wul8IGg9A_PbkM_sOHoSFds/s1600/Corelight.jpg",
+    "published_at": "2026-08-26T11:36:49+00:00",
+    "en_text": "🛡️ 𝐈𝐦𝐚𝐠𝐢𝐧𝐞 𝐭𝐡𝐞 𝐒𝐎𝐂 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐚 𝐐𝐮𝐞𝐮𝐞: 𝐅𝐫𝐨𝐦 𝐀𝐥𝐞𝐫𝐭 𝐁𝐚𝐜𝐤𝐥𝐨𝐠 𝐭𝐨 𝐀𝐈 𝐇𝐲𝐩𝐨𝐭𝐡𝐞𝐬𝐢𝐬 𝐄𝐧𝐠𝐢𝐧𝐞\n\n📌 What happened: The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "ea2647337858e2f5",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
@@ -1780,23 +1798,5 @@
     "published_at": "2026-08-18T11:14:28+00:00",
     "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐭𝐞𝐬𝐭𝐬 𝐟𝐚𝐬𝐭𝐞𝐫 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐅𝐢𝐥𝐞 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐫, 𝐧𝐞𝐰 𝐜𝐨𝐧𝐭𝐞𝐱𝐭 𝐦𝐞𝐧𝐮\n\n📌 What happened: Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ تقوم Microsoft باختبار أسرع لـ Windows File Explorer وقائمة السياق الجديدة\n\n📌 وش اللي صار: بدأت Microsoft في اختبار مستكشف ملفات أسرع وقائمة سياقات أقل ازدحامًا وأكثر قابلية للتخصيص في إصدارات معاينة Windows 11 التي سيتم طرحها للمطلعين هذا الأسبوع.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "ee6b674b7cac5aa5",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-18T10:48:23+00:00",
-    "en_text": "🛡️ 𝟑𝟎𝟎,𝟎𝟎𝟎 𝐖𝐨𝐫𝐝𝐏𝐫𝐞𝐬𝐬 𝐒𝐢𝐭𝐞𝐬 𝐏𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥𝐥𝐲 𝐄𝐱𝐩𝐨𝐬𝐞𝐝 𝐭𝐨 𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐃𝐮𝐞 𝐭𝐨 𝐅𝐨𝐫𝐦 𝐏𝐥𝐮𝐠𝐢𝐧 𝐅𝐥𝐚𝐰\n\n📌 What happened: Tracked as CVE-2026-15748, the arbitrary file upload bug allows unauthenticated attackers to upload executable files.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ 300.000 موقع WordPress من المحتمل أن تكون معرضة للقرصنة بسبب خلل في البرنامج الإضافي للنموذج\n\n📌 وش اللي صار: يسمح خطأ تحميل الملفات العشوائي، الذي تم تتبعه بالرقم CVE-2026-15748، للمهاجمين غير المصادقين بتحميل الملفات القابلة للتنفيذ.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "8d518de522f49304",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-18T10:32:16+00:00",
-    "en_text": "🛡️ 𝐂𝐈𝐒𝐀: 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐓𝐚𝐬𝐤 𝐇𝐨𝐬𝐭 𝐟𝐥𝐚𝐰 𝐧𝐨𝐰 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐛𝐲 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐠𝐚𝐧𝐠𝐬\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ CISA: يتم الآن استغلال ثغرة Windows Task Host من قبل عصابات برامج الفدية\n\n📌 وش اللي صار: أكدت وكالة الأمن السيبراني وأمن البنية التحتية الأمريكية (CISA) أن عصابات برامج الفدية تستغل أيضًا ثغرة أمنية عالية الخطورة في Windows Task Host والتي تم وضع علامة عليها على أنها مستغلة بشكل نشط في أبريل.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
