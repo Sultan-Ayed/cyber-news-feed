@@ -1,5 +1,14 @@
 [
   {
+    "id": "ea2647337858e2f5",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-08-26T11:07:48+00:00",
+    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐧𝐨𝐰 𝐞𝐱𝐩𝐥𝐨𝐢𝐭 𝐜𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐆𝐢𝐭𝐞𝐚 𝐟𝐥𝐚𝐰 𝐢𝐧 𝐜𝐨𝐝𝐞 𝐢𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧 𝐚𝐭𝐭𝐚𝐜𝐤𝐬\n\n📌 What happened: Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA).\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "621ca1c7245aff5b",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-18T10:32:16+00:00",
     "en_text": "🛡️ 𝐂𝐈𝐒𝐀: 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐓𝐚𝐬𝐤 𝐇𝐨𝐬𝐭 𝐟𝐥𝐚𝐰 𝐧𝐨𝐰 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐛𝐲 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐠𝐚𝐧𝐠𝐬\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ CISA: يتم الآن استغلال ثغرة Windows Task Host من قبل عصابات برامج الفدية\n\n📌 وش اللي صار: أكدت وكالة الأمن السيبراني وأمن البنية التحتية الأمريكية (CISA) أن عصابات برامج الفدية تستغل أيضًا ثغرة أمنية عالية الخطورة في Windows Task Host والتي تم وضع علامة عليها على أنها مستغلة بشكل نشط في أبريل.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "727e9dd4d812f1f3",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-18T09:24:49+00:00",
-    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐜𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐨𝐮𝐭𝐚𝐠𝐞 𝐚𝐟𝐟𝐞𝐜𝐭𝐢𝐧𝐠 𝐬𝐞𝐚𝐫𝐜𝐡 𝐢𝐧 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝟑𝟔𝟓 𝐚𝐩𝐩𝐬\n\n📌 What happened: Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تؤكد Microsoft أن الانقطاع يؤثر على البحث في تطبيقات Microsoft 365\n\n📌 وش اللي صار: تقول Microsoft أن بعض المستخدمين يواجهون مشكلات في البحث في تطبيقات Microsoft 365، بما في ذلك Outlook على الويب وOutlook لسطح المكتب وSharePoint Online وOneDrive.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
