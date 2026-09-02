@@ -18,6 +18,15 @@
     "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: \n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "1c58c50319dd219b",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt61b6b950560b6729/6a974efda0ff3877b64d75b3/philippines-south-china-sea-map-AustralianCamera-shutterstock.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-09-02T01:00:00+00:00",
+    "en_text": "🛡️ 𝐎𝐥𝐝, 𝐔𝐧𝐩𝐚𝐭𝐜𝐡𝐞𝐝 𝐅𝐥𝐚𝐰𝐬 𝐆𝐢𝐯𝐞 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐀𝐜𝐜𝐞𝐬𝐬 𝐭𝐨 𝐏𝐡𝐢𝐥𝐢𝐩𝐩𝐢𝐧𝐞𝐬 𝐍𝐮𝐜𝐥𝐞𝐚𝐫 𝐀𝐠𝐞𝐧𝐜𝐲\n\n📌 What happened: Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ العيوب القديمة التي لم يتم إصلاحها تمنح المهاجمين إمكانية الوصول إلى الوكالة النووية الفلبينية\n\n📌 وش اللي صار: استغلت جهات التهديد السلعة الموجودة في ownCloud للوصول الأولي، مما أدى إلى سرقة قواعد بيانات المفاعلات وسجلات الموظفين ومخازن بيانات الاعتماد.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "6df08faed0b3ab6a",
     "source": "Krebs on Security",
     "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
@@ -36,6 +45,15 @@
     "ar_text": "🛡️ المهاجمون ينقضون على خطأ مصطنع خطير بعد الكشف عنه\n\n📌 وش اللي صار: CVE-2026-82329 هو ثغرة في تجاوز المصادقة في مدير مستودع JFrog والتي تمكن الجهات الفاعلة السيئة من الوصول إلى مستوى المسؤول على الأنظمة المتأثرة.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "2d2ba1572e7b2496",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta00a9d9e96de1b11/6a9721055573ecd41d1f4f4b/GettyImages-1450161933.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-09-01T21:03:19+00:00",
+    "en_text": "🛡️ 𝐒𝐭𝐫𝐨𝐧𝐠𝐞𝐫 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐃𝐫𝐢𝐯𝐞𝐬 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐆𝐫𝐨𝐮𝐩𝐬 𝐭𝐨 𝐑𝐞𝐜𝐫𝐮𝐢𝐭 𝐅𝐫𝐨𝐦 𝐖𝐢𝐭𝐡𝐢𝐧\n\n📌 What happened: Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions.\n\n💡 Why it matters: Ransomware doesn't just lock your files — it locks your entire operation, and recovery usually costs more than the ransom itself.\n\n✅ Quick tip: Test your backups today, not the day you need them — an untested backup is a hope, not a plan.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ الأمن الأقوى يدفع مجموعات برامج الفدية إلى التجنيد من الداخل\n\n📌 وش اللي صار: لاحظ بعض الباحثين الأمنيين ارتفاعًا طفيفًا في هجمات برامج الفدية المدعومة من الداخل، لكن المطلعين الخبيثين يشكلون تهديدات أخرى تكلف الشركات الملايين.\n\n💡 ليش هذا مهم: برامج الفدية ما تقفل بس ملفاتك، تقفل عملك بالكامل، والتعافي منها غالبًا يكلف أكثر من الفدية نفسها.\n\n✅ نصيحة سريعة: اختبر نسخك الاحتياطية اليوم، لا تنتظر يوم تحتاجها — النسخة غير المجرّبة أمنية، مو خطة حماية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "da2eb27b1ffaee0f",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
@@ -43,6 +61,15 @@
     "published_at": "2026-09-01T20:53:23+00:00",
     "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐚𝐛𝐮𝐬𝐞 𝐅𝐚𝐫𝐨𝐧𝐢𝐜𝐬 𝐃𝐞𝐩𝐥𝐨𝐲 𝐚𝐝𝐦𝐢𝐧 𝐭𝐨𝐨𝐥 𝐭𝐨 𝐢𝐧𝐬𝐭𝐚𝐥𝐥 𝐒𝐜𝐫𝐞𝐞𝐧𝐂𝐨𝐧𝐧𝐞𝐜𝐭\n\n📌 What happened: Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software.\n\n💡 Why it matters: The weakest link is rarely the technology — it's the split second someone trusts a message that looks routine.\n\n✅ Quick tip: Enable phishing-resistant MFA (like passkeys) wherever you can; a stolen password alone shouldn't be enough.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ المتسللون يسيئون استخدام Faronics لنشر أداة الإدارة لتثبيت ScreenConnect\n\n📌 وش اللي صار: يستغل ممثلو التصيد الاحتيالي منصة Faronics Deploy لإدارة نقاط النهاية الشرعية للحصول على تحكم إداري عن بعد في أجهزة الكمبيوتر الضحية وتثبيت برنامج الدعم عن بعد ScreenConnect.\n\n💡 ليش هذا مهم: أضعف حلقة نادرًا ما تكون التقنية، هي لحظة يثق فيها شخص برسالة تبدو عادية.\n\n✅ نصيحة سريعة: فعّل مصادقة ثنائية مقاومة للتصيد (زي مفاتيح المرور) كل ما قدرت، لأن كلمة المرور المسروقة لحالها ما لازم تكفي.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "f8a09cf47f83f9ef",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt036489a36358dea1/6a971529de036c92b216129d/aicoding-AreeSarak-Getty-2252848921.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-09-01T20:48:52+00:00",
+    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐋𝐚𝐧𝐠𝐟𝐥𝐨𝐰 𝐅𝐥𝐚𝐰 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐚𝐬 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐨𝐧 𝐀𝐈 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐑𝐢𝐬𝐞\n\n📌 What happened: The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ استغلال خلل Langflow الحرج مع تزايد الهجمات على منصة الذكاء الاصطناعي\n\n📌 وش اللي صار: تعد الهجمات التي تستهدف CVE-2026-0768 أحدث تهديد ضد منصة تطوير الذكاء الاصطناعي ذات التعليمات البرمجية المنخفضة، والتي تحظى بمزيد من الاهتمام من الخصوم هذا العام.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "c0d1439f223d302b",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-08-21T08:41:06+00:00",
     "en_text": "🛡️ 𝐂𝐨𝐧𝐭𝐫𝐚𝐜𝐭𝐨𝐫𝐬’ 𝐂𝐌𝐌𝐂 𝐂𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞 𝐑𝐢𝐬𝐞𝐬 𝐚𝐬 𝐀𝐛𝐢𝐥𝐢𝐭𝐲 𝐭𝐨 𝐏𝐫𝐨𝐯𝐞 𝐈𝐭 𝐅𝐚𝐥𝐥𝐬 𝐁𝐞𝐡𝐢𝐧𝐝\n\n📌 What happened: Two industry surveys released this week paint a consistent picture of the defense industrial base.\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ ترتفع ثقة المقاولين في CMMC مع القدرة على إثبات تخلفهم عن الركب\n\n📌 وش اللي صار: يرسم استطلاعان للصناعة صدرا هذا الأسبوع صورة متسقة للقاعدة الصناعية الدفاعية.\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "881dd1c96ee4dfa2",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-21T08:12:19+00:00",
-    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐑𝐨𝐥𝐥𝐬 𝐎𝐮𝐭 𝟐𝟐 𝐅𝐫𝐞𝐬𝐡 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐏𝐚𝐭𝐜𝐡𝐞𝐬\n\n📌 What happened: Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ مايكروسوفت تطرح 22 تصحيحًا أمنيًا جديدًا\n\n📌 وش اللي صار: تعمل معظم الإصلاحات على حل تنفيذ التعليمات البرمجية وتصعيد الامتيازات وثغرات الكشف عن المعلومات.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "be976adb7e03a07d",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-21T07:25:50+00:00",
-    "en_text": "🛡️ 𝐂𝐈𝐒𝐀 𝐔𝐫𝐠𝐞𝐬 𝐈𝐦𝐦𝐞𝐝𝐢𝐚𝐭𝐞 𝐏𝐚𝐭𝐜𝐡𝐢𝐧𝐠 𝐨𝐟 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐓𝐫𝐮𝐞𝐂𝐨𝐧𝐟 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬\n\n📌 What happened: The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تحث CISA على التصحيح الفوري لثغرات TrueConf المستغلة\n\n📌 وش اللي صار: قامت مجموعة Head Mare hacktivist باستغلال الأخطاء لنشر البرامج الضارة PhantomCore.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "7850fb529146db3c",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg",
-    "published_at": "2026-08-21T07:04:25+00:00",
-    "en_text": "🛡️ 𝐆𝐢𝐭𝐋𝐚𝐛 𝐂𝐕𝐄-𝟐𝟎𝟐𝟔-𝟏𝟗𝟒𝟕𝟖 𝐂𝐨𝐦𝐞𝐬 𝐔𝐧𝐝𝐞𝐫 𝐀𝐜𝐭𝐢𝐯𝐞 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐚𝐭𝐢𝐨𝐧 𝐖𝐢𝐭𝐡𝐢𝐧 𝐃𝐚𝐲𝐬 𝐨𝐟 𝐃𝐢𝐬𝐜𝐥𝐨𝐬𝐮𝐫𝐞\n\n📌 What happened: A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ GitLab CVE-2026-19478 يتعرض للاستغلال النشط خلال أيام من الكشف عنه\n\n📌 وش اللي صار: تعرض الثغرة الأمنية التي تم الكشف عنها حديثًا في GitLab للاستغلال النشط خلال أيام من الكشف عنها للعامة، وفقًا لموقع watchTowr.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
