@@ -18,6 +18,15 @@
     "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: \n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "a1bdcc18780787e8",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-09-07T01:15:43+00:00",
+    "en_text": "🛡️ 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐀𝐬𝐭𝐫𝐚 𝐢𝐬 𝐧𝐨𝐰 𝐫𝐨𝐥𝐥𝐢𝐧𝐠 𝐨𝐮𝐭 𝐭𝐨 $𝟐𝟎 𝐏𝐥𝐮𝐬 𝐬𝐮𝐛𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧\n\n📌 What happened: OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access..\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ يتم طرح ChatGPT Astra الآن لاشتراك بقيمة 20 دولارًا إضافيًا\n\n📌 وش اللي صار: تقوم OpenAI الآن بطرح ChatGPT Astra، وهو أقوى نموذج لها حتى الآن، لأولئك الذين لديهم اشتراك بقيمة 20 دولارًا إضافيًا، ولكن لا توجد معلومات حول متى سيتمكن المستخدمون المجانيون من الوصول.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "bc441f97e571bc08",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-08-25T16:23:45+00:00",
     "en_text": "🛡️ 𝐋𝐢𝐧𝐮𝐱 𝐅𝐨𝐮𝐧𝐝𝐚𝐭𝐢𝐨𝐧 𝐭𝐨 𝐆𝐨𝐯𝐞𝐫𝐧 𝐓𝐑𝐀𝐂𝐄, 𝐚𝐧 𝐎𝐩𝐞𝐧 𝐒𝐭𝐚𝐧𝐝𝐚𝐫𝐝 𝐟𝐨𝐫 𝐀𝐈 𝐑𝐮𝐧𝐭𝐢𝐦𝐞 𝐀𝐭𝐭𝐞𝐬𝐭𝐚𝐭𝐢𝐨𝐧\n\n📌 What happened: TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation.\n\n💡 Why it matters: The line between 'AI helping attackers' and 'AI helping defenders' is moving fast, and most policies haven't caught up yet.\n\n✅ Quick tip: Before adopting a new AI tool at work, check its data-handling policy the same way you'd check a vendor's security posture.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ مؤسسة Linux تحكم TRACE، وهو معيار مفتوح لشهادة وقت تشغيل الذكاء الاصطناعي\n\n📌 وش اللي صار: تم تطوير TRACE بواسطة AMD وIntel وMicrosoft وOPAQUE وTII وساهم في مؤسسة Linux.\n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "0856539010ab90d5",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-08-25T15:52:36+00:00",
-    "en_text": "🛡️ 𝐌𝐚𝐬𝐬𝐢𝐯𝐞 𝐃𝐃𝐨𝐒 𝐚𝐭𝐭𝐚𝐜𝐤 𝐝𝐢𝐬𝐫𝐮𝐩𝐭𝐬 𝐍𝐨𝐫𝐰𝐚𝐲’𝐬 𝐠𝐨𝐯𝐞𝐫𝐧𝐦𝐞𝐧𝐭 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐬𝐞𝐫𝐯𝐢𝐜𝐞𝐬\n\n📌 What happened: A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
