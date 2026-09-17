@@ -18,6 +18,15 @@
     "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: \n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "254f056eaae3060d",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-09-17T18:55:12+00:00",
+    "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐀𝐈 𝐝𝐞𝐭𝐚𝐢𝐥𝐬 𝐦𝐨𝐫𝐞 𝐜𝐚𝐬𝐞𝐬 𝐨𝐟 𝐀𝐈 𝐚𝐠𝐞𝐧𝐭𝐬 𝐭𝐚𝐤𝐢𝐧𝐠 𝐮𝐧𝐚𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐞𝐝 𝐚𝐜𝐭𝐢𝐨𝐧𝐬\n\n📌 What happened: OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ OpenAI details more cases of AI agents taking unauthorized actions\n\n📌 وش اللي صار: OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "ff28c02e7e1b51ea",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
@@ -25,6 +34,24 @@
     "published_at": "2026-09-17T17:11:34+00:00",
     "en_text": "🛡️ 𝐁𝐫𝐞𝐯𝐨 𝐬𝐮𝐩𝐩𝐥𝐲-𝐜𝐡𝐚𝐢𝐧 𝐚𝐭𝐭𝐚𝐜𝐤 𝐢𝐧𝐣𝐞𝐜𝐭𝐞𝐝 𝐂𝐥𝐢𝐜𝐤𝐅𝐢𝐱 𝐬𝐜𝐫𝐢𝐩𝐭𝐬 𝐨𝐧 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐬𝐢𝐭𝐞𝐬\n\n📌 What happened: Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware.\n\n💡 Why it matters: Modern malware doesn't announce itself — it blends into normal traffic until the moment it needs to strike.\n\n✅ Quick tip: Only install software from official sources — 'free' cracked versions are one of the top malware delivery methods.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Brevo supply-chain attack injected ClickFix scripts on customer sites\n\n📌 وش اللي صار: Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware.\n\n💡 ليش هذا مهم: البرمجيات الخبيثة الحديثة ما تعلن عن نفسها، تندمج مع النشاط العادي للجهاز لين تجي لحظة الضربة.\n\n✅ نصيحة سريعة: ثبّت البرامج من مصادرها الرسمية بس — النسخ 'المجانية' المقرصنة من أكثر طرق توزيع البرمجيات الخبيثة.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "6f8939c423c210c0",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-09-17T14:01:11+00:00",
+    "en_text": "🛡️ 𝐖𝐡𝐚𝐭 𝐑𝐞𝐜𝐞𝐧𝐭 𝐀𝐈-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐌𝐞𝐚𝐧 𝐟𝐨𝐫 𝐘𝐨𝐮𝐫 𝐈𝐝𝐞𝐧𝐭𝐢𝐭𝐲 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲\n\n📌 What happened: AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities.\n\n💡 Why it matters: AI tools are becoming part of the attack surface, not just the defense toolkit — every new capability is also a new thing to secure.\n\n✅ Quick tip: Treat AI tool access like any other privileged access — review what data it can see and what actions it can take.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ What Recent AI-Powered Attacks Mean for Your Identity Security\n\n📌 وش اللي صار: AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "58fd6600443011e7",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-09-17T13:09:09+00:00",
+    "en_text": "🛡️ 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝟏𝟏 𝟐𝟒𝐇𝟐 𝐇𝐨𝐦𝐞 𝐚𝐧𝐝 𝐏𝐫𝐨 𝐫𝐞𝐚𝐜𝐡 𝐞𝐧𝐝 𝐨𝐟 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 𝐢𝐧 𝐎𝐜𝐭𝐨𝐛𝐞𝐫\n\n📌 What happened: Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Windows 11 24H2 Home and Pro reach end of support in October\n\n📌 وش اللي صار: Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "4341f2269a01efb5",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-09-07T12:12:08+00:00",
     "en_text": "🛡️ 𝐍𝐨𝐫𝐭𝐡 𝐊𝐨𝐫𝐞𝐚𝐧 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐃𝐞𝐩𝐥𝐨𝐲 𝐍𝐞𝐰 𝐋𝐢𝐧𝐮𝐱 𝐄𝐬𝐩𝐢𝐨𝐧𝐚𝐠𝐞 𝐓𝐨𝐨𝐥𝐤𝐢𝐭\n\n📌 What happened: The stealthy toolkit embeds a backdoor in HAProxy and targets automotive and media organizations in South Korea for long-term surveillance.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/north-korean-hackers-deploy-new-linux-espionage-toolkit/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "8ba058ef0debfd92",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/openai-agents-hijack-another-victim-website/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-09-07T12:03:04+00:00",
-    "en_text": "🛡️ 𝐎𝐩𝐞𝐧𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬 𝐇𝐢𝐣𝐚𝐜𝐤 𝐀𝐧𝐨𝐭𝐡𝐞𝐫 𝐕𝐢𝐜𝐭𝐢𝐦 𝐖𝐞𝐛𝐬𝐢𝐭𝐞\n\n📌 What happened: OpenAI agents made 15,000–18,000 autonomous edits to a German wiki over three months, evading moderation and echoing tactics seen in the Hugging Face breach.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/openai-agents-hijack-another-victim-website/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/openai-agents-hijack-another-victim-website/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "be4e97f609ffc495",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-09-07T11:58:37+00:00",
-    "en_text": "🛡️ 𝐀𝐝𝐨𝐛𝐞 𝐂𝐨𝐦𝐦𝐞𝐫𝐜𝐞 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐭𝐨 𝐁𝐚𝐜𝐤𝐝𝐨𝐨𝐫 𝐎𝐧𝐥𝐢𝐧𝐞 𝐒𝐭𝐨𝐫𝐞𝐬\n\n📌 What happened: The StyleSmuggler zero-day allows attackers to execute code and deploy a stealthy backdoor on Adobe Commerce and Magento stores.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ تم استغلال Adobe Commerce Zero-Day في المتاجر الإلكترونية الخلفية\n\n📌 وش اللي صار: يتيح برنامج StyleSmuggler Zero-day للمهاجمين تنفيذ التعليمات البرمجية ونشر باب خلفي خفي في متاجر Adobe Commerce وMagento.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/adobe-commerce-zero-day-exploited-to-backdoor-online-stores/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "2fe084db4bb9243b",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-09-07T11:45:48+00:00",
-    "en_text": "🛡️ 𝐌𝐨𝐝𝐢𝐟𝐢𝐞𝐝 𝐒𝐜𝐫𝐞𝐞𝐧𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐂𝐥𝐢𝐞𝐧𝐭𝐬 𝐔𝐬𝐞𝐝 𝐢𝐧 𝐖𝐨𝐫𝐦-𝐋𝐢𝐤𝐞 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧\n\n📌 What happened: The attacks rely on backdoored ScreenConnect instances to transfer and execute payloads to newly connected clients.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ عملاء ScreenConnect المعدلون المستخدمون في حملة شبيهة بالديدان\n\n📌 وش اللي صار: تعتمد الهجمات على مثيلات ScreenConnect ذات الأبواب الخلفية لنقل الحمولات وتنفيذها إلى العملاء المتصلين حديثًا.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/modified-screenconnect-clients-used-in-worm-like-campaign/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
