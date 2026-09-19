@@ -27,6 +27,15 @@
     "ar_text": "🛡️ BragJack attacks hijack AI browser agents through malicious extensions\n\n📌 وش اللي صار: BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "ebb8e873f03c75cd",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-09-19T14:30:00+00:00",
+    "en_text": "🛡️ 𝐓𝐢𝐠𝐞𝐫𝐁𝐲𝐭𝐞 𝐂𝐲𝐛𝐞𝐫 𝐄𝐦𝐞𝐫𝐠𝐞𝐬 𝐅𝐫𝐨𝐦 𝐒𝐭𝐞𝐚𝐥𝐭𝐡 𝐖𝐢𝐭𝐡 $𝟑 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐢𝐧 𝐅𝐮𝐧𝐝𝐢𝐧𝐠\n\n📌 What happened: The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ TigerByte Cyber Emerges From Stealth With $3 Million in Funding\n\n📌 وش اللي صار: The company has secured over $7 million in contracts with US government agencies, including the US Space Force, the US Navy, and DARPA.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/tigerbyte-cyber-emerges-from-stealth-with-3-million-in-funding/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "f02d07cbc73e8647",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-09-09T11:57:36+00:00",
     "en_text": "🛡️ 𝐖𝐞𝐛𝐢𝐧𝐚𝐫: 𝐋𝐞𝐚𝐫𝐧 𝐇𝐨𝐰 𝐭𝐨 𝐀𝐧𝐬𝐰𝐞𝐫 “𝐀𝐫𝐞 𝐖𝐞 𝐄𝐱𝐩𝐨𝐬𝐞𝐝?” 𝐅𝐚𝐬𝐭𝐞𝐫 𝐀𝐟𝐭𝐞𝐫 𝐚 𝐍𝐞𝐰 𝐂𝐕𝐄\n\n📌 What happened: A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ ندوة عبر الإنترنت: تعلم كيفية الإجابة على السؤال \"هل نحن مكشوفون؟\" أسرع بعد مكافحة التطرف العنيف الجديد\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "c33829733f1a8e1b",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0fUTc6rz4ZeeaMmjDLOfb2qNhnJf_TdNHK3F3qbNCQLLJbaF-nbSw5YPdeSAwg1HjoGwfQJZaXBpwvEbasFDhQb5ZkUm158shateq7uubMyrlejW4SDZAAzNQGUYkYdsxHupipxzRA7dQwTwTt9ArVJgU-wA5bGxIXduJj3CdyBF69Ixp6_qAU1LGzfI/s1600/deepseek.jpg",
-    "published_at": "2026-09-09T11:17:07+00:00",
-    "en_text": "🛡️ 𝐃𝐞𝐞𝐩𝐒𝐞𝐞𝐤 𝐇𝐚𝐫𝐧𝐞𝐬𝐬 𝐅𝐥𝐚𝐰 𝐋𝐞𝐭 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬 𝐃𝐢𝐬𝐚𝐛𝐥𝐞 𝐓𝐡𝐞𝐢𝐫 𝐎𝐰𝐧 𝐅𝐢𝐥𝐞 𝐒𝐚𝐧𝐝𝐛𝐨𝐱 𝐖𝐢𝐭𝐡𝐨𝐮𝐭 𝐀𝐩𝐩𝐫𝐨𝐯𝐚𝐥\n\n📌 What happened: A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ خلل في DeepSeek Harness يسمح لعملاء الذكاء الاصطناعي بتعطيل وضع الحماية الخاص بالملفات الخاصة بهم دون موافقة\n\n📌 وش اللي صار: Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
