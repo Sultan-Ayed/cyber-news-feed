@@ -9,6 +9,15 @@
     "ar_text": "🛡️ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n📌 وش اللي صار: \n\n💡 ليش هذا مهم: الخط الفاصل بين 'الذكاء الاصطناعي يساعد المهاجمين' و'يساعد المدافعين' يتحرك بسرعة، وأغلب السياسات لسا ما لحقت عليه.\n\n✅ نصيحة سريعة: قبل ما تعتمد أداة ذكاء اصطناعي جديدة بالعمل، راجع سياسة التعامل مع البيانات فيها زي ما تراجع أي مزوّد خدمة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "ed9fe79f62b579cc",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-10-24T14:17:32+00:00",
+    "en_text": "🛡️ 𝐁𝐥𝐚𝐜𝐤𝐗 𝐔𝐄𝐅𝐈 𝐛𝐨𝐨𝐭𝐤𝐢𝐭 𝐞𝐱𝐩𝐥𝐨𝐢𝐭𝐬 𝐁𝐚𝐭𝐨𝐧 𝐃𝐫𝐨𝐩 𝐟𝐥𝐚𝐰 𝐭𝐨 𝐛𝐲𝐩𝐚𝐬𝐬 𝐒𝐞𝐜𝐮𝐫𝐞 𝐁𝐨𝐨𝐭\n\n📌 What happened: A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot\n\n📌 وش اللي صار: A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "c2f353f11fcac607",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
@@ -234,6 +243,15 @@
     "ar_text": "🛡️ China APT Uses AI Pentest Tool Artex in ConnectWise Attacks\n\n📌 وش اللي صار: The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments.\n\n💡 ليش هذا مهم: أدوات الذكاء الاصطناعي صارت جزء من سطح الهجوم، مو بس أداة دفاع — كل قدرة جديدة تعني شي جديد لازم تأمّنه.\n\n✅ نصيحة سريعة: تعامل مع صلاحيات أدوات الذكاء الاصطناعي زي أي صلاحية حساسة ثانية — راجع وش تقدر تشوفه ووش تقدر تنفذه.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "5912abcc55abe8dc",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-10-23T09:58:34+00:00",
+    "en_text": "🛡️ 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐄𝐱𝐩𝐥𝐨𝐢𝐭 𝐓𝐡𝐢𝐫𝐝 𝐀𝐫𝐢𝐬𝐭𝐚 𝐕𝐂𝐎 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐢𝐧 𝐅𝐨𝐮𝐫 𝐌𝐨𝐧𝐭𝐡𝐬\n\n📌 What happened: The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Attackers Exploit Third Arista VCO Zero-Day in Four Months\n\n📌 وش اللي صار: The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "e21e419ebac57752",
     "source": "The Hacker News",
     "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
@@ -259,6 +277,15 @@
     "published_at": "2026-10-23T08:35:45+00:00",
     "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐱𝟒𝟎𝟐 𝐒𝐃𝐊 𝐅𝐥𝐚𝐰 𝐂𝐨𝐮𝐥𝐝 𝐋𝐞𝐭 𝐌𝐚𝐥𝐢𝐜𝐢𝐨𝐮𝐬 𝐀𝐏𝐈𝐬 𝐃𝐫𝐚𝐢𝐧 𝐀𝐈 𝐀𝐠𝐞𝐧𝐭𝐬’ 𝐓𝐨𝐤𝐞𝐧 𝐁𝐚𝐥𝐚𝐧𝐜𝐞𝐬\n\n📌 What happened: AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances\n\n📌 وش اللي صار: AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "a84146c79913cb14",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-10-23T08:34:14+00:00",
+    "en_text": "🛡️ 𝟏𝟏 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐈𝐦𝐩𝐚𝐜𝐭𝐞𝐝 𝐛𝐲 𝐂𝐚𝐩𝐜𝐨𝐦 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts.\n\n💡 Why it matters: A data breach rarely stays contained to one company — leaked credentials get reused everywhere users reuse passwords.\n\n✅ Quick tip: Use a unique password for every account — a password manager makes this painless, not optional anymore.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ 11 Million Impacted by Capcom Data Breach\n\n📌 وش اللي صار: The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts.\n\n💡 ليش هذا مهم: تسريب البيانات نادرًا ما يبقى محصور بشركة وحدة — بيانات الدخول المسرّبة تنعاد استخدامها بأي مكان استخدم فيه الشخص نفس كلمة المرور.\n\n✅ نصيحة سريعة: استخدم كلمة مرور مختلفة لكل حساب — برامج إدارة كلمات المرور تخلي هذا سهل، صار أمر ضروري مو رفاهية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "99c9511054cecf20",
@@ -1771,32 +1798,5 @@
     "published_at": "2026-10-15T07:00:00+00:00",
     "en_text": "🛡️ 𝐄𝐔 𝐆𝐫𝐨𝐜𝐞𝐫𝐬 𝐏𝐚𝐲 𝐚 𝐒𝐭𝐞𝐞𝐩 𝐏𝐫𝐢𝐜𝐞 𝐟𝐨𝐫 𝐔𝐧𝐩𝐚𝐭𝐜𝐡𝐞𝐝 𝐅𝐫𝐢𝐝𝐠𝐞 𝐅𝐢𝐫𝐦𝐰𝐚𝐫𝐞\n\n📌 What happened: Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ EU Grocers Pay a Steep Price for Unpatched Fridge Firmware\n\n📌 وش اللي صار: Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "bc4412ae7c09fb26",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-10-15T06:59:54+00:00",
-    "en_text": "🛡️ 𝐏𝐚𝐥𝐨 𝐀𝐥𝐭𝐨 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐏𝐀𝐍-𝐎𝐒 𝐙𝐞𝐫𝐨-𝐃𝐚𝐲 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐟𝐨𝐫 𝐑𝐞𝐦𝐨𝐭𝐞 𝐂𝐨𝐝𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐨𝐧\n\n📌 What happened: The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution\n\n📌 وش اللي صار: The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "c52508bc08a7b305",
-    "source": "SecurityWeek",
-    "link": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-10-15T06:34:15+00:00",
-    "en_text": "🛡️ 𝐂𝐢𝐬𝐜𝐨 𝐖𝐚𝐫𝐧𝐬 𝐨𝐟 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐞𝐝 𝐒𝐞𝐜𝐮𝐫𝐞 𝐄𝐦𝐚𝐢𝐥 𝐆𝐚𝐭𝐞𝐰𝐚𝐲 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐲\n\n📌 What happened: Unauthenticated, remote attackers could write arbitrary files to the operating system and execute commands with root privileges.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Cisco Warns of Exploited Secure Email Gateway Vulnerability\n\n📌 وش اللي صار: Unauthenticated, remote attackers could write arbitrary files to the operating system and execute commands with root privileges.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "cc144af6dd9ebca8",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg",
-    "published_at": "2026-10-15T06:17:58+00:00",
-    "en_text": "🛡️ 𝐏𝐚𝐥𝐨 𝐀𝐥𝐭𝐨 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬 𝐏𝐚𝐭𝐜𝐡𝐞𝐬 𝐏𝐀𝐍-𝐎𝐒 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐑𝐂𝐄 𝐅𝐥𝐚𝐰 𝐀𝐦𝐢𝐝 𝐀𝐜𝐭𝐢𝐯𝐞 𝐄𝐱𝐩𝐥𝐨𝐢𝐭𝐚𝐭𝐢𝐨𝐧\n\n📌 What happened: Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation\n\n📌 وش اللي صار: Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
