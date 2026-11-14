@@ -1,5 +1,14 @@
 [
   {
+    "id": "068aacdc5a8cf491",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-11-13T21:33:27+00:00",
+    "en_text": "🛡️ 𝐅𝐀𝐀 𝐆𝐫𝐨𝐮𝐧𝐝 𝐒𝐭𝐨𝐩 𝐈𝐬𝐬𝐮𝐞𝐝 𝐃𝐮𝐞 𝐭𝐨 ‘𝐄𝐱𝐭𝐫𝐚𝐨𝐫𝐝𝐢𝐧𝐚𝐫𝐲 𝐂𝐢𝐫𝐜𝐮𝐦𝐬𝐭𝐚𝐧𝐜𝐞𝐬’\n\n📌 What happened: Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’\n\n📌 وش اللي صار: Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "c281bea158b9baeb",
     "source": "Dark Reading",
     "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
@@ -54,6 +63,15 @@
     "ar_text": "🛡️ New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs\n\n📌 وش اللي صار: Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
+    "id": "0963885b5efedda3",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-11-13T15:20:00+00:00",
+    "en_text": "🛡️ 𝐈𝐧 𝐎𝐭𝐡𝐞𝐫 𝐍𝐞𝐰𝐬: 𝐍𝐞𝐰 𝐂𝐈𝐒𝐀 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫 𝐍𝐨𝐦𝐢𝐧𝐞𝐞, 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 𝐂𝐚𝐫 𝐇𝐚𝐜𝐤𝐢𝐧𝐠, 𝐁𝐚𝐤𝐞𝐫 𝐓𝐢𝐥𝐥𝐲 𝐃𝐚𝐭𝐚 𝐁𝐫𝐞𝐚𝐜𝐡\n\n📌 What happened: Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach\n\n📌 وش اللي صار: Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "b32ccd39bcb9fea1",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
@@ -79,6 +97,33 @@
     "published_at": "2026-11-13T13:54:20+00:00",
     "en_text": "🛡️ 𝐓𝐫𝐞𝐳𝐨𝐫 𝐂𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐇𝐢𝐝𝐝𝐞𝐧 𝐈𝐦𝐩𝐥𝐚𝐧𝐭𝐬 𝐢𝐧 𝐂𝐫𝐲𝐩𝐭𝐨𝐁𝐢𝐥𝐢𝐬-𝐒𝐨𝐥𝐝 𝐖𝐚𝐥𝐥𝐞𝐭𝐬 𝐓𝐡𝐚𝐭 𝐂𝐚𝐧 𝐒𝐭𝐞𝐚𝐥 𝐑𝐞𝐜𝐨𝐯𝐞𝐫𝐲 𝐏𝐡𝐫𝐚𝐬𝐞𝐬\n\n📌 What happened: Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases\n\n📌 وش اللي صار: Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "d96956c28be62934",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-11-13T13:47:42+00:00",
+    "en_text": "🛡️ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐒𝐭𝐫𝐮𝐠𝐠𝐥𝐞𝐬 𝐭𝐨 𝐑𝐞𝐬𝐭𝐨𝐫𝐞 𝐄𝐦𝐚𝐢𝐥 𝐚𝐧𝐝 𝐎𝐭𝐡𝐞𝐫 𝐒𝐞𝐫𝐯𝐢𝐜𝐞𝐬 𝐢𝐧 𝐚 𝐆𝐥𝐨𝐛𝐚𝐥 𝐎𝐮𝐭𝐚𝐠𝐞\n\n📌 What happened: Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and repair affected infrastructure.”\n\n💡 Why it matters: Every headline like this is a reminder that security isn't a one-time project — it's a habit that has to keep up with attackers.\n\n✅ Quick tip: Take five minutes today to double-check one basic control (MFA, backups, or updates) — small habits prevent most incidents.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Microsoft Struggles to Restore Email and Other Services in a Global Outage\n\n📌 وش اللي صار: Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and repair affected infrastructure.”\n\n💡 ليش هذا مهم: كل خبر زي هذا تذكير إن الأمن السيبراني مو مشروع تسويه مرة وخلاص، هو عادة لازم تواكب المهاجمين باستمرار.\n\n✅ نصيحة سريعة: خذ خمس دقايق اليوم وراجع ضابط أساسي وحد (مصادقة ثنائية، نسخ احتياطي، أو تحديثات) — العادات الصغيرة توقف أغلب الحوادث.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "43f14cb30a435c05",
+    "source": "Dark Reading",
+    "link": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
+    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c2322c93d29d2a7/6aed04e63037c1017f2823d8/binance-logo-on-black-bkgrd-Zulfugar_Graphics-shutterstockjpg.jpg?width=720&quality=80&disable=upscale",
+    "published_at": "2026-11-13T13:00:00+00:00",
+    "en_text": "🛡️ 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐢𝐧 𝐁𝐢𝐧𝐚𝐧𝐜𝐞 𝐁𝐫𝐞𝐚𝐜𝐡 𝐓𝐚𝐫𝐠𝐞𝐭𝐞𝐝 𝐊𝐧𝐨𝐰𝐧 𝐖𝐞𝐚𝐤𝐧𝐞𝐬𝐬, 𝐌𝐢𝐬𝐬𝐢𝐧𝐠 𝐂𝐨𝐧𝐭𝐫𝐨𝐥𝐬\n\n📌 What happened: Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.\n\n💡 Why it matters: The real damage of a breach shows up months later, in accounts you forgot even existed.\n\n✅ Quick tip: Check if your email appears in known breaches (e.g. haveibeenpwned.com) and rotate any reused passwords immediately.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Attackers in Binance Breach Targeted Known Weakness, Missing Controls\n\n📌 وش اللي صار: Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.\n\n💡 ليش هذا مهم: الضرر الحقيقي من التسريب يظهر بعد شهور، بحسابات نسيت أصلاً إنها موجودة.\n\n✅ نصيحة سريعة: تأكد إذا بريدك ظهر بتسريبات معروفة (مثل haveibeenpwned.com) وغيّر أي كلمة مرور مكررة فورًا.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
+    "id": "85439717f3477667",
+    "source": "SecurityWeek",
+    "link": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-11-13T12:41:01+00:00",
+    "en_text": "🛡️ 𝐀𝐩𝐢𝐟𝐲 𝐂𝐨𝐧𝐟𝐢𝐫𝐦𝐬 𝐂𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐃𝐚𝐭𝐚 𝐀𝐜𝐜𝐞𝐬𝐬𝐞𝐝 𝐢𝐧 𝐂𝐲𝐛𝐞𝐫𝐚𝐭𝐭𝐚𝐜𝐤\n\n📌 What happened: The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: SecurityWeek — https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Apify Confirms Customer Data Accessed in Cyberattack\n\n📌 وش اللي صار: The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: SecurityWeek — https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   },
   {
     "id": "53b1d1645f89232b",
@@ -1753,50 +1798,5 @@
     "published_at": "2026-10-31T08:27:43+00:00",
     "en_text": "🛡️ 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫𝐬 𝐂𝐡𝐚𝐢𝐧 𝐓𝐡𝐫𝐞𝐞 𝐈𝐯𝐚𝐧𝐭𝐢 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐒𝐞𝐜𝐮𝐫𝐞 𝐅𝐥𝐚𝐰𝐬 𝐭𝐨 𝐆𝐚𝐢𝐧 𝐔𝐧𝐚𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐞𝐝 𝐑𝐨𝐨𝐭 𝐀𝐜𝐜𝐞𝐬𝐬\n\n📌 What happened: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access\n\n📌 وش اللي صار: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "09f142bd2640f272",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEplEzMjNIg5IBNIX4uz_WyVhtJqqbKICvvpW5LbwPEsQVd4ypSQC1ISnXoR0pMLlQEF4erNUIf-5-ELvBXIE8VH2Iv7dCPCuaZAFVeS9VIITs_5e_77DwtIvo3ExUcfJC_aT4x3FDD3AmTKeQFKnOrufXorlbiHOJNO-pUhwzBNwL98r-2JSW2CWiTBs/s1600/chatgpt.jpg",
-    "published_at": "2026-10-31T05:33:41+00:00",
-    "en_text": "🛡️ 𝐀 𝐒𝐡𝐚𝐫𝐞𝐝 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐋𝐢𝐧𝐤 𝐂𝐨𝐮𝐥𝐝 𝐑𝐮𝐧 𝐀𝐭𝐭𝐚𝐜𝐤𝐞𝐫 𝐂𝐨𝐝𝐞 𝐢𝐧 𝐘𝐨𝐮𝐫 𝐒𝐞𝐬𝐬𝐢𝐨𝐧 𝐚𝐧𝐝 𝐑𝐞𝐚𝐝 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 𝐂𝐡𝐚𝐭𝐬\n\n📌 What happened: A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed.\n\n💡 Why it matters: A vulnerability report isn't the scary part — the scary part is how fast attackers weaponize it after it becomes public.\n\n✅ Quick tip: Prioritize patching by exposure, not just severity score — an internet-facing system with a medium CVE can matter more than an internal high one.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats\n\n📌 وش اللي صار: A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed.\n\n💡 ليش هذا مهم: الإعلان عن ثغرة مو الجزء المخيف، المخيف هو سرعة استغلالها من المهاجمين بعد ما تصير معروفة للعموم.\n\n✅ نصيحة سريعة: رتّب أولويات التحديث حسب مدى التعرض للإنترنت، مو بس درجة الخطورة — نظام مكشوف بثغرة متوسطة قد يكون أهم من نظام داخلي بثغرة عالية.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "293569318dde9da7",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9-PGmRcZy9OvjKNOWHrGVMpF2DhnvIrHU6mOwyroU7CeoEKMkrjCt8HxCKBzAOia6ZpDEvTuQcF2Xg_50vE_W8DdjmLJjxMXPUUm5Ryfym8GBhm74Z6jwZCeXSKgxuK6A57rVsM-Z1G8nfEF3Mn8QgoD77Nbqxakkj_ZxbBNDtp0ljvTKrXydLYm1BFZR/s1600/cf.jpg",
-    "published_at": "2026-10-31T04:56:12+00:00",
-    "en_text": "🛡️ 𝐂𝐥𝐨𝐮𝐝𝐟𝐥𝐚𝐫𝐞 𝐑𝐞𝐩𝐨𝐫𝐭𝐬 𝟏𝟖.𝟐 𝐌𝐢𝐥𝐥𝐢𝐨𝐧 𝐍𝐞𝐭𝐰𝐨𝐫𝐤-𝐋𝐚𝐲𝐞𝐫 𝐃𝐃𝐨𝐒 𝐀𝐭𝐭𝐚𝐜𝐤𝐬 𝐢𝐧 𝐐𝟑, 𝐔𝐩 𝟑𝟖%\n\n📌 What happened: Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%\n\n📌 وش اللي صار: Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "de02ba8ec3835cf3",
-    "source": "BleepingComputer",
-    "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
-    "published_at": "2026-10-30T21:09:46+00:00",
-    "en_text": "🛡️ 𝐂𝐫𝐢𝐭𝐢𝐜𝐚𝐥 𝐋𝐢𝐧𝐮𝐱 𝐤𝐞𝐫𝐧𝐞𝐥 𝐟𝐥𝐚𝐰 𝐚𝐥𝐥𝐨𝐰𝐬 𝐫𝐞𝐦𝐨𝐭𝐞 𝐫𝐨𝐨𝐭 𝐚𝐭𝐭𝐚𝐜𝐤𝐬 𝐨𝐧 𝐌𝐏𝐓𝐂𝐏 𝐬𝐞𝐫𝐯𝐞𝐫𝐬\n\n📌 What happened: Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners.\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Critical Linux kernel flaw allows remote root attacks on MPTCP servers\n\n📌 وش اللي صار: Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners.\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "945365cb3f18e63b",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5af13434263526c5/6ae4e524fd7d52bad0112be2/Package_trap-Alina_Naumova-Getty.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-10-30T20:05:58+00:00",
-    "en_text": "🛡️ 𝐃𝐞𝐯𝐬 𝐇𝐢𝐭 𝐛𝐲 𝐓𝐫𝐨𝐣𝐚𝐧𝐢𝐳𝐞𝐝 𝐂𝐥𝐚𝐮𝐝𝐞 𝐂𝐨𝐝𝐞 𝐄𝐱𝐭𝐞𝐧𝐬𝐢𝐨𝐧 𝐟𝐨𝐫 𝐂𝐮𝐫𝐬𝐨𝐫\n\n📌 What happened: Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Devs Hit by Trojanized Claude Code Extension for Cursor\n\n📌 وش اللي صار: Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "bc0379ec40f4d041",
-    "source": "Dark Reading",
-    "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-    "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted8eeb1e23f7df84/6ae3bbdee7e856ef65896aec/GettyImages-1294781573.jpg?width=720&quality=80&disable=upscale",
-    "published_at": "2026-10-30T19:46:08+00:00",
-    "en_text": "🛡️ 𝐁𝐞𝐡𝐢𝐧𝐝 𝐭𝐡𝐞 𝐒𝐜𝐞𝐧𝐞𝐬 𝐨𝐟 𝐇𝐨𝐰 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐁𝐥𝐚𝐜𝐤𝐨𝐮𝐭 𝐖𝐞𝐧𝐭 𝐃𝐨𝐰𝐧\n\n📌 What happened: A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.\n\n💡 Why it matters: The details change every week, but the pattern doesn't: attackers look for the easiest path, not the most dramatic one.\n\n✅ Quick tip: Share this with one colleague — awareness spreads slower than threats do, so it needs a push.\n\n🔗 Source: Dark Reading — https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Behind the Scenes of How Operation Blackout Went Down\n\n📌 وش اللي صار: A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.\n\n💡 ليش هذا مهم: التفاصيل تتغيّر كل أسبوع، بس النمط ثابت: المهاجم يدور على أسهل طريق، مو أكثر طريق إثارة.\n\n✅ نصيحة سريعة: شارك هذا الخبر مع زميل — الوعي ينتشر أبطأ من التهديدات، فيحتاج دفعة منك.\n\n🔗 المصدر: Dark Reading — https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
