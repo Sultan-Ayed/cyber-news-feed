@@ -1,5 +1,14 @@
 [
   {
+    "id": "f7511684402b8adf",
+    "source": "BleepingComputer",
+    "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=1200&q=80",
+    "published_at": "2026-11-22T18:45:37+00:00",
+    "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐞𝐱𝐩𝐥𝐨𝐢𝐭 𝐆𝐋.𝐢𝐍𝐞𝐭 𝐜𝐥𝐨𝐮𝐝 𝐟𝐥𝐚𝐰 𝐭𝐨 𝐢𝐧𝐟𝐞𝐜𝐭 𝐫𝐨𝐮𝐭𝐞𝐫𝐬, 𝐊𝐕𝐌 𝐝𝐞𝐯𝐢𝐜𝐞𝐬\n\n📌 What happened: GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to…\n\n💡 Why it matters: Patching isn't a one-time task; it's a race against whoever reads the same advisory you just did.\n\n✅ Quick tip: If you can't patch immediately, isolate the affected system from the network until you can.\n\n🔗 Source: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
+    "ar_text": "🛡️ Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices\n\n📌 وش اللي صار: GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to…\n\n💡 ليش هذا مهم: التحديث الأمني مو مهمة تسويها مرة وخلاص، هو سباق بينك وبين أي شخص ثاني قرأ نفس التنبيه.\n\n✅ نصيحة سريعة: إذا ما قدرت تحدّث فورًا، اعزل النظام المتأثر عن الشبكة لين يجهز التحديث.\n\n🔗 المصدر: BleepingComputer — https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
+  },
+  {
     "id": "c75a4d0a4b580d8c",
     "source": "BleepingComputer",
     "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
@@ -1789,14 +1798,5 @@
     "published_at": "2026-11-09T17:36:28+00:00",
     "en_text": "🛡️ 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐂𝐨𝐦𝐩𝐫𝐨𝐦𝐢𝐬𝐞 𝐄𝐭𝐡𝐞𝐫𝐬𝐩𝐡𝐞𝐫𝐞'𝐬 𝐛𝐞𝐞-𝐣𝐬 𝐚𝐧𝐝 𝐒𝐰𝐚𝐫𝐦 𝐃𝐞𝐬𝐤𝐭𝐨𝐩 𝐭𝐨 𝐃𝐞𝐥𝐢𝐯𝐞𝐫 𝐖𝐚𝐥𝐥𝐞𝐭-𝐒𝐭𝐞𝐚𝐥𝐢𝐧𝐠 𝐌𝐚𝐥𝐰𝐚𝐫𝐞\n\n📌 What happened: Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
     "ar_text": "🛡️ Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware\n\n📌 وش اللي صار: Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
-  },
-  {
-    "id": "99ca2ce9ce5fc1e7",
-    "source": "The Hacker News",
-    "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQwQpjbb2oT57o807l7YmQ31V2RbyxqqO4hENkKlfikKKH-LeqSUiYz5AaPCCFWml-l_RaN1JMiwbJa9lJe7z7Ijzdk66icRP70eETLZ7lLomkSa3JjezoxbRNeDEkTv0K-26dSzHKxAjc7xyLA9RbIiERPLqyRu5QzfyrPeyIA4dfLzMil5wDkYN9n4sG/s1600/command.jpg",
-    "published_at": "2026-11-09T14:31:29+00:00",
-    "en_text": "🛡️ 𝐁𝐢𝐭𝐭𝐞𝐫 𝐇𝐚𝐜𝐤𝐞𝐫𝐬 𝐃𝐞𝐩𝐥𝐨𝐲 𝐍𝐞𝐰 𝐏𝐚𝐩𝐑𝐀𝐓 𝐁𝐚𝐜𝐤𝐝𝐨𝐨𝐫 𝐢𝐧 𝐂𝐲𝐛𝐞𝐫𝐞𝐬𝐩𝐢𝐨𝐧𝐚𝐠𝐞 𝐂𝐚𝐦𝐩𝐚𝐢𝐠𝐧 𝐓𝐚𝐫𝐠𝐞𝐭𝐢𝐧𝐠 𝐒𝐨𝐮𝐭𝐡 𝐀𝐬𝐢𝐚\n\n📌 What happened: The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT.\n\n💡 Why it matters: Most infections start with something boring: a fake update, a cracked tool, or an attachment that looked routine.\n\n✅ Quick tip: Keep endpoint protection updated and don't ignore its alerts, even the ones that look minor.\n\n🔗 Source: The Hacker News — https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html\n\n#CyberSecurity #InfoSec #ThreatIntel #DataProtection #TechNews\n\n— Sultan Ayed, Cybersecurity Trainer",
-    "ar_text": "🛡️ Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia\n\n📌 وش اللي صار: The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT.\n\n💡 ليش هذا مهم: أغلب الإصابات تبدأ بشي عادي جدًا: تحديث مزيف، برنامج مقرصن، أو مرفق يبدو روتيني.\n\n✅ نصيحة سريعة: خلّي برنامج الحماية محدث دايم، وما تتجاهل تنبيهاته حتى لو شكلها بسيطة.\n\n🔗 المصدر: The Hacker News — https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html\n\n#‏الأمن_السيبراني #‏حماية_البيانات #‏تهديدات_سيبرانية #‏تقنية\n\n— سلطان عايد، مدرّب أمن سيبراني"
   }
 ]
